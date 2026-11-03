@@ -1,0 +1,491 @@
+{
+  "ok": true,
+  "pdf": "/home/hatch/workspace/your_files/suren-seeding-plan/suren-seeding-plan.pdf",
+  "pages": 0,
+  "pngs": [],
+  "fonts": {
+    "missing": [],
+    "unused": [],
+    "used": [
+      "Noto Sans CJK SC",
+      "Noto Serif CJK SC"
+    ],
+    "expected": [
+      "Noto Sans CJK SC:400",
+      "Noto Sans CJK SC:700",
+      "Noto Serif CJK SC:700"
+    ]
+  },
+  "overflow": [],
+  "text_floor": [
+    {
+      "index": 0,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 18,
+          "max_node_chars": 14,
+          "sample": "素人种草运营方案 · 落地实操版"
+        },
+        {
+          "pt": 9.5,
+          "chars": 20,
+          "max_node_chars": 20,
+          "sample": "FB 海外医美拉皮线 · 落地实操版（决策稿）"
+        },
+        {
+          "pt": 9.6,
+          "chars": 150,
+          "max_node_chars": 75,
+          "sample": "负责人"
+        },
+        {
+          "pt": 10.5,
+          "chars": 270,
+          "max_node_chars": 72,
+          "sample": "唯一结果指标：合格客资。"
+        },
+        {
+          "pt": 11.5,
+          "chars": 104,
+          "max_node_chars": 86,
+          "sample": "这一版不讲框架，只讲怎么干：每一步写清动作、负责人和完成标准，配一张照着走的 1"
+        },
+        {
+          "pt": 26,
+          "chars": 13,
+          "max_node_chars": 8,
+          "sample": "素人种草运营方案"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 8,
+          "max_node_chars": 4,
+          "sample": "资源盘点"
+        },
+        {
+          "pt": 9,
+          "chars": 67,
+          "max_node_chars": 67,
+          "sample": "判断原则：已就绪的是工具和通道，缺的是人和授权。所以试点快慢不取决于剪辑，取决于"
+        },
+        {
+          "pt": 9.6,
+          "chars": 458,
+          "max_node_chars": 51,
+          "sample": "资源"
+        },
+        {
+          "pt": 11.5,
+          "chars": 19,
+          "max_node_chars": 10,
+          "sample": "已就绪，不用再准备"
+        },
+        {
+          "pt": 15,
+          "chars": 20,
+          "max_node_chars": 20,
+          "sample": "资源盘点：能直接开跑的部分，和还缺的三样"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 9,
+          "max_node_chars": 5,
+          "sample": "框架保留页"
+        },
+        {
+          "pt": 9,
+          "chars": 30,
+          "max_node_chars": 30,
+          "sample": "这一页是全案唯一的框架页。从下一页起，每一条都是可执行动作。"
+        },
+        {
+          "pt": 9.6,
+          "chars": 267,
+          "max_node_chars": 37,
+          "sample": "维度"
+        },
+        {
+          "pt": 10.5,
+          "chars": 200,
+          "max_node_chars": 56,
+          "sample": "身份红线："
+        },
+        {
+          "pt": 11.5,
+          "chars": 14,
+          "max_node_chars": 14,
+          "sample": "五系列落到双轨上，顺序不能反"
+        },
+        {
+          "pt": 15,
+          "chars": 18,
+          "max_node_chars": 18,
+          "sample": "框架只保留这一页：比例不动，归属重分"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 10,
+          "max_node_chars": 6,
+          "sample": "案例 1 短连载"
+        },
+        {
+          "pt": 9.6,
+          "chars": 293,
+          "max_node_chars": 48,
+          "sample": "集"
+        },
+        {
+          "pt": 10.5,
+          "chars": 244,
+          "max_node_chars": 74,
+          "sample": "案例 1 已确认的真实节点只有恢复第 7 天和第 30 天。连载按真实顺序定 4"
+        },
+        {
+          "pt": 11.5,
+          "chars": 15,
+          "max_node_chars": 15,
+          "sample": "试点实际发布量，按最保守口径算"
+        },
+        {
+          "pt": 15,
+          "chars": 21,
+          "max_node_chars": 21,
+          "sample": "案例 1 短连载：定为 4 集，先能发的是中间两集"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 15,
+          "max_node_chars": 11,
+          "sample": "14 天排期 · 第 1-7 天"
+        },
+        {
+          "pt": 9,
+          "chars": 58,
+          "max_node_chars": 58,
+          "sample": "前 7 天的硬任务只有两个：授权落地、连载两集发出去。其他动作都可以让路，这两件"
+        },
+        {
+          "pt": 9.6,
+          "chars": 478,
+          "max_node_chars": 39,
+          "sample": "天"
+        },
+        {
+          "pt": 15,
+          "chars": 26,
+          "max_node_chars": 26,
+          "sample": "14 天试点排期（上）：第 1-7 天，先把人和前两集落地"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 16,
+          "max_node_chars": 12,
+          "sample": "14 天排期 · 第 8-14 天"
+        },
+        {
+          "pt": 9,
+          "chars": 50,
+          "max_node_chars": 50,
+          "sample": "排期弹性只有一处：授权或素材晚到，整表顺延同等天数，但总天数仍是 14 天，不许"
+        },
+        {
+          "pt": 9.6,
+          "chars": 455,
+          "max_node_chars": 38,
+          "sample": "天"
+        },
+        {
+          "pt": 15,
+          "chars": 24,
+          "max_node_chars": 24,
+          "sample": "14 天试点排期（下）：第 8-14 天，测收割与转化"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 10,
+          "max_node_chars": 6,
+          "sample": "漏斗测算模型"
+        },
+        {
+          "pt": 9,
+          "chars": 70,
+          "max_node_chars": 70,
+          "sample": "填表纪律：数字只填平台后台或服务器端核验到的，读不到的写「未读到」，不估、不凑。"
+        },
+        {
+          "pt": 9.6,
+          "chars": 300,
+          "max_node_chars": 30,
+          "sample": "阶段"
+        },
+        {
+          "pt": 10,
+          "chars": 84,
+          "max_node_chars": 47,
+          "sample": "总转化率 = 合格客资数 ÷ 总曝光数 × 100% = 互动率 × 私信率 ×"
+        },
+        {
+          "pt": 10.5,
+          "chars": 88,
+          "max_node_chars": 88,
+          "sample": "结果不看单条帖子的播放，看一条完整链路：曝光有多少人停下来互动，互动里有多少人开"
+        },
+        {
+          "pt": 11.5,
+          "chars": 22,
+          "max_node_chars": 22,
+          "sample": "试点期实测表（每天发完当天填，第 13 天汇总）"
+        },
+        {
+          "pt": 15,
+          "chars": 19,
+          "max_node_chars": 19,
+          "sample": "百分比测算模型：四段漏斗，每段一个公式"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 13,
+          "max_node_chars": 9,
+          "sample": "优化逻辑与倾斜规则"
+        },
+        {
+          "pt": 9.6,
+          "chars": 51,
+          "max_node_chars": 7,
+          "sample": "内容类型"
+        },
+        {
+          "pt": 10,
+          "chars": 69,
+          "max_node_chars": 42,
+          "sample": "类型客资效率 = 该类型带来的合格客资数 ÷ 该类型发布篇数。"
+        },
+        {
+          "pt": 10.5,
+          "chars": 454,
+          "max_node_chars": 124,
+          "sample": "曝光最大不等于结果最好。一条 10 万播放、0 客资的帖子，价值低于一条 300"
+        },
+        {
+          "pt": 11.5,
+          "chars": 24,
+          "max_node_chars": 15,
+          "sample": "按类型填的效率表（第 13 天填）"
+        },
+        {
+          "pt": 15,
+          "chars": 24,
+          "max_node_chars": 24,
+          "sample": "怎么拿到最好的百分比：不追单段最大，追每篇客资数"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 11,
+          "max_node_chars": 7,
+          "sample": "14 天粗算预算"
+        },
+        {
+          "pt": 9,
+          "chars": 150,
+          "max_node_chars": 87,
+          "sample": "本节全部是假设测算，不是承诺。基数按排期算，比率除注明实测锚点外都是假设，试点第"
+        },
+        {
+          "pt": 9.6,
+          "chars": 215,
+          "max_node_chars": 35,
+          "sample": "账号"
+        },
+        {
+          "pt": 10.5,
+          "chars": 297,
+          "max_node_chars": 155,
+          "sample": "互动率实测锚点约 0.2%："
+        },
+        {
+          "pt": 11.5,
+          "chars": 36,
+          "max_node_chars": 18,
+          "sample": "基数：约 21 条内容，约 15000 播放"
+        },
+        {
+          "pt": 15,
+          "chars": 22,
+          "max_node_chars": 22,
+          "sample": "14 天试点粗算预算：三档都算完，结论是先验证"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 12,
+          "max_node_chars": 7,
+          "sample": "核验与回收清单"
+        },
+        {
+          "pt": 9,
+          "chars": 66,
+          "max_node_chars": 66,
+          "sample": "归档命名统一为「患者 - 节点 - 真实日期」，剪辑只按真实时间排。回收责任人由"
+        },
+        {
+          "pt": 9.6,
+          "chars": 172,
+          "max_node_chars": 34,
+          "sample": "节点"
+        },
+        {
+          "pt": 10.5,
+          "chars": 330,
+          "max_node_chars": 40,
+          "sample": "作者身份对：发在预定账号与主页，身份没有串（医生号不装患者，患者号不下医学结论）"
+        },
+        {
+          "pt": 11.5,
+          "chars": 52,
+          "max_node_chars": 26,
+          "sample": "发布前核验清单（每条发前逐项勾，Muse 执行、留痕）"
+        },
+        {
+          "pt": 15,
+          "chars": 18,
+          "max_node_chars": 18,
+          "sample": "两张清单：核验不过不发，回收不到不排"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "runs": [
+        {
+          "pt": 8.5,
+          "chars": 11,
+          "max_node_chars": 6,
+          "sample": "决策门与红线"
+        },
+        {
+          "pt": 9.6,
+          "chars": 170,
+          "max_node_chars": 44,
+          "sample": "14 天结果"
+        },
+        {
+          "pt": 10.5,
+          "chars": 438,
+          "max_node_chars": 89,
+          "sample": "日记号评论区先以患者身份答本人经历，涉及医学判断的问题引到医生号帖子。"
+        },
+        {
+          "pt": 11.5,
+          "chars": 45,
+          "max_node_chars": 18,
+          "sample": "转化路径（试点内照旧执行，不另发明）"
+        },
+        {
+          "pt": 15,
+          "chars": 17,
+          "max_node_chars": 17,
+          "sample": "收口：转化路径不变，决策门只认客资"
+        }
+      ]
+    }
+  ],
+  "image_resolution": [
+    {
+      "index": 0,
+      "images": []
+    },
+    {
+      "index": 1,
+      "images": []
+    },
+    {
+      "index": 2,
+      "images": []
+    },
+    {
+      "index": 3,
+      "images": []
+    },
+    {
+      "index": 4,
+      "images": []
+    },
+    {
+      "index": 5,
+      "images": []
+    },
+    {
+      "index": 6,
+      "images": []
+    },
+    {
+      "index": 7,
+      "images": []
+    },
+    {
+      "index": 8,
+      "images": []
+    },
+    {
+      "index": 9,
+      "images": []
+    },
+    {
+      "index": 10,
+      "images": []
+    }
+  ],
+  "geometry": {
+    "failures": [],
+    "advisories": []
+  },
+  "gate_failures": [],
+  "advisories": [
+    "most text renders at 9.6pt, below the 10pt body target; acceptable only when the brief asks for a compact document"
+  ]
+}
