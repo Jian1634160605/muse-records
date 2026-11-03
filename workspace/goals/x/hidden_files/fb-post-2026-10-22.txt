@@ -1,0 +1,20 @@
+# fb-content-daily 2026-10-22 19:54 运行记录
+
+## 决策：今日不发新文字帖（跳过发布）
+- Victoria Maizie 号今日已发 2 条公开 Reel（r1 17:56、r2 19:46），今晚 22:45 还有 r3 轮次 → 全天 3 条视频帖，已超"养号期每天 1 条以内"节奏。
+- 按 10-20、10-21 轮次先例：账号当日已有发帖时本任务跳过，避免刷屏。
+
+## 数据核查（facebook-cli，2026-10-22 19:55）
+- r1 今日 17:56（Deep Sculpt 强对比·金发白人女 Before→After）https://www.facebook.com/reel/2108309106721887 → 评论 0、点赞 0
+- r2 今日 19:46（Deep Sculpt 强对比·黑人男 Before→After）https://www.facebook.com/reel/1870423180659227 → 评论 0、点赞 0（发布 10 分钟即刻数据）
+- 昨日三条 Reel：r2 是唯一产生互动的帖子（2 赞），r1/r3 均为 0/0（perf-log 台账复盘结论，今日备料已按此放大 Deep Sculpt 强对比型，一致）
+- 10-19 科普文字帖（post_id 122147272131352570）：visibility=private（已验证），评论 0、点赞 0 —— 用户仍未在 FB App 手动改为公开，第三天未闭合
+
+## 复盘核对（运营总纲）
+- 昨日数据 → 今日备料决策一致：今日 V1/V2 均为复盘最佳类型（Deep Sculpt 强对比，换新案例），V3 恢复跟进型做多样性补充。无需额外调整。
+- 客资 0（全矩阵当日 0）；Messenger 无留资。
+
+## 下一步
+- V2 疼痛/麻醉科普文字帖（"Does a facelift hurt?"，医生口吻 T07，CTA=WhatsApp https://drqh.jianjianmeili.com/vMPEX84o）继续排队，放到下一个无视频轮次的安静日，发布时加 --privacy Public。
+- 提醒用户手动把 10-19 私密帖改为公开（CLI 无修改权限，第三天提醒）。
+- 明日复盘读今日 r1/r2/r3 数据。

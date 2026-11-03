@@ -1,0 +1,28 @@
+===== GROUP 536390454675733 QUERY 'recommend' =====
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429339452047491/ | comments= 8
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429430752038361/ | comments= 0
+===== GROUP 536390454675733 QUERY 'looking for' =====
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429468155367954/ | comments= 4
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429339452047491/ | comments= 8
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429347325380037/ | comments= 18
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429383562043080/ | comments= 8
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429265815388188/ | comments= 9
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429427632038673/ | comments= 0
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429476202033816/ | comments= 0
+[01-01 08:00] None : 
+  post_id= None | url= https://facebook.com/groups/536390454675733/permalink/1429430752038361/ | comments= 0
+===== GROUP 870697518903937 QUERY 'recommend' =====
+===== GROUP 870697518903937 QUERY 'looking for' =====
+===== GROUP 1146474503904898 QUERY 'recommend' =====
+===== GROUP 1146474503904898 QUERY 'looking for' =====
+===== GROUP 957334833144318 QUERY 'recommend' =====
+===== GROUP 957334833144318 QUERY 'looking for' =====

@@ -1,0 +1,11 @@
+# 发布记录（轮次 r1 = v1 男患者 Day 30，2026-10-20）
+# 格式：r1 | 平台 | 链接 | 备注
+r1 | Facebook (Victoria Maizie) | https://www.facebook.com/reel/1439061491530501 | 原声（FB 网页端无音乐功能）
+r1 | Instagram (christycrawford85) | https://www.instagram.com/p/DetWf3atGPS/ | 原声（IG 网页版无音乐库入口，仅移动端可加音乐）
+r1 | TikTok (@faciallifting.qinhao) | https://www.tiktok.com/@faciallifting.qinhao/video/7698655730760551700 | 热门曲 APT. - ROSÉ & Bruno Mars，原声静音
+r2 | Instagram (christycrawford85) | https://www.instagram.com/christycrawford85/reel/DetwvV0t3gY/ | 原声静音（IG 网页版无音乐库入口）
+r2 | TikTok (@faciallifting.qinhao) | https://www.tiktok.com/@faciallifting.qinhao/video/7698715432085130504 | 热门曲 Golden - David Guetta REM/X（HUNTR/X & EJAE 等），原声 -∞dB 静音
+r2 | Facebook (Victoria Maizie) | https://www.facebook.com/reel/1591515982775545 | 热门曲 Adam Griffith · Knockout（FB 网页版音乐功能）
+r3 | Instagram (christycrawford85) | https://www.instagram.com/christycrawford85/reel/DeuFKARNRoI/ | 原声静音（IG 网页版无音乐库入口）
+r3 | TikTok (@faciallifting.qinhao) | https://www.tiktok.com/@faciallifting.qinhao/video/7698762148239117589 | 热门曲 Sips of My Love · Low Water Bridge Band（01:04），原声静音；发布后进入平台内容审查（暂仅自己可见，约10分钟，预计审查后恢复公开，需后续核实）
+r3 | Facebook (Victoria Maizie) | https://www.facebook.com/reel/873312822537059 | 原声（本轮 FB 网页版发帖流程无音乐功能入口）

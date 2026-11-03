@@ -1,0 +1,7 @@
+test-ig | Instagram (lillieflores24) | https://www.instagram.com/lillieflores24/reel/DevWmIEsiOU/ | 上午手动测试发布（非 r1 轮次）
+test-fb-profile | Facebook (Victoria Maizie) | https://www.facebook.com/reel/1430952268417101 | 上午手动测试发布（非 r1 轮次）
+test-fb-page | Facebook Page (Dr.qh88) | https://www.facebook.com/reel/1781303066324720 | 上午手动测试发布（非 r1 轮次）
+r1 | Facebook (Victoria Maizie) | https://www.facebook.com/reel/1646748630341954 | 17:45 轮次，v1 成品直发（原声音频），一次成功未重试
+trial-foxprofile | Facebook (Emerson Ciara) | https://www.facebook.com/reel/2298761260969935 | foxprofile-emerson 试发，v1 成品经新 upload 接口（Playwright set_input_files）走普通视频帖发布，FB 自动转为 Reel，一次成功未重试
+r2 | Facebook (Victoria Maizie) | https://www.facebook.com/reel/1123541476924976 | 19:45 轮次，v2 成品直发（原声音频），一次成功未重试
+r3 | Facebook (Victoria Maizie) | https://www.facebook.com/reel/2567000590471792 | 22:45 轮次，v3 成品直发（原声音频），一次成功未重试
