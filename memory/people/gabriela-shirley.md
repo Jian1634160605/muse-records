@@ -1,0 +1,33 @@
+---
+display_name: "Gabriela Shirley"
+first_name: "Gabriela"
+last_name: "Shirley"
+summary: "Prospective overseas patient — collection-table #100; Mexico City post about Dr Marco Lozano, Victoria commented 2026-10-27, not DM'd as a specific-doctor-anchored post."
+rank: 52
+updated: "2026-10-27"
+---
+
+# Gabriela Shirley
+
+## Facts
+- Prospective overseas patient in the user's pipeline; collection-table entry #100, added in FB hunter round 214 on 2026-10-27.
+- Her post was a Mexico City experience post about Dr Marco Lozano.
+- Victoria Maizie left one comment on her post in round 214, recorded as R95, approved, and verified on read-back with no duplicate.
+- She was not DM'd: the post was recorded as a specific-doctor-anchored research post, with the poster temporarily not to be DM'd.
+
+## History
+- 2026-10-27: post found by hunter round 214; Victoria's comment R95 left and verified; collected as #100; no DM.
+
+## The relationship
+A business relationship, not a personal one: Gabriela is a prospective overseas patient reached through Victoria Maizie's account, and the tie is the active client pipeline — comment-thread contact so far. No DM, WhatsApp number, or reply from her is established.
+
+## In common
+- The user's facelift offering, and her Mexico City experience post about Dr Marco Lozano in particular.
+- The same active client pipeline as [Kevin Conzone](kevin-conzone.md), [Anne Riches](anne-riches.md) and [Mellissa Gerow Russell](mellissa-gerow-russell.md).
+
+## Open threads
+- [ ] Awaiting her reply to Victoria's 2026-10-27 comment; DM evaluation depends on that reply.
+- [ ] No DM yet — held in round 214 as a specific-doctor-anchored post, with the poster temporarily not to be DM'd.
+
+## Strengthening
+- (nothing the evidence supports yet)
