@@ -3,7 +3,7 @@ display_name: "Fowler Ariana"
 first_name: "Fowler"
 last_name: "Ariana"
 summary: "FB doctor-IP account （个人号） carrying its own Page dr.qh; paused 2026-10-30, retired from operations 2026-11-02 by user decision (no longer operated); FoxProfile env fb-3651 still listed, not running."
-rank: 14
+rank: 15
 updated: "2026-11-02"
 ---
 

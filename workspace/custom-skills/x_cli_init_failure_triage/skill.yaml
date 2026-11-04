@@ -1,0 +1,22 @@
+name: x_cli_init_failure_triage
+title: Triage a stuck X posting client before retrying
+description: Stop blind retries when an X posting client fails to initialise, diagnose the init inputs, and keep the queue intact until a timeline check proves a post went out.
+category: Communication
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - d996db85-6b81-4ba5-ba99-9e8ba7585f17
+  - 2475a302-9394-466a-9c80-0ef73fcac467
+  - bc520159-cf09-4783-b997-4f0a5e020069
+  - 4c886cb8-9a74-4e48-bbcd-a5e98161ead2
+  measurement:
+    proxy_metric_id: x_cli_blind_retry_failures
+    success_criterion: Zero cases of five or more consecutive identical client init failures with no diagnosis record over the window, and every persistent init failure either resolves through a diagnosed fix or stays reported as an open block with its queue held.
+    window_days: 14
+  rationale: 'X promo posting moved from intermittent ClientTransaction init failures to a persistent block: the handoff records p20 failing from 2026-10-26 16:55Z onward, 30 consecutive failures by the 21:47Z daily report, and failures still running at 2026-10-27 03:03Z, with the latest post staying at p19 (2114639360117354726) and tweet count 313. Chunk 3 adds repeated x-promo-retry-p1 cron failures with the generic worker unfinished report (d996db85, 2475a302, bc520159, 4c886cb8). Retries kept running every ten minutes with no diagnosis recorded and the queue growing to p20-p37, while timeline checks proved no retry reached the platform. A skill search found no X connector doc and no init triage skill, and social_publishing covers verifying a post but not stopping a blind retry run or diagnosing init inputs. This skill sets a three failure stop, one input at a time diagnosis, timeline proof of success, and an open block report, which would have changed the observed behaviour. FoxProfile entry trouble and other failures were checked and not proposed: the 18:45 FoxProfile entry failure is already covered by the active foxprofile_session_recovery service check, and the four managed skills remain inside their measurement windows, so no update to them is proposed.'
+  needs_review: false
+  review_after: 2026-11-09T19:19:52.441446+00:00
+  reviewed_at: 2026-10-26T19:19:52.441446+00:00
+  run_id: sirun_d481d74a9bf54bdf8df873bd9ab71ad5

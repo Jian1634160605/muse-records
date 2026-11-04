@@ -1,0 +1,23 @@
+name: state_file_write_safety
+title: Protect state files when writing them
+description: Write state files through a backup, a temporary file, and a verified rename so a failed write never truncates the live record.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - 2026-10-29 17:52 commented.json truncated to 0 bytes on a refused write
+  - 2026-10-29 18:01 promo-queue.json truncated to 0 bytes with pending entries lost
+  - 2026-10-29 18:19 exec write refused and bookkeeping switched to muse.edit with no loss
+  - ~/workspace/goals/x/hidden_files/promo-queue-recovery-2026-10-29.md
+  - /tmp/commented.bak.json
+  measurement:
+    proxy_metric_id: state_file_write_truncation_loss
+    success_criterion: Zero state files truncated to zero bytes or losing pending entries after a failed write over the window, and every failed write leaves the prior version intact and verified after restore.
+    window_days: 14
+  needs_review: false
+  rationale: On 2026-10-29 a refused write truncated commented.json to 0 bytes, recovered only from a /tmp backup and restored to 396 entries, and a later write truncated promo-queue.json to 0 bytes, losing pending entries p274 to p535 and forcing a minimal rebuild recorded in the promo-queue recovery note. A third refused exec write the same evening was survived only by switching bookkeeping to muse.edit. This is a write mechanism, distinct from dedup_state_verification, which covers reading a dedup record before an outward action and is inside its measurement window to 2026-11-11 and therefore not updated here, and distinct from untruncated_error_diagnosis, which covers diagnosing output. A skill search for atomic write, backup before write, and temp file rename returned no covering skill. The same write failure also hit the Messenger hook state file on 2026-10-29, so the method is written for any state file rather than one ledger. Consolidation is not triggered, with 7 managed skills against the 10 skill threshold.
+  review_after: 2026-11-13T01:05:38.369514+00:00
+  reviewed_at: 2026-10-30T01:05:38.369514+00:00
+  run_id: sirun_426ed8e3581a43bda356f482ade277eb

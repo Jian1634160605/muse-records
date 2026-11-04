@@ -10,6 +10,7 @@ _What you want to hear about without asking, what you never want brought up, and
 ## Never tell me about
 
 - 主聊不再发 FB 例行汇报、X 例行汇报。（2026-11-02 用户定，见上）
+- 非致命问题的过程汇报：非致命问题 Muse 自己解决、不汇报；只报结果（流量、客资、发出的链接），不讲过程。只有致命问题（封号风险、红线、必须用户动手的事）才第一时间告诉用户。（2026-11-03 用户定，主聊北京时间 17:05–17:06 消息）
 
 ## When
 

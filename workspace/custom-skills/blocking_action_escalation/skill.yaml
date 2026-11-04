@@ -1,0 +1,25 @@
+name: blocking_action_escalation
+title: Blocking Action Escalation
+description: Report a blocking approval, login, or platform problem at once in the main chat and the designated urgent channel, with what the user must do.
+category: Work and knowledge
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - c4a71c43
+  - acf7ed32
+  - 68e84971
+  - 935c07fe
+  - c0d4821e
+  - 741048da
+  - ~/MEMORY.md
+  measurement:
+    proxy_metric_id: user_flagged_delayed_blocking_report
+    success_criterion: Zero blocking approval, login, verification, or platform problems reported only at a daily summary or after a job timeout over the window, and every blocking event in the window is reported in the main chat and the designated urgent channel with platform, account, problem, and whether the user must act.
+    window_days: 14
+  needs_review: false
+  rationale: 'The escalation rule existed only in one task body and not in the hunter task, was then clarified to immediate notification after a short wait rather than on timeout, and still failed the same evening when a Lucy follow-up approval card appeared at 21:05 Beijing and was approved at 22:34 with no urgent-channel call, with the executor later reading the rule as timeout-only. The user then set it as a top rule: report any platform or account problem at once in the main chat and the urgent channel with platform, account, problem, and whether the user must act, never deferred to a daily report. This mirrors the earlier quota lesson where a fix in one surface did not generalize. A skill_search for approval escalation returned only unrelated skills, so no existing skill covers this reusable trigger, dual-channel, four-fact, and cross-task propagation method.'
+  review_after: 2026-11-07T19:14:39.817080+00:00
+  reviewed_at: 2026-10-24T19:14:39.817080+00:00
+  run_id: sirun_deecb26fab0c42c59439dee1cc34f072

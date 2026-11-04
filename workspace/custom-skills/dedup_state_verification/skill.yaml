@@ -1,0 +1,23 @@
+name: dedup_state_verification
+title: Verify dedup state before an outward action
+description: Verify dedup state before a repeatable outward action, using a targeted lookup when the record is too large to parse in full, and verify a deletion on the platform before reporting it gone.
+category: Communication
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:assistant-msg-5438c206
+  - message:assistant-msg-56f26656
+  - message:assistant-msg-1a412750
+  - message:assistant-msg-c53169ae
+  - ~/workspace/x-ops/commented.json
+  measurement:
+    proxy_metric_id: duplicate_outward_actions_from_incomplete_dedup_read
+    success_criterion: Zero duplicate comments or posts attributable to a dedup read over the window, and every large record dedup check uses a targeted quoted identifier search instead of a truncated full read, with every deletion verified on the platform before it is reported gone.
+    window_days: 14
+  needs_review: false
+  rationale: The existing dedup skill published on October 28 tells agents to parse the full record and stop on a truncated read. That instruction proved infeasible in the November 2 to November 3 window because ~/workspace/x-ops/commented.json had grown to 588969 bytes with 1306 entries, so full reads truncated and agents acted on partial or tail only reads instead of stopping. The record shows a third comment on the jaylenngx post as 2117360414854172934, a Bluke duplicate 2117428747624431970 after original 2117427895635525767, and a RedPocket duplicate 2117431615924412482 after original 2117244385599590623, each with deletion attempts timing out and the duplicate still online. The November 3 proposal in message:assistant-msg-5438c206 tested a full file fixed-string lookup that hit both original identifiers in about 0.007 seconds. The update keeps the full parse rule for readable records and the existing deletion verification rule, and adds the targeted quoted identifier search as the only feasible path when a full read truncates, which changes the outcome from a skipped or guessed round to a provable hit or miss. Other candidates were checked and not proposed. The X cookie block is already covered by x_cli_init_failure_triage and untruncated_error_diagnosis, the Facebook overdue threads and the stale fb-newpages definition are pending user decisions or schedule definition changes rather than reusable skill methods, and the deterministic repeated handoff suppression findings are loop cadence rather than a skill method. Consolidation is not triggered with 8 managed skills against the 10 skill threshold.
+  review_after: 2026-11-17T03:10:31.837376+00:00
+  reviewed_at: 2026-11-03T03:10:31.837376+00:00
+  run_id: sirun_09218980bbca4952b5d4eb06f478ed94

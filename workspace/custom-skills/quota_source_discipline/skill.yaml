@@ -1,0 +1,26 @@
+name: quota_source_discipline
+title: Quota Source Discipline
+description: Label the source of every limit you state, so self-set rhythms are never reported as platform rules.
+category: Work and knowledge
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:6b795e69-39bd-449d-b848-6a862f2d5ebd
+  - message:assistant-msg-d3e1e034-c4a3-419f-83ad-49303728c2a0
+  - message:0593dda7-fc63-4a80-8cfa40-15d95a66c336
+  - message:assistant-msg-0831fef1-d12c-4eff-b18b-ace230c421d6
+  - message:assistant-msg-22a52301-5f82-4403-af11-7132cd6e9669
+  - message:63419534-210f-4bde-ab50-8348aabdb87d
+  - message:assistant-msg-1d825245-3390-4a44-8272-4339d57de8c0
+  - ~/MEMORY.md
+  measurement:
+    proxy_metric_id: user_flagged_quota_misattribution
+    success_criterion: Zero user corrections about misattributed quotas and zero false quota-exhausted claims in user-visible turns over the window, plus a one-time re-scan of active scheduled-task bodies finding no self-set numeric caps presented as platform limits.
+    window_days: 14
+  needs_review: false
+  rationale: 'On 2026-10-23 Muse repeatedly presented self-imposed operational cadences as platform-imposed quotas and the user corrected it three times across two surfaces. (1) FB DMs: a 6/day cap was treated as a rule until the user ordered it deleted (message:6b795e69-39bd-449d-b848-6a862f2d5ebd). (2) FB comments: 12/day was claimed as platform-verified (message:assistant-msg-d3e1e034-c4a3-419f-83ad-49303728c2a0), challenged by the user (message:0593dda7-fc63-4a80-8cfa40-15d95a66c336), and admitted to be self-set (message:assistant-msg-0831fef1-d12c-4eff-b18b-ace230c421d6). (3) X posting: the daily post slot was reported as used up (message:assistant-msg-22a52301-5f82-4403-af11-7132cd6e9669), the user pushed back (message:63419534-210f-4bde-ab50-8348aabdb87d), and Muse admitted it was self-set (message:assistant-msg-1d825245-3390-4a44-8272-4339d57de8c0). The decisive point is sequencing: correction 3 happened AFTER corrections 1 and 2 were fixed and recorded in MEMORY.md (2026-10-23 11:54, 11:25, 11:28 entries) and in the task bodies, so memory edits alone did not generalize the lesson across surfaces. No existing skill covers limit-source labeling (verified via muse.skill_search, which returned only unrelated skills). A reusable discipline skill would have stopped the third recurrence.'
+  review_after: 2026-11-06T19:59:27.490973+00:00
+  reviewed_at: 2026-10-23T19:59:27.490973+00:00
+  run_id: sirun_098800b9796341b99746baa1050759a2

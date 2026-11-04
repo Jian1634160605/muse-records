@@ -1,0 +1,24 @@
+name: video_source_screening
+title: Video Source Screening
+description: Screen candidate video clips for frame defects and verify footage attribution before editing or publishing, so torn frames, mixed patients, and third-party watermarks never reach the audience.
+category: Media
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:5d8793e0
+  - assistant-msg-2eb80b51
+  - assistant-msg-3d947398
+  - assistant-msg-04905de2
+  - message:004a3184
+  - ~/MEMORY.md
+  measurement:
+    proxy_metric_id: user_flagged_video_source_defects
+    success_criterion: Zero user-flagged frame, patient-mix, or watermark defects in published videos over the window.
+    window_days: 21
+  needs_review: false
+  rationale: 'On 2026-10-21 the user flagged torn and incomplete frames in published IG videos (message:5d8793e0). Frame-by-frame review confirmed the v1/v3 banner text was cropped at the frame edge, v1 mixed two different patients under one caption, and v2 carried a third-party watermark over the title (assistant-msg-2eb80b51); the defective posts were deleted at the user''s request (assistant-msg-3d947398). The admitted root cause was selecting sources on view count alone with no frame-consistency screening. The same day an attribution rule was confirmed: @reface_scarless is a non-company team whose footage may be studied for structure only and never redistributed (assistant-msg-04905de2), and @yefacialdesign is likewise not a company account (message:004a3184). Neither the QC gate nor the attribution rule appears in any managed document or in the FB workflow docs (~/workspace/fb-ip/viral-playbook.md, ~/workspace/fb-ip/sprint-100w-12day.md); the existing assembly skill (viral-template-replicator, unmanaged) only accepts the built timeline and never screens source selection. A selection-time gate would have rejected the torn clips before editing, and the attribution rule directly protects the ongoing 9-video FB sprint, which references non-company accounts as models.'
+  review_after: 2026-11-11T19:09:11.524523+00:00
+  reviewed_at: 2026-10-21T19:09:11.524523+00:00
+  run_id: sirun_4f646a3112194ea9a21a980d08040937

@@ -1,0 +1,24 @@
+name: foxprofile_session_recovery
+title: Recover FoxProfile sessions before judging them broken
+description: Recover slow or failed FoxProfile browser sessions with a service check, a stored-tab wait, and a restart retry before reporting an account or proxy line as broken.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - 178c5447-f2da-64df-d640-54108bbc709d
+  - f5e0892c-41dd-4709-ba87-3c12b19588b9
+  - 0452a51d-2e77-4cc4-bc15-e9a09347c168
+  - 17004520-ad7c-fba9-22f7-4394337684ee
+  - a40053bb-5689-47ea-bd83-49a7047b4617
+  - ~/AGENTS.md
+  measurement:
+    proxy_metric_id: foxprofile_false_broken_report
+    success_criterion: Zero accounts or proxy lines reported as broken on a first timeout alone over the window, and every slow-restore failure that is retried after the 45 second wait and a service restart either succeeds or is reported with the exact failed step.
+    window_days: 14
+  needs_review: false
+  rationale: 'On 2026-10-25 a multi-account check found 0 of 6 logins confirmed with proxy-start failures and page load timeouts, while direct proxy tests to facebook.com all passed, pointing to the FoxProfile launch step rather than proxy or session loss. After a service restart 5 of 6 accounts confirmed, and the remaining account succeeded only after waiting 45 seconds for stored old tabs to restore, where earlier attempts navigated after about 12 seconds and hit a 15 second navigation timeout. The same cause recurred in the 15:45 warm round, which completed only 3 of 6 accounts, with the same account failing on navigation timeouts and a shared proxy line failing starts in-round while its direct test returned success. No existing skill covers this sequence: a skill search for FoxProfile warmup returned only the unrelated blocking escalation skill, and the workspace notes record only the start script and endpoint check, not the 45 second wait, the direct proxy discrimination test, or the restart-then-retry order. The proposed skill codifies exactly that sequence so a slow restore is no longer misread as a broken account.'
+  review_after: 2026-11-08T19:10:58.859541+00:00
+  reviewed_at: 2026-10-25T19:10:58.859541+00:00
+  run_id: sirun_e52c9e02bee749b7a14200897315d5a6

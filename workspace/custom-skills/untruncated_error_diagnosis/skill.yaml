@@ -1,0 +1,26 @@
+name: untruncated_error_diagnosis
+title: Diagnose from the full error output
+description: Diagnose a failure from its full untruncated output before naming a cause.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - assistant-msg-ba765290
+  - assistant-msg-e74b3f4c
+  - assistant-msg-55ae3b3d
+  - assistant-msg-35b6b6b8
+  - assistant-msg-b1d5f8fc
+  - assistant-msg-b36f8d47
+  - assistant-msg-827cde27
+  - assistant-msg-18c2eb91
+  measurement:
+    proxy_metric_id: repeated_misdiagnosis_from_truncated_output
+    success_criterion: Zero causes reported from a truncated prefix alone over the window, and every repeated failure gets a full output rerun before a second identical cause report.
+    window_days: 14
+  needs_review: false
+  rationale: 'The X posting script truncated stderr to 200 characters, so three separate failures were first reported as a cookie acquisition failure and only a verbose rerun revealed the true platform length error 186: p33 failed 19:33, 19:43 and 19:53, p35 failed 20:13 after a plain count estimate near 272 missed link counting, and p45 failed 21:53, 22:03 and 22:13 despite a prior trim to about 273. A helper success word masked a second failure mode: the warm up tool reported success without a signature, and later rounds showed the same success word while the cookie step still failed. The overnight p56 run then repeated the same prefix for 13 rounds from 00:03 to 02:03 on 2026-10-28 with an under limit draft, still undiagnosed. The existing x_cli_init_failure_triage skill says to record the exact error text but does not teach how to obtain it when output is truncated, and it remains inside its measurement window to 2026-11-09, so it is not updated here. This new general skill complements it by covering truncated output, unverified helper claims, and platform counted limits. Checked and not proposed: the FB proxy panel versus proxy host failure was a single external incident with the queue correctly held, the voiceover identity correction was caught live with no published defect, and consolidation is not triggered with only 5 managed skills against the 10 skill threshold.'
+  review_after: 2026-11-10T19:25:29.007629+00:00
+  reviewed_at: 2026-10-27T19:25:29.007629+00:00
+  run_id: sirun_6bb75dd11bd6454db8901f617d978b14
