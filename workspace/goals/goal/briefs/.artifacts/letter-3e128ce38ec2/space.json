@@ -1,0 +1,12 @@
+{
+  "document_source": {
+    "entrypoint": "Brief (2026-10-19 19.34.10).html",
+    "media_paths": [
+      "media/hero.jpg"
+    ]
+  },
+  "entry": "index.html",
+  "name": "第一张任务卡",
+  "runtime": "static",
+  "slug": "letter-3e128ce38ec2"
+}
