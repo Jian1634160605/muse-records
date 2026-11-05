@@ -1,5 +1,5 @@
 {
- "staged_total": 967,
+ "staged_total": 974,
  "changed": [
   "home/AGENTS.md",
   "home/MEMORY.md",
@@ -25,6 +25,12 @@
   "memory/people/victoria-maizie.md",
   "memory/people/wei-jie-lai-dian.md",
   "memory/people/yidali-yo-jiangmian.md",
+  "workspace/bot-team/CLONE-SPEC.md",
+  "workspace/bot-team/ORG.md",
+  "workspace/bot-team/REVIEW-RUBRIC.md",
+  "workspace/bot-team/TEAM.md",
+  "workspace/bot-team/employees/BRIEFS.md",
+  "workspace/bot-team/review-log.md",
   "workspace/custom-skills/blocking_action_escalation/skill.yaml",
   "workspace/custom-skills/dedup_state_verification/skill.yaml",
   "workspace/custom-skills/fb-ip-operations/skill.yaml",
@@ -105,6 +111,7 @@
   "workspace/feature-request/reports.json",
   "workspace/goals/github-work-records-archive/GOAL.md",
   "workspace/goals/github-work-records-archive/crons/daily/records-daily-sync__daily@21:00:00.md",
+  "workspace/goals/github-work-records-archive/hidden_files/stage-report-20261103.json",
   "workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build-cloudflare/deploy-manifest.json",
   "workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build-cvm/manifest.json",
   "workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build/manifest.json",
@@ -126,7 +133,7 @@
   "workspace/your_files/proactive_messages/research/proactive_notification:phase-498247:research/run:proactive_notification:phase-498247:regular:item:1.md",
   "workspace/your_files/proactive_messages/research/proactive_notification:phase-498250:research/run:proactive_notification:phase-498250:high:item:1.md"
  ],
- "changed_count": 124,
+ "changed_count": 131,
  "batches": [
   [
    "home/AGENTS.md",
@@ -153,6 +160,12 @@
    "memory/people/victoria-maizie.md",
    "memory/people/wei-jie-lai-dian.md",
    "memory/people/yidali-yo-jiangmian.md",
+   "workspace/bot-team/CLONE-SPEC.md",
+   "workspace/bot-team/ORG.md",
+   "workspace/bot-team/REVIEW-RUBRIC.md",
+   "workspace/bot-team/TEAM.md",
+   "workspace/bot-team/employees/BRIEFS.md",
+   "workspace/bot-team/review-log.md",
    "workspace/custom-skills/blocking_action_escalation/skill.yaml",
    "workspace/custom-skills/dedup_state_verification/skill.yaml",
    "workspace/custom-skills/fb-ip-operations/skill.yaml",
@@ -232,7 +245,8 @@
    "workspace/fb-ip/nose-matrix-plan-20261103.md",
    "workspace/feature-request/reports.json",
    "workspace/goals/github-work-records-archive/GOAL.md",
-   "workspace/goals/github-work-records-archive/crons/daily/records-daily-sync__daily@21:00:00.md"
+   "workspace/goals/github-work-records-archive/crons/daily/records-daily-sync__daily@21:00:00.md",
+   "workspace/goals/github-work-records-archive/hidden_files/stage-report-20261103.json"
   ],
   [
    "workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build-cloudflare/deploy-manifest.json",
@@ -263,7 +277,7 @@
  ],
  "batch_count": 4,
  "batch_escaped_sizes": [
-  6784650,
+  7447156,
   6718471,
   7412004,
   793675
@@ -1004,12 +1018,6 @@
   "workspace/batch-20261028/new-set-03/README.md",
   "workspace/batch-20261028/new-set-04/README.md",
   "workspace/batch-20261028/new-set-05/README.md",
-  "workspace/bot-team/CLONE-SPEC.md",
-  "workspace/bot-team/ORG.md",
-  "workspace/bot-team/REVIEW-RUBRIC.md",
-  "workspace/bot-team/TEAM.md",
-  "workspace/bot-team/employees/BRIEFS.md",
-  "workspace/bot-team/review-log.md",
   "workspace/fb-gql-scraper/.github/workflows/deploy.yml",
   "workspace/fb-gql-scraper/README.md",
   "workspace/fb-gql-scraper/docs-site/docs/models/_category_.json",
@@ -5320,6 +5328,7 @@
   "workspace/goals/clawbot/GOAL.md": "1a608c8748c71537153906a625a8b266488aba47523a469686726f301978d66a",
   "workspace/goals/muse-dbi7zo-24/GOAL.md": "6d4e3eeeffb17f7b6d6c300488e046c5a6193897bd5a54349b26adae171ac610",
   "workspace/goals/github-work-records-archive/GOAL.md": "292a106943e6916f56c197e17ba8262832ba99ad8fba5c4bdfcf62ab5ffdc5f8",
+  "workspace/goals/github-work-records-archive/hidden_files/stage-report-20261103.json": "0c104ee29930431ef69c7c72e4127e47afa12b9fbd248a5e67856d1b8e13ef59",
   "workspace/goals/github-work-records-archive/crons/daily/records-daily-sync__daily@21:00:00.md": "7bbd9a29e0a6cc2714daa0b2fc5bcb9f43964852807497884e49948a8400a1a6",
   "workspace/viral-video-ops/viral-formulas-2026-10-16.md": "72a63dc63b416a5cf0993d46eb1f0a53b74e7172b262c4088cec4b00e6eece12",
   "workspace/viral-video-ops/caption-pack-malaysia42-v1.md": "bff9e33102b6f77cdba02d2a8011187ce2251f91f77e8e5482653836f7eceab5",
@@ -5519,6 +5528,12 @@
   "workspace/fb-ops/repost-2026-10-23/copy-75128.txt": "098fbc9a68c45348f4199d5a65d1dd33429b26cb76530ad4ee8f7413b80c3392",
   "workspace/fb-ops/repost-2026-10-23/copy-54124.txt": "9c454cf082f691cb33f6b4c5d403ea4dd0d7dc07b18bbf8d62383aa33c872d28",
   "workspace/whatsapp-ops/inbox-monitor-design-DRAFT.md": "0d85728c391fac202bb53b58dd237c34ca6d2d438b6c5888c1c893bdbd2a19af",
+  "workspace/bot-team/TEAM.md": "8e4262e1e03d304f32d8f1614bba63c890a610821c2c6ea01b3a6ef64dad25b6",
+  "workspace/bot-team/CLONE-SPEC.md": "189ce0a7b27190ab768192d99762169907c1e95166aa0ddb852ea3f4e249a5dd",
+  "workspace/bot-team/ORG.md": "b5c1735e2e8aac45100c6890bd12124202c39449d42e803a6d0a2ce210982062",
+  "workspace/bot-team/REVIEW-RUBRIC.md": "96b3d533eef2e77e62a77a842295f6b1109de930eae402c4a10a6e254a3f0912",
+  "workspace/bot-team/review-log.md": "c2c2b998ddfdfbb8b4ad89f0d04c1265d7dd0cb024fcc05ae73c6eaf0b78e82d",
+  "workspace/bot-team/employees/BRIEFS.md": "a0c5fc92f902550c2a0e3394b63fd5290dfdef14ccb5712064c6c329528a9a88",
   "workspace/x-ops/engage-log-part1.md": "9599b08809f2998d3a69a4b6c05c7ec915c328a50f98f527f7f69ca6bd3ce8f1",
   "workspace/x-ops/engage-log-part2.md": "11201db4398e4d21818b51e054920cf3bd957c3f946fe6054fb052fb833f9587"
  }
