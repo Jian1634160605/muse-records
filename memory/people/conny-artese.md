@@ -3,7 +3,7 @@ display_name: Conny Artese
 first_name: Conny
 last_name: Artese
 summary: Prospective Italian patient (71) who first DM'd Victoria on 2026-10-23 about facelift revision — awaiting her WhatsApp number, which would make her the operation's first inbound qualified lead.
-rank: 18
+rank: 19
 updated: 2026-10-23
 ---
 

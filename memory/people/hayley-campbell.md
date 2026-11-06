@@ -3,7 +3,7 @@ display_name: "Hayley Campbell"
 first_name: "Hayley"
 last_name: "Campbell"
 summary: "Prospective overseas patient — collection-table #201; Victoria commented 2026-11-03 on her Perth lower-eyelid recommendation post in the Blepharoplasty group, not DM'd under the local-anchoring rule."
-rank: 124
+rank: 127
 updated: "2026-11-03"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Francesca Lo Grasso"
 first_name: "Francesca"
 last_name: "Lo Grasso"
 summary: "Prospective overseas patient — collection-table #112; asked about Dr Emre's experience in Turkey in the Facelift Support Group, Victoria commented 2026-10-28, not DM'd."
-rank: 63
+rank: 66
 updated: "2026-10-28"
 ---
 

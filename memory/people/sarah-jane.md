@@ -3,7 +3,7 @@ display_name: "Sarah Jane"
 first_name: "Sarah"
 last_name: "Jane"
 summary: "Prospective overseas patient in the active client pipeline — first DM sent 2026-10-22, natural re-ask follow-up sent 2026-10-28, both server-verified; no reply yet."
-rank: 20
+rank: 21
 updated: "2026-10-28"
 ---
 

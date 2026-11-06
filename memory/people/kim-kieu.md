@@ -3,7 +3,7 @@ display_name: "Kim Kieu"
 first_name: "Kim"
 last_name: "Kieu"
 summary: "Tijuana-group poster seeking a Mexico doctor for face-only work; Victoria commented on her post and the user sent her a Messenger message 2026-10-30, no reply yet, Muse not following up."
-rank: 93
+rank: 96
 updated: "2026-10-30"
 ---
 

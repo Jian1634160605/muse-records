@@ -3,7 +3,7 @@ display_name: "Zahra Ira"
 first_name: "Zahra"
 last_name: "Ira"
 summary: "Prospective overseas patient — collection-table #179; Victoria commented 2026-11-02 on her endoscopic facelift recommendation post, not DM'd."
-rank: 106
+rank: 109
 updated: "2026-11-02"
 ---
 

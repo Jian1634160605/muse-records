@@ -3,7 +3,7 @@ display_name: "Denise Jones Gusler"
 first_name: "Denise"
 last_name: "Jones Gusler"
 summary: "Prospective overseas patient — collection-table #126; asking deep-plane versus mini lift, Victoria commented 2026-10-29, not DM'd."
-rank: 77
+rank: 80
 updated: "2026-10-29"
 ---
 

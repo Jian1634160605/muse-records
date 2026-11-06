@@ -3,7 +3,7 @@ display_name: "Mellissa Gerow Russell"
 first_name: "Mellissa"
 last_name: "Gerow Russell"
 summary: "Prospective overseas patient — collection-table #33; first DM sent 2026-10-24 23:24, B-18 follow-up sent 2026-10-26, B-19 closing follow-up sent and server-verified 2026-10-29; awaiting reply."
-rank: 36
+rank: 37
 updated: "2026-10-29"
 ---
 

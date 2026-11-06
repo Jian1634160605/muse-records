@@ -3,7 +3,7 @@ display_name: "Michele Newton Hobaugh"
 first_name: "Michele"
 last_name: "Newton Hobaugh"
 summary: "Prospective overseas patient — collection-table #135; seeking an upper-eyelid and neck lift recommendation in North Carolina, Victoria commented 2026-10-30, not DM'd."
-rank: 87
+rank: 90
 updated: "2026-10-30"
 ---
 

@@ -1,7 +1,7 @@
 ---
 display_name: "海外6组"
 summary: "The user's 医美海外IP team — doctor-IP accounts for overseas leads; Victoria sole active line, Emerson retired from operations 2026-11-04 (account not deleted); nose-matrix plan directed."
-rank: "1"
+rank: 1
 updated: "2026-11-04"
 ---
 

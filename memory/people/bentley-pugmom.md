@@ -3,7 +3,7 @@ display_name: "Bentley Pugmom"
 first_name: "Bentley"
 last_name: "Pugmom"
 summary: "Prospective overseas patient — collection-table #102; seeking a doctor in Arizona, Victoria commented in the Facelift Support Group 2026-10-27, comment-thread contact so far."
-rank: 54
+rank: 57
 updated: "2026-10-31"
 ---
 

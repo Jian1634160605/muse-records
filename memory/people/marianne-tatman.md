@@ -3,7 +3,7 @@ display_name: "Marianne Tatman"
 first_name: "Marianne"
 last_name: "Tatman"
 summary: "Prospective overseas patient — collection-table #133; seeking a mini facelift doctor in Ohio with a natural result, Victoria commented 2026-10-30, not DM'd."
-rank: 85
+rank: 88
 updated: "2026-10-30"
 ---
 

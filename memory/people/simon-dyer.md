@@ -3,7 +3,7 @@ display_name: "Simon Dyer"
 first_name: "Simon"
 last_name: "Dyer"
 summary: "FB doctor-IP account DELETED 2026-10-27 by the user's decision (FB locked 2026-10-26 as suspected hacked, device-match unlock failed); FoxProfile env fb-75128 removed, no longer in the matrix."
-rank: 27
+rank: 28
 updated: "2026-10-27"
 ---
 

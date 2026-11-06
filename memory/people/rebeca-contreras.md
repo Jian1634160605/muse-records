@@ -3,7 +3,7 @@ display_name: "Rebeca Contreras"
 first_name: "Rebeca"
 last_name: "Contreras"
 summary: "Prospective overseas patient — collection-table #164; Victoria commented 2026-11-01 on her Tijuana Dr. Barbosa post, not DM'd under the Tijuana anchoring rule."
-rank: 100
+rank: 103
 updated: "2026-11-01"
 ---
 

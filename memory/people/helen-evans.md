@@ -3,7 +3,7 @@ display_name: "Helen Evans"
 first_name: "Helen"
 last_name: "Evans"
 summary: "Prospective overseas patient — collection-table #117; seeking a specialist doctor for ages 45–50+, willing to consider any country, Victoria commented 2026-10-29, DM held pending profile verification."
-rank: 67
+rank: 70
 updated: "2026-10-29"
 ---
 

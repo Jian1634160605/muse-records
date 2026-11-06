@@ -3,7 +3,7 @@ display_name: "Annie Elle"
 first_name: "Annie"
 last_name: "Elle"
 summary: "Prospective overseas patient — collection-table #130; asked about a Turkey doctor in the Facelift Support Group, Victoria commented 2026-10-29, not DM'd under the Turkey/specific-doctor anchoring."
-rank: 79
+rank: 82
 updated: "2026-10-29"
 ---
 

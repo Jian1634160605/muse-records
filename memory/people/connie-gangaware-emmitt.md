@@ -3,7 +3,7 @@ display_name: "Connie Gangaware Emmitt"
 first_name: "Connie"
 last_name: "Gangaware Emmitt"
 summary: "Prospective overseas patient — collection-table #120; seeking a doctor recommendation in NE Ohio, Victoria commented 2026-10-29, not DM'd."
-rank: 71
+rank: 74
 updated: "2026-10-29"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Tricia Woodworth"
 first_name: "Tricia"
 last_name: "Woodworth"
 summary: "Prospective overseas patient — collection-table #146–#148 batch; Victoria commented on the New York Dr Andrew Jacono experience post 2026-10-31, not DM'd."
-rank: 97
+rank: 100
 updated: "2026-10-31"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Aimee Silva"
 first_name: "Aimee"
 last_name: "Silva"
 summary: "Prospective overseas patient — collection-table #109; Vancouver neck/lower-face facelift recommendation post, Victoria commented 2026-10-28, not DM'd."
-rank: 61
+rank: 64
 updated: "2026-10-28"
 ---
 

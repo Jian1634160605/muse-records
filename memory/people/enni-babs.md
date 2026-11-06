@@ -3,7 +3,7 @@ display_name: "Enni Babs"
 first_name: "Enni"
 last_name: "Babs"
 summary: "Prospective overseas patient — collection-table #190; a quoter in Laura Smith's Fatih pricing thread who found 14k too expensive then got a 3k discount, Victoria replied 2026-11-03, not DM'd."
-rank: 113
+rank: 116
 updated: "2026-11-03"
 ---
 

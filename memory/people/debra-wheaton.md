@@ -3,7 +3,7 @@ display_name: "Debra Wheaton"
 first_name: "Debra"
 last_name: "Wheaton"
 summary: "Prospective overseas patient — collection-table #122; age 63, weighing deep-plane versus mini lift, Victoria commented 2026-10-29, not DM'd."
-rank: 73
+rank: 76
 updated: "2026-10-29"
 ---
 

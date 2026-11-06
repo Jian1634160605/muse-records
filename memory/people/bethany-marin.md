@@ -3,7 +3,7 @@ display_name: "Bethany Marin"
 first_name: "Bethany"
 last_name: "Marin"
 summary: "Prospective overseas patient — collection-table #194; Victoria commented 2026-11-03 on her under-eye hollowness and post-filler wrinkling post, not DM'd."
-rank: 117
+rank: 120
 updated: "2026-11-03"
 ---
 

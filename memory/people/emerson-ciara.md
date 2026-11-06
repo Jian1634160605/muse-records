@@ -3,7 +3,7 @@ display_name: "Emerson Ciara"
 first_name: "Emerson"
 last_name: "Ciara"
 summary: "FB doctor-IP account RETIRED from operations 2026-11-04 by user decision (account NOT deleted); Dr.qh666 deleted 2026-11-03, 6 personal Reels set Only me, nothing deleted."
-rank: "14"
+rank: 14
 updated: "2026-11-04"
 ---
 

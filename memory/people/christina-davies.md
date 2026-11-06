@@ -3,7 +3,7 @@ display_name: "Christina Davies"
 first_name: "Christina"
 last_name: "Davies"
 summary: "Prospective overseas patient — first DM server-verified delivered 2026-10-23 23:35 Beijing; B-18 follow-up sent 2026-10-25 and B-19 closing follow-up CLI-verified sent 2026-10-28; no reply yet."
-rank: 34
+rank: 35
 updated: "2026-10-28"
 ---
 

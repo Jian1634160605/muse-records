@@ -3,7 +3,7 @@ display_name: "Irene Calderon"
 first_name: "Irene"
 last_name: "Calderon"
 summary: "Prospective overseas patient — collection-table #176; Victoria commented 2026-11-02 on her Tijuana-group facelift recommendation post, not DM'd (comment circled first)."
-rank: 103
+rank: 106
 updated: "2026-11-02"
 ---
 

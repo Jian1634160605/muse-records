@@ -3,7 +3,7 @@ display_name: "Karla Lang"
 first_name: "Karla"
 last_name: "Lang"
 summary: "Prospective overseas patient — collection-table #188 from 2026-11-03; surfaced in Neisha's Korea thread, not commented again that day as an own 'hi' was pending; not yet DM'd."
-rank: 44
+rank: 47
 updated: "2026-11-03"
 ---
 

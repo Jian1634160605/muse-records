@@ -3,7 +3,7 @@ display_name: "Christine Zimmer"
 first_name: "Christine"
 last_name: "Zimmer"
 summary: "Prospective overseas patient — collection-table #212; Victoria commented 2026-11-04 on her Blepharoplasty-group Ubud, Bali upper and lower eyelid recommendation post, not DM'd."
-rank: 130
+rank: 133
 updated: "2026-11-04"
 ---
 
