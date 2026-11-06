@@ -1,3 +1,19 @@
+## 2026-11-06 10:43–10:55（运行实测 12 分钟）— 定时上午场（fb-warm-am）✅ 执行完整
+- 计时说明：运行实测为 10:43–10:55（12 分钟），回传自述一致，无差异
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏显示 Victoria Maizie，发帖框显示 "What's on your mind, Victoria?"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台
+- 浏览内容：共约 24 条（符合 15–25 条目标），每条看完大半再划，节奏自然；首页约 14 项（约 4 分钟）、Reels 推荐流 4 条、搜索“facelift before and after”筛选 Reels/视频 6 条（约 7–8 分钟）；垂类为主（眼睑术后恢复、抗衰老前后对比、鼻整形修复、拉皮+颈部提升术后恢复、面部提升前后对比、深层拉皮），非垂类（音乐推广、发型、广告）快速划过、未点击广告
+- 垂类概况：首页有 Blepharoplasty Support Group 匿名用户术后 18 天眼睑帖、Marla Ragland Finn 抗衰老前后对比、Dr. Paul Nassif 鼻整形修复患者感言、Vicki King 拉皮+颈部提升术后三周（Dr. Samaria Mejia）、Tracy Keays 眼睑术后三周前后对比、Harley Street Injectables 57 岁面部提升案例（Dr. Paul Tulley）、Lauren Umstattd 面部年轻化案例；Reels 有 XiuYu YE 拉皮主题、高二青“46 岁从美国飞中国做拉皮”；搜索视频集中于 facelift before and after，包括 Destination Beauty Plastic Surgery Abroad Carolyn 术后 9 天、Carl Truesdale, M.D. 62 岁拉皮前后对比、Kasi Lu 加拿大客户面部提升、Dr. Peter Malouf 75 岁面颈部提升、Dr. Jason Diamond 术后三个月深层拉皮、Gsfsd（Dr.QinHao）迷你拉皮“56 岁到 35 岁”
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次均确认按钮变为 Remove Like）：
+  1. 首页 Marla Ragland Finn 抗衰老面部前后对比（无计数显示→1）
+  2. 首页 Dr. Paul Nassif 鼻整形修复患者感言（202→203）
+  3. 首页 Vicki King 术后三周深层拉皮+颈部提升+脂肪移植（68→69）
+  4. 首页 Harley Street Injectables 57 岁面部提升前后对比（Like 956→957）
+  5. Reels XiuYu YE 拉皮主题视频（932→933）
+  - 备注：搜索结果中 Dr. Jason Diamond 帖子打开时即显示已点赞（5.6K），本场未重复点击、未计入新增；搜索结果中出现的 Victoria Maizie 本人视频（18 小时前发布）未点赞、未互动
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全：全程无登录失效、真人验证/验证码、账号检查点、限制提示或警告提示，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅；页面顶部 1 条未读通知为会话开始时已存在，未打开查看，不属于安全提示
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-05 18:41–18:54（运行实测约 12 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
 - 计时说明：运行实测为 18:41–18:54（harness 计约 12 分钟），回传自述 18:42–18:54（约 12 分钟），1 分钟起始差异以实测为准
 - 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；发帖框显示 "What's on your mind, Victoria?"，左侧栏显示 Victoria Maizie，评论框显示 "Comment as Victoria Maizie"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台
