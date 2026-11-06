@@ -9414,3 +9414,361 @@
 - 评论链接：https://www.facebook.com/1470200045255330?comment_id=1470887525186582
 - 待发候选 #2 Anna Conde Santamaria 泰/越拉皮求推荐帖 1444647750516661 → 顶楼回复 1445270987121004（E07 93 分通过；面诊必问清单/避坑点钩子：先定同一主刀标准再比国家，书面主刀+报价包含项+书面翻修政策，二选一：全脸颈部还是只做下脸；发前重读去重台账确认未触达；审批卡已获批；读回核验落地，首批 20 条内见我方评论，无双发）。
 - 评论链接：https://www.facebook.com/1444647750516661?comment_id=1445270987121004
+- 待发候选 #3 64 岁膝盖置换后拉皮担心帖 1444695723845197 → 顶楼回复 1445271890454247（E07 第 1 轮 87 分不通过：首句绝对化恢复对比断言；按返修清单改稿，第 2 轮 95 分通过；恢复时间线/避坑点钩子：二次全麻时机只问本人医生+外科医生与麻醉师一起确认，二选一：膝盖已完全负重舒适/仍在积极康复；发前重读去重台账确认未触达；审批卡已获批；读回核验落地，无双发）。
+- 评论链接：https://www.facebook.com/1444695723845197?comment_id=1445271890454247
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象；Mandy/Anna/64 岁三人均为一般求推荐/咨询帖，未达公开明确意向门槛，不直接私信；待发候选剩 3 条：Elizabeth Toledo 菲律宾眼整形求经验帖 1470268665248468、DMV 地区眼整形医生求推荐帖 1470335031908498、Renate Weekhout 上睑下垂翻修求助帖 1470437378564930，按收集表顺序下轮继续发，每轮最多 3 条）。
+- 审批卡：本轮 3 条评论均弹审批卡、均已获批，无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 3 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 3 + 接话 0。收集表尾部现止于 #247（新增 #245 Mandy Elias、#246 Anna Conde Santamaria、#247 64 岁膝盖置换帖，见下）。下轮按轮换扫 Facelift in Korea（766187188947209）。
+
+## 2026-11-06 11:33 轮（猎手轮，round673，Victoria 单线，冻结解除后第 2 轮）
+- 用户 11:18 点选全量沿用去模板化打法；本轮按收集表顺序发积压待发候选后 3 条，每条先经 E07 短内容卡打分 90 分以上才能发；总管（Muse）确认通过稿后动作。
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，round672 新发 3 条 reply_count 均为 0，OP 暂未回）：Mandy Elias 帖我方评论 1470887525186582 reply_count=0（帖顶层 4 条）；Anna Conde Santamaria 帖我方评论 1445270987121004 reply_count=0（帖顶层 16 条）；64 岁膝盖置换帖我方评论 1445271890454247 reply_count=0（帖顶层 6 条）。测试批其余帖无新动态。无楼主回我方评论需接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后无新增提问；Nayak Lori 62 岁帖、Kassir couples reel 无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift in Korea 766187188947209，20 帖核验）：榜单最新为 10-31 唇部填充帖（非业务线），无新增需求帖；其余多为 10 月旧帖（Ipcheps Dr Heo 求证帖 1471103011788953 特定医生锚定、按降权判例不翻案；韩国全拉皮问价帖 1405408658358389、VIP/Dr Lee 求证帖等均为旧帖），不翻案。无新增可评论需求帖。
+- 待审核群：本轮未顺带核查（round671/672 已核查 THE FACELIFT SOCIETY 与 Rhinoplasty Support Group 仍待审核，扫描清单无新增）。
+- E07 打分：草稿 1（Elizabeth Toledo）96 分通过；草稿 2（Judy Goldreich）97 分通过；草稿 3（Renate Weekhout）94 分通过。⚠️ E07 委托时猎手误把草稿 1 帖 ID 写成 1470200045255330（实为 Mandy Elias 悉尼帖，round672 已发），E07 打分行沿用了该错误 ID；已在 review-log.md 追加更正行：草稿 1 正确目标帖为 Elizabeth Toledo 菲律宾帖 1470268665248468，评分不变；三条均按正确帖 ID 发出。
+- 待发候选 #4 Elizabeth Toledo 菲律宾眼整形求经验帖 1470268665248468 → 顶楼回复 1470893521852649（E07 96 分通过；面诊必问清单钩子：切口隐藏位置+疤痕护理+愈合后照片，二选一：上睑还是下睑；发前重读去重台账确认未触达；审批卡已获批；读回核验落地，帖评论数 1→1，我方评论为唯一可见评论，无双发）。
+- 评论链接：https://www.facebook.com/1470268665248468?comment_id=1470893521852649
+- 待发候选 #5 Judy Goldreich DMV 地区眼整形医生求推荐帖 1470335031908498 → 顶楼回复 1470893965185938（E07 97 分通过；避坑点钩子：激光与眼睑手术时机、一年眼睑术量、激光是否本诊所做，二选一：激光同访还是分开做；发前重读去重台账确认未触达；审批卡已获批；读回核验落地，帖评论数 3→4，我方评论置顶首位，无双发）。
+- 评论链接：https://www.facebook.com/1470335031908498?comment_id=1470893965185938
+- 待发候选 #6 Renate Weekhout 上睑下垂翻修求助帖 1470437378564930 → 顶楼回复 1470894148519253（E07 94 分通过；面诊必问清单钩子：翻修面诊先谈感受、提上睑肌功能测量、一年后翻修照片，二选一：先了解面诊内容还是二次手术恢复；措辞温和、未提其校园霸凌经历、不诊断、不承诺；发前重读去重台账确认未触达；审批卡已获批；读回核验落地，帖评论数 0→1，我方评论为唯一评论，无双发）。
+- 评论链接：https://www.facebook.com/1470437378564930?comment_id=1470894148519253
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象；Elizabeth/Judy/Renate 三人均为一般求推荐/求经验/翻修求助帖，未达公开明确意向门槛，不直接私信；待发候选 6 条已全部发完，积压清零）。
+- 审批卡：本轮 3 条评论均弹审批卡、均已获批，无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 3 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 6 + 接话 0。收集表尾部现止于 #250（新增 #248 Elizabeth Toledo、#249 Judy Goldreich、#250 Renate Weekhout，见下）。待发候选已清零，下轮按轮换扫 Rhinoplasty and Revision Rhinoplasty（573582492318097），新候选按去模板化口径先打分再发。
+
+## 2026-11-06 11:43 轮（猎手轮，round674，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程无新入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，14 帖）：round672/673 新发 6 条 reply_count 均为 0（Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253），OP 暂未回；测试批其余帖无新动态（Ovsanna 1470001838608484 reply_count 仍为 2，round557 已接话，OP 未再回；Helen 1131439639865710 reply_count 仍为 1，round535 已核验的楼主旧回复；Jesse/Niki/Carmina/Sara/Maxine/Nebraska/Margaux 均为 0）。无楼主回我方评论需接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论（"Nice. Contact info" 1417585277151301=Gail Serra Matthews 已交 dm-thread-watch；68 岁 110 磅减重想做拉皮评论 1724364362447404 为 10-23 旧评论、多轮已知，不翻案）。61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Rhinoplasty and Revision Rhinoplasty 573582492318097，NEW_POSTS 17 帖）：唯一新帖为 Hazal Demir Duyar 11-05 19:23 术后 4 年推荐自己医生 Dr. İbrahim Korhan 的证言帖 1132656603077347（已锚定特定医生、非需求帖，不触达；其评论接口返回空 data，帖本身已读全文）；其余均为 11-04 及更早已评估/已评论旧帖。**遗漏需求帖补评**：Lala Marie BC 肋软骨翻修求推荐帖 1129987050010969（11-03 07:01，帖下 2 顶层：1 条 "Yes me!" 含 3 回复、1 条建议去美国做，无选医框架）→ 本轮评论（见下）。
+- 待审核群核查（重大进展）：deep plane facelift and neck lift and rhinoplasty support group（1052731386791309，3.4 万人，CLOSED）与 The Facelift Collective（1994097731226692，4000 人，CLOSED）本轮 groups posts 均返回 5 帖，**已通过，加入扫描清单**；其余待审核群（THE FACELIFT SOCIETY、Rhinoplasty Support Group）round672 已核查仍待审核；Face-lift & Neck-lift Support Group 同名多个、ID 未定，本轮未核验，留待后轮。
+- The Facelift Collective 新帖评估：Joanne Triandafilou 深平面内镜面颈拉皮恢复期提问帖 2071307430172388（11-06 04:13，0 评论干净缺口）→ 草稿已送 E07 打分（恢复时间线钩子），待回执；Shellie Jordan Sager 坦帕颈+上睑求推荐帖 2071184630184668（11-06 01:16，1 顶层评论为患者推荐 Geoffrey Kwitko 医生、含 7 条回复，OP 已在互动）→ 医生视角缺口薄，本轮不评论，记观察项。
+- E07 打分：Lala Marie 草稿 96 分通过（贴合 29/30、合规 30/30、短勾人 18/20、格式 19/20；无强制返修；建议第二句压为两项面诊问题、"the pool … is small"可弱化为 limited；建议为非强制，按通过稿原文发出）。
+- 腿二评论 1：Lala Marie BC 肋软骨翻修求推荐帖 1129987050010969 → 顶楼回复 1133386446337696（E07 96 分通过；面诊必问清单钩子：年翻修量+防 warping+愈合后照片，二选一：取肋部位恢复/鼻子长期形态；发前重读去重台账确认未触达；审批卡已获批；读回核验落地，帖顶层 2→3，我方评论置顶首位，无双发）。
+- 评论链接：https://www.facebook.com/1129987050010969?comment_id=1133386446337696
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；Lala Marie 为 BC 本地锚定一般求推荐帖，未达公开明确意向门槛，不直接私信；若她回答二选一问题或对我方评论追问再评估；Joanne 为术后恢复咨询，未达私信门槛）。
+- 审批卡：本轮 Lala 评论弹审批卡、已获批，无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 1 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 7 + 接话 0。收集表尾部现止于 #251（新增 #251 Lala Marie，见下）。下轮按轮换扫 Facelift & Necklift Turkey（1146474503904898）；新通过的 The Facelift Collective 与 deep plane 群已入扫描清单，纳入轮换。
+
+## 2026-11-06 11:43 轮补记（猎手轮，round674，Joanne E07 回执后）
+- E07 打分：Joanne Triandafilou 草稿 96 分通过（贴合 26/30——扣 4 分：原帖问疼痛与肿胀，草稿只答了肿胀；合规 30/30、短勾人 20/20、格式 20/20；无强制返修；非强制建议首句补疼痛一般性表述，未采纳、按通过稿原文发出，与此前多轮通过稿惯例一致）。
+- 腿二评论 2：Joanne Triandafilou 深平面内镜面颈拉皮恢复期提问帖 2071307430172388 → 顶楼回复 2071603050142826（E07 96 分通过；恢复时间线钩子：3–5 天肿胀高峰、2–3 周明显缓解、最后紧绷感可 linger 数月，二选一：前两周肿胀/数月后仍紧绷；发前重读去重台账确认未触达——仅本轮评估行提及，未曾评论；审批卡已获批，等卡约 6 分钟；读回核验落地，帖顶层 0→1，我方评论为唯一评论，无双发）。
+- 评论链接：https://www.facebook.com/2071307430172388?comment_id=2071603050142826
+- 评论 2 / 接话 0 / 私信 0 / 客资 0。今日累计（猎手，11-06）：新评论 8 + 接话 0。收集表尾部现止于 #252（新增 #252 Joanne Triandafilou，见下）。
+
+## 2026-11-06 12:13 轮（猎手轮，round675，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，8 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826；Helen 1131439639865710 reply_count 仍为 1（round535 已核验的楼主旧回复）；Ovsanna 无新动态。无楼主回我方评论需接话。注意：Renate 帖新增 1 条顶层评论 1470899885185346，内容为某医生自述翻修眼睑经验并讲术前评估要点，属同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后新增均为赞美/玩笑/艾特，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论（68 岁减重 110 磅想做拉皮评论 1724364362447404 为旧评论、不翻案；"Nice. Contact info" 1417585277151301 已交 dm-thread-watch）；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift & Necklift Turkey 1146474503904898，NEW_POSTS 20 帖）：最新帖为 Bahadir Demirkan 全脸年轻化套餐求证帖 1570868781465466（11-06 05:39，3 评论）——特定医生+套餐锚定验证型，按 2026-11-05 内容调整逻辑第 4 条降权，不为凑数而发；Dr CHOPRA 迈阿密求证帖 1569949271557417（0 评论，问价+要照片）与 dr can uslu 求证帖 1569679171584427（5 评论）同为特定医生锚定，跳过；Ibrahim Rahimli DPFL 求证帖 1569029588316052 特定医生锚定（同医生已由 #31 Debbie Webster 覆盖），跳过；其余为广告（淋巴引流按摩 1569471548271856、Este Prime 机构介绍 1568451648373846）、已饱和旧帖（"Booking surgery?" 1568508225034855 作者为 Nicole Meawasige，已知排除项；单独出行求助 1567960635089614，30 评论已答；土耳其最佳医生 1562000482352296，49 评论已饱和；30 岁面部困扰 1563967828822228，10-30 旧帖 12 评论）、已定行程/术后咨询帖。无新增可评论需求帖，本轮无 E07 打分、无新评论。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 8 + 接话 0。收集表无新增（尾部仍止于 #252）。下轮按轮换扫 Plastic Surgery in Turkey（plasticsurgeryinturkeyknowbeforeyoubook）；新通过的 The Facelift Collective 与 deep plane 群已入扫描清单，纳入轮换。
+
+## 2026-11-06 12:23 轮（猎手轮，round676，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，17 帖 reply_count 均无变化）：8 条新发评论 reply_count 均为 0（Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826），OP 暂未回；测试批其余帖无新动态（Ovsanna 1470001838608484 reply_count 仍为 2，round557 已接话，OP 未再回二选一问题；Helen 1131439639865710 reply_count 仍为 1，round535 已核验的楼主旧回复；Jesse/Niki/Carmina/Sara/Maxine/Nebraska/Margaux 均为 0）。无楼主回我方评论需接话。注意：Renate 帖顶层 1→2，新增 1470899885185346 为某医生自述翻修眼睑经验并讲术前评估要点，属同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后无新增提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Plastic Surgery in Turkey plasticsurgeryinturkeyknowbeforeyoubook，NEW_POSTS 18 帖）：榜首仍为 Bronnie Jonkers 胃袖术后身体去皮咨询帖 1777449026819882（11-06 10:05，身体线、已知观察项），无新帖；其余均为已评估项或非本业务线（The Plastic Surgery Group 求经验帖 1777170913514360、Renate Lift 求证帖 1776818240216294/1776150186949766、Dr Umut Say 隆鼻求证帖 1775594023672049 均为已知观察项，特定医生/诊所验证型按内容调整逻辑第 4 条降权；胸部/抽脂/BBL/束身衣等均为身体线）。唯一未细读项 Chanelle Wade 澳大利亚赴土耳其隆鼻行前 logistics 帖 1775210623710389（11-04，问带什么/术前术后用药/付款方式）：已定土耳其隆鼻行程、非求医需求帖，用药与行程问题以本人医生为准，不评论，记观察项；其帖下评论 CLI 返回空 data（群帖评论盲区已知现象），下轮不再追读。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #252）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 8 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #252）。下轮按轮换扫 Facelift in Korea（766187188947209）。
+
+## 2026-11-06 12:33 轮（猎手轮，round677，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号（Emerson/Fowler/Jioklm 已退役、Jusa 环境已删、Simon/Cora 已删，均不在轮内）。
+- 回评跟进（轻量核对，10 帖 reply_count 均无变化）：8 条新发评论 reply_count 均为 0（Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826），OP 暂未回；Ovsanna 比利时帖我方评论 1470001838608484 reply_count 仍为 2（round557 接话后，OP 未再回二选一问题）；Helen 帖我方评论 1131439639865710 reply_count 仍为 1（round535 已核验的楼主旧回复，无新问题，不追加）。无楼主回我方评论需接话。注意：Renate 帖顶层新增评论 1470899885185346（某医生自述翻修眼睑经验）仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488 "Pops is about to turn up … wonderful work on your parents !!"），其后无新增提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift in Korea 766187188947209，NEW_POSTS 20 帖核验）：榜首仍为 10-31 唇部填充帖 1473289571570297（非业务线，已知），无新帖；其余均为 10 月旧帖（Ipcheps Dr Heo 求证帖 1471103011788953 特定医生锚定、按降权判例不翻案；韩国全拉皮问价帖 1405408658358389 等均为旧帖），不翻案。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #252）。
+- 待审核群：本轮未顺带核查（round676 已核查 THE FACELIFT SOCIETY 与 Rhinoplasty Support Group 仍待审核，扫描清单无新增）；下轮顺带复核。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 8 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #252）。下轮按轮换扫新入清单的 deep plane facelift and neck lift and rhinoplasty support group（1052731386791309）；The Facelift Collective 观察项 Shellie Jordan Sager 坦帕帖 2071184630184668 待复核。
+
+## 2026-11-06 12:43 轮（猎手轮，round678，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，10 帖 reply_count 均无变化）：8 条新发评论 reply_count 均为 0（Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826），OP 暂未回；Ovsanna 1470001838608484 reply_count 仍为 2（round557 已接话，OP 未再回二选一问题）；Helen 1131439639865710 reply_count 仍为 1（round535 已核验的楼主旧回复）。Anna 帖顶层 16 条细读：其余 15 条均早于我方评论发布时间，均为患者经验/国家推荐，无 OP 新动态。无楼主回我方评论需接话。注意：Renate 帖顶层仍为 2 条，医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update"（向 Truesdale 要更新，非提问）+赞美，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 deep plane facelift and neck lift and rhinoplasty support group 1052731386791309，NEW_POSTS 20 帖）：无新增可评论需求帖。榜首两帖均为术后高压氧咨询（1460613439336433，13 评论；1460481312682979，12 评论），已术后求助不碰；韩国手术经历帖 1459836439414133（10 评论）与波兰/布拉格男性下脸拉皮求推荐帖 1449767890420988（12 评论）均为目的地锚定+已有较多评论，按内容调整逻辑第 4 条降权；其余为广告、已定行程/术前贴士帖、特定医生求证帖（Dr Rose 休斯顿 1453472283383882，1 评论，特定医生+本地锚定降权）、空内容帖。无 E07 打分、无新评论。收集表无新增（尾部仍止于 #252）。
+- The Facelift Collective 观察项 Shellie Jordan Sager 坦帕颈+上睑求推荐帖 2071184630184668 复核：CLI 顶层仍仅 1 条（Geoffrey Kwitko 推荐，7 条回复），OP 无新提问，医生视角缺口仍薄，继续观察不评论。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 8 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #252）。下轮按轮换扫 Tijuana Plastic Surgery & Medical Tourism（547821016940250）。
+
+## 2026-11-06 12:53 轮（猎手轮，round679，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；未读仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，10 帖 reply_count 均无变化）：8 条新发评论 reply_count 均为 0（Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826），OP 暂未回；Ovsanna 比利时帖我方评论 1470001838608484 reply_count 仍为 2（round557 接话后，OP 未再回二选一问题）；Helen 帖我方评论 1131439639865710 reply_count 仍为 1（round535 已核验的楼主旧回复）。无楼主回我方评论需接话。注意：64 岁帖顶层 6→7，新增 1445316793783090（"A facelift will be painless compared to a knee replacement."，他人顶层评论、非回复我方），不接；Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update"（向 Truesdale 要更新）+赞美/玩笑/艾特，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新为赞美 "Stunning work! Beautiful. Wish this wasn't JUST for the wealthy class"，单字 "Cost" 父评论 968899815843129 与新增同类 41260450506887418 均指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论（68 岁 110 磅减重想做拉皮评论 1724364362447404 为旧评论、不翻案；"Nice. Contact info" 1417585277151301 已交 dm-thread-watch）；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Tijuana Plastic Surgery & Medical Tourism 547821016940250，NEW_POSTS 18 帖）：新增可评论需求帖 1 条——Jennifer Agusta Elswick 前额缩小+眉提升求经验帖 1694011485654525（11-06 08:02，问 Tijuana 有无做过 forehead reduction/brow lift 的人；帖下仅 3 条评论：Following 1 条、他人称明年 1 月找 Dr. Macario Salcido 做该手术+眼睑手术 1 条；OP 未定医生、无选医框架，属仍在找的干净缺口；此前为冻结期观察项，本轮冻结已解除、去模板化全量沿用，按序评估后评论）。其余均不碰：空内容帖 1694018125653861；Dr. Buritica TJ 面部手术求反馈帖 1693959922326348（特定医生锚定验证型，观察项、降权）；MMO+BBL 求推荐 1693925482329792、抽脂替代咨询 1693275659061441、BBL 医生求证 1693015722420768、抽脂+提臀术后分享 1692475732474767、Dr Laura Alvarez 套餐更新 1692456219143385 等均为身体线；Dr. Samaria Mejia DPFL 三周更新 1693889699000037（术后分享）；独行手术陪同广告 1693693222353018；Dr. Camberos 种植体更换验证 1693606615695012（乳房项目+特定医生锚定）；协调公司求推荐帖 1693582022364138（Bethaney Upchurch，11-05 被中介坑后求靠谱协调公司翻修：帖下 15 评论已有"自己做功课+要既往患者推荐"框架回答、其余多为中介自荐，线程已饱和且我方评论易混同推销，按不凑数口径不评论，记观察项）；Soulya/Dr Laura Alvarez 求证 1691918512530489（身体线）；保险验血 1692699165785757（非求医）。
+- E07 打分：Jennifer Agusta Elswick 草稿 96 分通过（贴合 28/30——扣 2 分未明写 Tijuana；合规 30/30；短勾人 18/20；格式 20/20；无强制返修；非强制建议：首句补 Tijuana 地点词、第二句压为一项，未采纳、按通过稿原文发出）。
+- 腿二评论 1：Jennifer Agusta Elswick 前额缩小+眉提升求经验帖 1694011485654525 → 顶楼回复 1694275215628152（E07 96 分通过；避坑点钩子：前额缩小≠眉提升、先分清额头真正需要哪一项，面诊必问清单：远期愈合后发际线照片+疤痕位置，二选一：发际线高度/眉毛位置哪个更困扰；发前重读去重台账确认未触达——此前仅为观察项记录、未曾评论；审批卡已获批，等卡约 40 分钟；读回核验落地，我方评论置顶首位，无双发）。
+- 评论链接：https://www.facebook.com/1694011485654525?comment_id=1694275215628152
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象；Jennifer 为 Tijuana 目的地锚定的一般求经验帖，未达公开明确意向门槛，不直接私信；若她回答二选一问题或对我方评论追问再评估）。
+- 审批卡：本轮 1 条评论弹审批卡、已获批，无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 1 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 9 + 接话 0。收集表尾部现止于 #253（新增 #253 Jennifer Agusta Elswick，见下）。下轮按轮换扫新入清单的 The Facelift Collective（1994097731226692）；Shellie Jordan Sager 坦帕帖 2071184630184668 观察项待复核。
+
+## 2026-11-06 13:33 轮（猎手轮，round680，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，9 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152；Ovsanna/Helen 本轮未复核（round679 已核对无新动态）。无楼主回我方评论需接话。注意：64 岁帖顶层仍为 7 条（round679 新增他人顶层评论 1445316793783090，非回复我方，不接）；Renate 帖顶层仍为 2 条，医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update"（向 Truesdale 要更新）+赞美/玩笑/艾特，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论（68 岁 110 磅减重想做拉皮评论 1724364362447404 为旧评论、不翻案；"Nice. Contact info" 1417585277151301 已交 dm-thread-watch）；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 The Facelift Collective 1994097731226692，NEW_POSTS 19 帖）：无新增可评论需求帖。榜首仍为 Joanne 恢复期帖 2071307430172388（已评论 2071603050142826）；Shellie Jordan Sager 坦帕颈+上睑求推荐帖 2071184630184668 复核：顶层仍仅 1 条（Geoffrey Kwitko 推荐，7 条回复），OP 无新提问，医生视角缺口仍薄，继续观察不评论；Dr. CHOPRA 迈阿密求证帖 2070467980256333（11-05，0 评论，问经验+照片+价格）为特定医生锚定验证型，按内容调整逻辑第 4 条降权，不为凑数而发；上睑术后视野改善帖 2070255326944265（11-05，5 评论）为患者经验征询、非求医需求帖，不碰；韩国拉皮求经验帖 2069894670313664（11-04，9 评论）已有越南/泰国患者经验互动、无未答医生视角缺口，不翻案；其余为术后恢复分享、术后求助、特定医生求证、激光护理等，均不碰。本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #253）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 9 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #253）。下轮按轮换扫 Facelift Support Group（536390454675733）。
+## 2026-11-06 13:43 轮（猎手轮，round681，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、cached_thread_count=20、newest_cached_ts 未变（1793873726270）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，9 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152；Ovsanna 比利时帖我方评论 1470001838608484 reply_count 仍为 2（round557 接话后，OP 未再回二选一问题）；Helen 帖我方评论 1131439639865710 reply_count 仍为 1（round535 已核验的楼主旧回复，无新问题，不追加）。无楼主回我方评论需接话。注意：Anna 帖顶层仍为 16 条，无新增；64 岁帖顶层仍为 7 条；Renate 帖顶层仍为 2 条，医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift Support Group 536390454675733，NEW_POSTS 16 帖）：新增可评论需求帖 1 条——Carol Reichert 局麻+口服镇静 deep plane vertical lift 求经验帖 1445152737132829（11-06 08:34，帖下仅 1 条垃圾 tag 评论，无实质回答；此前冻结期观察项，方向已定后首发）。新增观察项 1 条——Sharon Hart 问开罗 Dr Bassim Beshir 经验帖 1445271047120998（11-06 11:38，0 评论）：特定医生锚定验证型，按内容调整逻辑第 4 条降权，不评论、不私信、不记收集表，记观察项。其余均不碰：Ana Camargo DMV 护士术后护理自荐广告帖 1444833167164786；1445225177125585 观点表态帖；1445222437125859 空内容帖；1445238187124284 Guadalajara Dr Ruben Agredano 求证帖（特定医生锚定，观察项）；1445079293806840 韩国 Dr Lee VIP Surgery 求证帖（特定医生锚定）；1445026577145445（30 评论已饱和）；1444938767154226 眼眉二选一（94 评论已饱和）；1444922777155825 英国兰开夏郡 DPFL 求推荐（28 评论，观察项）；其余均为已评估项，不翻案。
+- E07 打分：Carol Reichert 草稿 96 分通过（贴合 29/30、合规 30/30、短勾人 17/20、格式 20/20；无强制返修；非强制建议：第二句三并列可压为两项、二选一第二项尽量取原帖已提担心，未采纳、按通过稿原文发出）。
+- 腿二评论 1：Carol Reichert 局麻+口服镇静 deep plane vertical lift 求经验帖 1445152737132829 → 顶楼回复 1445356483779121（E07 96 分通过；避坑点钩子：备用方案/术中监测/无 IV 如何追加镇静+同类术式量，二选一：术中感觉/术后恢复；发前重读去重台账确认仅观察项记录、未曾评论；审批卡已获批；读回核验落地，帖顶层 1→2，我方评论置顶首位，无双发）。
+- 评论链接：https://www.facebook.com/1445152737132829?comment_id=1445356483779121
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象；Carol 为麻醉方式求经验帖，未达公开明确意向门槛，不直接私信；若她回答二选一问题或对我方评论追问再评估）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 新规则备忘（2026-11-06 13:45 用户定，MEMORY.md 已更新）：新好友立即联系——好友列表差分归私信盯守（每 15 分钟 CLI 差分，新好友筛查后按私信口径立即发首条）、待处理好友请求归客户雷达（浏览器核查，疑似真实意向先通过再私信，不确定先报用户）；猎手本轮不越界做好友差分，记备忘。
+- 审批卡：本轮 1 条评论弹审批卡、已获批，无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 1 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 10 + 接话 0。收集表尾部现止于 #254（新增 #254 Carol Reichert，见上）。下轮按轮换扫 Blepharoplasty Support Group（473931468215531）。
+
+## 2026-11-06 13:53 轮（猎手轮，round682，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21（round681 为 20，新增 1 条为 Shandi Utama Alcho 线程，snippet 为我方 "hi"、is_unread=false，非客户新回复，疑为 dm-thread-watch 新好友首发，猎手不跟进）、newest_cached_ts 1793943871718；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，10 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152、Carol 1445356483779121；Ovsanna 我方评论 1470001838608484 楼层仍为 2 条（11-05 旧回复：OP 致谢 + 我方 round557 接话，无新动态）；Helen 我方评论 1131439639865710 楼层仍为 1 条（11-04 楼主旧回复，round535 已核验）。无楼主回我方评论需接话。注意：Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话；64 岁帖顶层仍为 7 条。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update" +赞美/玩笑/艾特，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Blepharoplasty Support Group 473931468215531，NEW_POSTS 19 帖）：新增可评论需求帖 1 条——Barbra A Troisi 亚利桑那下眼睑两位医生犹豫帖 1470769195198415（11-06 08:49；此前冻结期观察项，方向定后首发候选；本轮复核：OP 在嵌套楼层已回复，今见 Dr. Mansueto、喜欢她、已确认是候选人、认真考虑中，但忘了问风险；另有一月与 North Scottsdale Dr. Chen 的面诊；帖下另有 1 条负面经历评论，属路人评论者，不回复、不 @、不接话）。其余新增均不评论：Zonia Martinez Batista 意大利语问土耳其 Anvar Ahmedov 医生经验帖 1470960515179283（特定医生锚定验证型，降权）；Kelly Buchanan 奥兰多找同城人帖 1470916531850348（无求医问题）；Jonathan Bing Reynosa 眼睑留观天数帖 1470731205202214（已定医生+已定行程，降权，观察项）；Julie Cope 单眼上睑求经验帖 1470711461870855（沿用 round655 决议：经验征询帖，跳过）；Plexr 下眼睑咨询帖 1470817521860249（观察项，非手术替代方案咨询）；其余为已定医生/术后求助/已饱和/广告/无关帖。
+- E07 打分：Barbra 草稿 95 分通过（贴合 27/30——扣 3 分未提亚利桑那/North Scottsdale 地域独有点；合规 30/30；短勾人 18/20——扣 2 分首句偏长；格式 20/20；无强制返修；非强制建议：补地域词、首句拆短，未采纳、按通过稿原文发出）。
+- 腿二评论 1：Barbra A Troisi 亚利桑那下眼睑两位医生犹豫帖 1470769195198415 → 顶楼回复 1471003905174944（E07 95 分通过；面诊必问清单/避坑点钩子：先钉住 Mansueto 的风险答案+愈合后照片再与一月 Chen 面诊对比，二选一先钉风险答案/先看 Chen 愈合后照片；发前重读去重台账确认仅观察项记录、未曾评论；审批卡已获批，等卡约 23 分钟；读回核验落地，我方评论置顶首位，帖顶层 5→6，无双发）。
+- 评论链接：https://www.facebook.com/1470769195198415?comment_id=1471003905174944
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象；Barbra 为两位医生犹豫中的一般求经验帖，未达公开明确意向门槛，不直接私信；若她回答二选一问题或对我方评论追问再评估）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 审批卡：本轮 1 条评论弹审批卡、已获批，等卡约 23 分钟，无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 1 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 0。收集表尾部现止于 #255（新增 #255 Barbra A Troisi，见下）。下轮按轮换扫 Rhinoplasty and Revision Rhinoplasty（573582492318097）。
+
+## 2026-11-06 14:31 轮（猎手轮，round683，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，11 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152、Carol 1445356483779121、Barbra 1471003905174944；Anna 帖顶层仍为 16 条，无新增；64 岁帖顶层仍为 7 条；Renate 帖顶层仍为 2 条，医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话；Ovsanna/Helen 本轮未复核（round682 已核对无新动态）。无楼主回我方评论需接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-22 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Rhinoplasty and Revision Rhinoplasty 573582492318097，NEW_POSTS 20 帖）：今日无新帖，最新为 11-05 19:23 Hazal Demir Duyar 伊兹密尔 4 年前闭合隆鼻经验分享帖 1132656603077347（附其主刀医生 IG 截图，特定医生锚定分享帖，非求医需求帖；CLI 评论读回为空，群榜单计 5 评论，计数口径不一致，不盲评）；其余均为已评估/已评论项：Carmina 1130970416579299（我方已评 1131422779867396）、Hakan Avci 1130944529915221（我方已评 1131439639865710，即 Helen 楼层）、Lala 1129987050010969（我方已评 1133386446337696）、截骨担忧 1126402640369410 / 瘢痕 1124904497185891 / 歪鼻翻修 1125913803751627（均已评，OP 未回）、复杂翻修求推荐 1124156573927350（33 评论已饱和）、鼻麻木 1126100557066285 / 3 周消肿 1125200807156260（已术后求助不碰）、广告/投诉/旧帖，不翻案。无新需求帖可评论。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Facelift & Necklift Turkey（1146474503904898）。
+
+## 2026-11-06 14:33 轮（猎手轮，round684，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，11 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152、Carol 1445356483779121、Barbra 1471003905174944；Ovsanna/Helen 本轮未复核（round682 已核对无新动态）。无楼主回我方评论需接话。注意：Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update"（向 Truesdale 要更新）+赞美/玩笑/艾特，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论（68 岁 110 磅减重想做拉皮评论 1724364362447404 为旧评论、不翻案；"Nice. Contact info" 1417585277151301 已交 dm-thread-watch）；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift & Necklift Turkey 1146474503904898，NEW_POSTS 20 帖）：榜首仍为 Bahadir Demirkan 全脸年轻化套餐求证帖 1570868781465466（11-06 05:39，3 评论，round675 已评估：特定医生+套餐锚定验证型，按内容调整逻辑第 4 条降权，不为凑数而发），评论数无变化；其余均为 round675 已评估项（Dr CHOPRA 迈阿密求证帖 1569949271557417、dr can uslu 求证帖 1569679171584427、Ibrahim Rahimli DPFL 求证帖 1569029588316052 均为特定医生锚定，跳过；广告、已饱和旧帖、已定行程/术后咨询帖）。自 round675 起该群无新帖，无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Plastic Surgery in Turkey（plasticsurgeryinturkeyknowbeforeyoubook）。
+
+## 2026-11-06 14:43 轮（猎手轮，round685，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，11 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004（顶层仍 16 条）、64 岁 1445271890454247（顶层仍 7 条）、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253（顶层仍 2 条）、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152、Carol 1445356483779121、Barbra 1471003905174944（顶层仍 6 条）；Ovsanna 我方评论 1470001838608484 楼层仍为 2 条（round557 接话后，OP 未再回二选一问题）；Helen 我方评论 1131439639865710 楼层仍为 1 条（round535 已核验的楼主旧回复）。无楼主回我方评论需接话。注意：Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Plastic Surgery in Turkey plasticsurgeryinturkeyknowbeforeyoubook，NEW_POSTS 18 帖）：榜首仍为 Bronnie Jonkers 胃袖术后身体去皮咨询帖 1777449026819882（11-06 10:05，身体线、已知观察项），自 round676 起无新帖；其余均为已评估项或非本业务线（The Plastic Surgery Group 求经验帖 1777170913514360、Renate Lift 求证帖 1776818240216294/1776150186949766、Dr Umut Say 隆鼻求证帖 1775594023672049 均为已知观察项，特定医生/诊所验证型按内容调整逻辑第 4 条降权；胸部/抽脂/BBL/束身衣等均为身体线）。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Facelift in Korea（766187188947209）。
+
+## 2026-11-06 14:53 轮（猎手轮，round686，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，11 条新发评论 reply_count 均为 0，OP 暂未回）：Mandy 1470887525186582、Anna 1445270987121004、64 岁 1445271890454247、Elizabeth 1470893521852649、Judy 1470893965185938、Renate 1470894148519253、Lala 1133386446337696、Joanne 2071603050142826、Jennifer 1694275215628152、Carol 1445356483779121、Barbra 1471003905174944；Ovsanna/Helen 本轮未复核（round685 已核对无新动态）。无楼主回我方评论需接话。注意：Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话；Barbra 帖另有他人楼层 reply_count 4/5，均为路人讨论、非回复我方，不接。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update"（向 Truesdale 要更新）+赞美，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift in Korea 766187188947209，NEW_POSTS 20 帖）：自 10-31 后无新帖；榜首仍为 10-31 唇部填充求推荐帖 1473289571570297（非业务线，已知）；其余均为已评估项（Ipcheps Dr Heo 面颈拉皮+脂肪移植求证帖 1471103011788953 特定医生锚定、按降权判例不翻案；The View 诊所求证帖 1469350591964195、Pride/Ipche 求证帖 1450589170507004、HERSHE 求证帖 1449663013932953 均为特定医生/诊所锚定；韩国全拉皮问价帖 1405408658358389 为 8 月旧帖 39 评论已饱和）。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 0。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Tijuana Plastic Surgery & Medical Tourism（547821016940250）。
+
+## 2026-11-06 16:33 轮（猎手轮，round687，Victoria 单线）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718，约 13:44）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，11 条新发评论 reply_count 变化 3 处，均经浏览器读楼层核实为楼主本人回复）：Mandy 帖我方评论 1470887525186582 reply_count 0→1；64 岁帖我方评论 1445271890454247 reply_count 0→1；Ovsanna 帖我方评论 1470001838608484 reply_count 2→3；其余 8 条 reply_count 仍为 0（Anna 顶层 15 条、Elizabeth 2、Judy 4、Renate 2、Lala 3、Joanne 1、Jennifer 3、Carol 2、Barbra 7——Barbra 帖新增顶层为 11-06 08:17 越南医生推荐评论，路人推广嫌疑，不回复、不 @、不接话）；Helen 楼层仍为 1 条（11-04 楼主旧回复）。
+- 接话 1/3：Mandy Elias 14:54 回我方评论："great advice thanks! I'm not sure if I'm a candidate for lower but open to it if I am" → 嵌套回复 1471109735164361（E07 新稿 97 分通过；bag vs loose skin 决定下睑是否在选项内+面诊看愈合后照片与切口隐藏位置，二选一先定下睑问题/先定疤痕方案；审批卡已获批；评论链接 https://www.facebook.com/1470200045255330?comment_id=1470887525186582&reply_comment_id=1471109735164361）。注：review-log 第 23 行已有同名 97 分条目但未存草稿原文、无法复核原样，本轮按 14:54 最新回复重起新稿重打分，未复用旧条目。
+- 接话 2/3：Suzimbo Cattery（64 岁膝盖置换帖楼主，姓名本次浏览器核实）15:55 回我方评论："I'm 2.5 years post-op on my knee. I hadn't thought of getting clearance from knee surgeon, but I definitely will. Thanks for pointing this out." → 嵌套回复 1445462477101855（E07 97 分通过；2.5 年术后是扎实起点+先拿膝盖医生 clearance 顺序正确+下一步问主刀术前想了解膝盖什么，二选一已面诊/仍在定时间；审批卡已获批；评论链接 https://www.facebook.com/1444695723845197?comment_id=1445271890454247&reply_comment_id=1445462477101855）。
+- 接话 3/3：Ovsanna Harutyunyan 15:39 回我方评论（二选一选了 fellowship background first）→ 嵌套回复 1471110328497635（E07 97 分通过；fellowship 优先是强过滤器+问年眼睑量与愈合后照片，二选一年眼睑量/愈合后照片；审批卡已获批；评论链接 https://www.facebook.com/1469995851942416?comment_id=1470001838608484&reply_comment_id=1471110328497635）。
+- 读回核验：三帖我方评论 reply_count 分别 1→2、1→2、3→4，三条接话均已落地，无双发。三人均未达私信门槛（仍在调研/咨询阶段，未问价、未要联系方式、未说想做），不私信，交 dm-thread-watch 在进行中线程内观察。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488，UTC 03:14），其后仅 "We need an update" +赞美/玩笑/艾特，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-22 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Tijuana Plastic Surgery & Medical Tourism 547821016940250，NEW_POSTS 20 帖）：新增 2 项均不评论——11-06 07:00 UTC Joyful Medical Planning 医疗旅游广告帖 1694334152288925（广告，非需求帖）；11-06 00:09 UTC 空内容帖 1694018125653861（0 评论，无内容可评）；其余均为已评估项（Jennifer 前额缩小帖 1694011485654525 已评，榜单 c=5 含嵌套、顶层仍 3 条；Dr. Buritica TJ 面部手术求证帖 1693959922326348 特定医生锚定、按降权判例不翻案；MMO+BBL、Dr. Samaria Mejia DPFL 术后更新、Camberos Solis 假体更换、协调员求推荐、腹部替代方案、BBL 结果贴均为身体线或非需求帖）。无新增可评论拉皮/鼻需求帖，本轮无新评论 E07 打分。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮 3 条嵌套回复均弹审批卡、均已获批（Mandy 一条等卡约 15 分钟，其余两条数十秒内获批），无需微信通知；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 3 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮新增 3 条接话；收集表无新增（尾部仍止于 #255，#241/#245/#247 状态已更新）。下轮按轮换扫 Facelift Support Group（536390454675733）。
+
+## 2026-11-06 16:53 轮（猎手轮，round688，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2、Anna 0、64 岁 2、Elizabeth 0、Judy 0、Renate 0、Lala 0、Joanne 0、Jennifer 0、Carol 0、Barbra 0、Ovsanna 4、Helen 1；无楼主回我方评论需接话。注意：64 岁帖顶层 7→9，新增 2 条均为他人顶层评论（母亲髋关节置换经验分享；越南 DPFL+颈+眼睑 8000 美元以下经历+留联系方式试探——路人推广嫌疑，不回复、不 @、不接话），非回复我方，不接；Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-22 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift Support Group 536390454675733，NEW_POSTS 15 帖）：无新增可评论需求帖。新增 4 条为同一肌贴（kinesiology taping）手肿胀内容重复刷帖（16:29–16:32，0 评论），非手术求医帖，不碰；空内容帖 1445413340440102 不碰；Sharon Hart 开罗 Dr Bassim Beshir 求证帖 1445271047120998（特定医生锚定，round681 观察项，仍 0 评论）不翻案；Guadalajara Dr Ruben Agredano 求证帖 1445238187124284（特定医生锚定观察项）不翻案；韩国 Dr Lee VIP Surgery 求证帖 1445079293806840（特定医生锚定，10 评论）不翻案；Lancashire 英国 DPFL 求推荐帖 1444922777155825（31 评论，观察项）不翻案；其余为观点帖、术后分享、房地产广告、已饱和旧帖。Carol Reichert 帖仍为我方评论置顶，评论数 2 不变。本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Blepharoplasty Support Group（473931468215531）。
+
+## 2026-11-06 17:03 轮（猎手轮，round689，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718，约 13:44）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2、Anna 0（顶层 15→16，新增 3 条均为越南/泰国患者医生推荐，路人评论、非回复我方，不接）、64 岁 2（顶层仍 9）、Elizabeth 0、Judy 0、Renate 0、Lala 0、Joanne 0、Jennifer 0、Carol 0、Barbra 0、Ovsanna 4、Helen 1（11-04 楼主旧回复）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），其后仅 "We need an update" +赞美，无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Blepharoplasty Support Group 473931468215531，NEW_POSTS 20 帖）：新增 3 项均不评论——11-06 16:13 Lisa Teasdale 求证 Dr Serge / Faceland 帖 1471083438500324（特定医生锚定验证型，按去模板化选题口径降权，不翻案）；11-06 15:45 Shahira Amin 术后 5 天前后对比分享帖 1471060801835921（0 评论，庆祝分享型、非需求帖）；11-06 08:08 Darlyne Garner 眼睑盾提问帖 1470742238534444（50 评论，患者已把角膜保护标准答案答透，饱和，不追加）；其余 16 帖均为台账已评估项（Ovsanna/Mandy/Elizabeth/Barbra 四帖我方已评论；1470535181888483 等 11-05 及更早帖均有台账记录）。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Rhinoplasty and Revision Rhinoplasty（573582492318097）。
+
+## 2026-11-06 17:13 轮（猎手轮，round690，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718，约 13:44）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol 0（顶层 2）、Barbra 0（顶层 7）、Ovsanna 4（顶层 1）、Helen 1（顶层 1）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Rhinoplasty and Revision Rhinoplasty 573582492318097，NEW_POSTS 17 帖）：榜首仍为 11-05 19:23 Hazal Demir Duyar 伊兹密尔 4 年前闭合隆鼻经验分享帖 1132656603077347（特定医生锚定分享帖，非求医需求帖），17 条 ID 与 round683 完全一致，自 round683 起无新帖；其余均为已评估/已评论项，不翻案。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Facelift & Necklift Turkey（1146474503904898）。
+
+## 2026-11-06 17:23 轮（猎手轮，round691，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718，约 13:44）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol 0（顶层 2）、Barbra 0（顶层 7）、Ovsanna 4（顶层 1）、Helen 1（顶层 1）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话；Anna 帖越南医生推荐楼层与 Barbra 帖他人讨论楼层均为路人评论、非回复我方，不接。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-22 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift & Necklift Turkey 1146474503904898，NEW_POSTS 17 帖）：无新增可评论需求帖。最新 11-05 21:39 Dr. Bahadir Demirkan 安塔利亚全脸套餐求证帖 1570868781465466（4 评论，特定医生锚定观察项，不翻案）；11-05 00:30 Dr. CHOPRA 迈阿密求经验帖 1569949271557417（0 评论，特定医生锚定观察项，不翻案）；11-04 17:50 Dr Can Uslu 帖 1569679171584427 为 #230 Nicole Meawasige 已评论项，不翻案；11-04 03:11 Ibrahim Rahimli DPFL 求证帖 1569029588316052（特定医生锚定，降权，不翻案）；11-03 "Booking surgery?" 帖 1568508225034855（群计 16 评论，CLI 仅见 2 条：Renewal/Dr Boztepe 求证与英国协调员推广，3 天旧帖、无干净未答选医缺口，不追加）；11-03 "If I come alone will I be ok?" 帖 1567960635089614（32 评论，陪同 logistics、已饱和，不追加）；其余为淋巴引流广告、Este Prime 协调员自我介绍、Fit and Fit 求证、旧帖/观点帖，均不碰。本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Plastic Surgery in Turkey（plasticsurgeryinturkeyknowbeforeyoubook）。
+
+## 2026-11-06 17:33 轮（猎手轮，round692，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=21、newest_cached_ts 未变（1793943871718，约 13:44）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol 0（顶层 2）、Barbra 0（顶层 7）、Ovsanna 4（顶层 1）、Helen 1（顶层 1）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（1793934877），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Plastic Surgery in Turkey plasticsurgeryinturkeyknowbeforeyoubook，NEW_POSTS 18 帖）：新增 1 帖——11-06 16:21 Dr Mirrat Bildgen / Grand Clinic 颈部提拉+下颌缘求证帖 1777718246792960（0 评论，0 反应），特定医生锚定验证型，按内容调整逻辑第 4 条降权，不为凑数而发，记观察项不评论；其余 17 帖均为已评估项（Bronnie 胃袖术后身体去皮咨询、The Plastic Surgery Group 求经验、Renate Lift 求证 ×2、Dr Umut Say 隆鼻求证、Ibrahim Rahimli 身体线、胸部/MMO/BBL 等身体线），不翻案。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Facelift in Korea（766187188947209）。
+
+## 2026-11-06 17:43 轮（猎手轮，round693，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count=22（上一轮 21）、newest_cached_ts 1793957685466（约 17:34）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- ⚠️ 新空线程观察项：缓存新增 Timing Smith 线程（cid.g.1101494419356631，FB 100002168331515），messages 读回 0 条、snippet 为空、is_unread=false，无任何消息内容可回；猎手不主动发消息，交 dm-thread-watch 下轮经浏览器核查是否为新好友/新联系人，再按 2026-11-06 13:45 新好友立即联系口径定。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol 0（顶层 2）、Barbra 0（顶层 7）、Ovsanna 4（顶层 1）、Helen 1（顶层 1）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 08:14 赞美（1671985204532225），单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift in Korea 766187188947209，NEW_POSTS 20 帖）：自 10-31 后无新帖；榜首仍为 10-31 唇部填充求推荐帖 1473289571570297（非业务线，已知）；Ipcheps Dr Heo 面颈拉皮+脂肪移植求证帖 1471103011788953 特定医生锚定、按降权判例不翻案；其余均为已评估项。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Tijuana Plastic Surgery & Medical Tourism（547821016940250）。
+- 2026-11-06 17:48 轮（fb-dm-thread-watch）：新好友 Timing Smith（FB 100002168331515，香港真人个人号）首条私信已发：经空线程 cid.g.1101494419356631 CLI 直发 3 条短消息（致谢＋自我介绍＋问来意），CLI fresh sync 核验 messages_new=3、snippet=我方第 3 条全文 → 确认送达；状态等回复。基线文件已更新为 7 人。
+
+## 2026-11-06 17:53 轮（猎手轮，round694，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=22、newest_cached_ts 未变（1793958660857，约 17:48 我方发 Timing Smith 首条）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Timing Smith 线程 snippet 仍为我方第 3 条、is_unread=false，无回复；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2（顶层 4）、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol 0（顶层 2）、Barbra 0（顶层 7）、Ovsanna 4（顶层 1）、Helen 1（顶层 1）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话；Barbra 帖最新顶层为 11-06 16:17 越南医生推荐楼层（路人推广嫌疑，不接）；Anna 帖最新顶层为 11-06 17:27 越南/泰国患者医生推荐，路人评论、非回复我方，不接。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Tijuana Plastic Surgery & Medical Tourism 547821016940250，19 帖）：无新增可评论需求帖。11-06 新帖均为不合口径项：MMO+BBL 求推荐帖 1693925482329792（加拿大出发，身体线、非面部业务线，21 评论，不碰）、Joyful Medical 协调员广告帖 1694334152288925（15:00）、Dr. Samaria Mejia DPFL+脂肪移植三周更新帖 1693889699000037（术后分享、非需求帖）；其余均为已评估项：Jennifer 前额缩小/提眉帖 1694011485654525 已评论（1694275215628152）、Dr. Buritica 面部手术求反馈帖 1693959922326348 为特定医生锚定观察项（降权，不翻案）、协调公司求证帖 1693582022364138 观察项、Dr Laura 报价更新帖 1692456219143385（75 评论已饱和）。本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Facelift Support Group（536390454675733）。
+- 2026-11-06 18:03 轮（fb-dm-thread-watch）：好友 7 人无新增；CLI sync messages_new=0、cached 22、newest_cached_ts 未变；未读仍仅 4 条已知排除项；Kevin/Conny/Timing Smith/Peta 及在册线程均无新回复；0 新发、0 跟进、0 客资；收集表尾部仍 #255，无新增可激活项；账号无受限；安静结束。
+
+## 2026-11-06 18:03 轮（猎手轮，round695，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=22、newest_cached_ts 未变（1793958660857，约 17:48 我方发 Timing Smith 首条）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Timing Smith 线程 snippet 仍为我方第 3 条、is_unread=false，无回复；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，13 条我方评论 reply_count 均无变化）：Mandy 2（顶层 4）、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol 0（顶层 2）、Barbra 0（顶层 7）、Ovsanna 4（顶层 1）、Helen 1（顶层 1）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；其余为旧赞美，"We need an update"（1749724907158488，约 08:30）为泛泛催更、无具体问题、不碰；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift Support Group 536390454675733，20 帖）：无新增可评论需求帖。本批最新为 11-06 06:19 韩国 Dr Lee VIP Surgery 求证帖 1445079293806840（特定医生锚定观察项，评论 10→11，降权，不翻案）；其余均为已评估项（眉提升 vs 上睑术 1444938767154226 97 评论已饱和、法语眼下皱纹 1444807823833987、溶填充后再拉皮 1444761670505269、64 岁膝盖帖 1444695723845197 与 Anna 泰国/越南帖 1444647750516661 均已评论、周三面颈+鼻尖手术呼吸担忧 1444630193851750）。本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #255）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 11 + 接话 3。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #255）。下轮按轮换扫 Blepharoplasty Support Group（473931468215531）。
+
+## 2026-11-06 20:23 轮（猎手轮，round696，Victoria 单线）
+- 台账空缺提示：上一条猎手轮记录为 18:03 round695，本轮 20:23 定时触发，中间约 2 小时 20 分钟台账无猎手轮记录（原因未查明，疑似轮次未跑或未记账），本轮按顺序编号 round696；下轮起注意核对轮次是否连续。
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=23（上一轮 22）、newest_cached_ts 1793966702698（约 20:05）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Sarah Jane 线程最新 3 条均为我方 20:04–20:05 跟进消息（周四面诊时段+WhatsApp/链接二选一，系 dm-thread-watch 动作），无对方回复；Timing Smith 线程 snippet 仍为我方第 3 条、无回复；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Sarah Jane、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- ⚠️ 新线程观察项：缓存新增 Chiu Sang 线程（cid.g.1017221198095740，snippet 为我方 "hi"，约 18:55）与 Shandi Utama Alcho 线程（cid.g.1641768267429007，snippet 为我方 "hi"，约 13:44），均为我方外发问候、无对方回复；疑似 dm-thread-watch 新好友首发动作，猎手不主动发消息、不跟进，交 dm-thread-watch 核查。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，14 帖）：Mandy 2（顶层 4）、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol O'Brien 0（顶层 2→5，新增 2 条路人负面评论 "Avoid them, they use cowboy surgeons" 等，针对诊所、非楼主回我方，不接）、Carol Reichert 0（顶层 2→3，新增 1 条单字 "has" 路人评论，非楼主回我方，不接）、Barbra 0（顶层 7）、Ovsanna 4→5（顶层 1）、Helen 1（顶层 1）。仅 Ovsanna 有变化，派浏览器只读核查（20:28–20:29）：楼层共 5 条回复，新增为 Ovsanna 本人 19:51 回复 "Victoria Maizie both"（接我方 16:56 二选一：年眼睑量 vs 愈合后照片），需当天接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为 10-23 评论，无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Blepharoplasty Support Group 473931468215531，NEW_POSTS 20 帖）：新增候选 1 条——Janelle Maree 11-06 17:33 下睑+极易淤青求缓解办法帖 1471134375161897（1 条菠萝/山金车经验评论）。其余均为已评估项：1471230645152270（19:18 Victoria Clinic Manchester 18 天前后对比，特定医生锚定结果分享，不碰）、1471252785150056（19:48 泰语无关帖）、1471234838485184（19:24 剪刀广告）、1471060801835921（15:45 术后 5 天分享）、1470916531850348（奥兰多找同城人，已评估无求医问题）、1470166908591977（11-05 18:55 Dr Kat Pinnington 曼彻斯特已预约 12 月 9 日求经验，特定医生锚定+已定手术，降权）、1469973201944681（11-05 术后 3 周浮肿求助，已术后）、1470630625212272（4 个月术后慢性干眼求助，已术后）、1470535181888483（眼睑蹼状求助，76 评论）、1470742238534444（11-06 08:08 因角膜保护罩取消手术、问他人经验，技巧经验征询帖，记观察项不评论）、1470794138529254（12 月 9 日 Dr Sam Gallo 眉提升+上睑已预约推荐帖，已定医生）、1425583266383675（09-20 术后 19 天眼睑不对称求助，已术后）、1466272595648075（18 天下睑分享）、1461919522750049（术后 4 天分享）、1431902755751726（09-27 Dr Adam Greenbaum 求证旧帖）。
+- Janelle Maree 帖 1471134375161897：review-log 末行旧有一版 E07 95 分稿但原文未存、未入表未发出，本轮重起新稿：E07 第 1 轮 87 分不通过（缺下眼睑细节、弱化易淤青严重程度、通用恢复表述、二选一区分度弱），改稿后第 2 轮 95 分通过（贴合 29/30、合规 30/30、短勾人 19/20、格式收口 17/20；无强制返修）；已按通过稿原文经浏览器发出，评论 1471289615146373，20:30 落地、读回核验（评论数 3→4、我方评论置顶首位、内容与原文一致），无审批卡、无受限提示；已记收集表 #256 与本台账。
+- Ovsanna Harutyunyan 19:51 "both" 回复：已起草嵌套接话，E07 第 1 轮 92 分通过（贴合 26/30、合规 30/30、短勾人 18/20、格式收口 18/20；无强制返修；总管确认可动作），已派发浏览器发出（回复她 19:51 "both" 那条），待回执核验后补记台账与收集表 #241 状态。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象；Ovsanna 仍处调研阶段、比利时本地，不私信）。
+- 审批卡：Janelle 评论发出无审批卡弹出；微信桥未触发。Ovsanna 接话发出待回执。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 1（Janelle）/ 接话 1（Ovsanna，待回执核验）/ 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 12 + 接话 3（+Ovsanna 待核验 1 条）。下轮按轮换扫 Rhinoplasty and Revision Rhinoplasty（573582492318097）。
+
+- round696 补记（20:32）：Ovsanna 嵌套接话已发出并核验——回复 1471290861812915，20:32 落地、楼层回显内容与通过稿原文一致，无审批卡、无受限提示；链接 https://www.facebook.com/groups/473931468215531/posts/1469995851942416/?comment_id=1470001838608484&reply_comment_id=1471290861812915；本轮最终：评论 1 / 接话 1 / 私信 0 / 客资 0；今日累计（猎手，11-06）：新评论 12 + 接话 4。
+
+## 2026-11-06 20:33 轮（猎手轮，round697，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=23、newest_cached_ts 未变（1793966702698，约 20:05）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Sarah Jane 线程最新仍为我方 20:04–20:05 跟进消息，无对方回复；Timing Smith 线程 snippet 仍为我方第 3 条、无回复；Chiu Sang 与 Shandi Utama Alcho 线程 snippet 仍为我方 "hi"、无对方回复；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，15 帖）：Mandy 2（顶层 4）、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol Reichert 0（顶层 3）、Carol O'Brien 0（顶层 5）、Barbra 0（顶层 7）、Ovsanna 6（顶层 1）、Helen 1（顶层 1）、Janelle 0（顶层 2）。仅 Ovsanna 有变化：reply_count 5→6，派浏览器只读核查（20:34–20:35）：第 6 条为我方自己 20:32 发的嵌套接话（回 Ovsanna 19:51 "both"），楼主 19:51 之后无新回复——即 round696 记的 5 条是接话落盘前的计数，虚惊一场，无需再接话。Janelle 帖顶层 CLI 计 2 条（原经验评论+我方评论），与 round696 页计 3→4 的口径差为嵌套计数差异，我方评论在位、reply_count 0，无楼主回复。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。无楼主回我方评论需接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为意向评论 1724364362447404（已交 dm-thread-watch 待筛，不重复），10-23 后无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Rhinoplasty and Revision Rhinoplasty 573582492318097，NEW_POSTS 17 帖）：与 round683/690 的 17 条 ID 完全一致，自 round683 起无新帖；榜首仍为 11-05 19:23 Hazal Demir Duyar 伊兹密尔 4 年前闭合隆鼻经验分享帖 1132656603077347（特定医生锚定分享帖，非求医需求帖）；其余均为已评估/已评论项（Carmina、Helen、Lala 已评；截骨担忧/瘢痕/歪鼻翻修已评；复杂翻修求推荐 33 评论已饱和；鼻麻木/3 周消肿为已术后求助），不翻案。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #256）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核，扫描清单无新增。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 12 + 接话 4。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #256）。下轮按轮换扫 Facelift & Necklift Turkey（1146474503904898）。
+
+## 2026-11-06 20:43 轮（猎手轮，round698，Victoria 单线，纯巡查）
+- 私信收件箱（开工步）：hatch_messenger_cli sync both --since-days 1 → messages_new=0、messages_decrypt_failed=0、cached_thread_count=23、newest_cached_ts 未变（1793966702698，约 20:05）；threads --unread 仍仅 4 条已知排除项（Nicole Meawasige 我方 11-02 单字问候；Cristiana Winter、Kim Kieu 用户本人私信，不跟进、不计数；Sherine Balbaa 已知 ❤️ 反应）；Sarah Jane 线程最新仍为我方 20:04–20:05 跟进消息，无对方回复；Timing Smith 线程 snippet 仍为我方第 3 条、无回复；Chiu Sang 与 Shandi Utama Alcho 线程 snippet 仍为我方 "hi"、无对方回复；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息；Kevin Conzone、Anne Riches、Judi Welch、Conny Artese 线程最新仍为我方消息，无对方回复；Asim Ozdemir 与 Sf Hk 线程 snippet 仍为我方 "hi"，无对方回复；NteboRose 线程 snippet 仍为我方外发问候，无入站；0 客户新回复；leads.md 仍为 Peta 1 条合格客资。
+- 身份核验：facebook-cli me 返回 Victoria Maizie（61590577106578），无受限/checkpoint/摩擦信号；只走 Victoria，未切号。
+- 回评跟进（轻量核对，15 帖，顶层数与 reply_count 均与 round697 一致，无变化）：Mandy 2（顶层 4）、Anna 0（顶层 16）、64 岁 2（顶层 9）、Elizabeth 0（顶层 2）、Judy 0（顶层 4）、Renate 0（顶层 2）、Lala 0（顶层 3）、Joanne 0（顶层 1）、Jennifer 0（顶层 3）、Carol Reichert 0（顶层 3）、Carol O'Brien 0（顶层 5）、Barbra 0（顶层 7）、Ovsanna 6（顶层 1）、Helen 1（顶层 1，11-04 楼主旧回复）、Janelle 0（顶层 2）；无楼主回我方评论需接话。Renate 帖医生自述翻修眼睑经验评论 1470899885185346 仍为同行自我推广，按邻近推广嫌疑口径不回复、不 @、不接话。
+- 腿一：Truesdale 父亲拉皮 reel 1965063148095565 最新仍为 11-06 11:14 赞美（2420776028728488），无新提问；Nayak Lori 62 岁帖 1752102930257276 最新仍为 11-04 赞美，单字 "Cost" 父评论 968899815843129 仍指向 Nayak 本人问价，按既往决议不碰；Kassir couples reel 1709569487842326 最新仍为意向评论 1724364362447404（已交 dm-thread-watch 待筛，不重复），10-23 后无新增；61 岁帖继续冷却跳过。
+- 腿二（本轮只扫 1 个群，按轮换到 Facelift & Necklift Turkey 1146474503904898，NEW_POSTS 17 帖）：17 条 ID 与 round691 完全一致，自 round691 起无新帖；榜首仍为 11-05 21:39 Dr. Bahadir Demirkan 安塔利亚全脸套餐求证帖 1570868781465466（特定医生锚定观察项，不翻案）；其余均为已评估项，不翻案。无新增可评论需求帖，本轮无 E07 打分、无新评论。收集表无新增（尾部仍止于 #256）。
+- 待审核群：THE FACELIFT SOCIETY（1110865075451943）与 Rhinoplasty Support Group（172947440719793）本轮 groups posts 均返回 0 帖，仍判待审核。✅ 新变化：deep plane facelift and neck lift and rhinoplasty support group（1052731386791309）本轮首次返回帖子（NEW_POSTS 5 条），判已通过审核，即日起加入腿二扫描清单（轮换排在 Tijuana 之后）；本批 5 帖均不评论——11-06 17:58 葡语 WhatsApp 广告帖 1461881269209650、11-05 高压氧术后提问两帖 1460613439336433（14 评论）/1460481312682979（12 评论，已术后恢复期、评论已饱和）、11-05 印尼语诊所广告帖 1460506732680437、11-04 韩国手术经验征询帖 1459836439414133（10 评论、2 天旧帖、无干净未答缺口）。
+- 腿三私信：0（猎手不发送，防与 dm-thread-watch 双发竞态；本轮无新增达公开明确意向门槛且可达的私信对象）。
+- 审批卡：本轮无评论发出，无审批卡弹出；微信桥未触发。
+- 账号：Victoria CLI 通道全程正常、无受限/checkpoint/摩擦信号；其余号本轮未操作。
+- 评论 0 / 接话 0 / 私信 0（猎手不发防竞态）/ 客资 0。今日累计（猎手，11-06）：新评论 12 + 接话 4。台账本轮无新增落地回复；收集表无新增（尾部仍止于 #256）。下轮按轮换扫 Plastic Surgery in Turkey（plasticsurgeryinturkeyknowbeforeyoubook）。

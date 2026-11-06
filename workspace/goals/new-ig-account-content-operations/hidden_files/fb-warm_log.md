@@ -1,3 +1,33 @@
+## 2026-11-06 18:41–18:53（运行实测 11 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 18:41–18:53（harness 计 11 分钟），回传自述约 12 分钟，1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏显示 Victoria Maizie，发帖框显示 "What's on your mind, Victoria?"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时再次核对身份未变 ✅
+- 浏览内容：共约 19–20 条（符合 15–25 条目标），每条看完大半再划，节奏自然；首页约 10–11 条、Reels 9 条；垂类约 16 条（拉皮/面部提升/眼睑/颈部提升前后对比与术后恢复），非垂类 3–4 条（面相耳饰、亲情动画、狗狗剪指甲、广告，均快速划过、未点击广告）
+- 垂类概况：首页有 Face-lift & Neck-lift Support Group 匿名求助（下颌线/法令纹）、Radanza 抗衰老护肤、Plastic Surgery in Turkey 匿名帖、Blepharoplasty Support Group 术后对比、Sharon Marie Wright 术后 8 天恢复对比、土耳其 Maya medical 隆鼻+隆胸术后约 2 周分享；Reels 有 Drmiles Ym 中面部下垂、Dr. Amir Karam 60 岁 Jamie 的 Vertical Restore 拉皮恢复、Celene Pimenta Amaral 眉下眼睑手术、Beverly Hills 57 岁拉皮前后对比、Raul Guillermo Reyes Deep Plane Facelift 术后、Dr. Jacob Kevin 菲律宾拉皮/颈部提升
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次均确认按钮变为 Remove Like）：
+  1. 首页 Face-lift & Neck-lift Support Group 匿名帖（下颌线/法令纹求助）（17→18）
+  2. 首页 Blepharoplasty Support Group，Shahira Amin 术后 5 天前后对比（5→6）
+  3. 首页 Sharon Marie Wright 术后 8 天恢复对比（121→122）
+  4. Reels Drmiles Ym 中面部下垂、面颊扁平、法令纹（69→70）
+  5. Reels Dr. Amir Karam 60 岁 Jamie 的 Vertical Restore 拉皮之旅（1.4K 取整显示不变，以按钮变 Remove Like 为准）
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；首页出现的 People you may know 未添加任何人
+- 账号安全：全程无登录失效、真人验证/验证码、账号检查点、限制提示或警告提示，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-06 14:45–14:59（运行实测 13 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–14:59（13 分钟），回传自述结束 14:58、约 13 分钟，1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏显示 Victoria Maizie，发帖框显示 "What's on your mind, Victoria?"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时再次核对身份未变 ✅
+- 浏览内容：共 20 条（符合 15–25 条目标），每条看完大半再划，节奏放慢；首页 7 条、Reels 6 条、搜索“facelift before and after”筛选 Reels/视频看完 7 条；垂类 15 条（facelift、plastic surgery、before and after、深层拉皮、面颈提升、埋线、脂肪移植、术后恢复），非垂类 5 条（陶瓷直播、情感故事、音乐教学、瑞士旅行、文字帖，均快速划过、未点击广告）
+- 垂类概况：首页有 Vicki King 深层拉皮+脂肪移植术后 3 周更新、Sandy Clemens Waszelewski 术后脸红恢复、Dr. Miguel Soto 整形前后对比、Alexandra Colacito / SubwayTakes 整形话题视频、Dre Marie-Chantal Pouliot-Leclerc 唇部 Skinbooster 0.6ml 前后对比；Reels 有 Dr.dadong 全脸颈部年轻化前后对比、Dr.qu 埋线提升术中、Hu Zhi Mei 罗马尼亚患者找 Dr. Xiao 咨询眼袋/面颊下垂；搜索视频集中于 facelift before and after，包括 Aesthetics Li（Dr. QinHao 迷你拉皮术后 21 天）、Kasi Lu 加拿大患者术后戴头套、Drwang Alden“最好的拉皮效果不明显”、Zy Zhang 面颈拉皮前后对比（年轻 20 岁）、Olga Kane 拉皮术后 3 周（深层拉皮+眉提升+激光+脂肪移植）、Assoc Prof Dr Arda Kucukguven 全拉皮术后 6 天、Drxiaopeng DrPeng 拉皮解剖示意；另浏览 Facelift Aesthetic、Deep 9d facelift、Carl Truesdale、Lara Devgan 等结果卡片
+- 点赞 3 条（已达本场上限 3 个，间隔拉开、隔多条内容，每次均确认按钮变为 Remove Like）：
+  1. 首页 Vicki King 深层拉皮+脂肪移植术后 3 周更新（38→39）
+  2. 首页 Dr. Miguel Soto 整形前后对比帖（108→109）
+  3. Reels Dr.qu“Model Line | Full-Face & Neck Rejuvenation”（356→357，蓝色已点赞态）
+  - 备注：搜索结果中 Dr. Jason Diamond 帖子（5.6K）打开时即显示已点赞，本场未重复点击、未计入新增；搜索结果中出现的 Victoria Maizie 本人 22 小时前帖子未点赞、未互动
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；首页出现的 People you may know 未添加任何人
+- 账号安全：全程无登录失效、真人验证/验证码、账号检查点、限制提示或警告提示，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅；页面右上角 1 条未读通知为会话开始时已存在，全程未打开查看，不属于安全提示
+- 回执备注：浏览器任务回执中 1 个动作因 stale_reference 状态为 unknown；回传小结中 3 条点赞均有计数变化与 Remove Like 按钮状态双重确认，结论不受影响，记入备查
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-06 10:43–10:55（运行实测 12 分钟）— 定时上午场（fb-warm-am）✅ 执行完整
 - 计时说明：运行实测为 10:43–10:55（12 分钟），回传自述一致，无差异
 - 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏显示 Victoria Maizie，发帖框显示 "What's on your mind, Victoria?"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台
