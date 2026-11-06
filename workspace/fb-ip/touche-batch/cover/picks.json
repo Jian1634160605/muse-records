@@ -1,0 +1,112 @@
+{
+ "01": {
+  "t": 5.43,
+  "file": "cover/01.jpg",
+  "ok": true
+ },
+ "02": {
+  "t": 6.17,
+  "file": "cover/02.jpg",
+  "ok": true
+ },
+ "03": {
+  "t": 12.2,
+  "file": "cover/03.jpg",
+  "ok": true
+ },
+ "04": {
+  "t": 7.7,
+  "file": "cover/04.jpg",
+  "ok": true
+ },
+ "05": {
+  "t": 4.83,
+  "file": "cover/05.jpg",
+  "ok": true
+ },
+ "06": {
+  "t": 8.13,
+  "file": "cover/06.jpg",
+  "ok": true
+ },
+ "07": {
+  "t": 7.06,
+  "file": "cover/07.jpg",
+  "ok": true
+ },
+ "08": {
+  "t": 7.17,
+  "file": "cover/08.jpg",
+  "ok": true
+ },
+ "09": {
+  "t": 5.67,
+  "file": "cover/09.jpg",
+  "ok": true
+ },
+ "10": {
+  "t": 10.61,
+  "file": "cover/10.jpg",
+  "ok": true
+ },
+ "11": {
+  "t": 9.15,
+  "file": "cover/11.jpg",
+  "ok": true
+ },
+ "12": {
+  "t": 7.67,
+  "file": "cover/12.jpg",
+  "ok": true
+ },
+ "13": {
+  "t": 5.94,
+  "file": "cover/13.jpg",
+  "ok": true
+ },
+ "14": {
+  "t": 12.33,
+  "file": "cover/14.jpg",
+  "ok": true
+ },
+ "15": {
+  "t": 9.14,
+  "file": "cover/15.jpg",
+  "ok": true
+ },
+ "16": {
+  "t": 5.34,
+  "file": "cover/16.jpg",
+  "ok": true
+ },
+ "17": {
+  "t": 9.7,
+  "file": "cover/17.jpg",
+  "ok": true
+ },
+ "18": {
+  "t": 17.18,
+  "file": "cover/18.jpg",
+  "ok": true
+ },
+ "19": {
+  "t": 6.34,
+  "file": "cover/19.jpg",
+  "ok": true
+ },
+ "20": {
+  "t": 5.69,
+  "file": "cover/20.jpg",
+  "ok": true
+ },
+ "21": {
+  "t": 6.92,
+  "file": "cover/21.jpg",
+  "ok": true
+ },
+ "22": {
+  "t": 5.01,
+  "file": "cover/22.jpg",
+  "ok": true
+ }
+}
