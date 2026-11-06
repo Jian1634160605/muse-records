@@ -1,3 +1,46 @@
+## 2026-11-05 18:41–18:54（运行实测约 12 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 18:41–18:54（harness 计约 12 分钟），回传自述 18:42–18:54（约 12 分钟），1 分钟起始差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；发帖框显示 "What's on your mind, Victoria?"，左侧栏显示 Victoria Maizie，评论框显示 "Comment as Victoria Maizie"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台
+- 浏览内容：共约 23 条（符合 15–25 条目标），每条看完大半再划，节奏自然；首页约 10 条（约 3 分钟）、Reels 7 条（约 5 分钟）、搜索“facelift before and after”筛选 Reels/视频约 6 条（约 3 分钟）；垂类为主（拉皮/面部提升/眼睑/颈部提升/鼻整形前后对比、术后恢复），非垂类（朋友动态、狗狗视频、Agoda 广告）快速划过、未点击广告
+- 垂类概况：首页有 Vietnam Cosmetic Surgery 转发的 Chloe Quinn 隆胸假体取出手术帖、Reels 推荐栏 dr.gouldplasticsurgery 拉皮前后对比、Jeff Markey MD 拉皮内容；Reels 有肖忠业 facelift 澳大利亚患者专程求诊、Zy Zhang 拉皮/颈部提升/眼睑前后对比、Bright Side 名人整形变化、Dr. Fabio Calandrini 问诊/手术室、Younger.with.Mara 65 岁抗衰老健身、Dr.Da dong 面部手术划线与前后对比；搜索视频集中于 facelift before and after，包括 Erqing Gao 术后 90 天拉皮恢复、Zy Zhang 拉皮颈部前后对比、Dr. Zhangxiaotang 9L Facelift、Li Feng #deepplanefacelift、Miles Yang、葉修宇面部年轻化
+- 点赞 4 条（符合 3–5 条要求，间隔拉开、隔多条内容，每次均确认按钮变为 Remove Like）：
+  1. Reels 肖忠业 9dfacelift《WHY DID HE TRAVEL ALL THE WAY FROM AUSTRALIA TO SEE DR. XIAO?》（124→125）
+  2. Reels Bright Side《How Plastic Surgeries Have Changed Famous Ladies》（1.9K 取整显示不变，以按钮变 Remove Like 为准）
+  3. Reels Dr.Da dong 面部手术前后对比（618→619）
+  4. 搜索视频 Erqing Gao《Female Case | Her Face, Restored》术后 90 天拉皮前后对比（523→524）
+  - 备注：已显示已点赞的内容未重复点击、未计入新增；Zy Zhang 等其他垂类内容仅观看未点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置 ✅
+- 账号安全：全程无登录失效、真人验证/验证码、账号检查点、限制提示或警告提示，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅；仅收到一条系统通知 "Rabindranath Goswami started following you from your reel."（他人主动关注，非本人操作），不影响会话
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-05 14:45–14:59（运行实测 14 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–14:59（14 分钟），回传自述结束约 15:00、约 15 分钟，1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；发帖框显示 "What's on your mind, Victoria?"，左侧栏显示 Victoria Maizie，确认为个人号 Victoria Maizie ✅，全程未出现 Dr.qh88 活动身份、无需切换
+- 浏览内容：共 21 条（符合 15–25 条目标），每条看完大半再划，节奏放慢；首页 7 条、Reels 7 条、搜索“facelift before and after”筛选 Reels/视频 7 条；垂类 16 条（facelift、plastic surgery、before and after、深层拉皮、眼睑/颈部提升、鼻整形前后对比），非垂类 5 条（儿童在香港、卡通兔子、涨粉技巧各 1 条，广告 2 条，均快速划过、未点击广告）
+- 垂类概况：首页有 Lara Devgan 面部优化前后对比、Mose Wellness Clinic 面部术后贴敷、Tijuana Plastic Surgery / Dra Selene Madrigal de Vargas 面部即时效果真实患者照、Miss JAC Official / Rhinoplasty Awareness 隆鼻蜕变历程；Reels 有 Guoqi Zhang 拉皮手术 U to V Facelift 侧面对比、Kasi Lu 拉皮解剖与术后包扎及前后对比、Tian Aesthetics 鼻部 3D 解剖隆鼻前后对比、Yisheng Luo 患者故事、Brewer Izabella 65 岁洛杉矶赴中国拉皮；搜索视频集中于 facelift before and after，包括 Carl Truesdale, M.D. 拉皮术前划线、Gsfsd Dr.QinHao 上海拉皮 Before/After（仅搜索结果中浏览，未进主页/管理后台）、Lillie Bailey 在中国做深层拉皮、Erqing Gao 术后 90 天女性案例与 64 岁加拿大赴中国深层结构提升、Miles Yang 各国患者案例、Kasi Lu 49 岁加拿大患者拉皮
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，每次均确认按钮变为 Remove Like）：
+  1. 首页 Lara Devgan 面部优化前后对比（89→90）
+  2. Reels Guoqi Zhang 拉皮手术前后对比（840→841）
+  3. Reels Yisheng Luo 患者故事（38→39）
+  - 备注：搜索结果中 Lillie Bailey 一条会话开始前即显示已点赞，本场未重复点击、未计入新增；达上限后其余垂类内容均未再点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全：全程无登录失效、真人验证/验证码、账号检查点、限制提示或警告提示，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-05 10:42–10:55（运行实测 12 分钟）— 定时上午场（fb-warm-am）✅ 执行完整
+- 登录确认：浏览器已登录会话直接进入首页，右上角及发帖入口均显示 Victoria Maizie，确认为个人号 Victoria Maizie ✅，无登录过期、无二次验证、无需切换账号
+- 首页动态：自然下滑浏览约 5–6 条动态/卡片，含拉皮术后恢复类视频及生活、旅游推广内容，每条均停留观看后才下滑，未快速连划
+- Reels：共观看约 10 条，每条看完大半再划下一条；垂类优先，包括拉皮手术步骤、整形医生评分医美项目、面部美学、拉皮咨询及深层拉皮费用等内容；旅游、自然、宠物、动画等非垂类内容仅观看、未点赞
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次均确认已点赞状态）：
+  1. 首页拉皮术后恢复视频
+  2. Reels 拉皮手术步骤类
+  3. Reels 整形医生评分医美项目类
+  4. Reels 面部美学类
+  5. Reels 拉皮咨询类
+- 禁止项：无评论、无加好友、无进群、无私信、无发帖、无改资料、无关注任何账号 ✅
+- 账号安全：全程无登录过期、验证弹窗、限制或安全提示 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-04 18:53–19:06（运行实测 12 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整（身份纠正后重做）
 - 身份纠正说明：本场起手浏览器仍为 Dr.qh88 主页身份（18:41–18:53 第一场即误以该主页身份浏览并点赞 4 条，见下）；经账号菜单 Switch to Victoria Maizie 切换，首页左侧导航显示 Victoria Maizie，发帖框显示“What's on your mind, Victoria?”，视频页评论身份框亦显示 Victoria Maizie，切换无需重新登录、无验证/安全提示，核对无误后才开始本场浏览。上一场 Dr.qh88 身份的点赞未取消、未计入本场 ✅
 - 计时说明：纠正后任务运行实测为 18:53–19:06（12 分钟），回传自述重做浏览约 18:54–19:05，差额为切换与身份核对时间，以实测为准
