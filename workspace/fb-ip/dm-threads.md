@@ -12373,3 +12373,590 @@
 - 4b 客户激活盘点：收集表自 20:33 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
 - 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
 - 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 21:03 轮（fb-dm-thread-watch；21:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（21:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 20 → 自 20:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 20:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程 is_unread=false、最新仍为我方消息；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息，is_unread=false。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 21:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:33 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 21:18 轮（fb-dm-thread-watch；21:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（21:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 21:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 21:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 21:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮同步线程名单仍为 20 条，无二者新线程 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 21:33 轮（fb-dm-thread-watch；21:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（21:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 21:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 21:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 21:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 21:48 轮（fb-dm-thread-watch；21:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（21:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 21:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 21:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 21:49）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 22:03 轮（fb-dm-thread-watch；22:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（22:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 21:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 21:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 22:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 22:18 轮（fb-dm-thread-watch；22:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（22:19，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 22:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 22:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 22:19）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 22:33 轮（fb-dm-thread-watch；22:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（22:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 22:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 22:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 22:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮同步线程名单仍为 20 条，无二者新线程 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 22:48 轮（fb-dm-thread-watch；22:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（22:49，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 22:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 22:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 22:49）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」15 项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 23:03 轮（fb-dm-thread-watch；23:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（23:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 22:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 22:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 23:05）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」15 项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 23:18 轮（fb-dm-thread-watch；23:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（23:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 23:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 23:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 23:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 23:33 轮（fb-dm-thread-watch；23:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（23:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 23:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 23:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 23:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」15 项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-05 23:48 轮（fb-dm-thread-watch；23:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（23:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 23:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 23:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 23:49）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 00:03 轮（fb-dm-thread-watch；00:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（00:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 23:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 23:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。另：Judi Welch 线程现已进入 CLI 缓存（cid.g.4589839544678791），最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 00:18 轮（fb-dm-thread-watch；00:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（00:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 00:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 00:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch 线程（cid.g.4589839544678791）最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 00:33 轮（fb-dm-thread-watch；00:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（00:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 00:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 00:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch 线程（cid.g.4589839544678791）最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 00:48 轮（fb-dm-thread-watch；00:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（00:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 00:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 00:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch 线程（cid.g.4589839544678791）最新仍为我方消息、无对方回复；Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：Asim 线程（cid.g.1414259317098181）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 18:18 轮一致（18:15:26），无对方回复；Sf Hk 线程（cid.g.2191133148465273）snippet 仍为 Victoria 外发单字「hi」，updated_at 与 17:03 轮一致（16:57:56），无对方回复；Nthofela Sekonyela Taela 线程（cid.g.4493660610903312）snippet 仍为 Victoria 外发单字「hi」，updated_at 未变（约 10-30），无对方回复、无未读；三线程均按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 00:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 01:03 轮（fb-dm-thread-watch；01:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（01:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 00:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 00:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 01:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 00:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（00:48 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 01:18 轮（fb-dm-thread-watch；01:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（01:19，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 01:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 01:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 01:19）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 00:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（01:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 01:33 轮（fb-dm-thread-watch；01:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（01:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 01:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 01:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 01:33:34）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 00:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（01:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 01:48 轮（fb-dm-thread-watch；01:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（01:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 01:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 01:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 01:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 00:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（01:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 12:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 02:03 轮（fb-dm-thread-watch；02:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（02:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 01:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 01:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 02:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 02:18 轮（fb-dm-thread-watch；02:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（02:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20 → 自 02:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 02:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 02:19）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 02:33 轮（fb-dm-thread-watch；02:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（02:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 02:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 02:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 02:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 02:48 轮（fb-dm-thread-watch；02:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（02:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 02:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 02:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 02:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 03:03 轮（fb-dm-thread-watch；03:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（03:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、messages_fetched=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 02:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 02:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 03:04）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 03:18 轮（fb-dm-thread-watch；03:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（03:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 03:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 03:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 03:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 03:03 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（03:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 03:33 轮（fb-dm-thread-watch；03:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（03:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 03:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 03:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 03:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 03:48 轮（fb-dm-thread-watch；03:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（03:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 03:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 03:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 03:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 04:03 轮（fb-dm-thread-watch；04:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（04:03，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 03:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 03:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 03:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 03:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（03:48 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四晚线上视频面诊确切时间仍待用户/咨询团队确认，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 04:18 轮（fb-dm-thread-watch；04:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（04:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 04:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 04:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 04:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 03:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（03:48 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 04:33 轮（fb-dm-thread-watch；04:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（04:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 04:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 04:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 04:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 04:48 fb-dm-thread-watch（Victoria 单线）
+- CLI 服务器端核验（04:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 04:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 04:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息，is_unread=false。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 04:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 05:03 轮（fb-dm-thread-watch；05:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（05:03，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 04:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 04:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 05:04）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：缓存内均无线程（与 04:48 轮一致）→ 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 05:18 轮（fb-dm-thread-watch；05:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（05:18，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 05:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 05:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 05:19）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：缓存内均无线程（与 05:03 轮一致）→ 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+## 2026-11-06 05:33 轮（fb-dm-thread-watch；05:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（05:33，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 05:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 05:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 05:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+
+## 2026-11-06 05:48 轮（fb-dm-thread-watch；05:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（05:48，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（约 11-05 18:15）→ 自 05:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 05:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 05:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 06:03 轮（fb-dm-thread-watch；06:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（06:03，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 05:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 05:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 06:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 06:18 轮（fb-dm-thread-watch；06:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（06:19，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 06:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 06:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 06:18:04）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。猎手 06:13 轮（round642）交叉核验一致：收集表无新增、0 客户新回复。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 06:33 轮（fb-dm-thread-watch；06:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（06:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 06:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 06:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch 线程（cid.g.4589839544678791）最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 06:33:04）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 06:48 轮（fb-dm-thread-watch；06:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（06:48，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 06:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 06:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 06:49:04）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 07:03 轮（fb-dm-thread-watch；07:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（07:03，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 06:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 06:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至约 07:02）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 07:18 轮（fb-dm-thread-watch；07:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（07:18，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 07:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 07:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 07:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 07:33 轮（fb-dm-thread-watch；07:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（07:33，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 07:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 07:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 07:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 07:48 轮（fb-dm-thread-watch；07:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（07:48，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 07:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 07:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 07:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 08:03 轮（fb-dm-thread-watch；08:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（08:04，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 07:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 07:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 08:04）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 08:18 轮（fb-dm-thread-watch；08:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（08:18，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 08:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 08:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 08:19）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 08:33 轮（fb-dm-thread-watch；08:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（08:33，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 08:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 08:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 08:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 08:48 轮（fb-dm-thread-watch；08:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（08:48，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 08:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 08:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 08:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 09:03 轮（fb-dm-thread-watch；09:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（09:03，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 08:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 08:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：threads --search 均返回 0 条 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 09:18 轮（fb-dm-thread-watch；09:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（09:18，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 09:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 09:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 09:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 09:03 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（09:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 09:33 轮（fb-dm-thread-watch；09:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（09:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变 → 自 09:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 09:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 09:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 09:03 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（09:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 09:48 轮（fb-dm-thread-watch；09:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（09:48，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 09:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 09:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 09:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 09:03 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（09:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 10:03 轮（fb-dm-thread-watch；10:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（10:03，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 09:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 09:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 10:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 09:03 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（09:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 10:18 轮（fb-dm-thread-watch；10:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（10:18，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 10:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 10:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 10:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 09:03 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（09:03 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 10:33 轮（fb-dm-thread-watch；10:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（10:33，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 10:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 10:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 10:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 12:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 10:48 轮（fb-dm-thread-watch；10:48 cron 触发，Victoria 单线）
+- CLI 服务器端核验（10:48，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 10:33 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 10:33 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 10:48）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 11:03 轮（fb-dm-thread-watch；11:03 cron 触发，Victoria 单线）
+- CLI 服务器端核验（11:03，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 10:48 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 10:48 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 11:03）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 11:18 轮（fb-dm-thread-watch；11:18 cron 触发，Victoria 单线）
+- CLI 服务器端核验（11:18，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 11:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 11:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 11:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+- 补充（MEMORY.md 11:18 更新，用户新定）：2026-11-06 11:18 用户点选全量沿用去模板化打法，猎手冻结解除，恢复发评论，优先发积压的 6 条待发候选，按加码口径评论约 30 条/天、私信新触达约 10 人/天起步。本轮私信盯守无新增可发项，上述 6 条为猎手评论线工作，不属本任务。
+
+## 2026-11-06 11:33 轮（fb-dm-thread-watch；11:33 cron 触发，Victoria 单线）
+- CLI 服务器端核验（11:33，静态代理，sync both --since-days 1）：messages_new=0、messages_fetched=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270，约 11-05 18:15）→ 自 11:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 11:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程 is_unread=false、最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒）。Judi Welch / Anne Riches / Sarah Jane / Conny Artese 线程最新仍为我方消息、无对方回复；Lucy Brook / Gail Serra Matthews / Christina Davies / Jenny Porter / Linnie Watkins / Mellissa Gerow Russell 线程最新亦为我方消息、无对方回复。
+- Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：messages_new=0 且 newest_cached_ts 未变，三线程无新同步消息；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（截至 11:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：本轮 sync 返回的 20 条缓存线程中均无二人 → 前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发（等用户定）决议。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
