@@ -3,7 +3,7 @@ display_name: "Mona Pinnington"
 first_name: "Mona"
 last_name: "Pinnington"
 summary: "Prospective overseas patient — collection-table #129; asked about Miami Dr. Quoc Bao Dang, Victoria commented 2026-10-29, not DM'd under local/specific-doctor rules."
-rank: 94
+rank: 96
 updated: "2026-10-30"
 ---
 

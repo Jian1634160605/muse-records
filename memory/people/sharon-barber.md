@@ -3,7 +3,7 @@ display_name: "Sharon Barber"
 first_name: "Sharon"
 last_name: "Barber"
 summary: "Prospective overseas patient — collection-table #216; Victoria commented 2026-11-04 on her Thailand Destination Beauty post, not DM'd."
-rank: 137
+rank: 139
 updated: "2026-11-04"
 ---
 

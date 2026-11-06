@@ -3,7 +3,7 @@ display_name: "Jesse Sloane"
 first_name: "Jesse"
 last_name: "Sloane"
 summary: "Prospective overseas patient — collection-table #113 and #243; asked about a doctor in Europe, Victoria commented 2026-10-28 and again 2026-11-05 (E07 97, test batch #10), not DM'd."
-rank: 67
+rank: 69
 updated: "2026-11-05"
 ---
 

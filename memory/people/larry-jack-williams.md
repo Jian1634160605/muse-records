@@ -3,7 +3,7 @@ display_name: "Larry Jack Williams"
 first_name: "Larry"
 last_name: "Williams"
 summary: "Prospective overseas patient — collection-table #107 and #127; Victoria commented 2026-10-28 on his Vietnam question and 2026-10-29 on his HCMC Dr David Cong post, not DM'd."
-rank: 61
+rank: 63
 updated: "2026-10-29"
 ---
 

@@ -1,7 +1,7 @@
 ---
 display_name: "意大利yo酱面"
 summary: "Company-owned Xiaohongshu patient-persona account — rib-nose diarist; first video went to Emerson 2026-11-03 before Dr.qh666 was deleted; further搬運 personal-only under the 90-plus-and-nod gate."
-rank: 129
+rank: 131
 updated: "2026-11-04"
 ---
 

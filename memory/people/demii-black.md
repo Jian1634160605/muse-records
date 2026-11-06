@@ -3,7 +3,7 @@ display_name: "Demii Black"
 first_name: "Demii"
 last_name: "Black"
 summary: "Prospective overseas patient — collection-table #177; Victoria commented 2026-11-02 on her Vietnam KT beauty deep-plane consultation post, not DM'd."
-rank: 107
+rank: 109
 updated: "2026-11-02"
 ---
 

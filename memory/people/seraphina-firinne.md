@@ -3,7 +3,7 @@ display_name: "Seraphina Firinne"
 first_name: "Seraphina"
 last_name: "Firinne"
 summary: "Prospective overseas patient — collection-table #146–#148 batch; Victoria commented on the deep-plane, neck and brow lift post 2026-10-31, not DM'd."
-rank: 99
+rank: 101
 updated: "2026-10-31"
 ---
 

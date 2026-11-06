@@ -3,7 +3,7 @@ display_name: "Susan Maree"
 first_name: "Susan"
 last_name: "Maree"
 summary: "Prospective overseas patient — collection-table #101; post about Dr Mario Moran recovery and before/after, Victoria commented 2026-10-27, not DM'd as a specific-doctor-anchored post."
-rank: 56
+rank: 58
 updated: "2026-10-27"
 ---
 

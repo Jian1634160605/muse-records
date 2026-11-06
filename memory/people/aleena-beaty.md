@@ -3,7 +3,7 @@ display_name: "Aleena Beaty"
 first_name: "Aleena"
 last_name: "Beaty"
 summary: "Prospective overseas patient — collection-table #180; Victoria commented 2026-11-02 on her Blepharoplasty-group upper-eyelid fat-pad post, not DM'd."
-rank: 110
+rank: 112
 updated: "2026-11-02"
 ---
 

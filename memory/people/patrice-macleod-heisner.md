@@ -3,7 +3,7 @@ display_name: "Patrice MacLeod Heisner"
 first_name: "Patrice"
 last_name: "MacLeod Heisner"
 summary: "Prospective overseas patient — collection-table #193; Victoria commented 2026-11-03 on her Chapel Hill clinic experience post, not DM'd."
-rank: 119
+rank: 121
 updated: "2026-11-03"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Linnea Hambalek"
 first_name: "Linnea"
 last_name: "Hambalek"
 summary: "Prospective overseas patient — collection-table #115; asked what a facelift can do for her, Victoria commented 2026-10-28, not DM'd as the post did not reach the explicit-intent threshold."
-rank: 69
+rank: 71
 updated: "2026-10-28"
 ---
 

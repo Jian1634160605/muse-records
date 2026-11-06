@@ -3,7 +3,7 @@ display_name: "Flavia Lazaroni"
 first_name: "Flavia"
 last_name: "Lazaroni"
 summary: "Prospective overseas patient — collection-table #131; asked whether IG doctor dr.fulukasi is credible, Victoria commented 2026-10-29, not DM'd as a specific-doctor post."
-rank: 95
+rank: 97
 updated: "2026-10-30"
 ---
 

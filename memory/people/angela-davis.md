@@ -3,7 +3,7 @@ display_name: "Angela Davis"
 first_name: "Angela"
 last_name: "Davis"
 summary: "Prospective overseas patient — 2026-10-31 eyelid-group hunter round; Victoria commented on the lower-eyelid fat-pad recommendation and price post, not DM'd."
-rank: 101
+rank: 103
 updated: "2026-10-31"
 ---
 

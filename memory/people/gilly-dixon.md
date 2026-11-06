@@ -3,7 +3,7 @@ display_name: "Gilly Dixon"
 first_name: "Gilly"
 last_name: "Dixon"
 summary: "Prospective overseas patient — collection-table #215; Victoria commented 2026-11-04 on her Brno first-consultation post, not DM'd."
-rank: 136
+rank: 138
 updated: "2026-11-04"
 ---
 

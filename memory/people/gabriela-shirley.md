@@ -3,7 +3,7 @@ display_name: "Gabriela Shirley"
 first_name: "Gabriela"
 last_name: "Shirley"
 summary: "Prospective overseas patient — collection-table #100; Mexico City post about Dr Marco Lozano, Victoria commented 2026-10-27, not DM'd as a specific-doctor-anchored post."
-rank: 55
+rank: 57
 updated: "2026-10-27"
 ---
 

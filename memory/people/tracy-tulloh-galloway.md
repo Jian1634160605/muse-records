@@ -3,7 +3,7 @@ display_name: "Tracy Tulloh Galloway"
 first_name: "Tracy"
 last_name: "Tulloh Galloway"
 summary: "Prospective overseas patient — collection-table #234; Victoria commented 2026-11-05 on her dry-eye lower-eyelid post in the Blepharoplasty group, not DM'd."
-rank: 140
+rank: 142
 updated: "2026-11-05"
 ---
 

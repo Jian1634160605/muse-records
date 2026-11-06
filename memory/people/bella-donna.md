@@ -3,7 +3,7 @@ display_name: "Bella Donna"
 first_name: "Bella"
 last_name: "Donna"
 summary: "Prospective overseas patient — collection-table #140; asked about a healing clinic / Dr Teoman Eraslan in a Turkey group, Victoria commented 2026-10-30, not DM'd."
-rank: 85
+rank: 87
 updated: "2026-10-30"
 ---
 

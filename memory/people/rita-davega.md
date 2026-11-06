@@ -3,7 +3,7 @@ display_name: "Rita DaVega"
 first_name: "Rita"
 last_name: "DaVega"
 summary: "Prospective overseas patient — collection-table #185; Victoria commented 2026-11-03 on her Blepharoplasty-group brow-lift-via-upper-eyelid-incision experience post, not DM'd as pre-op research."
-rank: 112
+rank: 114
 updated: "2026-11-03"
 ---
 
