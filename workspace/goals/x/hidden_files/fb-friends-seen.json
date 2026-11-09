@@ -1,18 +1,4 @@
 {
-  "_meta": {
-    "data": {
-      "fbids": [
-        698742157,
-        100000562334266,
-        100004996596798,
-        100010732600060,
-        100082014083516,
-        100091495485381
-      ],
-      "message_ids": []
-    },
-    "tool_call_id": "call_01a1af64aac9731a966cddc35cd807c0"
-  },
   "data": [
     {
       "friend_id": "100091495485381",
@@ -35,9 +21,24 @@
       "profile_url": "https://facebook.com/nthofela.sekonyela"
     },
     {
+      "friend_id": "100002168331515",
+      "name": "Timing Smith",
+      "profile_url": "https://facebook.com/tung.kwan.35"
+    },
+    {
       "friend_id": "100000562334266",
       "name": "NteboRose Malehlonolo Ralekuku",
       "profile_url": "https://facebook.com/Ndomzandile"
+    },
+    {
+      "friend_id": "100000092403559",
+      "name": "Chiu Sang",
+      "profile_url": "https://facebook.com/chiu.sang.39"
+    },
+    {
+      "friend_id": "1210623807",
+      "name": "Jonn Tsoi",
+      "profile_url": "https://facebook.com/Jonn.Official"
     },
     {
       "friend_id": "698742157",
@@ -45,26 +46,19 @@
       "profile_url": "https://facebook.com/kevin.conzone"
     },
     {
-      "friend_id": "100002168331515",
-      "name": "Timing Smith",
-      "profile_url": "https://facebook.com/tung.kwan.35"
+      "friend_id": "100090768716776",
+      "name": "Sshinozaki Dwhhd Ceo",
+      "profile_url": "https://facebook.com/profile.php?id=100090768716776"
     },
     {
-      "friend_id": "100000092403559",
-      "name": "Chiu Sang",
-      "profile_url": "https://facebook.com/chiu.sang.39"
+      "friend_id": "540700602",
+      "name": "Margaux Wong",
+      "profile_url": "https://facebook.com/margz"
     }
   ],
-  "model_response_guidance": "Above are the raw results. Summarize or synthesize them for the user instead of copying them. Do not reproduce raw content verbatim in any file, HTML, JavaScript, or other web artifact you create from these results. If the user asks you to save or show the results, write a concise summary or extracted facts rather than pasting the source text.",
-  "paging": {
-    "cursors": {
-      "after": "QVFIVHphYzA0YWs2R3RpdEU4a3phMGROQnFwM0hzUUVvLUtlUElDa3ZAwWWFfYmVSdm1jei1BQWFOblFBdnJWSkxFYUZAWUjgtWHZAuMzJaNFp0WHk4MWJ5aGZAR",
-      "before": "QVFIVFB3LUc5aDNWMlMyVVNXcVBuNU5wR2pQdGJqQWRUZAXlMTDEtdXhlOTFoeGJmMTE3QXczMHdLcWNlSjhtMnR6cFY4TGR6aG82OUstNUEtNkdsSEJHcnN3"
-    }
-  },
   "retrieved_at": {
-    "user_local": "2026-11-06T18:48:37.718+08:00",
+    "user_local": "2026-11-08T16:56:00.000+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-06T10:48:37.718Z"
+    "utc": "2026-11-08T08:56:00.000Z"
   }
 }

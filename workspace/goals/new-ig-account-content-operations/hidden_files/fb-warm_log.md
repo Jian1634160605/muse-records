@@ -1,3 +1,81 @@
+## 2026-11-08 18:41–18:52（运行实测 10 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 18:41–18:52（10 分钟），回传自述约 11 分钟，1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共约 18 条，每条垂类内容均看大半/看完再划，节奏自然；首页约 4 分钟（18:41–18:45）、Reels 与搜索“facelift before and after”筛选 Reels/视频约 7 分钟（18:45–18:52）；垂类为主（眼睑术后恢复、面部脂肪移植、拉皮前后对比、深层拉皮、颈部提升），非垂类（NteboRose 帖、Centara/iHerb 广告、Tony Robert 外贸、Lei LI 宠物狗）快速划过、未点击广告
+- 垂类概况：首页有 Anna Cox 上下眼睑术后第 3 天、Plastic.Surgeon Hiếu Tâm 面部脂肪移植与脂肪干细胞再生、匿名用户单侧下颌线/法令纹求助、Margaux Wong 眼睑不对称咨询（其帖下 Victoria 三天前已有旧评论，本场未评论）；Reels/搜索有 Li Feng 上海拉皮术前术后对比、Steven Wade Q-Flow 拉皮术前术后、Peng Xiao Yun 49 岁马来西亚客人赴上海拉皮、Ye XiuYu Tri-Vector Lift 45 岁、高二青 Deep Structural Lift 46 岁美国客人、Chengym Zhang 深层拉皮与颈部提升、Valerie Mehlman 71 岁下面部与颈部提升（2:29 长视频看了开头约 29 秒）、Olga Kane 拉皮+颈部提升术后三周、Ailsa Brown 62 岁英国男士面部提升
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. 首页 Anna Cox 眼睑术后第 3 天（12→13）
+  2. 首页 Plastic.Surgeon Hiếu Tâm 面部脂肪移植（2→3）
+  3. 首页 Margaux Wong 眼睑手术咨询（2→3）
+  4. Reels Li Feng 拉皮术前术后对比（33→34；后续再经过该卡片显示 35，疑为他人同期点赞，不计入本次）
+  5. Reels Ailsa Brown 62 岁英国男士面部提升（点赞前 251，点赞后按钮变为 Remove Like、拇指变蓝；最终视图计数显示异常为“1 reaction”，未能再次核对到 252，记为 251→约 252，以按钮已点赞状态为准）
+  - 备注：搜索结果中 Olga Kane 一条本场开始前即显示已点赞（Remove Like，94 次），仅浏览、未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 误赞纠正备查：第 5 条首次点击时 Reels 层叠卡片在视频结束时自动切到下一条，赞误落到非垂类 Tony Robert 外贸视频上（250→251）；发现后立即返回该视频核对并取消该赞，确认恢复为未点赞、250 次；随后返回 Ailsa Brown 视频重新观看 15 秒再正确点赞并截图核对 ✅
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；好友请求卡片梁先化（17 小时前，1 位共同好友）仅划过，未确认、未删除（按口径不由本场处理）；Valerie Mehlman 作者资料悬浮卡曾因悬停弹出（含 Follow/Message 按钮），用 Escape 关闭，未关注、未发消息
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-08 14:45–15:01（运行实测 16 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–15:01（16 分钟），回传自述 14:45–15:00（约 15 分钟），1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共 25 条（符合 15–25 条目标），每条垂类内容均看大半/看完再划，节奏放慢；首页 11 条（约含 3 条广告快速划过）、Reels 6 条、搜索“facelift before and after”找回垂类 8 条（Top 结果 3 条＋筛选 Reels/视频 5 条）；垂类为主（眼睑术后恢复、拉皮术后恢复与前后对比、深层拉皮、鼻整形、面部年轻化），非垂类（宠物狗、瑞士风景、广告）快速划过、未点击广告
+- 垂类概况：首页有 AmazingNarwhal5371 眼睑术后第 7 天、sea_turtle_1995 拉皮术后第 26 天、Rizza Santos 54 岁术后近 2 个月、Kathy Wamsley 7 天护肤前后对比、Erkan Soylu 鼻整形术后 2 年、Andrés Rubiano 超声波鼻整形、Glenn Close 抗皱妙招；Reels 有 Dr.dadong 全脸+颈部年轻化、Kasi Lu 面部提拉、Chen Chen 冻龄前后对比、Li Feng 手术室实拍+拉皮前后对比；搜索视频集中于 facelift before and after，包括 Destination Beauty Clinic Kerry 术后 2 个月、Doctor Liu Elena 57 岁术后 1 个月、Peng Xiao Yun 49 岁赴上海拉皮、Chengym Zhang 深层拉皮+颈部拉皮、高二青 46 岁拉皮定制方案、Olga Kane 术后 3 周
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. 首页 AmazingNarwhal5371 眼睑术后第 7 天前后对比（26→27）
+  2. 首页 sea_turtle_1995 拉皮术后第 26 天（51→52）
+  3. Reels Dr.dadong 全脸+颈部年轻化（79→80）
+  - 备注：搜索结果中 Cindy Clark Interiors 上下眼睑+CO2 激光、Ordinwrst 58 岁拉皮术后第 1 天、Olga Kane 术后 3 周打开时即显示已点赞，为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞（全程未遇到本人帖子）；高二青一条计数观看期间由 364 变为 366，系他人点赞，本人未点击该条点赞按钮
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；右侧好友请求卡片 Margaux Wong 仅划过，未确认、未删除（按口径不由本场处理）；搜索页出现的 Follow 按钮均未点击
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-08 10:43–10:55（运行实测 12 分钟）— 定时上午场（fb-warm-am）✅ 执行完整
+- 计时说明：运行实测为 10:43–10:55（12 分钟），回传自述一致，无差异
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共约 25 条以上（符合 15–25 条目标），每条垂类内容均看大半/看完再划，节奏自然；首页约 4 分钟（10:43–10:47）、Reels 6 条（10:46–10:49）、搜索“facelift before and after”筛选 Reels/视频约 10 条（10:49–10:54）；垂类为主（眼睑术后恢复、SMAS/深层拉皮前后对比与术后恢复、拉皮前后对比），非垂类（TikTok 广告、护发油帖、儿童舞蹈、卡通动画）快速划过、未点击广告
+- 垂类概况：首页有 MellowAsparagus6774 眼睑下垂（ptosis）提问、Rosalie Grazzini SMAS+下眼睑术后第 4/10 天对比、PinkElephant6618 土耳其拉皮术后第 7 天、GracefulNarwhal 腹部整形+乳房提升、GlowingPomegranate 眼睑术后 4 周、AmusingCamel 深层拉皮+颈部提升淤青、Emma Foraker 前后对比、Nayak Plastic Surgery 术后 1 周视频、AmazingNarwhal5371 眼睑术后第 7 天；Reels 有 Dr. Harvey Cole“无疤拉皮不存在”、Doctor Liu 59 岁患者术后 1 个月随访、Raul Guillermo Reyes Arteaga 深层拉皮术后 4 个月；搜索视频集中于 facelift before and after，包括 Doctor Liu、J Park、Dr Jason Diamond、Chengym Zhang、Carlos Mata、Olga Kane、Gqq Zhang、Zhang Guoqi（46 岁 Skyler 赴华拉皮）、Doctor Liu（Elena 57 岁）、Erqing Gao SMAS 讲解
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. 首页 Rosalie Grazzini SMAS+下眼睑术后第 4/10 天对比帖（65→66）
+  2. 首页 GlowingPomegranate 眼睑术后 4 周恢复帖（15→16）
+  3. Reels Dr. Harvey “Chip” Cole, III, MD, FACS“无疤拉皮不存在”（1.6K 取整显示不变，以按钮变 Remove Like 为准）
+  4. Reels Raul Guillermo Reyes Arteaga 深层拉皮术后 4 个月（13→14）
+  5. 搜索视频 Olga Kane“3 Weeks After My Facelift: I Finally See ME!”（0:25 看完，Like 75→76，总计 90→“You and 90 others”）
+  - 备注：搜索结果中 Doctor Liu（Patricia 59 岁术后 1 个月，1.5K）、J Park Facelift（2.9K）、Dr Jason Diamond（5.6K）打开时即显示已点赞，为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；好友请求卡片仅划过，未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-07 18:42–18:54（运行实测 12 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 18:42–18:54（12 分钟），回传自述一致，无差异
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），头像链接为 Victoria Maizie's Timeline，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：合计约 30 项（首页约 13 项含广告与 Reels 推荐行、实质帖子约 9 条；Reels 约 10 条；搜索“facelift before and after”筛选 Reels/视频约 8–9 条），每条垂类内容均停留观看大半再划，节奏自然；首页约 4 分钟（18:42–18:46）、Reels 与搜索约 8 分钟（18:46–18:54）；非垂类（TikTok/代理/Agoda/珠宝广告、越南直播、情感短剧、蹦极、体态、儿童舞蹈、剪辑教程、越语剧情）快速划过、未点击广告
+- 垂类概况：首页有 Face-lift & Neck-lift Support Group 内 InspiringKiwi 术后首周酒店准备提问（15 小时前）、Aglae 蒂华纳术后按摩图集、Stacey Panassidi 新泽西眼睑术后 8 周视频、Nicknamegirlll 眼睑综合手术/杏仁眼型帖、Ana Camargo（注册护士，DMV 地区，专长拉皮术前准备与术后恢复）、Lucie Komendova 上眼睑术后拆线前 Day 2–7 恢复对比（3 天前）、回首页后新增 OptimisticCranberry9617 颈部+下面部拉皮术后第 6 天、全头绷带 6 天后首次见脸；Reels 有 Ailsa Brown 58 岁英国面部提升、Dr.Xiao9D 的 9D Facelift、Opulent Beauty Clinic PDO 线雕皮下原理、叶修宇 52 岁拉皮手术故事；搜索视频集中于 facelift before and after，包括 Peng Xiao Yun 49 岁马来西亚赴上海找彭医生、J Park 澳大利亚拉皮前后对比（术后 5 天，35 岁）、Doctor Liu 的 Elena（57 岁，西班牙，术后 1 个月）、Olga Kane 术后 3 周拉皮前后对比、Carlos Mata 保存式深层拉皮 Part 2、V-Clinic 深层拉皮+深层颈部+上下眼睑+唇部手术（230 万观看）、Kasi Lu 50 岁都柏林
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. 首页 InspiringKiwi 术后首周酒店准备提问（Face-lift & Neck-lift Support Group）（1→2）
+  2. 首页 Stacey Panassidi 眼睑术后 8 周恢复视频（28→29）
+  3. 首页 Nicknamegirlll 眼睑综合手术帖（Blepharoplasty Support Group）（3→4）
+  4. 首页 Lucie Komendova 上眼睑术后恢复帖（276→277）
+  5. Reels Ailsa Brown 面部提升视频（82→83）
+  - 备注：搜索结果中 J Park 拉皮前后对比视频打开时即显示已点赞（Remove Like），为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；右侧出现的 Connie Ng 好友请求未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-07 10:43–10:55（运行实测 12 分钟）— 定时上午场（fb-warm-am）✅ 执行完整
+- 计时说明：运行实测为 10:43–10:55（12 分钟），回传自述一致，无差异
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），Olga Kane 视频页评论框亦显示 "Comment as Victoria Maizie"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台
+- 浏览内容：共约 20 条（符合 15–25 条目标），每条看完大半再划，节奏自然；首页约 9 条（约 5 分钟）、Reels 4 条（约 2 分钟，推荐流连续偏离垂类）、搜索“facelift before and after”筛选 Reels/视频 6 条（约 5 分钟）；垂类为主（眼睑/眉尾提升术后恢复、拉皮前后对比与术后恢复、深层拉皮、赴华拉皮），非垂类（iHerb/TikTok/香港中文大学广告、晚餐视频、小狗视频、越南语剧集）快速划过、未点击广告
+- 垂类概况：首页有 Natalia Casabianca（Blepharoplasty Support Group）四眼睑＋眉尾提升术 11 月 3 日手术、术前/术后第 1、2 天及 11 月 4 日对比、RIMAN Glow with Jelena 抗衰老护肤 5 天前后对比、Facelift Support Group 匿名用户拉皮术后第 4 周对比、Amanda Frosti Morales（Face-lift & Neck-lift Support Group）64 岁鼻部癌变后求助、Blepharoplasty Support Group 匿名用户上下眼睑松弛求助、Hu Zhi Mei 拉皮下颌线前后对比；Reels 有罗元 U2V Facelift 65 岁美国患者术后 2 个月、Dr Xiao90 上海拉皮术前划线；搜索视频集中于 facelift before and after，包括 Doctor Liu 59 岁美国患者 Patricia 术后 1 个月、Aesthetics Li（Dr. QinHao）深层拉皮术后第 5 天、Olga Kane 术后 3 周、TWX.Facial aesthetics 赴华拉皮两条、Yang Miles Tri-Plane Facelift；搜索列表另见 Steven Wade、Dr Liam（术后 5 个月拉皮），仅列表浏览未展开
+- 点赞 4 条（符合 3–5 条要求，间隔拉开、隔多条内容，每次均确认按钮变为 Remove Like）：
+  1. 首页 Natalia Casabianca 眼睑＋眉尾提升术后恢复对比（9→10，Like 7→8，Love 2 不变）
+  2. 首页 Facelift Support Group 匿名用户拉皮术后第 4 周对比（51→52，Like 37→38，Love 12 不变）
+  3. Reels 罗元 U2V Facelift 65 岁美国患者术后 2 个月（279→280）
+  4. 搜索视频 Doctor Liu Patricia 59 岁美国患者术后 1 个月前后对比（679→680；点赞后约 1 分钟内同一计数在后续页面显示为 682–683，应为其他用户同期点赞，本人未重复点击）
+  - 备注：其余已显示已点赞的内容未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；Sshinozaki 的好友请求仅出现，未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-06 18:41–18:53（运行实测 11 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
 - 计时说明：运行实测为 18:41–18:53（harness 计 11 分钟），回传自述约 12 分钟，1 分钟尾段差异以实测为准
 - 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏显示 Victoria Maizie，发帖框显示 "What's on your mind, Victoria?"，确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时再次核对身份未变 ✅
@@ -823,3 +901,23 @@
 - 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、未进入个人主页管理后台 ✅
 - 账号安全：全程无验证码、无真人验证、无账号警告或限制提示 ✅
 - 结论：本场执行完整，账号状态健康，无需向用户报告 ✅；此前“细节未回传”暂记以本条补正为准。追问回传（15:03–15:04）与本条一致，并明确追问未重新浏览、未再点赞、未做新操作，计数不变。
+
+## 2026-11-07 14:45 中午场（fb-warm-noon）⚠️ 执行细节未回传（首派失败、重试观察到浏览、窗口已关闭）
+
+- 首派 browser-task:defd5e61-7375-56a0-b2e3-b36cf6a61e4c：回传失败，打开 facebook.com 标签页的操作被中止（aborted），窗口内无标签页，未进入首页，登录身份未确认，浏览 0 条、点赞 0 条；未见验证码/真人验证/账号警告或限制提示——因页面未打开，上述情况均未实际发生，也无法排除。回传实测运行时间 <1 分钟。
+- 出入说明：首派窗口检查期间曾显示 working/browsing 且有 facebook.com 标签页，与回传“无标签页、未进入”说法不一致；浏览/点赞以回传为准记 0 条，不排除首派曾短暂进入页面。
+- 重试 browser-task:cb0362a5-ab1b-54fe-8a18-0cec663e69ad（新窗口）：窗口检查确认正常进入 Facebook 并浏览垂类内容——首页 → “facelift before and after” 视频搜索页（facebook.com/search/videos/?q=facelift%20before%20and%20after）→ 垂类视频观看页（facebook.com/watch/?v=1485735120090015）。约 15 分钟后请其汇报小结，随后窗口关闭，但未收到结构化小结回传（与 10-21、10-23、10-26、10-28、10-30 同类“静默结束/细节未回传”问题一致）。
+- 未核实项（无证据，不编造）：登录身份（是否为 Victoria Maizie 个人号、是否经 Quick switch profiles 切换）、浏览条数与内容清单、点赞条数与具体内容、全程有无验证/警告/限制提示、禁止项（评论/私信/加好友/进群/发帖/分享）执行情况。
+- 禁止项：任务指令已包含全部禁止项；重试执行期间窗口检查仅见浏览垂类页面，未见异常操作迹象，但无任务内部记录可作完整核验。
+- 处理：本场计为“首派失败、重试观察到在 Facebook 内浏览垂类、细节未回传”，不伪造浏览/点赞记录；如迟到回传随后到达，以回传为准补记本条。无账号安全提示可报告（未观察到验证/限制信号，不等于已核验全程无提示）；下场执行前仍应先核对身份。
+
+## 2026-11-07 14:46–15:00（迟到回传补正，替代此前“细节未回传”暂记）✅ 执行完整
+
+- 登录恢复：打开 facebook.com 后停在 Meta 一键登录页，按授权点“Continue Victoria Maizie”恢复登录，无需密码或验证码；首页发帖框显示 “What's on your mind, Victoria?”、评论框显示 “Comment as Victoria Maizie”，登录身份确认为 Victoria Maizie 个人号，无需 Quick switch profiles 切换。实测运行约 14 分钟（14:46–15:00）。
+- 浏览：共 27 条，均为 facelift、plastic surgery、before and after 垂类视频，每条看完大半或完整、节奏放慢逐条下滑：Doctor Liu 术后 1 个月、Aesthetics Li 拉皮、V-Clinic 深层拉皮、Olga Kane、Steven Wade Q-Flow、Dr Liam、Facial lift 前后对比、Cj Li（2 条）、Hu Zhi Mei、Li Dralden、上海整形 Dr.wang、Janjua 术后第 1 天、Dry Miles 术后转变、Dr.wang 52 岁西班牙患者、Dr. Zhangxiaotang 前后对比、Alden Zhu 56 岁微创提拉、Kin Facelift mini facelift、Ye Xiuyu 71 岁拉皮及 TRI-VECTOR、Jenny Face Atelier 医美护理记录、高二青 46 岁赴华拉皮、Erqing Gao、Orange County Surgical Specialists 手术日、Reveal Your Beauty 全脸颈部年轻化、Yang Miles Tri-Plane、Kathleen Lisson 拉皮术后神经损伤。Watch 流中少量非垂类（短剧、美妆、宠物）直接划过，未计入 27 条。
+- 条数说明：27 条略高于任务“15–25 条”区间上限（多 2 条），属轻微超量，非缺量。
+- 点赞：新增 3 个，已达上限，间隔拉开（第 2、16、26 条），无连续点赞：① Aesthetics Li facelift 视频（159→160）；② Dr. Zhangxiaotang Before/After 视频（233→234）；③ Yang Miles 面部年轻化/Tri-Plane 视频（显示 “You and 1 other”）。V-Clinic 一条浏览前已显示 “Remove Like”，为本场之前已有的赞，未计入本次 3 个。
+- 核验说明：回传附带的 5 张操作收据状态均为 unknown（stale_reference），点赞计数变化（159→160、233→234）以任务回传为准，未经收据独立核验。
+- 异常：全程无验证码、无真人验证、无账号警告、无限流/限制提示 ✅。两处小情况均未影响账号：Kin Facelift 视频曾短暂显示 “Unable to play media.”，等待后正常加载播放；Erqing Gao 视频播完后曾误触打开表情反应弹窗，随即关闭，未选任何表情、未产生反应。
+- 禁止项：无评论、无私信、无加好友、无进群、无发帖、无分享，未点开广告链接或外部链接 ✅
+- 结论：本场执行完整，共浏览 27 条、点赞 3 个，账号状态健康，无需向用户报告 ✅；此前“细节未回传”暂记以本条补正为准。
