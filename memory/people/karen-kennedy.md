@@ -3,7 +3,7 @@ display_name: "Karen Kennedy"
 first_name: "Karen"
 last_name: "Kennedy"
 summary: "Prospective overseas patient — collection-table #142; asked about Mustafa Malhi / Faceland in the Blepharoplasty group, Victoria commented 2026-10-30, not DM'd."
-rank: 89
+rank: 91
 updated: "2026-10-30"
 ---
 

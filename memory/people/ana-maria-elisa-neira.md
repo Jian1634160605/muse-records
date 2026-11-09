@@ -3,7 +3,7 @@ display_name: "Ana Maria Elisa Neira"
 first_name: "Ana"
 last_name: "Maria Elisa Neira"
 summary: "Prospective overseas patient — collection-table #76; considering deep-plane facelift, comparing a Colombia quote with Istanbul clinics, and replied to Victoria's comment on 2026-10-26; not yet DM'd."
-rank: 43
+rank: 44
 updated: "2026-10-26"
 ---
 

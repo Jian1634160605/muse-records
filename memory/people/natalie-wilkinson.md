@@ -3,7 +3,7 @@ display_name: "Natalie Wilkinson"
 first_name: "Natalie"
 last_name: "Wilkinson"
 summary: "Prospective overseas patient — collection-table #202; Victoria commented 2026-11-03 on her Blepharoplasty-group post asking about Faceland Dr Kim experience, not DM'd."
-rank: 130
+rank: 132
 updated: "2026-11-03"
 ---
 

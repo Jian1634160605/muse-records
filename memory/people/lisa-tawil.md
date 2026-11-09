@@ -3,7 +3,7 @@ display_name: "Lisa Tawil"
 first_name: "Lisa"
 last_name: "Tawil"
 summary: "Prospective overseas patient — replied 'absolutely' to Victoria's comment on her South Tampa anesthesia post on 2026-11-05; one of two test-batch replies, not yet at DM threshold, no DM recorded."
-rank: 47
+rank: 48
 updated: "2026-11-05"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Moira Brindle"
 first_name: "Moira"
 last_name: "Brindle"
 summary: "Prospective overseas patient — collection-table #196; Victoria commented 2026-11-03 on her combined-surgery travel post in the Facelift Support Group, not DM'd as a pre-op consultation-stage contact."
-rank: 124
+rank: 126
 updated: "2026-11-03"
 ---
 

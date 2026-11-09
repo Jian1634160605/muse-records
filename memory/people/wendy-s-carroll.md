@@ -3,7 +3,7 @@ display_name: "Wendy S Carroll"
 first_name: "Wendy"
 last_name: "Carroll"
 summary: "Prospective overseas patient — collection-table #93; seeking deep-plane face and neck lift recommendations around Nashville/Asheville/Knoxville, Victoria commented 2026-10-27, not yet DM'd."
-rank: 50
+rank: 53
 updated: "2026-10-27"
 ---
 

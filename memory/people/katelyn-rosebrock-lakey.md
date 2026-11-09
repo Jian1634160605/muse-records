@@ -3,7 +3,7 @@ display_name: "Katelyn Rosebrock Lakey"
 first_name: "Katelyn"
 last_name: "Rosebrock Lakey"
 summary: "Prospective overseas patient — collection-table #97; age 37, lower-face sagging after 40-lb loss, willing abroad with Istanbul first, Victoria commented 2026-10-27, not yet DM'd."
-rank: 54
+rank: 57
 updated: "2026-10-27"
 ---
 

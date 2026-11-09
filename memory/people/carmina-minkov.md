@@ -3,7 +3,7 @@ display_name: "Carmina Minkov"
 first_name: "Carmina"
 last_name: "Minkov"
 summary: "Prospective overseas patient — replied to Victoria's comment in the nose group; first-timer with a Texas doctor, only comparing as backup; Victoria followed up 2026-11-07 (E07 94), below DM threshold."
-rank: 170
+rank: 173
 updated: "2026-11-07"
 ---
 

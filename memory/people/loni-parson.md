@@ -3,7 +3,7 @@ display_name: "Loni Parson"
 first_name: "Loni"
 last_name: "Parson"
 summary: "Prospective overseas patient — collection-table #167; Victoria commented 2026-11-01 on her lower-face and neck lift post, not DM'd (planned for next year, Louisville-anchored)."
-rank: 107
+rank: 109
 updated: "2026-11-02"
 ---
 

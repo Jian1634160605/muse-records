@@ -1,7 +1,7 @@
 ---
 display_name: "Chiu Sang"
 summary: "New Facebook friend of Victoria's account from Hong Kong — 79, registered Chinese medicine practitioner; added 2026-11-06, deliberately not contacted under the self-chat-thread rule."
-rank: "179"
+rank: 182
 updated: "2026-11-07"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Carol Reichert"
 first_name: "Carol"
 last_name: "Reichert"
 summary: "Prospective overseas patient — seeking experience with deep-plane facelift under local anesthesia plus oral sedation; Victoria commented 2026-11-06, not DM'd."
-rank: 157
+rank: 159
 updated: "2026-11-06"
 ---
 

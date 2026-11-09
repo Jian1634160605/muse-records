@@ -3,7 +3,7 @@ display_name: "Lucy Brook"
 first_name: "Lucy"
 last_name: "Brook"
 summary: "Prospective overseas patient — first DM server-verified delivered 2026-10-23; B-18 follow-up sent 2026-10-24 evening after a delayed approval; no reply yet."
-rank: 33
+rank: 34
 updated: "2026-10-24"
 ---
 

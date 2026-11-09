@@ -3,7 +3,7 @@ display_name: "Laura White"
 first_name: "Laura"
 last_name: "White"
 summary: "Prospective overseas patient — collection-table #137; asked about Oklahoma City Dr. Nuveen after a consultation, Victoria commented 2026-10-30, not DM'd."
-rank: 94
+rank: 96
 updated: "2026-10-30"
 ---
 

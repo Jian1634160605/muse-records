@@ -3,7 +3,7 @@ display_name: "Elizabeth Jane"
 first_name: "Elizabeth"
 last_name: "Jane"
 summary: "Prospective overseas patient — collection-table #103; upper-eyelid plus trifocal lens, in talks with a Turkey hospital, Victoria commented 2026-10-27, not DM'd."
-rank: 64
+rank: 67
 updated: "2026-10-28"
 ---
 

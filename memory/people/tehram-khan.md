@@ -3,7 +3,7 @@ display_name: Tehram Khan
 first_name: Tehram
 last_name: Khan
 summary: FB account the user delivered 2026-10-22 and ABANDONED 2026-10-23 — account locked by FB (device-unlock checkpoint neither side could pass); FoxProfile env deleted by the user's decision; closed, do not revive.
-rank: 24
+rank: 25
 updated: 2026-10-22
 ---
 

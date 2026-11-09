@@ -2,9 +2,9 @@
 display_name: "Timing Smith"
 first_name: "Timing"
 last_name: "Smith"
-summary: "New Facebook friend of Victoria's account from Hong Kong; first DM sent 2026-11-06 17:48 Beijing and verified, no reply as of the morning of 2026-11-07; B-18 due around 17:51 Beijing that day."
-rank: "160"
-updated: "2026-11-07"
+summary: "New Facebook friend of Victoria's account from Hong Kong; first DM sent 2026-11-06, B-18 follow-up sent and verified 2026-11-07, no reply yet."
+rank: 162
+updated: "2026-11-09"
 ---
 
 # Timing Smith
@@ -17,12 +17,13 @@ updated: "2026-11-07"
 - Jonn Tsoi, who also contacted Victoria on 2026-11-06, shares one mutual friend with her; the mutual friend is unnamed in the source (memory/2026-11-06.md#L3573).
 - Sshinozaki Dwhhd Ceo, a new Victoria friend approved 2026-11-07, also shares one mutual friend with her (window conversation, message:assistant-msg-73e6b59f-c205-638c-4418-1208a206d008).
 - No facelift/anti-aging intent from her has been recorded.
-- No reply as of the morning of 2026-11-07, about 16 hours after the first DM; the B-18 follow-up falls due around 17:51 Beijing on 2026-11-07 (window conversation, message:assistant-msg-97672746-db7a-49be-9873-3af1f8692b40).
-- Last contact: 2026-11-06, Victoria's first DM; no reply as of the morning of 2026-11-07.
+- 2026-11-07 18:04 Beijing: B-18 follow-up sent and server-verified as delivered (window conversation, message:assistant-msg-18085b02-9a95-9d82-1777-e046d0f576e7).
+- No reply since the first DM on 2026-11-06.
+- Last contact: 2026-11-07, the B-18 follow-up; no reply.
 
 ## History
 - 2026-11-06: added Victoria as a friend; Victoria's first DM (three short messages) sent the same day at 17:48 Beijing and verified delivered.
-- 2026-11-07 morning: still no reply, about 16 hours after the first DM; B-18 due around 17:51 Beijing that day.
+- 2026-11-07 18:04 Beijing: B-18 follow-up sent and server-verified delivered; still no reply.
 
 ## The relationship
 A new-friend contact through Victoria's account, not a personal relationship: she added Victoria, Victoria greeted her and asked her intent, and there has been no reply so far. No patient intent has been established, and the nature of any tie beyond this contact is unstated. What helps the user communicate well with her: send one message at a time and wait for her reply — the user set that rule on 2026-11-06 after seeing several messages sent in a row before a reply in another thread (MEMORY.md, 2026-11-06 21:41 entry).
@@ -32,6 +33,6 @@ A new-friend contact through Victoria's account, not a personal relationship: sh
 
 ## Open threads
 - [ ] Awaiting any reply to Victoria's first DM sent 2026-11-06.
-- [ ] B-18 follow-up due around 17:51 Beijing 2026-11-07 if she still has not replied.
+- [x] B-18 follow-up — sent 2026-11-07 18:04 Beijing and server-verified delivered; no reply.
 
 ## Strengthening

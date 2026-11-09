@@ -3,7 +3,7 @@ display_name: "Vanessa Brennan"
 first_name: "Vanessa"
 last_name: "Brennan"
 summary: "Prospective overseas patient — collection-table #195; Victoria commented 2026-11-03, comment-thread contact only, not DM'd."
-rank: 123
+rank: 125
 updated: "2026-11-03"
 ---
 

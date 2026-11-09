@@ -3,7 +3,7 @@ display_name: Natasha Dove
 first_name: Natasha
 last_name: Dove
 summary: Prospective overseas patient — collection-table #34; posted asking for Vietnam facelift recommendations, got an expert comment; DM withheld (Vietnam-anchored, per Heather Wolf precedent).
-rank: 38
+rank: 39
 updated: 2026-10-24
 ---
 

@@ -3,7 +3,7 @@ display_name: "Cora Gleichner"
 first_name: "Cora"
 last_name: "Gleichner"
 summary: "FB doctor-IP account DELETED 2026-10-27 by the user's decision (account dead); FoxProfile env fb-54124 removed, no longer in the matrix."
-rank: 29
+rank: 30
 updated: "2026-10-27"
 ---
 
