@@ -4,6 +4,7 @@
 决定：用户 2026-11-06 17:24 在旁聊点选“确认，原样加秦浩水印发 FB”；随后补定水印要小、不要那么大；封面全部用视频尾帧、取最后 2 秒内最好看的一帧。
 排期口径：按用户 2026-11-06 17:20 主聊定“其余成片每 2 小时发一个”，接在 105202-cut（11-06 19:45，已排）之后；每条同时发 Dr.qh88 主页 + Victoria 个人号。
 > 2026-11-07 12:04 用户令“今天内容不发了”，Touché 定时任务已停；12:19 用户改定：发布窗口统一为每天中国时间 17:00–21:00，每 2 小时 1 条（17:00、19:00、21:00 三档），10–22 号按此重排；12:34 用户确认今天 17:00 开始发，10–12 号改到今天 17:00/19:00/21:00。
+> 2026-11-09 17:09 用户定：先拉互动、账号够活跃再发视频；今晚三档全停，13–15 顺延；三个 daily 发布任务（17:00/19:00/21:00）已停用。13 号在叫停前已发出（两号，见下行），14–15 待恢复发视频时重排。
 发布方式：CLI 发主页无封面参数，封面须走浏览器上传时选帧/传封面图，故两号均走浏览器发布；封面图为预先截取的最后 2 秒最佳帧（见 cover/）。
 > 2026-11-06 21:42 校正：02 号起全部提前 2 小时（02→21:40，03→23:45，余类推），补上 21:45 空档，恢复每 2 小时一档；01 号已发不动。
 
@@ -30,7 +31,7 @@
 | 10 | 11.7s | before + 1ml 标注，唇部变化 | Before, mapped, after — lips done for shape, not size. | 11-07 17:00 | 10.61s | ✅ 已发：Dr.qh88 https://www.facebook.com/reel/1830932034611755，Victoria https://www.facebook.com/reel/931459363232313，封面均为上传的 cover/10.jpg，11-07 17:0x |
 | 11 | 10.3s | FULL FACE TOUCHÉ CLINIC，年长女性 | A mature full-face refresh — restore balance, keep expression. | 11-07 19:00 | 9.15s | ✅ 已发：Dr.qh88 https://www.facebook.com/reel/1520679016588061，Victoria https://www.facebook.com/reel/2221407242054000，封面均为上传的 cover/11.jpg，11-07 19:07 |
 | 12 | 8.8s | before injections，男士 | Full-face balance for men — structure first. | 11-07 21:00 | 7.67s | ✅ 已发：Dr.qh88 https://www.facebook.com/reel/1696075825557555，Victoria https://www.facebook.com/reel/1466401345454526，封面均为上传的 cover/12.jpg，11-07 21:06 |
-| 13 | 7.1s | 填充毫升标注，同一人 | Cheeks, jawline, chin — balance in the right areas, not volume everywhere. | 11-09 17:00 | 5.94s |
+| 13 | 7.1s | 填充毫升标注，同一人 | Cheeks, jawline, chin — balance in the right areas, not volume everywhere. | 11-09 17:00 | 5.94s | ✅ 已发（叫停前发出）：Dr.qh88 object 122111737455513852，Victoria https://www.facebook.com/reel/3300713636800110/（122152417419352570），个人号 17:11；14–15 顺延待重排 |
 | 14 | 13.4s | FULL FACE TOUCHÉ CLINIC，红衣年长女性 | Full-face planning in the clinic — mapped before anything is placed. | 11-09 19:00 | 12.33s |
 | 15 | 11.0s | FULL FACE TOUCHÉ CLINIC，同一人 | Balance restored, expression untouched. | 11-09 21:00 | 9.14s |
 | 16 | 6.5s | 2ml later 唇部 | 2ml later — lips with shape and definition, still her. | 11-10 17:00 | 5.34s |

@@ -1,3 +1,33 @@
+## 2026-11-09 18:41–18:52（运行实测 10 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 18:41–18:52（10 分钟），回传自述 18:42–18:52（约 10 分钟），1 分钟起始差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共 25 条（符合 15–25 条目标），每条垂类内容均看大半再划，节奏自然；首页 13 条（约 5 分钟，含 4 条广告快速划过）、Reels 6 条、搜索“facelift before and after”筛选 Reels/视频 6 条；垂类为主（拉皮/面部提升/眼睑/颈部提升前后对比与术后恢复），非垂类（中医科普、跨境贸易、蓝光碟促销、广告）快速划过、未点击广告
+- 垂类概况：首页有 GrayKoala6859（Blepharoplasty Support Group）下眼睑手术咨询、Cherie Fittler 拉皮+颈部提升前后对比、Kassir Plastic Surgery 整形前后转变、Facial Rejuvenation by Dr. Zhiran Xia 面部年轻化视频、Catrina Murray 胶原蛋白抗衰老、Carlos Mata / Natural Results Plastic Surgery 深层拉皮手术规划视频、DazzlingAlligator6977 术后 1 个月眼睑切口不对称咨询、Keith Wood 拉皮术前与术后 1 个月对比、Kelly Ann 上眼睑术后 3 周前后对比；Reels 有 Xia ZhiRan Pinpoint 拉皮视频（与首页第 6 条为同一视频，未重复点赞）、DR Victor Verdugo 拉皮 Reels；搜索视频集中于 facelift before and after，包括 Doctor Liu 西班牙 Elena（57 岁）术后 1 个月复查、Facelift Aesthetic "Rediscovering Her Glow"、Drwang Alden“最好的拉皮效果不明显”、Gsfsd "Dr.QinHao" 拉皮/小拉皮前后对比、Destination Beauty Clinic Arlene（54 岁）术后 2 周、Huichun Wei 拉皮+颈部提升前后对比
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. 首页 Cherie Fittler 拉皮+颈部提升前后对比（31→32）
+  2. 首页 Facial Rejuvenation by Dr. Zhiran Xia 面部年轻化视频（506→507）
+  3. 首页 Carlos Mata 深层拉皮视频（7.9K 取整显示不变，以按钮变 Remove Like 为准）
+  4. 首页 Keith Wood 拉皮术前术后 1 个月对比（137→138）
+  5. Reels DR Victor Verdugo 拉皮 Reels（1.4K 取整显示不变，以按钮变 Remove Like 为准）
+  - 备注：已显示已点赞的内容未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；好友请求卡片田兆玄（与中午场同一人）仅划过，未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-09 14:45–15:00（运行实测 14 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–15:00（14 分钟），回传自述约 15 分钟，1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共 24 条（符合 15–25 条目标），每条垂类内容均看大半/看完再划，节奏放慢；首页 7 条（约 14:45–14:50）、Reels 4 条、搜索“facelift before and after”筛选 Reels/视频 13 条；垂类为主（深层拉皮、眼睑/颈部提升、拉皮前后对比、术后恢复），广告快速划过、未点击广告
+- 垂类概况：首页有 The Facelift Collective 转发 Kassir Plastic Surgery“深层拉皮术前不要做的事”、Con Allan（Face-lift & Neck-lift Support Group）下眼睑+脂肪填充术后担心右眼、Blossom Hair & Beauty 上眼睑术后 5 个月、Kirsty Brunskill 眼睑术后 3 个月（Dr Kat）、Ford Plastic Surgery 面部年轻化术后 5 周复工、IC Pfeffer 颈部拉皮术后 2 天、Tanya Vincent 上眼睑术后第 9 天；Reels 有罗元术后 60 天拉皮、Ph Chen / Dr Chen Jian Ding 拉皮前后对比、TWX.Facial aesthetics 面部提升、HUZHIMEIDr.PENG 拉皮 Before 与术后恢复；搜索视频集中于 facelift before and after，包括 Carl Truesdale, M.D. 术后 1 天 vs 3 个月、Kevin Smith 深层拉皮/迷你拉皮前后对比、Doctor Liu Elena（57 岁，西班牙）术后 1 个月、Kasi Lu 40 岁女性拉皮、高二青深层结构提升（46 岁，美国）、Gsfsd / Dr.QinHao“FROM 56 TO 35”、Dr. Jason Diamond 深层拉皮+颈部提升术后 3 个月、Santa Lucia Beauty 拉皮前后对比、Carlos Mata 深层拉皮旅程 Part 1、Dr Med Clinic Cathy 术后 3 个月；Ye Xiuyu 54 岁洛杉矶拉皮前后对比仅浏览卡片（播放按钮被遮挡未能播放）
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. 首页 Con Allan 下眼睑+脂肪填充术后帖（15→16）
+  2. 首页 Tanya Vincent 上眼睑术后第 9 天帖（42→43）
+  3. 搜索视频 Kevin Smith 深层拉皮/迷你拉皮前后对比（659→660）
+  - 备注：搜索结果中 Carl Truesdale, M.D.（26.8K）、Dr. Jason Diamond（5.6K）打开时即显示已点赞，为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；好友请求卡片田兆玄（2 天前，1 位共同好友）仅划过，未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-08 18:41–18:52（运行实测 10 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
 - 计时说明：运行实测为 18:41–18:52（10 分钟），回传自述约 11 分钟，1 分钟尾段差异以实测为准
 - 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
@@ -921,3 +951,11 @@
 - 异常：全程无验证码、无真人验证、无账号警告、无限流/限制提示 ✅。两处小情况均未影响账号：Kin Facelift 视频曾短暂显示 “Unable to play media.”，等待后正常加载播放；Erqing Gao 视频播完后曾误触打开表情反应弹窗，随即关闭，未选任何表情、未产生反应。
 - 禁止项：无评论、无私信、无加好友、无进群、无发帖、无分享，未点开广告链接或外部链接 ✅
 - 结论：本场执行完整，共浏览 27 条、点赞 3 个，账号状态健康，无需向用户报告 ✅；此前“细节未回传”暂记以本条补正为准。
+
+## 2026-11-09 10:45 上午场（fb-warm-am）✅ 执行完整
+
+- 登录身份：Victoria Maizie 个人号，登录状态正常，无需恢复；全程无验证码、无真人验证、无账号警告、无限流/限制提示 ✅。实测运行约 12 分钟（10:42–10:54，北京时间；运行时长以 runtime 计量为准）。
+- 浏览：合计完整/大半看完约 12 条。首页动态约 5 分钟、约 7 条：Katherine Fornerino 哥本哈根 ponytail lift 术后分享、Brookie 下脸/颈部拉皮术前帖、EDEN EVELIFT 一年期前后对比、BreezyDeer 下眼睑手术第 3 天/第 9 天恢复帖、TurquoiseYuzu 拉皮咨询帖，及 iHerb、Centara 两条广告（仅浏览，未互动）。Reels：Leo Qing Minifacelift & Rhinoplasty、搜索 facelift 后看 Nayak Plastic Surgery 术后第 6 天视频（看到 1:17/2:52）、Kevin Smith Deep Plane Facelift 前后对比、叶修宇“52 岁拉皮手术”前后对比，另浏览 Huichun Wei、Facelift Aesthetic、Lifeng Facelift 等多条同类结果；一条非垂类短剧短暂看过未互动。
+- 点赞：新增 5 个，已达任务上限，间隔拉开（约 1–3 分钟一个），点赞后均确认按钮变为“Remove Like”：① Katherine Fornerino 哥本哈根 ponytail lift 术后分享；② Brookie 下脸/颈部拉皮术前帖；③ EDEN EVELIFT 一年期前后对比帖；④ Leo Qing Minifacelift & Rhinoplasty Reel；⑤ Nayak Plastic Surgery 拉皮+激光术后第 6 天视频。
+- 禁止项：无评论、无私信、无加好友（首页出现的好友请求未处理）、无进群、无发帖、无改设置 ✅
+- 结论：本场执行完整，浏览约 12 条、点赞 5 个，账号状态健康，无需向用户报告 ✅。

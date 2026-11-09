@@ -1,7 +1,7 @@
 ---
 id: fb-newpages-post-daily
 title: 4 个新主页每日发布（FoxProfile）
-enabled: true
+enabled: false
 owner: goal:new-ig-account-content-operations
 mode: task
 schedule:

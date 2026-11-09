@@ -1,7 +1,7 @@
 ---
 id: fb-touche-queue-publish-19
 title: Touché 批排期发布（每天 19:00）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -12,8 +12,8 @@ timeout_secs: 3600
 delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
-  presentation_locale: en-US
+  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
+  presentation_locale: zh-CN
 ---
 你是 Touché 批 22 条视频的排期发布员。只发 Victoria 个人号与 Dr.qh88 公共主页（page_id 1398056210053725），每天中国时间 17:00、19:00、21:00 各发一条，两号同片同发。本任务是三档（17:00 / 19:00 / 21:00）中的一档，三档共用同一队列文件。
 

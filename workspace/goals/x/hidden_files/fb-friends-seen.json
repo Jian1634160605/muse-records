@@ -6,9 +6,24 @@
       "profile_url": "https://facebook.com/profile.php?id=100091495485381"
     },
     {
+      "friend_id": "100090768716776",
+      "name": "Sshinozaki Dwhhd Ceo",
+      "profile_url": "https://facebook.com/profile.php?id=100090768716776"
+    },
+    {
       "friend_id": "100082014083516",
       "name": "Sf Hk",
       "profile_url": "https://facebook.com/Teachersunnyhk"
+    },
+    {
+      "friend_id": "100034616923592",
+      "name": "Luan Wong",
+      "profile_url": "https://facebook.com/profile.php?id=100034616923592"
+    },
+    {
+      "friend_id": "100024776107759",
+      "name": "梁先化",
+      "profile_url": "https://facebook.com/profile.php?id=100024776107759"
     },
     {
       "friend_id": "100010732600060",
@@ -36,6 +51,11 @@
       "profile_url": "https://facebook.com/chiu.sang.39"
     },
     {
+      "friend_id": "61596441201916",
+      "name": "Soo Hyun Kang",
+      "profile_url": "https://facebook.com/profile.php?id=61596441201916"
+    },
+    {
       "friend_id": "1210623807",
       "name": "Jonn Tsoi",
       "profile_url": "https://facebook.com/Jonn.Official"
@@ -46,19 +66,14 @@
       "profile_url": "https://facebook.com/kevin.conzone"
     },
     {
-      "friend_id": "100090768716776",
-      "name": "Sshinozaki Dwhhd Ceo",
-      "profile_url": "https://facebook.com/profile.php?id=100090768716776"
-    },
-    {
       "friend_id": "540700602",
       "name": "Margaux Wong",
       "profile_url": "https://facebook.com/margz"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-08T16:56:00.000+08:00",
+    "user_local": "2026-11-09T14:35:00.000+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-08T08:56:00.000Z"
+    "utc": "2026-11-09T06:35:00.000Z"
   }
 }
