@@ -69,11 +69,16 @@
       "friend_id": "540700602",
       "name": "Margaux Wong",
       "profile_url": "https://facebook.com/margz"
+    },
+    {
+      "friend_id": "100058440106067",
+      "name": "M Yuda",
+      "profile_url": "https://facebook.com/m.yuda.75436"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-09T14:35:00.000+08:00",
+    "user_local": "2026-11-10T17:10:00.000+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-09T06:35:00.000Z"
+    "utc": "2026-11-10T09:10:00.000Z"
   }
 }
