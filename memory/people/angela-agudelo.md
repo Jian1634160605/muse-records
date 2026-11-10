@@ -3,7 +3,7 @@ display_name: "Angela Agudelo"
 first_name: "Angela"
 last_name: "Agudelo"
 summary: "Prospective overseas patient — collection-table #199; Victoria commented 2026-11-03 on her New York/Long Island mini or deep-plane post, not DM'd under the local-anchoring rule."
-rank: 129
+rank: 133
 updated: "2026-11-03"
 ---
 

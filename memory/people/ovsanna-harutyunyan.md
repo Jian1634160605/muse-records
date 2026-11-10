@@ -3,7 +3,7 @@ display_name: "Ovsanna Harutyunyan"
 first_name: "Ovsanna"
 last_name: "Harutyunyan"
 summary: "Prospective overseas patient — Belgium-based, eyelid-surgery recommendation post (collection #241); replied to Victoria's comment again 2026-11-06, still researching, not DM'd."
-rank: 47
+rank: 51
 updated: "2026-11-06"
 ---
 

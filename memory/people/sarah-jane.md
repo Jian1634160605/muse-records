@@ -3,7 +3,7 @@ display_name: "Sarah Jane"
 first_name: "Sarah"
 last_name: "Jane"
 summary: "Prospective overseas patient — replied 2026-11-07 asking not to be chased, not a refusal; closing reply sent, no further proactive follow-up, B-19 cancelled; no WhatsApp yet."
-rank: 23
+rank: 27
 updated: "2026-11-09"
 ---
 

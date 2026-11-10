@@ -3,7 +3,7 @@ display_name: "Emir Dogan"
 first_name: "Emir"
 last_name: "Dogan"
 summary: "Prospective overseas patient — collection-table #236; Victoria commented 2026-11-05 on his Faceland / Kass Rieg post in the Blepharoplasty group, not DM'd."
-rank: 146
+rank: 150
 updated: "2026-11-05"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Jusa Khan"
 first_name: "Jusa"
 last_name: "Khan"
 summary: "FB doctor-IP account on the unified facelift line (pre-operative assessment angle); paused 2026-10-30, then its FoxProfile environment fb-91565 was deleted 2026-11-02 by the user's decision — Facebook account/Page themselves were not deleted."
-rank: 16
+rank: 20
 updated: "2026-10-31"
 ---
 

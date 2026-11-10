@@ -3,7 +3,7 @@ display_name: "Kristin Gardner"
 first_name: "Kristin"
 last_name: "Gardner"
 summary: "Prospective overseas patient — collection-table #119; seeking a doctor in Korea, Victoria commented 2026-10-29, not DM'd."
-rank: 76
+rank: 80
 updated: "2026-10-29"
 ---
 

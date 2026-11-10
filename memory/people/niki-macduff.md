@@ -3,7 +3,7 @@ display_name: "Niki MacDuff"
 first_name: "Niki"
 last_name: "MacDuff"
 summary: "Prospective overseas patient — collection-table #244; seeking a Vietnam four-procedure combined-surgery recommendation, Victoria commented 2026-11-05 (E07 96), not DM'd."
-rank: 151
+rank: 155
 updated: "2026-11-05"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Jonn Tsoi"
 first_name: "Jonn"
 last_name: "Tsoi"
 summary: "Victoria's Messenger contact — Hong Kong catering-system entrepreneur, the user's own business contact, not a patient; thread closed 2026-11-07, no auto-replies unless he raises medical intent."
-rank: 161
+rank: 165
 updated: "2026-11-07"
 ---
 

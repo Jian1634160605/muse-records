@@ -3,7 +3,7 @@ display_name: "Ekaterina Neveykina"
 first_name: "Ekaterina"
 last_name: "Neveykina"
 summary: "Prospective overseas patient — in Baton Rouge, seeking someone for an endoscopic mid-face procedure; Victoria commented 2026-11-06, not DM'd."
-rank: 164
+rank: 169
 updated: "2026-11-06"
 ---
 

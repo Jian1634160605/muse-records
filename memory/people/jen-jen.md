@@ -2,7 +2,7 @@
 display_name: "Jen Jen"
 first_name: "Jen Jen"
 summary: "Prospective overseas patient — collection-table #110; Australia-anchored post asking about mini lower-face + neck lift experiences, Victoria commented 2026-10-28, not yet DM'd."
-rank: 70
+rank: 74
 updated: "2026-10-28"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Gail Matthews"
 first_name: "Gail"
 last_name: "Matthews"
 summary: "Prospective overseas patient (Dallas, US Central) — first DM server-verified delivered 2026-10-23; B-18 follow-up CLI-verified sent 2026-10-24 evening; no reply yet."
-rank: 35
+rank: 39
 updated: "2026-10-25"
 ---
 

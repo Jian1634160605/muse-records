@@ -11,6 +11,7 @@ Add an entry whenever you work something out worth keeping, for example:
 It starts empty and is meant to grow slowly. Don't pad it; a short, accurate file beats a long, stale one.
 
 - **浏览器活绝不派给子代理**（2026-10-22 实证）：子代理没有实时浏览器控制权限，browser.browse 必须由我本人直接派发；派 subagent 做只读复查会原样返工（它只能 CLI/文本抓取，浏览器部分交白卷）。
+- **Bertie 绝不走 browser.browse（2026-11-10 实证）**：browser.browse 默认身份是 Victoria Maizie（默认浏览器 profile 的 FB 登录态），会把 Bertie 的活做到 Victoria 号上；Bertie 的浏览器操作必须走 `~/workspace/goals/x/hidden_files/bertie-fox.py`（FoxProfile API 直驱 fb-1030 环境），每次先核验好友页显示 Bertie Harmony 再动手。
 
 ## 站点经验
 - **凭据绝不上终端输出（2026-10-22 实证）**：`~/.agent-reach/proxy-*.txt` 只用于 `export HTTPS_PROXY="$(cat ...)"` 形式，**绝不** `cat`/echo/head 打印到 stdout 检查连通性——输出会进日志与上下文。连通性用带代理的实际 API 调用验证。

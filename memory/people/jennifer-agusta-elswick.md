@@ -3,7 +3,7 @@ display_name: "Jennifer Agusta Elswick"
 first_name: "Jennifer"
 last_name: "Agusta Elswick"
 summary: "Prospective overseas patient — seeking experience with forehead reduction plus brow lift in Tijuana; Victoria commented 2026-11-06, not DM'd."
-rank: 158
+rank: 162
 updated: "2026-11-06"
 ---
 

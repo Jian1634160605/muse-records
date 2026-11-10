@@ -3,7 +3,7 @@ display_name: "Blu Berry"
 first_name: "Blu"
 last_name: "Berry"
 summary: "Prospective overseas patient — collection-table #181; Victoria commented 2026-11-02 on her Wilmington, NC facelift recommendation post, not DM'd."
-rank: 115
+rank: 119
 updated: "2026-11-02"
 ---
 

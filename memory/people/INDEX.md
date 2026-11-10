@@ -4,7 +4,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 
 - **Wife ("老婆")** — `~/memory/people/wife.md` — User's wife; works with buyer clients sourcing properties via 贝壳找房 (Beike).
 - **Feng Li (Dr. Li Feng)** — `~/memory/people/dr-li-feng.md` — Anti-aging/facelift surgeon behind @dr.lifeng; the user markets his brand to generate overseas patient leads.
-- **浩 秦 (秦浩)** — `~/memory/people/qin-hao.md` — Facelift/anti-aging doctor at the user's company; his content is shifting to new accounts the user is sending, built on memorable patients and their own words as themes.
+- **浩 秦 (秦浩)** — `~/memory/people/qin-hao.md` — Facelift/anti-aging doctor at the user's company; his content is shifting to new accounts the user sends — sarahcook6809 and gaga5456 (nose line) joined as IG accounts 2026-11-10.
 - **群毓 馬 (馬群毓)** — `~/memory/people/ma-qunyu.md` — Doctor at the user's company; two of his generic surgery clips were downloaded 2026-10-28 as anonymous reference footage for Qin Hao videos, not as his branded marketing.
 - **茜茜 江 (江茜茜)** — `~/memory/people/jiang-qianqian.md` — Member of the user's 海外6组 team; the team's stable lead producer (6 leads, 3 qualified, 3 invitations in the 2026-10-19 weekly report).
 - **园庆 蔡 (蔡园庆)** — `~/memory/people/cai-yuanqing.md` — Member of the user's 海外6组 team; produced 10 leads with 0 qualified in the 2026-10-19 weekly report — the team's lead-quality problem case.
@@ -14,14 +14,18 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **致成 赖 (赖致成)** — `~/memory/people/lai-zhicheng.md` — Member of the user's 海外6组 team (week 2); the three FB project accounts he handled were handed to Muse 2026-10-21 — two went live in the FB matrix, one died locked.
 - **浩 蔡 (蔡浩)** — `~/memory/people/cai-hao.md` — Doctor whose IP accounts members of the user's 海外6组 team run; the user's week-3 notes name him explicitly distinct from 秦浩.
 - **Lanlan (Dr. Lanlan)** — `~/memory/people/dr-lanlan.md` — Blue-verified plastic-surgery creator (@internationalplasticsurgery916), the user's
-- **Victoria Maizie** — `~/memory/people/victoria-maizie.md` — First FB doctor-IP account, carrying Page Dr.qh88; main line since 2026-10-30, hunter/DM Victoria-only; Dr.qh88 videos expired 2026-11-04, nothing deleted.
+- **Victoria Maizie** — `~/memory/people/victoria-maizie.md` — First FB doctor-IP account, carrying Page Dr.qh88; main line since 2026-10-30; Bertie Harmony joined as a second FB line 2026-11-10; hunter 2026-11-10: 35 comments by 14:13, no replies, no new leads.
+- **Bertie Harmony** — `~/memory/people/bertie-harmony.md` — Second FB account in the user's operation alongside Victoria; hunter and DM-watch first rounds ran 2026-11-10 with 1 verified comment and no leads yet.
+- **gaga5456** — `~/memory/people/gaga5456.md` — IG account brought in on the nose line 2026-11-10 — already an English Qin Hao nose account; profile conversion and before/after cover archiving under way.
+- **sarahcook6809** — `~/memory/people/sarahcook6809.md` — IG account converted to a Qin Hao account 2026-11-10; DM watch and hunter paused after its proxy line leaked, awaiting a new line to rebind.
+- **haze_lferrier** — `~/memory/people/haze-lferrier.md` — IG account whose first DM-watch round 2026-11-10 hit an IG recovery-verification lock; DM watch paused until the user verifies and re-exports a fresh cookie.
 - **Emerson Ciara** — `~/memory/people/emerson-ciara.md` — FB doctor-IP account RETIRED from operations 2026-11-04 by user decision (account NOT deleted); Dr.qh666 deleted 2026-11-03, 6 personal Reels set Only me, nothing deleted.
 - **Fowler Ariana** — `~/memory/people/fowler-ariana.md` — FB doctor-IP account （个人号） carrying its own Page dr.qh; paused 2026-10-30, retired from operations 2026-11-02 by user decision (no longer operated); FoxProfile env fb-3651 still listed, not running.
 - **Jusa Khan** — `~/memory/people/jusa-khan.md` — FB doctor-IP account on the unified facelift line (pre-operative assessment angle); paused 2026-10-30, then its FoxProfile environment fb-91565 was deleted 2026-11-02 by the user's decision — Facebook account/Page themselves were not deleted.
 - **Peta Bentley** — `~/memory/people/peta-bentley.md` — First qualified lead of the FB operation — Brisbane-based, seeking breast revision; left a WhatsApp number; handed to the backend consultation team 2026-11-06.
 - **Kevin Conzone** — `~/memory/people/kevin-conzone.md` — Prospective patient in Bangkok interested in deep plane facelift + neck — one WhatsApp number away from becoming the user's first qualified lead.
 - **Conny Artese** — `~/memory/people/conny-artese.md` — Prospective Italian patient (71) who first DM'd Victoria on 2026-10-23 about facelift revision — awaiting her WhatsApp number, which would make her the operation's first inbound qualified lead.
-- **Margaux Wong** — `~/memory/people/margaux-wong.md` — Prospective overseas patient — Portland eyelid intent (#242); first DM verified 2026-11-08, replied 2026-11-09 that one eyelid bothers her more; reply unsent, no WhatsApp yet.
+- **Margaux Wong** — `~/memory/people/margaux-wong.md` — Prospective overseas patient — Portland eyelid intent (#242); DM reply still unsent, cards expired; Victoria commented on a #346 post under the same name, identity unverified, no WhatsApp yet.
 - **Anne Riches** — `~/memory/people/anne-riches.md` — Prospective overseas patient in the active client pipeline — first DM 2026-10-22 (seen), B-18 2026-10-23, B-19 2026-10-26, gentle re-ask 2026-10-28 CLI-verified; no reply yet.
 - **Judi Welch** — `~/memory/people/judi-welch.md` — Prospective overseas patient in the user's active client pipeline — first outreach 2026-10-22, B-18 sent 2026-10-23, B-19 sent and server-verified 2026-10-26; no reply yet.
 - **Sarah Jane** — `~/memory/people/sarah-jane.md` — Prospective overseas patient — replied 2026-11-07 asking not to be chased, not a refusal; closing reply sent, no further proactive follow-up, B-19 cancelled; no WhatsApp yet.
@@ -43,7 +47,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Natasha Dove** — `~/memory/people/natasha-dove.md` — Prospective overseas patient — collection-table
 - **dr.chen8801** — `~/memory/people/dr-chen8801.md` — Blue-verified IG creator, a backup content source — 2026-10-24: all 27 recent Reels checked, none process-type, downgraded to a single-scene source.
 - **tan.iasampson** — `~/memory/people/tan-iasampson.md` — Patient-persona IG account the user says is company-run — its "Dr.QinHao" title batch was permanently blacklisted 2026-10-24 after one clip proved a fake person-swap comparison.
-- **Touché Clinic** — `~/memory/people/touche-clinic.md` — IG aesthetic clinic (@toucheclinic, ~1.5M followers) whose Diamond Face clips are republished on FB as Qin Hao content; clips 01–12 out, 13–22 run 17:00–21:00 Beijing to 2026-11-12.
+- **Touché Clinic** — `~/memory/people/touche-clinic.md` — IG aesthetic clinic (@toucheclinic, ~1.5M followers) whose Diamond Face clips are republished on FB as Qin Hao content; clip 13 out 2026-11-09, publishing paused, clips 14–22 deferred.
 - **Dawn Louise** — `~/memory/people/dawn-louise.md` — Prospective overseas patient — collection-table #64; first DM attempted 2026-10-26 00:57 but still unverified server-side; resend decision pending with the user.
 - **Ana Maria Elisa Neira** — `~/memory/people/ana-maria-elisa-neira.md` — Prospective overseas patient — collection-table #76; considering deep-plane facelift, comparing a Colombia quote with Istanbul clinics, and replied to Victoria's comment on 2026-10-26; not yet DM'd.
 - **NteboRose** — `~/memory/people/nteborose.md` — Inbound FB contact who greeted Victoria on 2026-10-26; sent a CLI-verified natural greeting on 2026-11-05 after showing Active now, awaiting her reply, not yet a qualified lead.
@@ -164,7 +168,8 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Barbra Troisi (Barbra A Troisi)** — `~/memory/people/barbra-a-troisi.md` — Prospective overseas patient — in Arizona, deciding between two doctors for lower-eyelid work; Victoria commented 2026-11-06, not DM'd.
 - **Jonn Tsoi** — `~/memory/people/jonn-tsoi.md` — Victoria's Messenger contact — Hong Kong catering-system entrepreneur, the user's own business contact, not a patient; thread closed 2026-11-07, no auto-replies unless he raises medical intent.
 - **Timing Smith** — `~/memory/people/timing-smith.md` — New Facebook friend of Victoria's account from Hong Kong; first DM sent 2026-11-06, B-18 follow-up sent and verified 2026-11-07, no reply yet.
-- **Luan Wong** — `~/memory/people/luan-wong.md` — New Facebook friend of Victoria's account from Hong Kong; friend request approved 2026-11-09, first DM sent and verified, awaiting reply.
+- **Luan Wong** — `~/memory/people/luan-wong.md` — New Facebook friend of Victoria's account from Hong Kong; friend request approved 2026-11-09, first DM sent and verified, B-18 follow-up sent 2026-11-10 and verified, awaiting reply.
+- **M Yuda** — `~/memory/people/m-yuda.md` — New Facebook friend of Victoria's account; the user approved the request and sent the first DM himself on 2026-11-10, awaiting a reply.
 - **Ekaterina Neveykina** — `~/memory/people/ekaterina-neveykina.md` — Prospective overseas patient — in Baton Rouge, seeking someone for an endoscopic mid-face procedure; Victoria commented 2026-11-06, not DM'd.
 - **Janelle Maree** — `~/memory/people/janelle-maree.md` — Prospective overseas patient — collection-table #256; lower-eyelid post with easy bruising, Victoria commented 2026-11-06, judged comment-only, no DM.
 - **Andrea Perry** — `~/memory/people/andrea-perry.md` — Prospective overseas patient — collection-table #263; asked for lower-face and neck lift recommendations in Atlanta, Victoria commented 2026-11-06 (E07 97), not DM'd.
@@ -198,3 +203,29 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Kris Riner** — `~/memory/people/kris-riner.md` — Prospective overseas patient — Victoria commented 2026-11-09, verified as landed, not DM'd.
 - **Shauna Beautyman** — `~/memory/people/shauna-beautyman.md` — Prospective overseas patient — Victoria commented 2026-11-09, verified as landed, not DM'd.
 - **Zully Piceno-Alanis** — `~/memory/people/zully-piceno-alanis.md` — Prospective overseas patient — Dallas/Fort Worth eyelid recommendations; Victoria commented 2026-10-23 (#13) and 2026-11-09 (#310, E07 90, awaiting group approval), not DM'd.
+- **Charlie Burrowes** — `~/memory/people/charlie-burrowes.md` — Prospective overseas patient — West Midlands, seeking an eyelid-surgery recommendation; Victoria commented on his Blepharoplasty Support Group post 2026-11-09, verified in place, not DM'd.
+- **Claire Collier** — `~/memory/people/claire-collier.md` — Prospective overseas patient — spotted 2026-11-09 asking where an eyelid procedure was done; handed to the hunter for follow-up, not yet contacted.
+- **Sally Chasman** — `~/memory/people/sally-chasman.md` — Prospective overseas patient — asked about price on Nayak's Lori big-reveal Reel; Victoria commented 2026-11-10 (E07 95), no reply yet, not DM'd.
+- **Janice VL** — `~/memory/people/janice-vl.md` — Prospective overseas patient — asked about price on Nayak's Lori big-reveal Reel; Victoria commented 2026-11-10 (E07 94), no reply yet, not DM'd.
+- **Louise Williams** — `~/memory/people/louise-williams.md` — Prospective overseas patient — Bay Area eyelid-revision recommendation post (collection-table #342); Victoria commented 2026-11-10 (E07 96), no reply yet, not DM'd.
+- **Tracey Roberts** — `~/memory/people/tracey-roberts.md` — Comment-thread contact on Nayak's post about Lori, 10 days post-op; Victoria replied 2026-11-10 (E07 93), no reply yet, not DM'd.
+- **Deborah Storey** — `~/memory/people/deborah-storey.md` — Comment-thread contact on Nayak's post about Lori, 10 days post-op; Victoria replied 2026-11-10 (E07 91), no reply yet, not DM'd.
+- **Linda Phillips** — `~/memory/people/linda-phillips.md` — Comment-thread contact on Nayak's Lori big-reveal post; Victoria replied 2026-11-10 (E07 91), no reply yet, not DM'd.
+- **Susan Ruiz** — `~/memory/people/susan-ruiz.md` — Prospective overseas patient — Victoria commented 2026-11-10 on her #343 lower-eyelid recommendation post; no reply yet, not DM'd.
+- **Sunny Everson-Qureshi** — `~/memory/people/sunny-everson-qureshi.md` — Prospective overseas patient — asked about price on the Kassir post; Victoria commented 2026-11-10, no reply yet, not DM'd.
+- **Rebecca Sullivan** — `~/memory/people/rebecca-sullivan.md` — Prospective overseas patient — 61, never had surgery, asking whether she needs a facelift; Victoria commented 2026-11-10, no reply yet, not DM'd.
+- **Frankie Parkison** — `~/memory/people/frankie-parkison.md` — Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post thread; no reply yet, not DM'd.
+- **Andrea Jamieson** — `~/memory/people/andrea-jamieson.md` — Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post thread; no reply yet, not DM'd.
+- **Shadelyn Lindy Lopez** — `~/memory/people/shadelyn-lindy-lopez.md` — Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post thread; no reply yet, not DM'd.
+- **Chasity Loague** — `~/memory/people/chasity-loague.md` — Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post; no reply yet, not DM'd.
+- **Tamara Chaney** — `~/memory/people/tamara-chaney.md` — Prospective overseas patient — Victoria commented 2026-11-10 on the Nayak deep-neck post; no reply yet, not DM'd.
+- **Denise Bianchi** — `~/memory/people/denise-bianchi.md` — Prospective overseas patient — Victoria commented 2026-11-10 on the Nayak deep-neck post; no reply yet, not DM'd.
+- **Alysse** — `~/memory/people/alysse.md` — Prospective overseas patient — asked about price on the Nayak deep-neck post; Victoria replied 2026-11-10, no reply yet, not DM'd.
+- **Lisa Maree** — `~/memory/people/lisa-maree.md` — Prospective overseas patient — Newcastle NSW upper-eyelid recommendation post (#345); Victoria commented 2026-11-10, no reply yet, not DM'd.
+- **Amy Dupont Love** — `~/memory/people/amy-dupont-love.md` — Prospective overseas patient — asked 'Cost' on the Nayak deep-neck post; Victoria commented 2026-11-10, no reply yet, not DM'd.
+- **Kim Brister Rooks** — `~/memory/people/kim-brister-rooks.md` — Prospective overseas patient — asked 'Cost' on the Nayak deep-neck post; Victoria commented 2026-11-10, no reply yet, not DM'd.
+- **Sheila Childers** — `~/memory/people/sheila-childers.md` — Prospective overseas patient — Tijuana-group quick lift / Mimi lift recommendation post (#347); Victoria commented 2026-11-10, no reply yet, not DM'd.
+- **兆玄 田 (田兆玄)** — `~/memory/people/tian-zhaoxuan.md` — Pending Facebook friend requester to Victoria's account since 2026-11-07; thin profile with no medical-intent signal, awaiting the user's decision.
+- **Soo Hyun Kang** — `~/memory/people/soo-hyun-kang.md` — Facebook friend of Victoria's account since 2026-11-09; approved with two others from the pending batch, thread empty, no DM sent yet.
+- **先化 梁 (梁先化)** — `~/memory/people/liang-xianhua.md` — Facebook friend of Victoria's account since 2026-11-09; approved with two others from the pending batch, thread empty, no DM sent yet.
+- **Connie Ng** — `~/memory/people/connie-ng.md` — Facebook friend requester whose blank profile looked like an empty account; friended 2026-11-10 and deleted by the user the same day, thread always empty.

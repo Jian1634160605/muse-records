@@ -3,7 +3,7 @@ display_name: "Shauna Beautyman"
 first_name: "Shauna"
 last_name: "Beautyman"
 summary: "Prospective overseas patient — Victoria commented 2026-11-09, verified as landed, not DM'd."
-rank: 195
+rank: 200
 updated: "2026-11-09"
 ---
 

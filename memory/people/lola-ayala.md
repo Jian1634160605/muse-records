@@ -3,7 +3,7 @@ display_name: "Lola Ayala"
 first_name: "Lola"
 last_name: "Ayala"
 summary: "Prospective overseas patient — comparing San Diego against Tijuana; Victoria commented 2026-11-09 (E07 95), awaiting group approval, not DM'd."
-rank: 191
+rank: 196
 updated: "2026-11-09"
 ---
 

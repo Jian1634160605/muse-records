@@ -2,7 +2,7 @@
 display_name: 芃芃与AIGC
 first_name: 芃芃
 summary: Douyin AI-image creator; the user had Muse transcribe the full 15-set prompt library of the 《鎏金梦圆》 post and plans to reuse one set to generate an image.
-rank: 26
+rank: 30
 updated: 2026-10-22
 ---
 

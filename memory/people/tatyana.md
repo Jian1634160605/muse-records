@@ -2,7 +2,7 @@
 display_name: "Tatyana"
 first_name: "Tatyana"
 summary: "Prospective overseas patient — collection-table #189; a quoter in Laura Smith's Fatih pricing thread, Victoria replied to her 2026-11-03 about the 17k quote, not DM'd."
-rank: 119
+rank: 123
 updated: "2026-11-03"
 ---
 

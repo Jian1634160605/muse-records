@@ -3,7 +3,7 @@ display_name: "Sussie Mayari"
 first_name: "Sussie"
 last_name: "Mayari"
 summary: "Prospective overseas patient — collection-table #106; asked in Spanish in a Tijuana group about Dr Juan Carlos Herrera, Victoria commented 2026-10-28, not DM'd."
-rank: 65
+rank: 69
 updated: "2026-10-28"
 ---
 

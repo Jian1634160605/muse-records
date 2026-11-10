@@ -3,7 +3,7 @@ display_name: "Adrienne Samartino"
 first_name: "Adrienne"
 last_name: "Samartino"
 summary: "Prospective overseas patient — replied to Victoria's comment in the Tijuana group asking whether Victoria has been to TJ; Victoria followed up 2026-11-07 (E07 96), not at DM threshold."
-rank: 172
+rank: 177
 updated: "2026-11-07"
 ---
 

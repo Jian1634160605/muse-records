@@ -3,7 +3,7 @@ display_name: "Brenda Bock Scott"
 first_name: "Brenda"
 last_name: "Bock Scott"
 summary: "Prospective overseas patient — collection #265; day-2 post lower-eyelid surgery, active comment exchange with Victoria 2026-11-06–07; post confirmed deleted 2026-11-09, entry closed, no DM."
-rank: 168
+rank: 173
 updated: "2026-11-09"
 ---
 

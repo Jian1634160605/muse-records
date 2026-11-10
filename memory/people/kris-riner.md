@@ -3,7 +3,7 @@ display_name: "Kris Riner"
 first_name: "Kris"
 last_name: "Riner"
 summary: "Prospective overseas patient — Victoria commented 2026-11-09, verified as landed, not DM'd."
-rank: 194
+rank: 199
 updated: "2026-11-09"
 ---
 

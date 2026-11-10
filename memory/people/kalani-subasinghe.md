@@ -3,7 +3,7 @@ display_name: "Kalani Subasinghe"
 first_name: "Kalani"
 last_name: "Subasinghe"
 summary: "Prospective overseas patient — collection-table #125; Korea facelift post seeking before/after photos, clinic and cost, Victoria commented 2026-10-29, not DM'd."
-rank: 83
+rank: 87
 updated: "2026-10-29"
 ---
 

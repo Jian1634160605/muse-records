@@ -3,7 +3,7 @@ display_name: "Barbra A Troisi"
 first_name: "Barbra"
 last_name: "Troisi"
 summary: "Prospective overseas patient — in Arizona, deciding between two doctors for lower-eyelid work; Victoria commented 2026-11-06, not DM'd."
-rank: 160
+rank: 164
 updated: "2026-11-06"
 ---
 

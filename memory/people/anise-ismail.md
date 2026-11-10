@@ -3,7 +3,7 @@ display_name: "Anise Ismail"
 first_name: "Anise"
 last_name: "Ismail"
 summary: "Prospective overseas patient — collection-table #124; Vietnam-anchored recommendation post, Victoria commented 2026-10-29, not DM'd."
-rank: 82
+rank: 86
 updated: "2026-10-29"
 ---
 

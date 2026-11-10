@@ -1,0 +1,32 @@
+name: self_cite_attribution_verification
+title: Verify a self-cite link belongs to your account
+description: Verify that a post you cite as your own really belongs to your account before you comment or post with its link.
+category: Communication
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:38344b99
+  - message:e96d530e
+  - message:f53678b1
+  - message:13b49289
+  - message:91502bea
+  - message:0a7c687f
+  - message:8e350b9a
+  - message:5ab5c192
+  - message:217581c4
+  - message:2407a9b5
+  - message:494002ca
+  - message:68174921
+  - message:50c2fae2
+  - message:9b8529cd
+  measurement:
+    proxy_metric_id: misattributed_self_cite_comments
+    success_criterion: Zero comments or posts that cite another account's post as your own over the window, and every self-cite passes an ownership check and a banned list check before posting.
+    window_days: 14
+  rationale: The dedup skill checks whether a target was already acted on and is inside its measurement window to 2026-11-17, so it is not updated here. It does not check whether a quoted link is actually your own post. Post 2118857965977653461 was identified as another account's post and banned in message 38344b99, yet it was cited as a self-cite again at least six times on 2026-11-09. Other wrong cites in the same window belonged to Stanllll6o, AndyHu44502446, make_claude, MiaAI_lab and Aly12138. The daily report in message 9b8529cd counted 67 self-cites including misattributed ones. A skill search for self-cite attribution returned no skill that verifies cited ownership or enforces a banned cite list at generation time. This new skill adds that pre-action ownership and banned list check, distinct from the dedup read check.
+  needs_review: false
+  review_after: 2026-11-24T01:10:13.861751+00:00
+  reviewed_at: 2026-11-10T01:10:13.861751+00:00
+  run_id: sirun_9352386ce1e9469e89c12aaa7466f94c

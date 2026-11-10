@@ -2,7 +2,7 @@
 display_name: tan.iasampson
 first_name: tan.iasampson
 summary: Patient-persona IG account the user says is company-run — its "Dr.QinHao" title batch was permanently blacklisted 2026-10-24 after one clip proved a fake person-swap comparison.
-rank: 41
+rank: 45
 updated: 2026-10-24
 ---
 

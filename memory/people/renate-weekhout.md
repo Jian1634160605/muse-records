@@ -3,7 +3,7 @@ display_name: "Renate Weekhout"
 first_name: "Renate"
 last_name: "Weekhout"
 summary: "Prospective overseas patient — seeking an upper-eyelid ptosis revision after surgery from 8 years ago regressed; Victoria commented 2026-11-06 and followed up 2026-11-09, not DM'd."
-rank: 155
+rank: 159
 updated: "2026-11-09"
 ---
 

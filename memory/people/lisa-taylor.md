@@ -3,7 +3,7 @@ display_name: "Lisa Taylor"
 first_name: "Lisa"
 last_name: "Taylor"
 summary: "Prospective overseas patient — collection-table #192; Victoria commented 2026-11-03 on her facial fat-graft plus facelift post preferring the southeastern US or Mexico, not DM'd."
-rank: 122
+rank: 126
 updated: "2026-11-03"
 ---
 

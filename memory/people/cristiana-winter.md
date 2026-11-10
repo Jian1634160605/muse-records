@@ -3,7 +3,7 @@ display_name: "Cristiana Winter"
 first_name: "Cristiana"
 last_name: "Winter"
 summary: "Messenger contact on Victoria's account; the user sent her a message 2026-10-30 09:55, no reply recorded, and Muse is instructed not to follow up on that thread."
-rank: 101
+rank: 105
 updated: "2026-10-30"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Nina Ray"
 first_name: "Nina"
 last_name: "Ray"
 summary: "Prospective overseas patient — collection-table #123; seeking a scarless deep-plane recommendation, Victoria commented 2026-10-29, DM pending verification."
-rank: 81
+rank: 85
 updated: "2026-10-29"
 ---
 

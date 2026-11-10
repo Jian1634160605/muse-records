@@ -3,7 +3,7 @@ display_name: "Geana-leigh Sweeney"
 first_name: "Geana-leigh"
 last_name: "Sweeney"
 summary: "Prospective overseas patient — collection-table #141; seeking an eyelid procedure, in England but willing to travel, Victoria commented 2026-10-30, not DM'd until she names the area."
-rank: 90
+rank: 94
 updated: "2026-10-30"
 ---
 

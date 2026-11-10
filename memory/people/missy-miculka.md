@@ -3,7 +3,7 @@ display_name: "Missy Miculka"
 first_name: "Missy"
 last_name: "Miculka"
 summary: "Prospective overseas patient — collection-table #96; no-general-anesthesia deep-plane + neck lift, open to US or abroad, Victoria commented 2026-10-27, not yet DM'd."
-rank: 56
+rank: 60
 updated: "2026-10-27"
 ---
 

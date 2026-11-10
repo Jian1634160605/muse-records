@@ -3,7 +3,7 @@ display_name: "Anne Riches"
 first_name: "Anne"
 last_name: "Riches"
 summary: "Prospective overseas patient in the active client pipeline — first DM 2026-10-22 (seen), B-18 2026-10-23, B-19 2026-10-26, gentle re-ask 2026-10-28 CLI-verified; no reply yet."
-rank: 21
+rank: 25
 updated: "2026-10-28"
 ---
 

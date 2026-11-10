@@ -3,7 +3,7 @@ display_name: "Mariana Leticia"
 first_name: "Mariana"
 last_name: "Leticia"
 summary: "Prospective overseas patient — collection-table #198; Victoria commented 2026-11-03 on her Tijuana-group post about Dr. Daniela Leon Lopez, not DM'd as a specific-doctor-anchored post."
-rank: 128
+rank: 132
 updated: "2026-11-03"
 ---
 

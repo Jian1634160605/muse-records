@@ -3,7 +3,7 @@ display_name: "Jennifer Troxell Silvio"
 first_name: "Jennifer"
 last_name: "Troxell Silvio"
 summary: "Prospective overseas patient — collection-table #197; Victoria commented 2026-11-03 on her EDS facelift-suitability post in the Facelift Support Group, not DM'd as a pre-op consultation-stage contact."
-rank: 127
+rank: 131
 updated: "2026-11-03"
 ---
 

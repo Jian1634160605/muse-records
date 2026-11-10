@@ -2,7 +2,7 @@
 display_name: "NteboRose"
 first_name: "NteboRose"
 summary: "Inbound FB contact who greeted Victoria on 2026-10-26; sent a CLI-verified natural greeting on 2026-11-05 after showing Active now, awaiting her reply, not yet a qualified lead."
-rank: 45
+rank: 49
 updated: "2026-11-05"
 ---
 

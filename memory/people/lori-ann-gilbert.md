@@ -3,7 +3,7 @@ display_name: "Lori-Ann Gilbert"
 first_name: "Lori-Ann"
 last_name: "Gilbert"
 summary: "Prospective overseas patient — collection-table #187; Victoria commented 2026-11-03 on her post asking about the Fit and Fit company, not DM'd as a company-anchored research post."
-rank: 118
+rank: 122
 updated: "2026-11-03"
 ---
 

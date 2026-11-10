@@ -3,7 +3,7 @@ display_name: "Teresa McNamara Ortiz"
 first_name: "Teresa"
 last_name: "McNamara Ortiz"
 summary: "Prospective overseas patient — collection-table #114; asked about a doctor's experience in Cancun, Victoria commented 2026-10-28, not DM'd."
-rank: 73
+rank: 77
 updated: "2026-10-28"
 ---
 

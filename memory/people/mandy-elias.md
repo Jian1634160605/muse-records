@@ -3,7 +3,7 @@ display_name: "Mandy Elias"
 first_name: "Mandy"
 last_name: "Elias"
 summary: "Prospective overseas patient — Sydney-based, seeking an eye-surgery recommendation; replied to Victoria's comment 2026-11-06, follow-up sent and verified, not yet at DM threshold, no DM sent."
-rank: 49
+rank: 53
 updated: "2026-11-06"
 ---
 

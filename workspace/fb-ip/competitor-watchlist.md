@@ -38,7 +38,7 @@
 | doctor.truesdale | 原名单；本轮因 CLI 对外部主页 403，未能复核最近发帖 |
 | nayakplasticsurgery | 原名单（Dr. Mike Nayak，深平面拉皮）；同上，未能复核 |
 | reface_scarless | 原名单；**注意：非公司号，只学内容结构，绝不分发其素材**（既定红线） |
-| drkassir | 原名单；侧面数据更新：Feedspot 索引其 FB 约 59.8K 粉、IG 约 110 万 |
+| kassirplasticsurgery（FB 正确账号，Dr. Ramtin Kassir，纽约/新泽西） | 原名单 drkassir 是错号：facebook.com/drkassir 是保加利亚索非亚的个人号 Ali Kassir（最新帖 2018 年），2026-11-10 浏览器核实更正；IG @drkassir 仍是其本人（约 110 万粉） |
 | dra.camimartinez | 原名单；同上，未能复核 |
 | toropclinic | 原名单；同上，未能复核 |
 | dr.zhang.3u | 原名单；同上，未能复核 |
