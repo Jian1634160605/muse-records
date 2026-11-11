@@ -362,3 +362,99 @@
 - 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在（本轮 ls 核实）。无待私信、无等回复、无跟进到期线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
 - 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
 - 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 21:00 CST ig-sarah-dm-watch（sarahcook6809 私信盯守，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（proxy-fb-* 最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 20:50 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：根端点 HTTP 200，/api/v1/profiles HTTP 200；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描/评论/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md，mtime 仍为 08:33）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待私信、无等回复、无跟进到期线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 动作：私信 0、跟进 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 21:15 CST ig-sarah-dm-watch（sarahcook6809 私信盯守，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（proxy-fb-* 最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 21:00 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：根端点 HTTP 200，/api/v1/profiles HTTP 200；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描/评论/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待私信、无等回复、无跟进到期线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 动作：私信 0、跟进 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 22:20 CST ig-sarah-dm-watch（sarahcook6809 私信盯守，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 21:15 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：根端点 HTTP 200，/api/v1/profiles HTTP 200；9 个环境全部 is_running=False，含 ig-01（21:15 轮时 fb-1030/ig-03 还在运行，本轮已停，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描/评论/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待私信、无等回复、无跟进到期线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 动作：私信 0、跟进 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 22:50 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 22:20 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：根端点 HTTP 200，/api/v1/profiles HTTP 200；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md，mtime 仍为 08:33）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待私信、无等回复、无跟进到期线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：本轮为 21:30 后首轮猎手轮，已在 ~/workspace/fb-ops/daily-table-2026-11-10.md 补记 sarahcook6809 行（发帖 0、评论 0、私信 0、回复 0 人、客资 0）及说明段落；此前表内无 sarah 行。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 23:10 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 22:50 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：/api/v1/profiles HTTP 200；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：22:50 轮已在 ~/workspace/fb-ops/daily-table-2026-11-10.md 补记 sarahcook6809 行，本轮不重复写。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 23:20 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 23:10 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：/api/v1/profiles HTTP 200；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：22:50 轮已在 ~/workspace/fb-ops/daily-table-2026-11-10.md 补记 sarahcook6809 行，本轮不重复写。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 23:30 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 23:20 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：根端点 HTTP 200，/api/v1/profiles 有响应；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：22:50 轮已在 ~/workspace/fb-ops/daily-table-2026-11-10.md 补记 sarahcook6809 行，本轮不重复写。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 23:40 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 23:30 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：/api/v1/profiles HTTP 200；9 个环境：ig-01 running=False，ig-03 与 fb-1030 running=True（他轮会话，未动、未重启服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：22:50 轮已在 ~/workspace/fb-ops/daily-table-2026-11-10.md 补记 sarahcook6809 行，本轮不重复写。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复；恢复前各轮只做本格式的暂停记录，不拉环境。
+
+## 2026-11-10 23:50 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 23:40 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：/api/v1/profiles HTTP 200；9 个环境全部 running=False（含 ig-01；23:40 轮时运行中的 ig-03、fb-1030 本轮已停，属他轮会话变化，未动服务）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md、group-prospects-ig-sarah.md 均只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md，mtime 仍为 08:33）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：22:50 轮已在 ~/workspace/fb-ops/daily-table-2026-11-10.md 补记 sarahcook6809 行，本轮不重复写。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复猎手轮；恢复前各轮只做本格式的暂停记录，不拉环境扫描。
+
+## 2026-11-11 00:00 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 23:50 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：/api/v1/profiles 有响应；9 个环境全部 running=False（含 ig-01）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：收集表 ~/workspace/fb-ip/group-prospects-ig-sarah.md 只有表头；实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md）同样只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在，任务正文路径 ~/workspace/fb-ip/dm-threads-ig-sarah.md 亦不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：2026-11-10 表已于 22:50 轮写过，不重复写；11-11 当日表待 21:30 后首轮再记。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日（11-11）累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复猎手轮；恢复前各轮只做本格式的暂停记录，不拉环境扫描。
+
+## 2026-11-11 00:10 CST ig-sarah-watch（sarahcook6809 猎手，定时轮）——暂停轮
+- 暂停口径仍有效：20010 线凭据泄露后停用，等新线重绑；截至本轮 ~/.agent-reach/ 内无新增代理文件（最新仍为 2026-11-03，20010–20013 mtime 仍为 10-22），老板 17:22“发新线换掉”尚未落实，E08 未重绑 ig-01；记忆检索 00:00 之后无新线到达或重绑记录。
+- FoxProfile 服务本轮在线，无需重启：/api/v1/profiles HTTP 200；9 个环境全部 running=False（含 ig-01）。只取 name/is_running 两字段，未打印、未写入任何凭据值。
+- 本轮按既定格式只做暂停记录：未拉 ig-01 环境、未打开 IG 页面、未扫描监控名单/标签、未评论/回评/私信，未打印、未写入任何凭据值。
+- 三表核查全空（本轮实读）：实际台账 ~/workspace/fb-ip/ig-sarahcook6809/（dedup.md、dm-threads.md、leads.md）均只有表头；收集表 ~/workspace/fb-ip/group-prospects-ig-sarah.md 只有表头；去重台账 ~/workspace/goals/x/hidden_files/ig-reply-seen-sarah.md 仍为“暂无记录”；leads-ig-sarah.md 不存在。无待回评、无待私信、无等回复线程、无客资。关注者基线仍为 16:50 建的 5 人，本轮因暂停未做浏览器差分——是“未核查”不是“无新增”，恢复后补查。
+- 每日表：11-11 当日表待 21:30 后首轮再记。
+- 动作：评论 0、回评 0、私信 0、客资 0。今日（11-11）累计：评论 0、私信 0、客资 0。无审批卡、无微信通知。
+- 下轮注意：等新线到 + E08 重绑 ig-01 并验登录后再恢复猎手轮；恢复前各轮只做本格式的暂停记录，不拉环境扫描。
