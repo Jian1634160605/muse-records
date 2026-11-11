@@ -3,7 +3,7 @@ display_name: "Chasity Loague"
 first_name: "Chasity"
 last_name: "Loague"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post; no reply yet, not DM'd."
-rank: 216
+rank: 218
 updated: "2026-11-10"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Kim Brister Rooks"
 first_name: "Kim"
 last_name: "Brister Rooks"
 summary: "Prospective overseas patient — asked 'Cost' on the Nayak deep-neck post; Victoria commented 2026-11-10, no reply yet, not DM'd."
-rank: 222
+rank: 224
 updated: "2026-11-10"
 ---
 

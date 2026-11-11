@@ -1,24 +1,21 @@
 name: foxprofile_session_recovery
 title: Recover FoxProfile sessions before judging them broken
-description: Recover slow or failed FoxProfile browser sessions with a service check, a stored-tab wait, and a restart retry before reporting an account or proxy line as broken.
+description: Recover slow or failed FoxProfile browser sessions with a service check, a stored-tab wait, and a restart retry before reporting an account or proxy line as broken, and check status without exposing credentials.
 category: Work and knowledge
 include_in_prompt: false
 skill_improvement:
   managed: true
   status: active
   evidence_handles:
-  - 178c5447-f2da-64df-d640-54108bbc709d
-  - f5e0892c-41dd-4709-ba87-3c12b19588b9
-  - 0452a51d-2e77-4cc4-bc15-e9a09347c168
-  - 17004520-ad7c-fba9-22f7-4394337684ee
-  - a40053bb-5689-47ea-bd83-49a7047b4617
+  - message:assistant-msg-d8eed44b-c5d3-9dd7-3ca1-0dc840db442d
+  - message:assistant-msg-a0906648-571a-4479-a918-da6e61b113ba
   - ~/AGENTS.md
   measurement:
-    proxy_metric_id: foxprofile_false_broken_report
-    success_criterion: Zero accounts or proxy lines reported as broken on a first timeout alone over the window, and every slow-restore failure that is retried after the 45 second wait and a service restart either succeeds or is reported with the exact failed step.
+    proxy_metric_id: foxprofile_credential_leak
+    success_criterion: Zero proxy credential values printed into tool output, files, reports, or memory over the window, and every FoxProfile status check extracts only the environment name and whether it is running.
     window_days: 14
   needs_review: false
-  rationale: 'On 2026-10-25 a multi-account check found 0 of 6 logins confirmed with proxy-start failures and page load timeouts, while direct proxy tests to facebook.com all passed, pointing to the FoxProfile launch step rather than proxy or session loss. After a service restart 5 of 6 accounts confirmed, and the remaining account succeeded only after waiting 45 seconds for stored old tabs to restore, where earlier attempts navigated after about 12 seconds and hit a 15 second navigation timeout. The same cause recurred in the 15:45 warm round, which completed only 3 of 6 accounts, with the same account failing on navigation timeouts and a shared proxy line failing starts in-round while its direct test returned success. No existing skill covers this sequence: a skill search for FoxProfile warmup returned only the unrelated blocking escalation skill, and the workspace notes record only the start script and endpoint check, not the 45 second wait, the direct proxy discrimination test, or the restart-then-retry order. The proposed skill codifies exactly that sequence so a slow restore is no longer misread as a broken account.'
-  review_after: 2026-11-08T19:10:58.859541+00:00
-  reviewed_at: 2026-10-25T19:10:58.859541+00:00
-  run_id: sirun_e52c9e02bee749b7a14200897315d5a6
+  rationale: 'The FoxProfile profiles endpoint returns proxy credentials inline, a behaviour recorded in ~/AGENTS.md on 2026-10-25, yet on 2026-11-10 it leaked credentials into tool output twice in one day for two different lines, forcing the user to order replacement lines. The managed foxprofile_session_recovery skill, the only FoxProfile skill returned by skill search, teaches the service check but says nothing about the credential risk of the profiles response, so workers loading it had no guard at the point of the check. Adding a credential safe status section to that skill puts the name plus is_running only rule where FoxProfile checks are actually performed. Other candidates were checked and not proposed: state file truncation and concurrent overwrite are already covered by state_file_write_safety, shared browser contention is already covered by the resident browser rule in fb-ip-operations, and the X self-cite verification, IG content-only stop, short comment approval scope, and X queue full text cases were single incidents or already working.'
+  review_after: 2026-11-25T00:55:41.852107+00:00
+  reviewed_at: 2026-11-11T00:55:41.852107+00:00
+  run_id: sirun_269d6cf74c704d4aba4d1a5cf7668dbf

@@ -3,7 +3,7 @@ display_name: "Andrea Jamieson"
 first_name: "Andrea"
 last_name: "Jamieson"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post thread; no reply yet, not DM'd."
-rank: 214
+rank: 216
 updated: "2026-11-10"
 ---
 

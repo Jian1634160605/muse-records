@@ -3,7 +3,7 @@ display_name: "Sheila Childers"
 first_name: "Sheila"
 last_name: "Childers"
 summary: "Prospective overseas patient — Tijuana-group quick lift / Mimi lift recommendation post (#347); Victoria commented 2026-11-10, no reply yet, not DM'd."
-rank: 223
+rank: 225
 updated: "2026-11-10"
 ---
 

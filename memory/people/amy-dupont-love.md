@@ -3,7 +3,7 @@ display_name: "Amy Dupont Love"
 first_name: "Amy"
 last_name: "Dupont Love"
 summary: "Prospective overseas patient — asked 'Cost' on the Nayak deep-neck post; Victoria commented 2026-11-10, no reply yet, not DM'd."
-rank: 221
+rank: 223
 updated: "2026-11-10"
 ---
 

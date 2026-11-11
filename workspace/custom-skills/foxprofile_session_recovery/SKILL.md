@@ -16,6 +16,18 @@
 
 - Treat a navigation timeout that followed a short wait as a slow restore, not as proof that the account is broken.
 
+## Check status without exposing credentials
+
+- Query the profiles endpoint only for the environment name and whether it is running.
+
+- Never print, copy, or save the raw profiles response, because it carries proxy credentials inline.
+
+- Stop at once when a credential value appears in tool output, and do not write it to a ledger, a log, a report, or memory.
+
+- Use a proxy only through an export assignment, and verify connectivity with a real call through that proxy instead of printing the proxy value.
+
+- Report a leaked line to the user at once and treat it as needing replacement, and do not reuse the printed value.
+
 ## Separate proxy, service, and session failures
 
 - Test the proxy line directly against a public site when a FoxProfile start fails, before you blame the proxy line.

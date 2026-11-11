@@ -3,7 +3,7 @@ display_name: "Shawn Allen Young"
 first_name: "Shawn"
 last_name: "Allen Young"
 summary: "Prospective overseas patient — collection-table #264; asked about showering before surgery, Victoria commented 2026-11-06 (E07 97), not DM'd."
-rank: 172
+rank: 174
 updated: "2026-11-07"
 ---
 

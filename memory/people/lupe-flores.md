@@ -3,7 +3,7 @@ display_name: "Lupe Flores"
 first_name: "Lupe"
 last_name: "Flores"
 summary: "Prospective overseas patient — asked about Tijuana doctor experience in the Facelift Support Group, Victoria commented 2026-11-07 (E07 95), not DM'd."
-rank: 184
+rank: 186
 updated: "2026-11-07"
 ---
 

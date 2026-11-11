@@ -3,7 +3,7 @@ display_name: "Frankie Parkison"
 first_name: "Frankie"
 last_name: "Parkison"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post thread; no reply yet, not DM'd."
-rank: 213
+rank: 215
 updated: "2026-11-10"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Andrea Perry"
 first_name: "Andrea"
 last_name: "Perry"
 summary: "Prospective overseas patient — collection-table #263; asked for lower-face and neck lift recommendations in Atlanta, Victoria commented 2026-11-06 (E07 97), not DM'd."
-rank: 171
+rank: 173
 updated: "2026-11-07"
 ---
 

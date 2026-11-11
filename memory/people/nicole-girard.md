@@ -3,7 +3,7 @@ display_name: "Nicole Girard"
 first_name: "Nicole"
 last_name: "Girard"
 summary: "Prospective overseas patient — 52, Canada, collection-table #307; neck plus lower face, weighing Turkey against Korea; Victoria commented 2026-11-09 (E07 96), awaiting group approval, not DM'd."
-rank: 193
+rank: 195
 updated: "2026-11-09"
 ---
 

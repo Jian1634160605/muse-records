@@ -3,7 +3,7 @@ display_name: "Sally Chasman"
 first_name: "Sally"
 last_name: "Chasman"
 summary: "Prospective overseas patient — asked about price on Nayak's Lori big-reveal Reel; Victoria commented 2026-11-10 (E07 95), no reply yet, not DM'd."
-rank: 204
+rank: 206
 updated: "2026-11-10"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Rebecca Sullivan"
 first_name: "Rebecca"
 last_name: "Sullivan"
 summary: "Prospective overseas patient — 61, never had surgery, asking whether she needs a facelift; Victoria commented 2026-11-10, no reply yet, not DM'd."
-rank: 212
+rank: 214
 updated: "2026-11-10"
 ---
 

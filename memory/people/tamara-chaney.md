@@ -3,7 +3,7 @@ display_name: "Tamara Chaney"
 first_name: "Tamara"
 last_name: "Chaney"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on the Nayak deep-neck post; no reply yet, not DM'd."
-rank: 217
+rank: 219
 updated: "2026-11-10"
 ---
 

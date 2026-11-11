@@ -3,7 +3,7 @@ display_name: "Linda Phillips"
 first_name: "Linda"
 last_name: "Phillips"
 summary: "Comment-thread contact on Nayak's Lori big-reveal post; Victoria replied 2026-11-10 (E07 91), no reply yet, not DM'd."
-rank: 209
+rank: 211
 updated: "2026-11-10"
 ---
 

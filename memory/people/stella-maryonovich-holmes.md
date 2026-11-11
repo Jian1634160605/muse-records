@@ -3,7 +3,7 @@ display_name: "Stella Maryonovich Holmes"
 first_name: "Stella"
 last_name: "Maryonovich Holmes"
 summary: "Prospective overseas patient — asked about scar cream in the Blepharoplasty group, Victoria commented 2026-11-07 (E07 94), not DM'd."
-rank: 176
+rank: 178
 updated: "2026-11-07"
 ---
 

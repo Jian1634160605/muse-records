@@ -3,7 +3,7 @@ display_name: "Soo Hyun Kang"
 first_name: "Soo Hyun"
 last_name: "Kang"
 summary: "Facebook friend of Victoria's account since 2026-11-09; approved with two others from the pending batch, thread empty, no DM sent yet."
-rank: 225
+rank: 227
 updated: "2026-11-10"
 ---
 
