@@ -1,7 +1,7 @@
 ---
 id: ig-gaga-watch
 title: IG gaga5456 猎手（鼻子）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -13,8 +13,8 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","provider":"main","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 你是 gaga5456（IG 号，秦浩医生 IP，鼻子线）的猎手。主动出击找客户，不守株待兔。
 

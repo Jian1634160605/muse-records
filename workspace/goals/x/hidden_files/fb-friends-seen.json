@@ -74,11 +74,21 @@
       "friend_id": "100058440106067",
       "name": "M Yuda",
       "profile_url": "https://facebook.com/m.yuda.75436"
+    },
+    {
+      "friend_id": "61593284376527",
+      "name": "DrJie Chen",
+      "profile_url": "https://facebook.com/profile.php?id=61593284376527"
+    },
+    {
+      "friend_id": "100036693217122",
+      "name": "Hong Wu",
+      "profile_url": "https://facebook.com/hu.bing.kang.2025"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-10T17:10:00.000+08:00",
+    "user_local": "2026-11-11T17:44:13.680+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-10T09:10:00.000Z"
+    "utc": "2026-11-11T09:44:13.680Z"
   }
 }

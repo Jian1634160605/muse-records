@@ -1,3 +1,35 @@
+## 2026-11-11 18:42–18:52（运行实测 10 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 18:42–18:52（10 分钟），回传自述 18:42–18:51（约 9–10 分钟），1 分钟尾段差异以实测为准；略短于约 12 分钟目标
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共 35 条次（高于 15–25 条参考范围，因首页信息流密度高、每屏多条），垂类重点停留看大半的共 19 条；首页 18 条（含 4 条广告/推广条带）、Reels 10 条（含 1 条广告）、搜索“facelift before and after”筛选 Reels/视频 7 条（含 1 条仅看标题未播放的王院）；非垂类快速划过 9 条、广告快速划过未点击 4 条
+- 垂类概况：首页有 DrJie Chen 多条（10 月 30 日抗衰老整形视频；11 月 2 日拉皮恢复 Day 5→30→180；深层拉皮动画 Before 60/After 35；11 月 3 日 Deep Plane Facelift Transformation；60 岁变 35 岁前后对比）、Nickels2525（CO2+拉皮/颈部提升后 Celebrex 瘙痒）、DecisivePear6899（术后 12 天迷你拉皮+颊脂去除）、ReliableMango9115（咨询 Tijuana 整形医生）、Leif Rogers MD（肋骨塑形前后对比）、Tracey Johns（巴厘岛术后 24 天深层拉皮+颈部提升+上睑+唇提升+脂肪移植）；Reels 有 Ye Xiuyu 两条（Deep Sculpt Facelift 前后对比；拉皮手术至术后 25 天）、Kassir Plastic Surgery（术后 3 个月）；搜索视频集中于 facelift before and after，包括 Hanna Wilkinson 拉皮前后对比、Lifeng Facelift 拉皮术后、V-Clinic 67 岁深层拉皮+颈部提升+上下睑+唇提升术后 9 个月、Dr. Jason Diamond 术后 3 个月深层拉皮+颈部提升+眉提升+脂肪移植、Carl Truesdale 62 岁拉皮前后对比、Erqing Gao 拉皮前后对比、王院（仅看标题：皱纹松弛变光滑紧致）
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. DrJie Chen，11 月 2 日拉皮恢复 Day 5→30→180 视频（3→4）
+  2. DrJie Chen，60 岁变 35 岁前后对比视频（3→4）
+  3. Reels Ye Xiuyu《Deep Sculpt Facelift》前后对比（526→527）
+  4. Hanna Wilkinson，11 月 9 日 Beforeafterfacelift 视频（显示 1.8K→1.8K，千位四舍五入未体现 +1，以按钮变 Remove Like 为准）
+  5. Carl Truesdale，10 月 29 日 62 岁拉皮前后对比视频（显示 6.2K→6.2K，同为千位四舍五入显示，以按钮变 Remove Like 为准）
+  - 备注：搜索结果中 Dr. Jason Diamond（5.6K）与 V-Clinic（"You and 162K others"）打开时即显示已点赞（Remove Like），为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；通知 1 条未读角标未点开，好友请求卡片仅划过，未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 备注：打开 V-Clinic 视频观看页时播放器曾短暂显示 "Unable to play media."（0:00/0:00），随后正常播放至 0:38/0:41，非账号限制或验证
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-11 14:45–15:00（运行实测 15 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–15:00（15 分钟），回传自述 14:45–14:59（约 14 分钟），1 分钟尾段差异以实测为准
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共 25 条（符合 15–25 条目标），每条垂类内容均看大半再划，节奏放慢；首页 11 条、Reels 7 条、搜索“facelift before and after”筛选 Reels/视频 6 条、由搜索打开的观看页追加 1 条；垂类为主（拉皮/面部提升/眼睑/颈部提升前后对比与术后恢复），非垂类与广告快速划过、未点击广告
+- 垂类概况：首页有 Tijuana Plastic Surgery 群组 FeistySloth6849 术前发帖、Actresses World Nicole Kidman 整形传闻、Joe Hartman 护肤抗衰帖、Julie Prost 深层拉皮术后脱发帖、匿名用户土耳其阴唇整形咨询、Elena Martin 上眼睑术后视频、Alexa Booth 术后 4 个月前后对比、Xia ZhiRan 面部提升视频（0:26，看到 0:17）；Reels 有 TWX.Facial aesthetics 面部拉皮解剖动画、Ekip Ka“面部松弛不只是女性问题 #facelift”、Medikal Estetik & Göz Kapağı Kliniği 眉毛提升/眼睑诊所视频；搜索视频集中于 facelift before and after，包括 Hanna Wilkinson 迷你拉皮前后对比、Lifeng Facelift 面部提升前后对比、Facelift Aesthetic“重新发现光彩”、V-Clinic 深层拉皮视频（0:41，完整看完）、Drwang Alden 拉皮前后对比、Dr. Jason Diamond 术后视频，另在观看页浏览 Jenny Feels 拉皮视频 1 条
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. Actresses World Nicole Kidman 整形传闻帖（300→301）
+  2. Elena Martin 上眼睑术后 3 天视频（43→44）
+  3. Reels Ekip Ka“面部松弛不只是女性问题 #facelift”（358→359）
+  - 备注：搜索结果中 Dr. Jason Diamond 帖与 V-Clinic 视频打开时即显示已点赞（Remove Like / "You and 161K others"），为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；未遇到好友请求卡片
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 备注：首页 Xia ZhiRan 视频的一次播放按钮点击未生效（页面目标被遮挡），视频仍自动播放并观看至 0:17/0:26，未重复操作，不影响结论
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-10 18:42–18:54（运行实测 11 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
 - 计时说明：运行实测为 18:42–18:54（11 分钟），回传自述 18:42–18:53（约 11 分钟），1 分钟尾段差异以实测为准
 - 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅

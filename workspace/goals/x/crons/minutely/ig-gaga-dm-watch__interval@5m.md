@@ -1,7 +1,7 @@
 ---
 id: ig-gaga-dm-watch
 title: IG gaga5456 私信盯守（鼻子）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -13,8 +13,8 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","provider":"main","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 **账号与定位（2026-11-10 老板定）**：本任务只走 gaga5456（IG 号，秦浩医生 IP，鼻子线）一个号。FoxProfile 环境 ig-03，静态 IP 文件 ~/.agent-reach/proxy-fb-20013.txt。IG 运营一律走 FoxProfile 浏览器路线，不走 CLI（instagram-cli 未接账号、结构上发不了顶层评论）。不碰 sarahcook6809、haze_lferrier、Bertie、Victoria 等其他号的线程。不改头像、简介、用户名，不发帖子、不发视频。
 
