@@ -1,7 +1,7 @@
 ---
 display_name: "BravePear3329"
 summary: "DM outreach queue candidate — first DM attempted 2026-10-23 but undelivered server-side, suspended since 2026-10-25; no contact has landed yet."
-rank: 72
+rank: 73
 updated: "2026-10-28"
 ---
 

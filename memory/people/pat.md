@@ -2,7 +2,7 @@
 display_name: "Pat"
 first_name: "Pat"
 summary: "Prospective overseas patient — collection-table #214; Victoria commented 2026-11-04 on the Facelift Support Group help post, no DM recorded in this window."
-rank: 143
+rank: 144
 updated: "2026-11-04"
 ---
 

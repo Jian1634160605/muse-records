@@ -3,7 +3,7 @@ display_name: "Susan Ruiz"
 first_name: "Susan"
 last_name: "Ruiz"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on her #343 lower-eyelid recommendation post; no reply yet, not DM'd."
-rank: 212
+rank: 213
 updated: "2026-11-10"
 ---
 

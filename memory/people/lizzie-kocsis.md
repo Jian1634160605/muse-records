@@ -3,7 +3,7 @@ display_name: "Lizzie Kocsis"
 first_name: "Lizzie"
 last_name: "Kocsis"
 summary: "Prospective overseas patient — collection-table #94; Tampa post about an imminent consultation with Dr. Abby McEwan, Victoria commented 2026-10-27, not DM'd by the specific-doctor rule."
-rank: 58
+rank: 59
 updated: "2026-10-27"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Katherine Dziaman"
 first_name: "Katherine"
 last_name: "Dziaman"
 summary: "Prospective overseas patient — collection-table #178; Victoria commented 2026-11-02 on her elf-ear revision post, not DM'd."
-rank: 116
+rank: 117
 updated: "2026-11-02"
 ---
 

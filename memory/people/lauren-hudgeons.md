@@ -3,7 +3,7 @@ display_name: "Lauren Hudgeons"
 first_name: "Lauren"
 last_name: "Hudgeons"
 summary: "Prospective overseas patient — collection-table #134; seeking a deep-plane facelift doctor in Texas under 20k, Victoria commented 2026-10-30, not DM'd."
-rank: 97
+rank: 98
 updated: "2026-10-30"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Deborah Storey"
 first_name: "Deborah"
 last_name: "Storey"
 summary: "Comment-thread contact on Nayak's post about Lori, 10 days post-op; Victoria replied 2026-11-10 (E07 91), no reply yet, not DM'd."
-rank: 210
+rank: 211
 updated: "2026-11-10"
 ---
 

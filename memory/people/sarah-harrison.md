@@ -3,7 +3,7 @@ display_name: "Sarah Harrison"
 first_name: "Sarah"
 last_name: "Harrison"
 summary: "Prospective overseas patient — collection-table #95; Antalya post about Dr. Altan Tekin, Victoria commented 2026-10-27, not DM'd by the specific-doctor rule; distinct from Sarah Jane."
-rank: 59
+rank: 60
 updated: "2026-10-27"
 ---
 

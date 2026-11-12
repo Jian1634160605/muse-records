@@ -3,7 +3,7 @@ display_name: "Linnie Watkins"
 first_name: "Linnie"
 last_name: "Watkins"
 summary: "Prospective overseas patient — Turkey-anchored weight-loss case; first DM 2026-10-25, B-18 2026-10-26, B-19 server-verified 2026-10-29; awaiting reply."
-rank: 36
+rank: 37
 updated: "2026-10-29"
 ---
 

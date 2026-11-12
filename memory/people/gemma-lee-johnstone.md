@@ -3,7 +3,7 @@ display_name: "Gemma Lee Johnstone"
 first_name: "Gemma"
 last_name: "Lee Johnstone"
 summary: "Prospective overseas patient — collection-table #169; Victoria commented 2026-11-02 on her facelift pre-op pain and overseas-stay post, not DM'd as pre-op research below the explicit-intent threshold."
-rank: 112
+rank: 113
 updated: "2026-11-02"
 ---
 

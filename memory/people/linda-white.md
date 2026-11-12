@@ -3,7 +3,7 @@ display_name: "Linda White"
 first_name: "Linda"
 last_name: "White"
 summary: "Prospective overseas patient — collection-table #105; seeking a deep-plane face and neck lift recommendation in Perth, Victoria commented 2026-10-28, not DM'd under the local-anchoring rule."
-rank: 68
+rank: 69
 updated: "2026-10-28"
 ---
 

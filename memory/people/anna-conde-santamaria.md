@@ -3,7 +3,7 @@ display_name: "Anna Conde Santamaria"
 first_name: "Anna"
 last_name: "Conde Santamaria"
 summary: "Prospective overseas patient — choosing between Thailand and Vietnam for a facelift; Victoria commented 2026-11-06, not DM'd."
-rank: 156
+rank: 157
 updated: "2026-11-06"
 ---
 

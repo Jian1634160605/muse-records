@@ -3,7 +3,7 @@ display_name: "Nadine George"
 first_name: "Nadine"
 last_name: "George"
 summary: "Prospective overseas patient — asked in a Turkey facelift group for the best place and doctor for mid-face + neck in Turkey; Victoria commented 2026-10-28, not yet DM'd."
-rank: 67
+rank: 68
 updated: "2026-10-28"
 ---
 

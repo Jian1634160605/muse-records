@@ -3,7 +3,7 @@ display_name: "Katrin Lindsay"
 first_name: "Katrin"
 last_name: "Lindsay"
 summary: "Prospective overseas patient — collection-table #308; Victoria commented 2026-11-09 in the eyelid group, awaiting group approval, not DM'd."
-rank: 196
+rank: 197
 updated: "2026-11-09"
 ---
 

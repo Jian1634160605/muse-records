@@ -3,7 +3,7 @@ display_name: "Joanne Triandafilou"
 first_name: "Joanne"
 last_name: "Triandafilou"
 summary: "Prospective overseas patient — asking about the recovery period after a deep-plane endoscopic face and neck lift; Victoria commented 2026-11-06, not DM'd."
-rank: 161
+rank: 162
 updated: "2026-11-06"
 ---
 

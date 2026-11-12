@@ -3,7 +3,7 @@ display_name: "Yolande Engels de Lange"
 first_name: "Yolande"
 last_name: "Engels de Lange"
 summary: "Prospective overseas patient — replied to Bertie in the Blepharoplasty group about fear of waking under local anaesthesia + sedation; Bertie sent the first DM 2026-11-10, no reply yet."
-rank: 169
+rank: 170
 updated: "2026-11-10"
 ---
 

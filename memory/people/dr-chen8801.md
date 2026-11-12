@@ -2,7 +2,7 @@
 display_name: dr.chen8801
 first_name: dr.chen8801
 summary: Blue-verified IG creator, a backup content source — 2026-10-24: all 27 recent Reels checked, none process-type, downgraded to a single-scene source.
-rank: 44
+rank: 45
 updated: 2026-10-24
 ---
 

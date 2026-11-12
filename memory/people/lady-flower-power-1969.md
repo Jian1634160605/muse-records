@@ -2,7 +2,7 @@
 display_name: "lady_flower_power_1969"
 first_name: "lady_flower_power_1969"
 summary: "Prospective overseas patient — called $9,200 a CAPS Upper Arlington all-in price, still too expensive, open to other regions; replied to Bertie 2026-11-10, DM and hunter reply drafted but unsent."
-rank: 170
+rank: 171
 updated: "2026-11-10"
 ---
 

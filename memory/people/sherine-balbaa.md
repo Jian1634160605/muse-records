@@ -3,7 +3,7 @@ display_name: "Sherine Balbaa"
 first_name: "Sherine"
 last_name: "Balbaa"
 summary: "Inbound Messenger contact who greeted Victoria's account on 2026-10-24; proposed a paid partnership that the user declined, thread closed with no new inbound as of 2026-10-30."
-rank: 28
+rank: 29
 updated: "2026-10-30"
 ---
 

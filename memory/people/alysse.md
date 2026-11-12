@@ -2,7 +2,7 @@
 display_name: "Alysse"
 first_name: "Alysse"
 summary: "Prospective overseas patient — asked about price on the Nayak deep-neck post; Victoria replied 2026-11-10, no reply yet, not DM'd."
-rank: 221
+rank: 222
 updated: "2026-11-10"
 ---
 

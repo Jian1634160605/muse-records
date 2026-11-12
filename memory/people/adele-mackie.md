@@ -3,7 +3,7 @@ display_name: "Adele Mackie"
 first_name: "Adele"
 last_name: "Mackie"
 summary: "Prospective overseas patient — collection-table #186; Victoria commented 2026-11-03 on her Turkey-group deep-plane choice post, not DM'd as a specific-doctor-anchored research post."
-rank: 121
+rank: 122
 updated: "2026-11-03"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Lily Tang"
 first_name: "Lily"
 last_name: "Tang"
 summary: "Prospective overseas patient — collection-table #99; asked about The View clinic, Victoria commented 2026-10-27, no DM sent in that round."
-rank: 63
+rank: 64
 updated: "2026-10-27"
 ---
 

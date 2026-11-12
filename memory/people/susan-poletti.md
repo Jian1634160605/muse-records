@@ -3,7 +3,7 @@ display_name: "Susan Poletti"
 first_name: "Susan"
 last_name: "Poletti"
 summary: "Prospective overseas patient — collection-table #304; Victoria commented 2026-11-09 (E07 95), verified, not DM'd."
-rank: 194
+rank: 195
 updated: "2026-11-09"
 ---
 

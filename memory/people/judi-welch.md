@@ -3,7 +3,7 @@ display_name: "Judi Welch"
 first_name: "Judi"
 last_name: "Welch"
 summary: "Prospective overseas patient in the user's active client pipeline — first outreach 2026-10-22, B-18 sent 2026-10-23, B-19 sent and server-verified 2026-10-26; no reply yet."
-rank: 26
+rank: 27
 updated: "2026-10-28"
 ---
 

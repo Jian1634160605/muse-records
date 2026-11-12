@@ -3,7 +3,7 @@ display_name: "Judy Goldreich"
 first_name: "Judy"
 last_name: "Goldreich"
 summary: "Prospective overseas patient — in the DMV area, seeking an eye doctor plus CO2 laser; Victoria commented 2026-11-06, not DM'd."
-rank: 158
+rank: 159
 updated: "2026-11-06"
 ---
 

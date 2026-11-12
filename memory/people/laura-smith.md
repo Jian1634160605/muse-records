@@ -3,7 +3,7 @@ display_name: "Laura Smith"
 first_name: "Laura"
 last_name: "Smith"
 summary: "Prospective overseas patient — collection-table #143; Fatih pricing post 2026-10-30, not DM'd; 2026-11-03 follow-up to quoters Tatyana (#189) and Enni (#190), comments 10 to 12."
-rank: 92
+rank: 93
 updated: "2026-11-03"
 ---
 

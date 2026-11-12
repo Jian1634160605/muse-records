@@ -3,7 +3,7 @@ display_name: "Charlie Burrowes"
 first_name: "Charlie"
 last_name: "Burrowes"
 summary: "Prospective overseas patient — West Midlands, seeking an eyelid-surgery recommendation; Victoria commented on his Blepharoplasty Support Group post 2026-11-09, verified in place, not DM'd."
-rank: 204
+rank: 205
 updated: "2026-11-09"
 ---
 

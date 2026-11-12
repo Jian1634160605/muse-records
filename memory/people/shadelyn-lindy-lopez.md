@@ -3,7 +3,7 @@ display_name: "Shadelyn Lindy Lopez"
 first_name: "Shadelyn"
 last_name: "Lindy Lopez"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on the Kassir post thread; no reply yet, not DM'd."
-rank: 217
+rank: 218
 updated: "2026-11-10"
 ---
 

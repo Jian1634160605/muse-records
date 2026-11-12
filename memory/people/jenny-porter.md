@@ -3,7 +3,7 @@ display_name: "Jenny Porter"
 first_name: "Jenny"
 last_name: "Porter"
 summary: "Prospective overseas patient — collection-table #11; first DM server-verified sent 2026-10-25 in her London daytime window, B-18 due 2026-10-26 local daytime; awaiting reply."
-rank: 37
+rank: 38
 updated: "2026-10-25"
 ---
 

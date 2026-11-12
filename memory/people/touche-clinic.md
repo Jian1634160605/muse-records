@@ -1,7 +1,7 @@
 ---
 display_name: "Touché Clinic"
 summary: "IG aesthetic clinic (@toucheclinic, ~1.5M followers) whose Diamond Face clips are republished on FB as Qin Hao content; clip 13 out 2026-11-09, publishing paused, clips 14–22 deferred."
-rank: 46
+rank: 47
 updated: "2026-11-09"
 ---
 

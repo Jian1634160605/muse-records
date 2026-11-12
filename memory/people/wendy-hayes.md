@@ -3,7 +3,7 @@ display_name: "Wendy Hayes"
 first_name: "Wendy"
 last_name: "Hayes"
 summary: "Prospective overseas patient — collection-table #98 and #111; seeking a doctor in NW England, Victoria commented 2026-10-27 and 2026-10-28, no DM sent."
-rank: 62
+rank: 63
 updated: "2026-10-28"
 ---
 

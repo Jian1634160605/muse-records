@@ -2,7 +2,7 @@
 display_name: "Helena Maria"
 first_name: "Helena"
 summary: "Prospective overseas patient — collection-table #118; Korea-anchored post, Victoria commented 2026-10-29, not DM'd."
-rank: 79
+rank: 80
 updated: "2026-10-29"
 ---
 

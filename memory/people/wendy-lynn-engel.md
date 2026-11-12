@@ -3,7 +3,7 @@ display_name: "Wendy Lynn Engel"
 first_name: "Wendy"
 last_name: "Lynn Engel"
 summary: "Prospective overseas patient — collection-table #128; asked about Houston Doctor Rose, Victoria commented 2026-10-29, not DM'd under the local/specific-doctor rules."
-rank: 89
+rank: 90
 updated: "2026-10-29"
 ---
 

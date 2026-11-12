@@ -1,8 +1,8 @@
 ---
 display_name: "海外6组"
 summary: "The user's 医美海外IP team — 5 doctor-IP accounts (FB 2, IG 3); Victoria main line, Bertie second FB line since 2026-11-10; IG now content-only, no DM/comment replies; Emerson retired 2026-11-04."
-rank: 1
-updated: "2026-11-10"
+rank: "1"
+updated: "2026-11-12"
 ---
 
 # 海外6组
@@ -39,6 +39,11 @@ The user's work team: 医美海外引流留资 — short-video doctor-IP account
 - 2026-11-10 evening (Beijing 2026-11-11 00:19): user decided IG does no DM and no comment replies — the three IG accounts post content only; FB DM + comments continue. Six IG watch crons stopped; five running rounds stopped.
 - Account totals corrected 2026-11-10 16:4x Beijing: FB 2 (Victoria Maizie, Bertie Harmony) + IG 3 (sarahcook6809, haze_lferrier, gaga5456) = 5 total; an earlier "FB 5" was a typo.
 - 2026-11-10: gaga5456 profile conversion completed and verified 18:20 (E08); sarahcook6809's 3 old posts: user chose hide, web has no Archive entry, user must Archive in the IG app; Victoria hunter paused awaiting a new static IP rebind; Bertie day totals 9 comments, 1 DM, 0 leads.
+- 2026-11-12: the FB 运营团队群聊 was placed in the FB 运营指挥中心 page, under the 3D office. The group has 9 people — the user, Muse the manager, hunter, DM handler, real-time sentinel, content, editor, reviewer E07, and ledger keeper — and the user can type in it to dispatch work, with @ mentions, quick-action buttons (hunter patrol, pipeline check), a refresh button for sub-agent status, and decision cards that can be tapped directly (window conversation, message:assistant-msg-7bb91b39).
+- 2026-11-12: the user asked for the 3D office to be redesigned — separate offices for the user and for Muse, everyone else in the main hall, plus a smoking area and a game area; when work is dispatched, each person returns to their own desk with their screen lit showing live work data. The redesign was still in progress at the end of the window (window conversation, user messages:05dd878e, 1ff9bc03, f5a6e0cc).
+- 2026-11-12: the 3D office enlargement was completed — the space grew from 18.4×12.6 to 25×17.5, with the user's and Muse's offices, the smoking area and the game area all enlarged (window conversation, message:assistant-msg-49e20ae4-e4e8-7faa-6cc3-36913cf9a419).
+- 2026-11-12 18:45 Beijing: [Victoria Maizie](../people/victoria-maizie.md) hit a human-verification checkpoint while scrolling Reels; text verification passed, now at a video-selfie stage that needs the user himself on camera; hunter and publishing paused until he completes it and sends a fresh cookie. v6-B1 publish was blocked at 19:15 by the same account security check, 3 v6 videos pending (window conversation, messages:assistant-msg-3ea60426-a749-b814-fabe-22af7b69bff2, assistant-msg-6a2e74e9-5a81-ffc9-2478-dd8cbeefb6d9 and assistant-msg-2d56d83f-5e1c-d012-7147-91b5e35cb5bd).
+- 2026-11-12: FB blocked a login attempt at about 10:44; the user confirmed it was his own device, and the matter was closed with no further investigation (window conversation, messages:assistant-msg-6ee58d25 and user message:b6d81afb). The account the attempt concerned was not named in the messages shown.
 
 ## Themes
 - 引流留资 as the sole metric: 客资 → 有效 → 邀约.
@@ -64,3 +69,6 @@ The user's work team: 医美海外引流留资 — short-video doctor-IP account
 - [x] Xiaohongshu搬運 subsequent items to Emerson: cancelled 2026-11-04 by Emerson's retirement from operations.
 - [ ] New-account onboarding: haze_lferrier recovery verification + fresh cookie still awaited; sarahcook6809's new proxy line (agreed 17:22) not yet received as of 2026-11-11 00:10 — DM watch/hunter will not resume under the content-only decision; gaga5456's 3 cover posts await the user archiving them in the IG app.
 - [ ] Victoria hunter rebind: new static IP awaited; queued Cost replies resume after the rebind.
+- [ ] FB 运营团队群聊 decision cards (2026-11-12): the Margaux reply card and a friend-request card await the user's tap in the group chat.
+- [ ] 3D office redesign (2026-11-12): separate offices for the user and Muse, hall seating for the rest, smoking and game areas, lit work screens on dispatch — in progress at the end of the window.
+- [ ] Victoria human-verification checkpoint (2026-11-12 18:45 Beijing): text verification passed, video-selfie stage needs the user himself on camera; hunter and publishing paused until he completes it and sends a fresh cookie; v6-B1 publish blocked 19:15, 3 v6 videos pending.

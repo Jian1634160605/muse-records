@@ -3,7 +3,7 @@ display_name: "Janice VL"
 first_name: "Janice"
 last_name: "VL"
 summary: "Prospective overseas patient — asked about price on Nayak's Lori big-reveal Reel; Victoria commented 2026-11-10 (E07 94), no reply yet, not DM'd."
-rank: 207
+rank: 208
 updated: "2026-11-10"
 ---
 

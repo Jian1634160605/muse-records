@@ -3,7 +3,7 @@ display_name: "Tia Paulman"
 first_name: "Tia"
 last_name: "Paulman"
 summary: "Prospective overseas patient — Oregon, collection-table #280; seeking a deep-plane face and neck lift doctor, undecided; Victoria commented 2026-11-07 (E07 97), not DM'd."
-rank: 192
+rank: 193
 updated: "2026-11-09"
 ---
 

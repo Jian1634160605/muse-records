@@ -3,7 +3,7 @@ display_name: "Helen Evans"
 first_name: "Helen"
 last_name: "Evans"
 summary: "Prospective overseas patient — collection-table #117; replied to Victoria's comment and got a follow-up asking first surgery or revision, verified 2026-11-07; not DM'd."
-rank: 54
+rank: 55
 updated: "2026-11-09"
 ---
 

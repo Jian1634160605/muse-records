@@ -3,7 +3,7 @@ display_name: "Elmari Swart"
 first_name: "Elmari"
 last_name: "Swart"
 summary: "Prospective overseas patient — collection-table #281; post-deep-plane nerve pain, still seeking a doctor; replied to Victoria's comment, follow-up verified 2026-11-07, not DM'd."
-rank: 55
+rank: 56
 updated: "2026-11-09"
 ---
 

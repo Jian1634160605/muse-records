@@ -3,7 +3,7 @@ display_name: "Zully Piceno-Alanis"
 first_name: "Zully"
 last_name: "Piceno-Alanis"
 summary: "Prospective overseas patient — Dallas/Fort Worth eyelid recommendations; Victoria commented 2026-10-23 (#13) and 2026-11-09 (#310, E07 90, awaiting group approval), not DM'd."
-rank: 203
+rank: 204
 updated: "2026-11-09"
 ---
 

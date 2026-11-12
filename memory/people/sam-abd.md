@@ -3,7 +3,7 @@ display_name: "Sam Abd"
 first_name: "Sam"
 last_name: "Abd"
 summary: "Prospective overseas patient — Tijuana group; Victoria commented 2026-11-09 (E07 95), awaiting group approval, not DM'd."
-rank: 199
+rank: 200
 updated: "2026-11-09"
 ---
 
