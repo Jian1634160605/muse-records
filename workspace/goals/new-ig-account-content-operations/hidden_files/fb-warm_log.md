@@ -1,3 +1,56 @@
+## 2026-11-12 19:54–19:57 — 定时养号轮次（fb-engage-daily）⚠️ 停工：Victoria 账号仍卡视频自拍验证检查点，未执行任何养号动作
+- 状态核查（未开浏览器、未做任何账号动作）：18:45 晚场触发的真人验证检查点仍未解；19:39 客户雷达轮确认检查点形式为视频自拍验证（Confirm your identity — video selfie），代理无法代做；19:53 猎手第 60 轮确认 19:43 后 workspace 内无新 cookie 到达，CLI Messenger 同步连续第 9 次 PERMISSION_DENIED / HTTP 403，上次成功同步仍为 18:44。
+- 本轮复核：19:43 后 workspace 内无新 cookie 文件到达（全工作区查找仅见无关 venv 数据文件）；用户已于 18:48–18:52 接到总管微信+旁聊通知，本轮不重复喊人。
+- 未执行：浏览/点赞 0、加群申请 0、Dr.qh88 当日最新帖转发 0（今日转发无台账记录，待账号恢复后核查补做）、巡查转交 0（CLI 读数 403、浏览器不可用；19:39 雷达缓存只读核查为 0 新客资）。
+- 结论：按晚场既定口径，验证通过前不安排养号、不开浏览器刷 Reels/搜索；恢复仍需用户在他自己指纹浏览器里过视频自拍验证、重导新鲜 cookie。本轮 0 动作、0 客资，无状态变化，不另报、不打扰用户。
+
+## 2026-11-12 18:42–18:46（运行实测 4 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：进入 Reels 时触发账号检查点，已停手
+- 计时说明：运行实测为 18:42–18:46（4 分钟），回传自述 18:42 开始、18:45 触发检查点后停止；实际有效浏览约 4 分钟，仅完成首页阶段，Reels 与搜索阶段未执行
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅；登录本身未失效
+- 浏览内容：首页约 22 条（其中广告约 7 条，均快速划过、未点击），非广告帖约 15 条；垂类及相邻内容约 11 条，非垂类 4 条快速划过；Reels 0 条、搜索 0 条
+- 垂类概况：GentleLizard9306（Blepharoplasty Support Group）上下眼睑术术后 6 周前后对比；Tiffany Maxey（Face-lift & Neck-lift Support Group）40 岁咨询仅做颈部提升；Prof. Dr. Suleyman TAS 巴基斯坦闭合无创鼻整形手术直播；Kat Grigg 首次 Morpheus8 射频微针紧肤；Natalie Fay Dr Kenneth Kok 深平面拉皮/颈部提升前后对比（吉隆坡）；Lynne Campbell（Facelift in Bali）术后 20 天恢复，DPFL/NL＋上睑＋唇提升，近 67 岁；Yazemeenah Rossi 眼睑成形术术后 1 个月前后对比；Jacobson Cosmetic Surgery 腹部整形术后恢复视频
+- 点赞 5 条（已达本场上限 5 个，间隔拉开，未连续点在相邻内容上；每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. GentleLizard9306 上下眼睑术前后对比（4→5）
+  2. Tiffany Maxey 颈部提升咨询帖（点赞前未显示计数→1）
+  3. Prof. Dr. Suleyman TAS 鼻整形手术直播（40→41）
+  4. Kat Grigg Morpheus8 射频微针（点赞前未显示计数→1）
+  5. Lynne Campbell 拉皮术后 20 天恢复（358→359）
+  - 备注：未给 Victoria Maizie 本人帖子点赞（浏览中未见到本人帖子）
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；好友请求卡片与通知角标均未点开处理
+- 账号安全 ⚠️：18:45 点击顶部导航 Reels 后，页面跳转至 facebook.com/checkpoint/1501092823525282/（next 指向 Reels），显示 "Victoria Maizie, confirm you're human to use your profile" 与 "Takes about 30 seconds"，附 Continue 按钮——真人验证/账号检查点。按指令已立即停手，未点 Continue、未尝试绕过，检查点页面保留在标签页 t1；浏览期间此前无任何验证或限制提示
+- 结论：本场执行不完整——首页养号约 4 分钟与 5 条点赞已完成，Reels 与搜索垂类视频均未执行，结束核对也未能完成。需向用户报告：请用户在他自己指纹浏览器里（静态 IP 相同）过验证，过完重导新鲜 cookie 给 Muse 导入；验证通过、账号恢复正常后方可再安排下一场养号，本场不宜继续用浏览器刷 Reels/搜索
+
+## 2026-11-12 14:45–15:00（运行实测 15 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–15:00（15 分钟），回传自述 14:45–15:00（约 15 分钟），无差异
+- 登录确认：全程保持 Victoria Maizie 登录状态，未出现登录失效、无需点 Continue；未以 Dr.qh88 主页身份操作 ✅
+- 浏览内容：共 21 条（符合 15–25 条目标），每条垂类内容均看大半再划，节奏放慢；首页信息流 10 条、Reels 11 条；本场未做搜索找垂类
+- 垂类概况：首页有 Davena Vee 护肤前后对比、Uplift and Thrive Hydra Facial 前后对比、Lauren Umstattd 深层拉皮+深层颈部拉皮前后对比、Karen E Vetter 术后 3 周眼睑手术恢复对比、Rnwood 68 岁患者术后 3 个月深层拉皮对比、Danielle Rose Richards 飞往胡志明市做拉皮/颈部拉皮/眉部/鼻部/下眼睑手术；Reels 有 Mark Li 拉皮前后对比、lorenaoftalmo 面部提升、Dr.Xiao9D“半边脸拉皮、半边未动”对比；其余 Reels 为系统推荐的励志、舞蹈、美食、装修、影视剪辑等非垂类内容，按自然节奏看 20–60 秒后划走，未快速连划；广告快速划过、未点击
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，未连续点在相邻内容上）：
+  1. Uplift and Thrive Hydra Facial 前后对比帖（信息流，点赞后显示 1 个赞、按钮变为 Remove Like）
+  2. Karen E Vetter 术后 3 周眼睑手术帖（信息流，13→14，中间隔了 Lauren 拉皮帖等内容）
+  3. Dr.Xiao9D 半边脸拉皮对比 Reels（863→864，距第 2 个赞约 7 分钟）
+  - 备注：第 1、2 个赞之间约 1–2 分钟、中间隔了数条内容；此后未再点赞；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；信息流中出现的“你可能认识的人”等加好友入口均未点击
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-12 10:42–10:54（运行实测 11 分钟）— 定时上午场（fb-warm-am）✅ 执行完整
+- 计时说明：运行实测为 10:42–10:54（11 分钟），回传自述 10:43–10:53（约 10 分钟），1 分钟首尾差异以实测为准；略短于约 12 分钟目标
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅
+- 浏览内容：共约 34 条（首页约 18 条、Reels 9 条、搜索“facelift before and after”筛选 Reels/视频看了 7 条、另 3 条仅划过可见），每条垂类内容均看大半再划，节奏自然；首页约 4 分钟、Reels 约 3.5 分钟、搜索约 4 分钟；非垂类与广告快速划过、未点击广告
+- 垂类概况：首页有 Kierstin Mayes（隆鼻术后 9 个月，Dr Samet Agcayazi）、Natalie Hartman（深层拉皮+颈部提升+眉/眼睑+唇部提升，术后第 3 天）、selenassuitcase（术后第 3 周更新，耳后缝线、术后第 1 天 vs 第 3 周对比）、Grace9547（下眼睑术后凹陷、咨询脂肪移植）、Wendy R Williams（深层下脸+颈部拉皮术后 6 周前后对比，60 岁）、TaupeTurtle6025（唇部提升术后等待恢复）、Plastic.Surgeon Hiếu Tâm（拉皮恢复科普视频 0:16）；Reels 有 Kin Facelift（Q-Flow Facelift™ 前后对比）、Dr.dadong（全脸与颈部年轻化、拉皮切口特写）、Shanghai Li（Alpha V Facelift 术前术后对比，美国赴华案例）；搜索视频集中于 facelift before and after，包括 Carl Truesdale（61 岁术后 3 个月）、Carlos Mata（深层拉皮术前规划，0:34）、V-Clinic（深层拉皮+颈部提升+上下眼睑+唇部提升组合，2.9M 播放）、Leda Fazal（中面部拉皮术后自述）、Dr. Jason Diamond（深层拉皮术后 3 个月）、Stephanie Louise（上脸+中脸拉皮+上眼睑术后 2 周，35 岁）、Krista Fogelsong（55 岁，Ralph Garramone 案例，看到 24/25 秒）
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. Natalie Hartman，深层拉皮术后第 3 天更新（18→19）
+  2. selenassuitcase，术后第 3 周更新（耳后缝线对比）（78→79）
+  3. Wendy R Williams，深层下脸+颈部拉皮术后 6 周前后对比（27→28）
+  4. Reels Kin Facelift，Q-Flow Facelift™ 前后对比（328→329；点赞后相邻卡片显示 330，疑为他人同期点赞，以点赞瞬间为准）
+  5. Reels Dr.dadong，全脸与颈部年轻化（408→409；之后相邻卡片显示 412，疑为他人同期点赞，以点赞瞬间为准）
+  - 备注：搜索结果中 Carl Truesdale（33.2K）、Carlos Mata（10K）、Dr. Jason Diamond（5.6K）打开时即显示已点赞（Remove Like），为本次会话前已点赞状态，本场未重复点击、未计入新增；Leda Fazal、Stephanie Louise、Krista Fogelsong、Shanghai Li 等已看内容因本场点赞已达 5 条上限只看未点；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；通知 4 条未读角标未点开，好友请求卡片仅划过，未确认、未删除（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 备注：进入 Reels 时首条视频曾短暂显示 "Unable to play media."，随后正常播放，属加载问题，非账号限制或验证
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-11 18:42–18:52（运行实测 10 分钟）— 定时晚场（fb-warm-pm）✅ 执行完整
 - 计时说明：运行实测为 18:42–18:52（10 分钟），回传自述 18:42–18:51（约 9–10 分钟），1 分钟尾段差异以实测为准；略短于约 12 分钟目标
 - 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与发帖框显示 Victoria Maizie（"What's on your mind, Victoria?"），确认为个人号 Victoria Maizie ✅，全程未以 Dr.qh88 主页身份操作、未进入 Dr.qh88 主页管理后台；结束时回首页再次核对，身份未变 ✅

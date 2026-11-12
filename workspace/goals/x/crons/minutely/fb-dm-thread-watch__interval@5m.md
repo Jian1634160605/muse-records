@@ -1,7 +1,7 @@
 ---
 id: fb-dm-thread-watch
 title: FB 私信线程盯回复（Anne/Judi）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -14,8 +14,8 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 **退回 Victoria 单线（2026-10-30 用户定）**：从本轮起私信盯守只走 Victoria 一个号。Fowler、Emerson、Jioklm、Jusa 四号暂停（不是删除），本任务不再查它们的线程、不再用它们的 FoxProfile 浏览器、不做四号停车动作。其他四号的新回复首接哨兵已停用，Victoria 的新回复首接仍走 30 秒 CLI 哨兵（fb-messenger-inbox）。Cristiana Winter、Kim Kieu 两线程为用户本人自聊（2026-10-30 09:55/09:59 用户本人发出），本任务绝不跟进、不计数、不报送；一般规则：最新消息为用户本人在台账外发出的线程一律勿动。
 

@@ -1,7 +1,7 @@
 ---
 id: fb-bertie-dm-watch
 title: FB Bertie 私信盯守（素人）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -14,8 +14,8 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 **账号与定位（2026-11-10 老板定）**：本任务只走 Bertie Harmony（FB 个人号，素人种草号）一个号。FoxProfile 环境 fb-1030，静态 IP 文件 ~/.agent-reach/proxy-fb-20011.txt。Bertie 是素人个人号：私信一律用真人口吻——像一个也在了解拉皮/医美的人聊天；**绝不冒充医生身份，绝不编自己的患者经历、手术经历与疗效，绝不做医疗诊断与效果承诺**。不碰 Victoria 等其他号的线程。Bertie 暂无 30 秒实时哨兵，新回复由本任务 5 分钟一轮接。
 

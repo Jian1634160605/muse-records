@@ -1,7 +1,7 @@
 ---
 id: ai-video-publish-2h
 title: AI 面诊视频 2 小时轮流发布
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:

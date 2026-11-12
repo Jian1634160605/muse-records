@@ -1,7 +1,7 @@
 ---
 id: ig-matrix-post-r3
 title: 发布轮次3（v3 只发 FB）
-enabled: true
+enabled: false
 owner: goal:new-ig-account-content-operations
 mode: task
 schedule:
@@ -13,8 +13,8 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:flexible-time]
-  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 发布轮次 3：把今天队列里的 v3 发到 Facebook 主页。（2026-10-21 用户决定：IG 线已放弃；TikTok @faciallifting.qinhao 已交同事运营，本任务不得再碰 TikTok。2026-10-25 用户批新打法：Victoria 视频从个人时间线挪到主页发。）队列目录：~/workspace/ig-ops/christycrawford85/queue/<今天日期>/，视频 v3.mp4，文案在 captions.md 的 V3 节，用 FB 版文案。
 

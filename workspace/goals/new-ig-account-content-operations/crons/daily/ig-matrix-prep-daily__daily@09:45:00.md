@@ -1,7 +1,7 @@
 ---
 id: ig-matrix-prep-daily
 title: 每日备料（选3条+差异版+FB文案）
-enabled: true
+enabled: false
 owner: goal:new-ig-account-content-operations
 mode: task
 schedule:
@@ -13,8 +13,8 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:flexible-time]
-  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 为 Facebook（个人号 Victoria Maizie）准备今天的 3 条起号视频。（2026-10-21 用户决定：IG 线已放弃——lillieflores24 不再运营；TikTok @faciallifting.qinhao 已交同事运营，本任务不得再碰 TikTok——不发布、不巡查、不读它的数据。下方 IG 源账号仅作选源读取，属内部复用。）
 

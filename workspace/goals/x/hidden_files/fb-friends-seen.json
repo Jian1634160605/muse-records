@@ -84,11 +84,16 @@
       "friend_id": "100036693217122",
       "name": "Hong Wu",
       "profile_url": "https://facebook.com/hu.bing.kang.2025"
+    },
+    {
+      "friend_id": "100000668355896",
+      "name": "Virginie Mazzoli",
+      "profile_url": "https://facebook.com/virginie.mazzoli"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-11T17:44:13.680+08:00",
+    "user_local": "2026-11-12T14:44:38.744+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-11T09:44:13.680Z"
+    "utc": "2026-11-12T06:44:38.744Z"
   }
 }
