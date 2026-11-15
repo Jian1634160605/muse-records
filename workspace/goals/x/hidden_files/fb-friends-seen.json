@@ -89,11 +89,36 @@
       "friend_id": "100000668355896",
       "name": "Virginie Mazzoli",
       "profile_url": "https://facebook.com/virginie.mazzoli"
+    },
+    {
+      "friend_id": "518396794",
+      "name": "Amanda Jane Deaville",
+      "profile_url": "https://facebook.com/amanda.deaville"
+    },
+    {
+      "friend_id": "100004556011026",
+      "name": "Ligita Kondrotaite",
+      "profile_url": "https://facebook.com/ligita.kondrotaite"
+    },
+    {
+      "friend_id": "61577901332701",
+      "name": "Roggu",
+      "profile_url": "https://facebook.com/roggu.2025"
+    },
+    {
+      "friend_id": "61570020875452",
+      "name": "吕柯德",
+      "profile_url": "https://facebook.com/profile.php?id=61570020875452"
+    },
+    {
+      "friend_id": "61569272294389",
+      "name": "杜博俊",
+      "profile_url": "https://facebook.com/profile.php?id=61569272294389"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-12T14:44:38.744+08:00",
+    "user_local": "2026-11-13T22:18:45.000+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-12T06:44:38.744Z"
+    "utc": "2026-11-13T14:18:45.000Z"
   }
 }

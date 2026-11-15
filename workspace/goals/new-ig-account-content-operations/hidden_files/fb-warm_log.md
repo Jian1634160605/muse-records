@@ -1,3 +1,53 @@
+## 2026-11-14 18:41–18:42（运行实测 1 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 18:41–18:42（1 分钟），harness 测量一致，回传自述 18:42 开始/结束
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框 "Log into your Meta Account"，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、搜索 "facelift before and after"、点赞、结束核对均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台，未点开好友请求卡片或通知角标 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第四场卡在同一验证——11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场、11-14 18:41 晚场均触发两步验证，登录态未能保持；每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 12 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞 3–5 条）。用户批准前不宜再安排养号、也不宜重复触发登录，浏览器标签页保留在验证页等待批准
+
+## 2026-11-14 14:45–14:46（运行实测 1 分钟）— 定时中午场（fb-warm-noon）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 14:45–14:46（1 分钟），harness 测量一致，回传自述一致
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框 "Log into your Meta Account"，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、搜索 "facelift before and after"、点赞、结束核对均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台，未点开好友请求卡片或通知角标 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第三场卡在同一验证——11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场均触发两步验证，登录态未能保持；上午场那次批准通知是否被批准未知，中午场仍需全新登录，说明登录态未因上午的批准而保持（或上午的批准未发生）；每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 15 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞最多 3 条）。用户批准前不宜再安排养号、也不宜重复触发登录，浏览器标签页保留在验证页等待批准
+
+## 2026-11-14 10:43–10:44（运行实测 <1 分钟）— 定时上午场（fb-warm-am）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 10:43–10:44（<1 分钟），harness 测量一致，回传自述一致
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框 "Log into your Meta Account"，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、搜索 "facelift before and after"、点赞、结束核对均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台，未点开好友请求卡片或通知角标 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第二场卡在同一验证——昨晚 18:41 晚场同样触发两步验证，登录态未能保持过夜，今早 10:43 又是全新一次验证请求；昨晚那次用户是否批准未知，今早这次需用户重新在 OnePlus 16 或 Windows PC 的 Facebook 通知中批准
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 12 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞 3–5 条）。用户批准前不宜再安排养号、也不宜重复触发登录（每次尝试都会再发一次批准通知），浏览器标签页保留在验证页等待批准
+
+## 2026-11-13 18:41–18:42（运行实测 1 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 18:41–18:42（1 分钟），harness 测量一致，回传自述一致
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框 "Log into your Meta Account"，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页 t1 仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、搜索 "facelift before and after"、点赞、结束核对均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台，未点开好友请求卡片或通知角标 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：11-13 上午过完视频自拍验证、导新鲜 cookie 后，中午场 14:45 曾直接登录成功；本次 18:41 会话又已退出登录并触发两步验证，登录态未能保持到晚场
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 12 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞 3–5 条）。用户批准前不宜再安排养号，浏览器标签页保留在验证页等待批准
+
+## 2026-11-13 14:45–14:59（运行实测 14 分钟）— 定时中午场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 14:45–14:59（14 分钟），harness 窗口 14:45–15:00，回传自述一致
+- 登录确认：打开 facebook.com 后直接进入首页信息流，已处于登录状态，无需点 Continue、无需切换账号；左侧栏与头像显示 Victoria Maizie，发帖框显示 "What's on your mind, Victoria?"，确认为个人号 Victoria Maizie ✅；结束时回首页再次核对，身份未变 ✅（11-13 上午过完视频自拍验证、导新鲜 cookie 后首次中午场养号，登录已恢复正常）
+- 浏览内容：垂类认真看完共 20 条（符合 15–25 条目标），每条垂类内容均看大半再划，节奏放慢；首页约 23 条经过、垂类认真看完 12 条，Reels 10 条、垂类认真看完 3 条，搜索“facelift before and after”筛选 Reels/视频认真看完 5 条；非垂类与广告快速划过、未点击广告
+- 垂类概况：首页有 SharpCranberry8763（Blepharoplasty Support Group）上眼睑术后 2 周恢复咨询、Andrew Jacono MD 深平面拉皮术后 7 天、Xiuyu Ye Hos 眼部手术前后对比拼图与拉皮术后等待恢复感悟、DrJoe Chen“3 小时改变鼻子”隆鼻视频、匿名用户修复隆鼻术后 5 个月咨询（Plastic Surgery in Turkey 群）、EDEN Plastic Surgery Miami Maria 拉皮前后对比、Nurse Blue Jonas Bico 全隆鼻术后 2 个月、Rachel Marsland 抗衰护肤、Erin Falconer Stritzinger 术前咨询前夜紧张分享、Sal Tina 上眼睑术后 53 天恢复分享、Holly Fairley 隆鼻术后恢复“预期 vs 实际”视频；Reels 有 DrDong 全脸及颈部年轻化、Xia ZhiRan Pinpoint 男士拉皮恢复自信、海涛老师面部瑜伽/面部提升按摩手法；搜索视频集中于 facelift before and after，包括 Carl Truesdale 61 岁术后 3 个月（21 秒）、V-Clinic 深平面拉皮＋深层颈部提升（41 秒）、J Park 澳大利亚拉皮前后对比（53 秒）、Hanna Wilkinson 迷你拉皮男士前后对比（11 秒）、Leda Fazal 中面部拉皮术后自述（18 秒）
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，未连续点在相邻内容上；每次点赞前均为未点赞状态，点赞后均确认按钮变为 Remove Like）：
+  1. Andrew Jacono MD 深平面拉皮术后 7 天帖（33→34）
+  2. EDEN Plastic Surgery Miami Maria 拉皮前后对比帖（49→50）
+  3. Reels Xia ZhiRan Pinpoint 男士拉皮视频（34→35）
+  - 备注：搜索结果中 Carl Truesdale、V-Clinic、J Park、Hanna Wilkinson 四条视频打开时即显示已点赞（Remove Like），为本次会话前已点赞状态，本场未重复点击、未计入新增；未给 Victoria Maizie 本人帖子点赞（信息流中未出现本人帖子）
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；搜索结果中仅出现一张 Dr.QinHao 视频卡片，未点击；好友请求卡片 Amanda Jane Deaville 与通知角标 4 条未读均未点开处理（按口径不由本场处理）；Reels 浏览中左下角一条通知浮窗自行消失，未点击
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-12 19:54–19:57 — 定时养号轮次（fb-engage-daily）⚠️ 停工：Victoria 账号仍卡视频自拍验证检查点，未执行任何养号动作
 - 状态核查（未开浏览器、未做任何账号动作）：18:45 晚场触发的真人验证检查点仍未解；19:39 客户雷达轮确认检查点形式为视频自拍验证（Confirm your identity — video selfie），代理无法代做；19:53 猎手第 60 轮确认 19:43 后 workspace 内无新 cookie 到达，CLI Messenger 同步连续第 9 次 PERMISSION_DENIED / HTTP 403，上次成功同步仍为 18:44。
 - 本轮复核：19:43 后 workspace 内无新 cookie 文件到达（全工作区查找仅见无关 venv 数据文件）；用户已于 18:48–18:52 接到总管微信+旁聊通知，本轮不重复喊人。
@@ -1084,3 +1134,13 @@
 - 禁止项：无评论、无回复、无私信、无加好友（右侧好友请求"田兆玄"仅可见，未处理）、无关注、无进群、无发帖、无分享/转发、无点广告或外部链接、无改设置、未切换账号身份 ✅
 - 账号安全：全程无验证码、无真人验证、无账号警告、无限流/限制提示 ✅
 - 结论：本场执行完整，浏览约 10 条、点赞 4 个，账号状态健康，无需向用户报告 ✅。
+
+## 2026-11-13 11:53–12:06 上午场（fb-warm-am）✅ 执行完整
+
+- 登录身份：Victoria Maizie 个人号，登录状态正常，无需恢复；打开 facebook.com 直接进入已登录首页，发帖框显示 "What's on your mind, Victoria?"、左侧导航显示 "Victoria Maizie"，未出现 Meta 一键登录页，未输入密码。实测运行约 13 分钟（11:53–12:06，runtime 计量与任务回传一致）。
+- 首页动态（约 6 分钟，11:53–11:59）：完整/大半浏览 9 条——Lip Lift Surgery 小组匿名帖"Almost 4 weeks post op"唇部提升术后对比、Blepharoplasty Support Group 匿名帖眼睑整形术后对比、Dr Manuel Gutierrez（提华纳）"Deep Plane Cheek & Neck Lift"、Facelift Support Group 匿名帖（术后不知所措），及 Faadil Abader 视频（Ad）、GSK 赞助帖、Oria Gems 广告（均仅浏览未点）、"People You May Know"推荐（未处理）、Reels 推荐行（YSC Clinic、Mature Beauty Studio 等）。
+- Reels（约 7 分钟，11:59–12:06）：大半看完 6 条，均为拉皮/医美垂类——Zhang Guoqi"42 Australia→China U to V Facelift"（Cindy 42 岁拉皮前后对比）、DrJie Chen 鼻整形"bulbous tip"前后对比、Liren Li"Dr. Chen's 4 positioning points for facial rejuvenation #Taipei"面部年轻化，另 iHerb 广告划过未互动；另有 2 条非垂类短暂看过未互动（Funtrip LeYou 赛里木湖旅行、Naesar's Room DVD 收藏）。Reels 内未用搜索功能，因推荐流已连续出现垂类内容。
+- 点赞：新增 5 个，已达任务上限，间隔约 2 分钟，点赞后均确认变为 "Remove Like"：① 11:54 Lip Lift Surgery 小组匿名帖（148→149）；② 11:56 Blepharoplasty Support Group 匿名帖（4→5）；③ 11:58 Dr Manuel Gutierrez 拉皮帖（6→7）；④ 12:00 Reels Zhang Guoqi U to V Facelift（871→872）；⑤ 12:02 Reels DrJie Chen 鼻整形前后对比（显示 8.2K 四舍五入、数值未见变化，按钮已变为 "Remove Like, 8.2K reactions"，确认点赞成功）。
+- 禁止项：无评论、无回复、无私信、无加好友（"People You May Know"未处理）、无进群、无发帖、无分享、无点广告或外部链接、无改设置、未切换账号身份 ✅
+- 账号安全：全程无验证码、无真人验证、无账号警告、无限流/限制提示 ✅。注：本场在 11:51 登录恢复核验通过（新鲜 cookie 导入、CLI 返回 Victoria Maizie、403 消失）后执行，登录态稳定。
+- 结论：本场执行完整，浏览约 15 条、点赞 5 个，账号状态健康，无需向用户报告 ✅。
