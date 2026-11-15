@@ -1,5 +1,15 @@
 # Bertie Harmony 私信线程台账
 
+## 【2026-11-13 退役关账】Bertie Harmony 已退役（老板 11:45 定“第二个 FB 不要了”）
+
+- fb-1030 环境已停（2026-11-13 11:4x 核验 is_running=false；环境本身与 Facebook 账号均未删除）。
+- 未完事项全部关账，不再执行：
+  - Yolande Engels de Lange B-18：窗口已过（首条 2026-11-10 约 21:00 发出，B-18 窗口约 2026-11-12 21:00 关闭），未发成，记为因账号退役未发，不再补发。
+  - lady_flower_power_1969 首条私信草稿：作废，不再发出（已在 bertie-drafts.md 标注）。
+  - Neisha 评论重载核验：取消，不再核验、不重发。
+  - 3 个待处理好友请求（Iain Andrews、Shaun Smith、Joe McCabe）：不再筛查、不通过，留置不管。
+- 今后 FB 只剩 Victoria 一条线；Bertie 不用再发新鲜 cookie。
+
 建于 2026-11-10，Bertie 专用，与 Victoria 的 dm-threads.md 分开。
 状态：待私信 / 等回复 / 完成 / 关闭。
 

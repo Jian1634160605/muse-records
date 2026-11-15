@@ -2,9 +2,9 @@
 display_name: "Emerson Ciara"
 first_name: "Emerson"
 last_name: "Ciara"
-summary: "FB doctor-IP account RETIRED from operations 2026-11-04 by user decision (account NOT deleted); Dr.qh666 deleted 2026-11-03, 6 personal Reels set Only me, nothing deleted."
+summary: "FB doctor-IP account RETIRED 2026-11-04 by user decision (account NOT deleted); login verified normal 2026-11-13, still retired, return as second account awaits user's decision."
 rank: 18
-updated: "2026-11-04"
+updated: "2026-11-13"
 ---
 
 # Emerson Ciara
@@ -26,11 +26,14 @@ updated: "2026-11-04"
 - 2026-11-04: the user confirmed the hide-all scope is Dr.qh88 plus the Emerson personal profile; the assistant verified Emerson's own browser login, at least 6 personal-profile Reels, and Dr.qh88 previously counted at 14 Reels. No hiding or deletion was executed yet: the choice between non-deleting equivalents and deleting both outright was still pending, and Muse was not to delete unilaterally.
 - 2026-11-04: the user chose method A (no deletion) and it was executed: all 6 Emerson personal-profile Reels were set to Only me and verified, and Dr.qh88's 14 videos/Reels were set to expire immediately (15:27–15:32). Nothing was deleted; the Emerson videos are publicly invisible but recoverable.
 - 2026-11-04: **RETIRED from operations (user decision, account NOT deleted)** — the user said "remove and delete this account, no longer operate", then clarified: remove from operations only, do NOT delete the Facebook account. Emerson is now retired like Fowler/Jioklm: no hunter, DM, warming, posting, avatar/bio changes, or Xiaohongshu搬運; its pending avatar/bio, second-video rewrite/publish, and daily 9–11 publish tasks are cancelled. FoxProfile env fb-6399 was stopped (not deleted), account 61590579626399 itself remains.
+- 2026-11-13 12:06: **登录已核验正常（仍退役）** — user sent a fresh cookie + (separately) password and 2FA key; E08 verified by cookie import into fb-6399 (10 cookies, HTTP 200), home page shows Emerson Ciara, no login wall; password + 2FA never used. One page-load stall (~5 min) fixed by a single environment restart, not an account problem. Env stopped after verification; no operations restored. Whether to bring Emerson back as the second account is still the user's call; the space now shows an Emerson row (retired · login normal).
 
 ## History
 - 2026-10-21: delivered, cookie-login succeeded, Page Dr.qh666 discovered; test post v1 succeeded after a FoxProfile patch (reel 2298761260969935). 2026-10-25: login re-verified for rotation; 2026-10-27: matrix reduced to 5 (Cora, Simon deleted); 2026-10-28: warm round failed on FoxProfile launch, user notified; 2026-10-30: b4 post, then paused under the Victoria single-line revert.
 - 2026-11-03: fb-6399 not running at the early check, recovery undecided; nose-matrix plan directed (role, Page, grouping, material source pending); later login re-verified, Xiaohongshu搬運 assigned (Emerson only), first video posted as Reel 1601482847865007 — then the user deleted Dr.qh666 the same day, so that Reel no longer counts and 素人 content goes to the personal profile only.
 - 2026-11-04: hide-all scope for Dr.qh88 plus the Emerson personal profile confirmed, method pending, nothing hidden or deleted yet; then method A executed — Emerson's 6 personal Reels set to Only me, Dr.qh88's 14 videos expired, nothing deleted.
+- 2026-11-04: retired from operations by the user's decision — remove from operations only, account NOT deleted.
+- 2026-11-13 12:06: login verified normal by fresh-cookie import into fb-6399 (home page shows Emerson Ciara, no login wall); environment stopped again after verification, no operations restored; whether to bring Emerson back as the second FB account is still the user's call.
 
 ## The relationship
 An operational account persona, not a personal tie: the user owns the account and Muse runs it as one leg of the Qin Hao doctor-IP matrix. No direct relationship with the person behind the display name is evidenced.
@@ -50,5 +53,6 @@ An operational account persona, not a personal tie: the user owns the account an
 - [x] Xiaohongshu搬運 subsequent items to Emerson — cancelled 2026-11-04 by retirement from operations; no further搬運 to Emerson.
 - [x] Emerson personal-profile clean-up (2026-11-03) — video portion done (6 Reels set to Only me 2026-11-04); avatar and bio changes cancelled 2026-11-04 by retirement from operations.
 - [x] Dr.qh88 plus Emerson personal-profile videos hide-all (2026-11-04) — method A chosen by the user and executed: Emerson 6 Reels set to Only me, Dr.qh88 14 videos expired, nothing deleted.
+- [ ] Whether to bring Emerson back as the second FB account (now that its login verified normal on 2026-11-13) — the user's call, still pending; no operations restored in the meantime.
 
 ## Strengthening

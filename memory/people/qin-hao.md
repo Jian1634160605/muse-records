@@ -2,9 +2,9 @@
 display_name: "秦浩"
 first_name: "浩"
 last_name: "秦"
-summary: "Facelift/anti-aging doctor at the user's company; v4–v5 out to Dr.qh88 2026-11-12; v6-B1 publish blocked by a Victoria security check, 3 v6 pending; 面诊 only, 口播 abandoned."
-rank: "3"
-updated: "2026-11-12"
+summary: "Facelift/anti-aging doctor at the user's company; v4–v5 out 2026-11-12; v6 three approved (96, 92, 97) unpublished — Dr.qh88 deactivated, user said do not reactivate yet 2026-11-13."
+rank: 3
+updated: "2026-11-13"
 ---
 
 # 秦浩
@@ -36,13 +36,20 @@ updated: "2026-11-12"
 - 2026-11-12 17:27 Beijing: v5-B3 published to Dr.qh88 (window conversation, message:assistant-msg-215fc6c0). The v5 batch is now complete — v5-B1, v5-B2 and v5-B3 are all out.
 - 2026-11-12 19:15 Beijing: v6-B1 (nose-back hump line) publish blocked — the video passed QC but Facebook returned that the [Victoria Maizie](victoria-maizie.md) account needs a security check; queue unchanged, 3 v6 videos pending; next attempt 21:15 if the user completes the check (window conversation, message:assistant-msg-2d56d83f-5e1c-d012-7147-91b5e35cb5bd).
 - 2026-11-12: Rina v2 (lift demo) round-3 E07 audit scored 84, below the 90 gate; in final revision for a round-4 final audit, else restart with a new strategy. Correction: segment C direction was not reversed — the real issue is the head turn is half a beat slow, still front-facing at the cut then turning late; this round fixes that (window conversation, message:assistant-msg-b3fd99f1-2f44-4d7b-eb4d-192de3a8cb05; memory/2026-11-12.md#L5174).
+- 2026-11-12 19:57 Beijing: the v6 batch's three videos are all approved and awaiting publication, scored 96, 92 and 97; the 19:15 round went unsent because of the Victoria verification block, and the 21:15 round also waits for the user to complete the video selfie and re-export a fresh cookie (window conversation, message:assistant-msg-946c6f50-08f1-649d-27de-33cf9675aea4).
+- 2026-11-12 21:02 Beijing: the user ordered no FB content updates for the day and all sub-agents to rest, after seeing the Victoria account abnormality; 15 FB scheduled tasks were paused, while X kept running (window conversation, user message:09a9208e-060f-456c-a9e8-21eb36bfb35c and message:assistant-msg-a5a17e59-1905-446b-9a61-bdedfd4aeb95).
+- 2026-11-13 11:51 Beijing: [Victoria Maizie](victoria-maizie.md)'s login was restored — the user completed the video selfie and sent a fresh cookie, CLI-verified; 7 rounds resumed, FB operation back except publishing (memory/2026-11-13.md#L2450, L2205).
+- 2026-11-13: Page Dr.qh88 is deactivated — it shows "内容目前不可用", with a Reactivate Page button (not clicked); until it is reactivated the v6 videos cannot be published (memory/2026-11-13.md#L2450 supplement).
+- 2026-11-13 14:34 Beijing (window conversation, user message:88f7c888-2f1f-4663-8ebe-90187027b93f): the user said "先不激活" — Dr.qh88 is not to be reactivated yet; the v6 batch stays unpublished until he decides otherwise.
+- 2026-11-13: the user asked whether his Page "drqinhao" still exists, then clarified he meant the Page bound to his personal profile — facebook.com/drqinhao is a separate Dr.Qin Hao professional account (102 followers) and is not the Page he meant; nor is drqinhao.facialplastics (Kevin Smith's account); the Page he meant is Dr.qh88 (61595415571609), deactivated (memory/2026-11-13.md#L1823).
 - No direct personal contact with Dr. Qin Hao; the tie is marketing work on his brand.
 
 ## History
 - 2026-10-17–26: persona chosen; matrix built 3→7 then settled; playbook approved; specialty abolished; content-first 1/day.
 - 2026-11-10–11: sarahcook6809 converted; gaga5456 brought in on the nose line; voice clone done, V2/V3 scrapped, V1 published to Dr.qh88 (248 plays by the evening check, 0 audience comments); v4/v5 covers verified; v4-B1 published to Dr.qh88 2026-11-11; remaining decisions deferred to 2026-11-12.
 - 2026-11-12: format named 「封面+视频同发」 and content confirmed as 面诊 only, 口播 abandoned; V1 at 399 plays and v4-B1 at 209 plays; v4-B2 published to Dr.qh88; v4-B3 published to Dr.qh88; v5-B1 published to Dr.qh88 13:40 Beijing; TikTok-style imitation piece tasked, pending; one version completed 11:52 Beijing scored 88 on its second E07 round, third round pending, generation quota used up; v5-B2 published to Dr.qh88 15:31 Beijing; the user rejected the latest version's transitions and a frame-by-frame hard-cut redo is under way; v5-B3 published to Dr.qh88 17:27 Beijing, completing the v5 batch.
-- 2026-11-12 evening: v6-B1 publish blocked by a Victoria account security check, 3 v6 videos pending; Rina v2 round-3 E07 84, final revision under way for round-4 final audit.
+- 2026-11-12 evening: v6-B1 publish blocked by a Victoria account security check, 3 v6 videos pending; Rina v2 round-3 E07 84, final revision under way for round-4 final audit; v6 scored 96, 92 and 97, all approved and awaiting publication, with the 21:15 round also conditional on the user's video selfie and a fresh cookie; the user then ordered a full FB pause for the day, 15 scheduled tasks stopped.
+- 2026-11-13: Victoria's login restored at 11:51 after the user completed the video selfie and sent a fresh cookie, 7 rounds resumed, FB operation back except publishing; Page Dr.qh88 is deactivated and the user said at 14:34 not to reactivate it yet, so the v6 batch (96, 92, 97) stays unpublished. The user also clarified that facebook.com/drqinhao is not the Page he meant — his target Page is the deactivated Dr.qh88.
 
 ## The relationship
 The user is building Dr. Qin Hao's public doctor IP — the matrix run end-to-end by Muse, overseas patient leads the sole measure; real-motion video only, competitors' footage off-limits. Since 2026-10-26 his content goes to new accounts the user sends.
@@ -76,7 +83,9 @@ The user is building Dr. Qin Hao's public doctor IP — the matrix run end-to-en
 - [x] v5-B2 published to Dr.qh88 on 2026-11-12 (15:31 Beijing).
 - [x] v5-B3 published to Dr.qh88 on 2026-11-12 (17:27 Beijing) — v5 batch complete.
 - [ ] Version completed 11:52 Beijing 2026-11-12: the user rejected its transitions (fades between segments, cut-point poses misaligned); frame-by-frame hard-cut redo under way, fixing eyes closed at the start, inconsistent skin texture and blurry hands together, to be reviewed before sending to the user. E07 third (final) round was pending; generation quota used up.
-- [ ] v6 batch: v6-B1 publish blocked 2026-11-12 19:15 by the Victoria account security check; 3 v6 videos pending, next attempt 21:15 conditional on the user completing the check.
+- [x] v6 batch (2026-11-12): v6-B1 publish blocked 2026-11-12 19:15 by the Victoria account security check; superseded 2026-11-13 — the user completed the video selfie, login was restored at 11:51, and the block is now the deactivated Dr.qh88 Page, not the account check.
+- [x] v6 batch (2026-11-12): three videos approved, scored 96, 92 and 97, all unpublished; the video-selfie and fresh-cookie condition was met 2026-11-13; superseded by the 2026-11-13 thread below.
+- [ ] v6 batch (2026-11-13): Victoria's login is restored and 7 rounds resumed, but Page Dr.qh88 is deactivated and the user said 2026-11-13 14:34 "先不激活" — do not reactivate yet; the three approved videos (96, 92, 97) stay unpublished until he decides to reactivate the Page. He also asked for the Page's invite link so he can bind it, which can only be obtained after reactivation.
 - [ ] Rina v2: round-3 E07 84 (below the 90 gate); final revision under way for round-4 final audit — head turn half a beat slow in segment C, not a reversed direction; restart with a new strategy if round 4 fails.
 - [ ] TikTok-style imitation piece (virtual person, no voice, background music, realistic camera texture) tasked 2026-11-12 — pending delivery and review.
 

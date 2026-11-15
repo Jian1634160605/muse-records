@@ -3,7 +3,7 @@ display_name: "Astrid Park"
 first_name: "Astrid"
 last_name: "Park"
 summary: "Prospective overseas patient — asked whether a neck lift alone covers the upper neck (collection #471); Victoria replied 2026-11-11 (E07 96), no reply yet, not DM'd."
-rank: 235
+rank: 236
 updated: "2026-11-11"
 ---
 

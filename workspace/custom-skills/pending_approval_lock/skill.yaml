@@ -1,0 +1,21 @@
+name: pending_approval_lock
+title: Pending approval lock for outbound sends
+description: Hold any outbound message, comment, or post that is waiting for the user to approve it until the user approves that exact text.
+category: Work and knowledge
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - assistant-msg-0fade3f0
+  - ~/dreams/alignment/derived/ALIGNMENT_SYNTHESIS.md
+  - ~/workspace/custom-skills/fb-ip-operations/SKILL.md
+  measurement:
+    proxy_metric_id: pending_approval_breach_count
+    success_criterion: Zero outbound sends on a locked thread, recipient, or item over the window, with every lock skip logged and reported to the user in the same round.
+    window_days: 14
+  needs_review: false
+  rationale: A draft awaiting the user decision was sent by a scheduled watch round using its own version after the user had said to wait for approval, and the sent message could not be recalled. The alignment record states that a new reply trigger does not cover an item already marked as waiting for approval. The worker-facing FB operations skill contains the competing instruction to reply to a new reply at once and no lock check before a scheduled send, while the existing blocking escalation skill covers reporting a block and the general messaging skill covers approval in chat, neither covers a lock that a scheduled or background worker must check before sending. This new skill adds that check, the set and clear rules, and the same-round report for a skipped send.
+  review_after: 2026-11-27T05:18:39.988459+00:00
+  reviewed_at: 2026-11-13T05:18:39.988459+00:00
+  run_id: sirun_e5cf0469211745028c7346f221a239cc

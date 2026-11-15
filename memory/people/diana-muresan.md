@@ -3,7 +3,7 @@ display_name: "Diana Muresan"
 first_name: "Diana"
 last_name: "Muresan"
 summary: "Prospective overseas patient — asked an anaesthesia follow-up question on 2026-10-22 that went unanswered for 20 days; Victoria caught it and replied 2026-11-11 (E07 94), no DM yet."
-rank: 247
+rank: 248
 updated: "2026-11-11"
 ---
 

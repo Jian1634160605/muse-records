@@ -2,9 +2,9 @@
 display_name: "Margaux Wong"
 first_name: "Margaux"
 last_name: "Wong"
-summary: "Prospective overseas patient — Portland eyelid intent (#242); DM reply still unsent, cards expired; Victoria commented on a #346 post under the same name, identity unverified, no WhatsApp yet."
-rank: 25
-updated: "2026-11-12"
+summary: "Prospective overseas patient — Portland eyelid intent (#242); reply to her 2026-11-09 message was sent 2026-11-10, re-issue command voided 2026-11-13; no reply since, no WhatsApp yet."
+rank: 26
+updated: "2026-11-13"
 ---
 
 # Margaux Wong
@@ -19,6 +19,9 @@ updated: "2026-11-12"
 - 2026-11-10 (13:53 hunter round): Victoria commented on collection-table #346 (upper vs lower eyelid, which first); the post author shows as "Margaux Wong" — the same name as this DM thread, possibly the same person, flagged to verify and not assumed (memory/2026-11-10.md).
 - As of the 2026-11-10 14:31 DM-watch round, her 2026-11-09 reply was still unanswered after more than 35 hours; both approval cards expired, the pending list empty, no third card raised (memory/2026-11-10.md).
 - 2026-11-12: her reply now has a decision card in the FB 运营团队群聊 — the group chat was placed in the FB 运营指挥中心 page under the 3D office, and the Margaux reply card (alongside a friend-request card) can be tapped there directly to approve it; no outcome yet (window conversation, message:assistant-msg-7bb91b39).
+- 2026-11-12: during verification of the rebuilt command centre, tapping the Margaux decision reduced the pending-decision count from 2 to 1 (window conversation, message:assistant-msg-1df87333-550e-4add-90e2-217708401deb).
+- 2026-11-12 evening: the user ordered in the FB 运营团队群聊 that her reply's approval card be re-issued ("重弹"); Muse retrieved the queued command and wrote the receipt back to the group chat, but it cannot be executed while FB is paused and Victoria Maizie is awaiting a security check — her reply is to be sent after recovery, once the card is re-issued (window conversation, message:assistant-msg-e2c694cb-0e3d-4526-b086-6ce925d59701).
+- 2026-11-13 correction (memory/2026-11-13.md#L2452 and L2205): a server-side check showed her reply had in fact already been sent on 2026-11-10 at 15:15 and is in the thread; she has not replied since. The 2026-11-12 re-issue ("重弹") command is therefore voided, to avoid sending a duplicate — the earlier belief that the reply was still unsent was wrong.
 - No WhatsApp number has been given, so she is not a qualified lead.
 
 ## History
@@ -28,7 +31,10 @@ updated: "2026-11-12"
 - 2026-11-10 midday: over 33 hours unanswered; approval cards expired, pending list empty, no third card; still awaiting the user's decision.
 - 2026-11-10 (13:53 hunter round): Victoria commented on the #346 eyelid post by a "Margaux Wong" — same display name as this thread, identity unverified.
 - 2026-11-10 14:31: her 2026-11-09 DM reply still unanswered after more than 35 hours; no third card raised.
+- 2026-11-10 15:15: the reply to her was in fact sent and is in the thread (established by the 2026-11-13 server-side check); she has not replied since.
 - 2026-11-12: a decision card for her reply now sits in the FB 运营团队群聊, tappable to approve; still no outcome.
+- 2026-11-12 evening: the user ordered in the group chat that the approval card for her reply be re-issued; Muse retrieved the command and wrote back a receipt, but execution is deferred until FB resumes after Victoria's security check.
+- 2026-11-13: the re-issue command was voided — the reply had already been sent on 2026-11-10, so no card is re-issued and no duplicate reply is sent.
 
 ## The relationship
 - A business relationship, not a personal one: Margaux is a prospective overseas patient reached through Victoria Maizie's account, and the tie is the active client pipeline — a new-friend contact that has moved to a first DM and a reply. No WhatsApp number is established yet, so she is not yet a qualified lead.
@@ -37,7 +43,8 @@ updated: "2026-11-12"
 - The user's eyelid/facelift offering, and her eyelid concern in Portland.
 
 ## Open threads
-- [ ] Awaiting the user's decision on whether to approve the reply to her 2026-11-09 message about one eyelid bothering her more; a decision card for it now sits in the FB 运营团队群聊 (2026-11-12) and can be tapped directly — the default is to leave it if the user does not answer.
+- [x] Closed 2026-11-13: the user-ordered 2026-11-12 re-issue of the approval card for the reply to her 2026-11-09 message — voided, because the reply was already sent on 2026-11-10 15:15 and is in the thread; no duplicate is sent.
+- [ ] Awaiting her reply to the reply sent 2026-11-10 15:15; she has not replied since.
 - [ ] Verify whether the #346 post author is the same Margaux Wong as this DM thread; do not DM on that basis until verified.
 - [ ] Awaiting her WhatsApp number — leaving one would move her toward a qualified lead.
 

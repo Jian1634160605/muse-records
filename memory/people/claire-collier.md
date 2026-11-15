@@ -3,7 +3,7 @@ display_name: "Claire Collier"
 first_name: "Claire"
 last_name: "Collier"
 summary: "Prospective overseas patient — spotted 2026-11-09 asking where an eyelid procedure was done; handed to the hunter for follow-up, not yet contacted."
-rank: 206
+rank: 207
 updated: "2026-11-09"
 ---
 

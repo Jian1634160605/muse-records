@@ -3,7 +3,7 @@ display_name: "Leanna Jane Mia Shanahan"
 first_name: "Leanna"
 last_name: "Jane Mia Shanahan"
 summary: "Prospective overseas patient — marionette lines plus eye bags, facelift doctor recommendation; Victoria commented 2026-11-07 (E07 94); post confirmed deleted 2026-11-07, entry closed, not DM'd."
-rank: 183
+rank: 184
 updated: "2026-11-09"
 ---
 
