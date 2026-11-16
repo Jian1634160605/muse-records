@@ -1,9 +1,9 @@
 ---
 display_name: "sarahcook6809"
 first_name: "sarahcook6809"
-summary: "IG account converted to a Qin Hao account 2026-11-10; now content-only per the user's 2026-11-11 decision (no DM or comment replies); 3 old lifestyle posts await the user archiving them in the IG app."
-rank: 16
-updated: "2026-11-10"
+summary: "IG Qin Hao account converted 2026-11-10; ixBrowser profile 44; 2026-11-16 IG now comments on own works and replies to client DMs, superseding content-only; 3 old lifestyle posts await archiving."
+rank: "16"
+updated: "2026-11-16"
 ---
 
 # sarahcook6809
@@ -19,10 +19,13 @@ updated: "2026-11-10"
 - 2026-11-10 17:10 DM-watch round: the run printed the proxy credential into the execution log; stopped immediately, written to no ledger or memory. DM watch and hunter paused pending a new proxy line; the user agreed to send a new line for E08 to rebind to ig-01.
 - 2026-11-11 00:19 Beijing the user decided IG does no DM and no comment replies — the three IG accounts post content only; FB (Victoria, Bertie) DM + comments continue. Six IG watch crons were stopped (ig-sarah-watch, ig-sarah-dm-watch, ig-haze-watch, ig-haze-dm-watch, ig-gaga-watch, ig-gaga-dm-watch) and five running rounds were stopped. DM watch and hunter will not resume under this decision.
 - New proxy line: the user agreed 2026-11-10 17:22 to send a new line to replace the leaked 20010 line; none had arrived as of the 2026-11-11 00:10 rounds.
+- 2026-11-16: ixBrowser profile 44, one of the default group's 4 IG profiles (43, 44, 63, 65).
+- 2026-11-16 (user decision): IG accounts now comment on their own works and reply to client DMs, the same logic as Victoria's FB operation — this supersedes the 2026-11-11 content-only decision. The comment/DM action layer in the on-PC agent was not yet wired at the end of the window.
 
 ## History
 - 2026-11-10: converted to a Qin Hao account (E08, user-directed); hunter and DM-watch first rounds ran clean; DM watch paused after a proxy-credential leak in the 17:10 round.
 - 2026-11-11 00:19 Beijing: user decided the 3 old posts are to be hidden and IG is content-only (no DM, no comment replies); watch tasks stopped.
+- 2026-11-16: ixBrowser profile 44 confirmed; the user decided IG now comments on own works and replies to client DMs (content-only rule superseded).
 
 ## The relationship
 An operational IG account in the user's 秦浩 operation, not a personal tie: the user owns the account and the team runs it as a Qin Hao doctor-IP line.
@@ -34,6 +37,7 @@ An operational IG account in the user's 秦浩 operation, not a personal tie: th
 - [ ] Homepage link for the user to add in the IG app.
 - [ ] User to Archive the 3 old lifestyle posts in the phone IG app; Muse re-verifies the homepage after.
 - [ ] New proxy line from the user (agreed 2026-11-10 17:22, not yet received as of the 2026-11-11 00:10 rounds).
-- [x] DM watch / hunter resume after proxy rebind — superseded 2026-11-11 by the user's content-only decision; the tasks are stopped, not paused for rebind.
+- [x] DM watch / hunter resume after proxy rebind — superseded 2026-11-11 by the user's content-only decision; the tasks are stopped, not paused for rebind. Superseded again 2026-11-16 by the user's dual-platform decision (IG comments/DMs resume).
+- [ ] IG comment/DM operation (user decision 2026-11-16): comment on own works and reply to client DMs, superseding the 2026-11-11 content-only rule; action layer not yet wired.
 
 ## Strengthening

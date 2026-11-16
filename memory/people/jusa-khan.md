@@ -2,9 +2,9 @@
 display_name: "Jusa Khan"
 first_name: "Jusa"
 last_name: "Khan"
-summary: "FB doctor-IP account on the unified facelift line (pre-operative assessment angle); paused 2026-10-30, then its FoxProfile environment fb-91565 was deleted 2026-11-02 by the user's decision — Facebook account/Page themselves were not deleted."
-rank: 20
-updated: "2026-10-31"
+summary: "FB doctor-IP account on the unified facelift line (pre-op assessment angle); paused 2026-10-30, FoxProfile env deleted 2026-11-02; ixBrowser profile 5, login verified 2026-11-16, still not operated."
+rank: "20"
+updated: "2026-11-16"
 ---
 
 # Jusa Khan
@@ -30,6 +30,7 @@ updated: "2026-10-31"
 - 2026-10-30: Victoria single-line revert (user decision): hunter and DM-watch now run Victoria only; Jusa is paused, not deleted, and its warming rotation was also paused the same day (MEMORY.md 2026-10-30).
 - 2026-10-31: user approved all 4 voice clips for manual evening publish; Jusa published the 104927 全流程 reel (https://www.facebook.com/reel/1472612874833671/), Reel and self-comment verified; Emerson left empty per prior confirmation; manual publish, not rotation resumption.
 - 2026-11-02: user ordered Jusa removed from the fingerprint browser; FoxProfile env fb-91565 deleted via API and verified gone from the profile list, its data dir removed and login session lost. Facebook account 61576748891565 and Page 61595765429611 themselves were NOT deleted — only Muse's browser environment for them. A 2026-10-29 backup folder fb-91565-bak-20261029 remains on disk and is not a FoxProfile profile.
+- 2026-11-16: ixBrowser default-group profile 5 = this account; login verified normal when the 5 FB profiles were opened — all logged in. No operating change: still paused since 2026-10-30, FoxProfile env deleted 2026-11-02; not revived as an operated account.
 
 ## History
 - 2026-10-22: delivered by the user; login completed; stock check + PIN done; Page created and set up; entered daily posting + warming.
@@ -40,6 +41,7 @@ updated: "2026-10-31"
 - 2026-10-29: login dropped in browser crashes, then restored from the browser's own cookie backup without user re-login; second-round publishing completed (personal f2, Page 03).
 - 2026-10-30: post 60 completed the day's 5-post set; paused under the Victoria single-line revert, not deleted.
 - 2026-10-31: user-approved manual publish of the 104927 voice reel, verified.
+- 2026-11-16: ixBrowser profile 5 confirmed as this account, login verified normal; still paused, not revived.
 
 ## The relationship
 An operational account persona, not a personal tie: the user owns the account and Muse runs it as the pre-operative-assessment leg of the 秦浩 doctor-IP matrix toward overseas patient leads, now on the unified facelift line. No relationship with the person behind the display name is evidenced.
@@ -54,6 +56,7 @@ An operational account persona, not a personal tie: the user owns the account an
 - [ ] Page rename to facelift positioning (2026-10-26): the Page management interface did not load, so the Page name and introduction still carry the old eye positioning; retry when the environment is stable, or change it in the user's own browser. The retry below posts under the current name and does not wait for this rename.
 - [ ] Personal avatar change (2026-10-26): change Jusa's personal avatar from the default gray avatar to the Qin Hao white-coat photo, as with the other non-main accounts, before scaling DMs.
 - [ ] 18:45 retry, user choice A (2026-10-26 19:37 Beijing): after the 19:45 Victoria v2 post, retry Jusa's facelift text post via a FoxProfile task; if it still times out, stop and report per item, no blind retry. Not yet run at window end.
+- [ ] ixBrowser profile 5 login verified normal 2026-11-16; no operating decision — still paused, not revived.
 
 ## Strengthening
 - (nothing the evidence supports yet)

@@ -2,9 +2,9 @@
 display_name: "秦浩"
 first_name: "浩"
 last_name: "秦"
-summary: "Facelift/anti-aging doctor at the user's company; v4–v5 out 2026-11-12; v6 three approved (96, 92, 97) unpublished — Dr.qh88 deactivated, user said do not reactivate yet 2026-11-13."
-rank: 3
-updated: "2026-11-13"
+summary: "Facelift/anti-aging doctor at the user's company; v6 three approved (96, 92, 97) unpublished, Dr.qh88 deactivated; 2026-11-16 videos publish from a desktop folder to FB+IG, captions by Muse."
+rank: "3"
+updated: "2026-11-16"
 ---
 
 # 秦浩
@@ -43,6 +43,13 @@ updated: "2026-11-13"
 - 2026-11-13 14:34 Beijing (window conversation, user message:88f7c888-2f1f-4663-8ebe-90187027b93f): the user said "先不激活" — Dr.qh88 is not to be reactivated yet; the v6 batch stays unpublished until he decides otherwise.
 - 2026-11-13: the user asked whether his Page "drqinhao" still exists, then clarified he meant the Page bound to his personal profile — facebook.com/drqinhao is a separate Dr.Qin Hao professional account (102 followers) and is not the Page he meant; nor is drqinhao.facialplastics (Kevin Smith's account); the Page he meant is Dr.qh88 (61595415571609), deactivated (memory/2026-11-13.md#L1823).
 - No direct personal contact with Dr. Qin Hao; the tie is marketing work on his brand.
+- 2026-11-16 video publishing workflow (user-set): videos go in the desktop folder '秦浩视频\未发视频\', each video in its own folder with a cover; Muse finds the videos there and publishes each one to FB and IG; the same FB / same IG account must not get a duplicate video; published videos move to '已发视频\'; Muse writes the video captions itself.
+- 2026-11-16 publishing rules (user-corrected): publish via backend only, never the browser post box — FB Reel = a single video file via facebook-cli, no cover image (cover + video together made an image post, not a Reel); IG Reel = video with a cover via instagram-cli.
+- 2026-11-16: one video goes to FB + IG both (FB = [Victoria Maizie](victoria-maizie.md), IG = [gaga5456](gaga5456.md) nose line); the IG backend CLI is still unconnected, so the user must connect gaga5456 before IG Reels can publish via backend. The 3 nose videos (3/4/5) were published to FB 2026-11-16; IG is pending, the user said not today, another day.
+- 2026-11-16 video count and timing (user-set): videos needed = max(FB accounts, IG accounts) × videos per account; publish from 16:00 local time, 2 hours apart per video, with the FB and IG posts of the same video staggered by minutes.
+- 2026-11-16 (user authorisation): Muse may explore the user's other desktop files and make videos itself, including using Jianying on the user's PC; the purpose is getting clients' WhatsApp numbers with country codes from FB and IG.
+- 2026-11-16 multi-account direction (user-set): scale to 10 FB+IG accounts via ixBrowser on the user's PC, [Victoria Maizie](victoria-maizie.md)'s operating logic ported to all of them, video-first with generated videos rather than hard-edited ones.
+- 2026-11-16 (user-set): editing now goes through Concat — the open-source editor installed on the user's PC, driven by Muse via an on-PC bridge; editing no longer hand-built with ffmpeg. A first end-to-end test (project → import → timeline → title → export) ran through on the user's PC.
 
 ## History
 - 2026-10-17–26: persona chosen; matrix built 3→7 then settled; playbook approved; specialty abolished; content-first 1/day.
@@ -50,6 +57,7 @@ updated: "2026-11-13"
 - 2026-11-12: format named 「封面+视频同发」 and content confirmed as 面诊 only, 口播 abandoned; V1 at 399 plays and v4-B1 at 209 plays; v4-B2 published to Dr.qh88; v4-B3 published to Dr.qh88; v5-B1 published to Dr.qh88 13:40 Beijing; TikTok-style imitation piece tasked, pending; one version completed 11:52 Beijing scored 88 on its second E07 round, third round pending, generation quota used up; v5-B2 published to Dr.qh88 15:31 Beijing; the user rejected the latest version's transitions and a frame-by-frame hard-cut redo is under way; v5-B3 published to Dr.qh88 17:27 Beijing, completing the v5 batch.
 - 2026-11-12 evening: v6-B1 publish blocked by a Victoria account security check, 3 v6 videos pending; Rina v2 round-3 E07 84, final revision under way for round-4 final audit; v6 scored 96, 92 and 97, all approved and awaiting publication, with the 21:15 round also conditional on the user's video selfie and a fresh cookie; the user then ordered a full FB pause for the day, 15 scheduled tasks stopped.
 - 2026-11-13: Victoria's login restored at 11:51 after the user completed the video selfie and sent a fresh cookie, 7 rounds resumed, FB operation back except publishing; Page Dr.qh88 is deactivated and the user said at 14:34 not to reactivate it yet, so the v6 batch (96, 92, 97) stays unpublished. The user also clarified that facebook.com/drqinhao is not the Page he meant — his target Page is the deactivated Dr.qh88.
+- 2026-11-16: the user set the desktop-folder video publishing workflow (FB+IG, no duplicates per account, captions by Muse), the backend-only publishing rules, the video-count formula and 16:00 start; authorised Muse to make videos on his PC including Jianying; and set the 10-account ixBrowser scale-up direction. 3 nose videos (3/4/5) published to FB, IG pending.
 
 ## The relationship
 The user is building Dr. Qin Hao's public doctor IP — the matrix run end-to-end by Muse, overseas patient leads the sole measure; real-motion video only, competitors' footage off-limits. Since 2026-10-26 his content goes to new accounts the user sends.
@@ -88,6 +96,9 @@ The user is building Dr. Qin Hao's public doctor IP — the matrix run end-to-en
 - [ ] v6 batch (2026-11-13): Victoria's login is restored and 7 rounds resumed, but Page Dr.qh88 is deactivated and the user said 2026-11-13 14:34 "先不激活" — do not reactivate yet; the three approved videos (96, 92, 97) stay unpublished until he decides to reactivate the Page. He also asked for the Page's invite link so he can bind it, which can only be obtained after reactivation.
 - [ ] Rina v2: round-3 E07 84 (below the 90 gate); final revision under way for round-4 final audit — head turn half a beat slow in segment C, not a reversed direction; restart with a new strategy if round 4 fails.
 - [ ] TikTok-style imitation piece (virtual person, no voice, background music, realistic camera texture) tasked 2026-11-12 — pending delivery and review.
+- [ ] Video publishing from the desktop '秦浩视频\未发视频\' folder to FB+IG (2026-11-16): 3 nose videos (3/4/5) FB done, IG pending; user said another day.
+- [ ] IG backend CLI connection: the user to connect gaga5456 so IG Reels can publish via backend.
+- [ ] Multi-account video scale-up (2026-11-16): 10 accounts, one generated video per account per round; videos needed = max(FB, IG) × per-account count.
 
 ## Strengthening
 - An alignment check with Dr. Qin Hao himself on the rename and content direction would protect the relationship.
