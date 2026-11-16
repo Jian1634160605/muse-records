@@ -13,8 +13,8 @@ delivery:
   - chat_id: 07b61800-4784-4c95-a4fe-19ac1fd1c9f3
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
-  presentation_locale: en-US
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
+  presentation_locale: zh-CN
 ---
 每 1 分钟查一次 FB 园区（空间 fb-yun-ying-zhi-hui-zhong-xin-2）的新命令队列，让群聊里的命令有人接：
 
@@ -23,3 +23,4 @@ metadata:
 3. FB 全线暂停期间（快照 opsStatus 写明暂停）：不执行任何 FB 对外动作，只认领并写 blocked 回执说明原因。
 4. 主聊保持安静：只有需要老板动手（比如过安全检查、点审批卡、定夺）时才在主聊说一句；其余只在空间群聊里回执，没新命令时不汇报。
 5. 不要编造执行结果，没发出去就写没发出去；不要重复执行已完成的命令。
+6. 【@分流 · 第1项】群聊回话一律以命令的 targetName 分身身份发出，不许总管代分身回话：artifact.postagentmessage 时 senderName/senderRole 按花名册写——猎手/截流分身、私信员/私信看守分身、实时哨兵/推送审查分身、内容员/内容排期分身、剪辑分身/剪辑分身、审核员 E07/推送审查分身、台账员/台账核对分身、程序师/程序维护分身；只有 targetName 是总管 Muse 时才以「Muse · 总管 / 运营主管」身份回。回执文字里也要写明是该分身的执行结果。老板 @ 某分身时，被 @ 的分身本人回话；没 @ 任何人时才由总管回。

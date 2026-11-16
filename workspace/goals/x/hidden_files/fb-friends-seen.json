@@ -129,11 +129,21 @@
       "friend_id": "518396794",
       "name": "Amanda Jane Deaville",
       "profile_url": "https://facebook.com/amanda.deaville"
+    },
+    {
+      "friend_id": "61556821346228",
+      "name": "ウォーレン・バフェット",
+      "profile_url": "https://facebook.com/profile.php?id=61556821346228"
+    },
+    {
+      "friend_id": "61595352817361",
+      "name": "佐藤麗子",
+      "profile_url": "https://facebook.com/profile.php?id=61595352817361"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-15T14:06:03.580+08:00",
+    "user_local": "2026-11-16T17:52:06.159+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-15T06:06:03.580Z"
+    "utc": "2026-11-16T09:52:06.159Z"
   }
 }

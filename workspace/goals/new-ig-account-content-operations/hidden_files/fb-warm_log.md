@@ -1,3 +1,22 @@
+## 2026-11-16 18:43–18:44（运行实测 <1 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：浏览器未登录，停在一键登录页；按中午场结论未点 Continue、未触发新的两步验证
+- 计时说明：运行实测为 18:43–18:44（<1 分钟），harness 测量；回传自述一致
+- 登录确认：打开 facebook.com 后未直接进入首页信息流，页面显示一键登录页：右侧显示 Victoria Maizie 头像与姓名，下方蓝色 "Continue" 按钮（即 "Continue as Victoria Maizie"），另有 "Use another profile" 与 "Create new account"；中午场留在验证页的标签页已因闲置关闭，本场无窗口可复用
+- 关键变化：本场按中午场结论「用户批准前不宜重复触发登录」改了做法——未点 Continue、未填密码提交、未点 "Try another way"，因此未触发新的两步验证批准通知（此前 8 场每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知）；工作区今日也无用户新给的 cookie 文件
+- 浏览内容：0 条；首页、Reels、搜索、点赞均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全 ⚠️：本次页面未显示两步验证页、验证码、真人验证或账号限制提示，仅为未登录的一键登录页；但登录态仍未恢复——这是连续第九场未能执行养号（前 8 场卡在两步验证：11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场、11-14 18:41 晚场、11-15 10:43 上午场、11-15 14:45 中午场、11-15 18:42 晚场、11-16 14:45 中午场）
+- 结论：本场未执行，需向用户报告：Victoria 浏览器登录态仍未恢复，需用户本人在浏览器里完成登录（点 Continue 并在 OnePlus 16 或 Windows PC 的 Facebook 通知中批准这次登录），或重导新鲜 cookie；登录恢复前不宜再安排养号、也不宜重复触发登录
+
+## 2026-11-16 14:45–14:47（harness 计约 1 分钟）— 定时中午场（fb-warm-noon）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 14:45–14:47（harness 计约 1 分钟）；回传自述 14:45 开始、14:47 停在验证页
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、点赞均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第八场卡在同一验证——11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场、11-14 18:41 晚场、11-15 10:43 上午场、11-15 14:45 中午场、11-15 18:42 晚场、11-16 14:45 中午场均触发两步验证，登录态未能保持；每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 15 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞最多 3 条）。用户批准前不宜再安排养号、也不宜重复触发登录，浏览器标签页保留在验证页等待批准
+
 ## 2026-11-15 18:42–18:43（运行实测 1 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
 - 计时说明：运行实测为 18:42–18:43（1 分钟），harness 测量；回传自述 18:42 开始、18:42 停在验证页
 - 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
@@ -1171,3 +1190,12 @@
 - 禁止项：无评论、无回复、无私信、无加好友（"People You May Know"未处理）、无进群、无发帖、无分享、无点广告或外部链接、无改设置、未切换账号身份 ✅
 - 账号安全：全程无验证码、无真人验证、无账号警告、无限流/限制提示 ✅。注：本场在 11:51 登录恢复核验通过（新鲜 cookie 导入、CLI 返回 Victoria Maizie、403 消失）后执行，登录态稳定。
 - 结论：本场执行完整，浏览约 15 条、点赞 5 个，账号状态健康，无需向用户报告 ✅。
+
+## 2026-11-16 10:45 上午场（fb-warm-am）⚠️ 未执行——卡在二步验证
+
+- 登录身份：打开 facebook.com 后显示已保存的 Victoria Maizie 账号，点“Continue Victoria Maizie”，密码提交未被拒绝；随后进入二步验证页（facebook.com/two_step_verification/two_factor/），标题“Check your notifications on another device”，显示已向 OnePlus 16 和 Windows PC 发送登录通知，状态“Waiting for approval”。
+- 替代方式：仅“Use your authentication app”（验证器应用验证码），需用户本人在验证器应用中获取，登录服务无法代取。
+- 实际执行：0 分钟。未进入首页动态，未浏览任何帖子或 Reels，未点赞；无评论、无私信、无加好友、无进群、无发帖 ✅。
+- 账号安全：除二步验证外，未出现密码错误、账号限制、弹窗警告或其他异常。密码步骤本身没有报错。
+- 需要用户：① 在 OnePlus 16 或 Windows PC 的 Facebook 通知中批准此次登录；② 或提供验证器应用的验证码。批准后可继续约 12 分钟的浏览任务。
+- 备注：11-13 上午登录恢复核验通过后当天 11:53 场正常执行；11-16 再次撞 2FA，说明浏览器登录态又过期了。下场执行前仍应先核对身份，2FA 未通过不要硬重试。
