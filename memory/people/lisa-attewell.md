@@ -3,7 +3,7 @@ display_name: "Lisa Attewell"
 first_name: "Lisa"
 last_name: "Attewell"
 summary: "Prospective overseas patient — Hertfordshire, seeking surgical removal of malar bags/festoons (collection #518); Victoria commented 2026-11-11 (E07 93), no reply yet, not DM'd."
-rank: 240
+rank: 241
 updated: "2026-11-11"
 ---
 

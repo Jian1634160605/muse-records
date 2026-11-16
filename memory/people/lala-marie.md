@@ -3,7 +3,7 @@ display_name: "Lala Marie"
 first_name: "Lala"
 last_name: "Marie"
 summary: "Prospective overseas patient — in British Columbia, seeking a rib-cartilage revision recommendation; Victoria commented 2026-11-06, not DM'd."
-rank: 162
+rank: 163
 updated: "2026-11-06"
 ---
 

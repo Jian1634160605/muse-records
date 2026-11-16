@@ -3,7 +3,7 @@ display_name: "Tiffany Zhao"
 first_name: "Tiffany"
 last_name: "Zhao"
 summary: "Prospective overseas patient — 6 months post-op, one eyelid deeper, considering revision (collection #459); Victoria commented 2026-11-11 (E07 96), no reply yet, not DM'd."
-rank: 241
+rank: 242
 updated: "2026-11-11"
 ---
 

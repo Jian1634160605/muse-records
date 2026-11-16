@@ -3,7 +3,7 @@ display_name: "Lindy Drudge"
 first_name: "Lindy"
 last_name: "Drudge"
 summary: "Prospective overseas patient — posted about a facelift after chemotherapy (collection #491); Victoria commented 2026-11-11 (E07 94), no reply yet, not DM'd."
-rank: 243
+rank: 244
 updated: "2026-11-11"
 ---
 

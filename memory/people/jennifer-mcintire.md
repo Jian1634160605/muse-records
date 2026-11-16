@@ -3,7 +3,7 @@ display_name: "Jennifer McIntire"
 first_name: "Jennifer"
 last_name: "McIntire"
 summary: "Prospective overseas patient — asked 'Cost' on a Nayak deep-neck Reel; Victoria replied 2026-11-11 (E07 95), no reply yet, not DM'd."
-rank: 233
+rank: 234
 updated: "2026-11-11"
 ---
 

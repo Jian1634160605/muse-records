@@ -3,7 +3,7 @@ display_name: "Virginie Mazzoli"
 first_name: "Virginie"
 last_name: "Mazzoli"
 summary: "New Facebook friend of Victoria's account, screened 2026-11-12 — real personal account with no medical intent, not contacted, closed."
-rank: 252
+rank: 253
 updated: "2026-11-12"
 ---
 
