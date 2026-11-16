@@ -1,3 +1,30 @@
+## 2026-11-15 18:42–18:43（运行实测 1 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 18:42–18:43（1 分钟），harness 测量；回传自述 18:42 开始、18:42 停在验证页
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、点赞均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第七场卡在同一验证——11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场、11-14 18:41 晚场、11-15 10:43 上午场、11-15 14:45 中午场、11-15 18:42 晚场均触发两步验证，登录态未能保持；每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 12 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞 3–5 条）。用户批准前不宜再安排养号、也不宜重复触发登录，浏览器标签页保留在验证页等待批准
+
+## 2026-11-15 14:45–14:46（运行实测 1 分钟）— 定时中午场（fb-warm-noon）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 14:45–14:46（1 分钟），harness 测量；回传自述 14:45 开始、14:46 停在验证页
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、点赞均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第六场卡在同一验证——11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场、11-14 18:41 晚场、11-15 10:43 上午场、11-15 14:45 中午场均触发两步验证，登录态未能保持；每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 15 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞最多 3 条）。用户批准前不宜再安排养号、也不宜重复触发登录，浏览器标签页保留在验证页等待批准
+
+## 2026-11-15 10:42–10:44（运行实测 2 分钟）— 定时上午场（fb-warm-am）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
+- 计时说明：运行实测为 10:42–10:44（2 分钟），harness 测量；回传自述约 10:43 开始
+- 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页
+- 浏览内容：0 条；后续首页刷动态、Reels、点赞均未执行
+- 点赞：0 条，未点赞
+- 禁止项：全部遵守——无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅
+- 账号安全 ⚠️：出现的是账号开启的两步验证（设备批准），不是验证码、真人验证（CAPTCHA）、账号被锁或限制提示；密码本身未报错。按指令出现验证后已立即停手，未尝试任何绕过、未点 "Try another way"。注意：这是连续第五场卡在同一验证——11-13 18:41 晚场、11-14 10:43 上午场、11-14 14:45 中午场、11-14 18:41 晚场、11-15 10:43 上午场均触发两步验证，登录态未能保持；每次尝试都会向 OnePlus 16 与 Windows PC 再发一次批准通知
+- 结论：本场未执行，需向用户报告：请用户在 OnePlus 16 手机或 Windows PC 的 Facebook 通知中批准这次登录；批准后需重新开始本场约 12 分钟养号流程（首页约 4–5 分钟、Reels 约 3–4 分钟、搜索视频约 4 分钟、点赞 3–5 条）。用户批准前不宜再安排养号、也不宜重复触发登录，浏览器标签页保留在验证页等待批准
+
 ## 2026-11-14 18:41–18:42（运行实测 1 分钟）— 定时晚场（fb-warm-pm）⚠️ 未完成：登录卡在两步验证（设备批准），未进入信息流
 - 计时说明：运行实测为 18:41–18:42（1 分钟），harness 测量一致，回传自述 18:42 开始/结束
 - 登录确认：打开 facebook.com 后显示已保存账号 Victoria Maizie 与 "Continue as Victoria Maizie" 按钮，按任务允许点击；随后弹出 Meta 账号登录框 "Log into your Meta Account"，登录代理用已保存登录信息填密码提交，密码未被拒绝（未出现密码错误提示）；提交后跳转至两步验证页 facebook.com/two_step_verification/two_factor/（flow=two_factor_login），标题 "Check your notifications on another device"，正文提示已向 OnePlus 16 与 Windows PC 发送通知、需在另一台设备上的 Facebook 通知中批准登录，状态 "Waiting for approval — It may take a few minutes to get the notification on your other device."；页面仅有 "Try another way" 按钮，未点击。当前标签页仍停留在此验证页

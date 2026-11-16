@@ -14,12 +14,14 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","provider":"main","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
-  presentation_locale: zh-CN
+  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
+  presentation_locale: en-US
 ---
 **退回 Victoria 单线（2026-10-30 用户定）**：从本轮起私信盯守只走 Victoria 一个号。Fowler、Emerson、Jioklm、Jusa 四号暂停（不是删除），本任务不再查它们的线程、不再用它们的 FoxProfile 浏览器、不做四号停车动作。其他四号的新回复首接哨兵已停用，Victoria 的新回复首接仍走 30 秒 CLI 哨兵（fb-messenger-inbox）。Cristiana Winter、Kim Kieu 两线程为用户本人自聊（2026-10-30 09:55/09:59 用户本人发出），本任务绝不跟进、不计数、不报送；一般规则：最新消息为用户本人在台账外发出的线程一律勿动。
 
 **职责**：客户新回复的「第一时间接话」由实时盯守 hook 负责，不再靠本任务 5 分钟一轮发现。本任务保留三件事：①按节奏的跟进（B-18/B-19/真人式再询问）与客户激活盘点；②待私信名单的首条私信（陌生人新会话，注意平台 24h 新会话冻结窗口）；③台账维护。防重复回复：回复任何线程前先看 dm-threads.md，若同一线程 30 分钟内已有实时接手的处理记录，本轮跳过该线程。
+
+**没有每日额度（2026-11-15 用户当面纠正）**：FB 接口返回的 429 只是瞬时限流，不是每日额度；遇 429 短暂退避后重试，不停查、不等明天、不自己设限。不得以“额度耗尽/等明日恢复”为由跳过好友差分或推迟任何动作。
 
 **新好友差分检查（2026-11-06 用户定：有人加好友立即联系）**：每轮先跑 `facebook-cli me friends`（调用前先 export 静态代理），与基线文件 ~/workspace/goals/x/hidden_files/fb-friends-seen.json 做差分。基线是 2026-11-06 拉到的 6 位好友（Asim Ozdemir、Sf Hk、Shandi Utama Alcho、Nthofela Sekonyela Taela、NteboRose Malehlonolo Ralekuku、Kevin Conzone）。出现基线外的新好友，立即按以下流程处理，不等下一轮：①筛查：查收集表 ~/workspace/fb-ip/group-prospects.md 与去重台账，看他是不是评论/圈住过的意向客户，再看公开主页是不是真人个人号；同行、机构号、广告号、明显假号直接标关闭、不联系；用户本人自聊线程对应的人（Asim Ozdemir、Sf Hk 等）绝不联系。②筛过的新好友立即发首条私信：按首条禁广播感口径（接住他原帖的具体问题或加好友的来意 + 问一个跟他本人有关的问题，拆 2–4 条短消息，不直接索号、不报价、不贴链接），陌生人首条走 messenger.com 通道。③每条发出后必须 CLI 核验（查到线程且 snippet 是我方消息才算已发送），核验后更新 dm-threads.md（新行：姓名、FB ID、来源=新好友、状态=等回复）与去重台账，并更新基线文件；核验不到标注未送达、下一轮重试。④新好友已发首条或筛查后关闭，都在本轮报告里向用户汇报姓名与处理结果。⑤本轮无新好友时不用单独汇报，只在日志留一行。
 
