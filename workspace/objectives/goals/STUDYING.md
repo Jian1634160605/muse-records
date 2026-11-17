@@ -1,6 +1,6 @@
 # STUDYING.md
 
-<!-- studying-projection-run: 2026-11-16T00:53:32.424448405+00:00 -->
+<!-- studying-projection-run: 2026-11-17T01:30:15.273532842+00:00 -->
 
 Learning-state projection for active study goals. Distinct from `GOALS.md`: this file carries the next retrieval prompt, mastery band, and next review for each goal in active study. It is kept current automatically and is read-only; change goals through the `goals` tool, not by editing this file.
 
@@ -16,8 +16,8 @@ Current goal context:
 - Selected because: in_study
 - Mode: teach (novice band)
 - Mastery: not yet estimated (needs more observations)
-- Next review: 2026-11-17T00:53:32.424448405+00:00
-- Note: workspace/goals/goal/agent_notes/2026-11-16/goal.md
+- Next review: 2026-11-18T01:30:15.273532842+00:00
+- Note: workspace/goals/goal/agent_notes/2026-11-17/goal.md
 - Brief: workspace/goals/goal/briefs/Brief (2026-10-20 19.20.39).html
 - Next retrieval: From memory, state the core idea of 重复工作自动化 in your own words, then check it against the worked example.
 
