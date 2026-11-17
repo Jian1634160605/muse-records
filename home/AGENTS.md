@@ -19,5 +19,6 @@ It starts empty and is meant to grow slowly. Don't pad it; a short, accurate fil
 - **FoxProfile profiles 接口会 inline 返回代理凭据（2026-10-25 实证）**：查环境状态时绝不直接打印 `/api/v1/profiles` 原文，只取 name + is_running 两个字段；凭据值一律不进回复、不进文件、不进记忆。
 - **FoxProfile 改代理无需重建（2026-10-26 实证）**：PATCH /api/v1/profiles/{name} 只改 proxy 字段，不动登录态、可恢复；但 **curl 通 ≠ 浏览器代理可用**：备用线 20018/20019 在 Simon 环境换线后浏览器连报 502（格式纠正后仍 502），已恢复原代理，勿再直接拿这两条线换浏览器环境。
 - **ixBrowser agent 上跑 PowerShell 脚本：复杂脚本会空输出（2026-11-16 实证）**：经 /exec 调 `powershell -File uploads\*.ps1` 时，只含 where/Test-Path/Write-Output/Get-ChildItem 的小脚本正常回显；一旦包含 Get-CimInstance 带 or 的 -Filter、VersionInfo、注册表 Get-ItemProperty 等段落，整个脚本返回空 stdout、returncode 0、无报错（原因未明）。对策：拆成小脚本逐段跑，只保留简单结构；中文注释也曾怀疑过，已排除（纯 ASCII 版同样空输出）。
+- **IxAgent check() 会拉起已关的 profile（2026-11-17 实证，p43）**：对已关的 profile 调 `check()` 会重新启动它（新 pid/调试端口）；确认 profile 是否已关只用 `opened()` 列表核对，勿对已关的号调 check；关完务必用 opened() 复核。
 - **浏览器崩溃丢登录态可用 cookie 备份恢复（2026-10-29 实证）**：Camoufox 崩溃/重启后环境打开变登录页时，先停浏览器，把 `camoufox_data/<env>/cookies.sqlite.bak` 拷回 `cookies.sqlite` 并删掉 `-wal`/`-shm`，再拉起即恢复登录（Fowler/Jioklm/Jusa 三号同法全恢复）；操作前先把当前 cookies.sqlite 备份到一边，勿在浏览器运行时拷。
 - **FB 公共主页 Reels 没有隐藏选项（2026-11-03 实证，Dr.qh88）**：Reels 视频菜单只有保存/复制链接/删除等，无 Hide；Meta Business Suite 内容 > Posts & reels 的 Manage post 子菜单也只有 Edit、Delete、Expire now、禁止嵌入、改日期、改混剪音频等，无 Hide/Archive。Expire now 不等于隐藏、会改发布状态，未经用户决定不得擅自点。

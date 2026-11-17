@@ -3,7 +3,7 @@ display_name: "Mary Matta"
 first_name: "Mary"
 last_name: "Matta"
 summary: "Prospective overseas patient (collection #378) — a known high-intent lead handed to the hunter team 2026-11-11; Victoria commented that evening (E07 97), no reply yet, not DM'd."
-rank: 233
+rank: 234
 updated: "2026-11-11"
 ---
 

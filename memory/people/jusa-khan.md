@@ -3,7 +3,7 @@ display_name: "Jusa Khan"
 first_name: "Jusa"
 last_name: "Khan"
 summary: "FB doctor-IP account on the unified facelift line (pre-op assessment angle); paused 2026-10-30, FoxProfile env deleted 2026-11-02; ixBrowser profile 5, login verified 2026-11-16, still not operated."
-rank: "20"
+rank: 20
 updated: "2026-11-16"
 ---
 

@@ -2,7 +2,7 @@
 display_name: "sarahcook6809"
 first_name: "sarahcook6809"
 summary: "IG Qin Hao account converted 2026-11-10; ixBrowser profile 44; 2026-11-16 IG now comments on own works and replies to client DMs, superseding content-only; 3 old lifestyle posts await archiving."
-rank: "16"
+rank: 16
 updated: "2026-11-16"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Bill Elaine Kono"
 first_name: "Bill Elaine"
 last_name: "Kono"
 summary: "Prospective overseas patient — asked 'Cost' on a Nayak deep-neck Reel; Victoria replied 2026-11-11 (E07 91), no reply yet, not DM'd."
-rank: 235
+rank: 236
 updated: "2026-11-11"
 ---
 

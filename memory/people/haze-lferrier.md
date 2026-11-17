@@ -2,7 +2,7 @@
 display_name: "haze_lferrier"
 first_name: "haze_lferrier"
 summary: "IG account locked on its first DM-watch round 2026-11-10 (recovery verification); still unresolved, fresh cookie awaited; ixBrowser profile 48; IG comment/DM direction applies once unlocked."
-rank: "17"
+rank: 17
 updated: "2026-11-16"
 ---
 

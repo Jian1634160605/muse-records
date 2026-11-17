@@ -3,7 +3,7 @@ display_name: "Annie Ol"
 first_name: "Annie"
 last_name: "Ol"
 summary: "Prospective overseas patient — first DM 2026-11-14 about face and neck lift and why a neck lift matters for the jawline; first reply sent and verified 2026-11-15, awaiting her reply."
-rank: 26
+rank: 27
 updated: "2026-11-15"
 ---
 

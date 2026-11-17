@@ -3,7 +3,7 @@ display_name: "Valerie Yates"
 first_name: "Valerie"
 last_name: "Yates"
 summary: "Prospective overseas patient — asked 'Cost' on a Nayak deep-neck Reel; Victoria replied 2026-11-11 (E07 92 after a revision), no reply yet, not DM'd."
-rank: 236
+rank: 237
 updated: "2026-11-11"
 ---
 

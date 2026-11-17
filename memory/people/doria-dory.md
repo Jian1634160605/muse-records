@@ -3,7 +3,7 @@ display_name: "Doria Dory"
 first_name: "Doria"
 last_name: "Dory"
 summary: "Prospective overseas patient — collection-table #733; Victoria commented 2026-11-13, no reply yet, not DM'd."
-rank: 254
+rank: 255
 updated: "2026-11-13"
 ---
 

@@ -1,0 +1,2 @@
+ixbrowser-local-api==1.2.9
+playwright==1.65.2

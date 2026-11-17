@@ -3,7 +3,7 @@ display_name: "Denise Bianchi"
 first_name: "Denise"
 last_name: "Bianchi"
 summary: "Prospective overseas patient — Victoria commented 2026-11-10 on the Nayak deep-neck post; no reply yet, not DM'd."
-rank: 223
+rank: 224
 updated: "2026-11-10"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Jamila Bin"
 first_name: "Jamila"
 last_name: "Bin"
 summary: "Prospective overseas patient — weighing Seoul liposuction plus thread lift against fear of a facelift (collection #464); Victoria commented 2026-11-11 (E07 95), no reply yet, not DM'd."
-rank: 246
+rank: 247
 updated: "2026-11-11"
 ---
 
