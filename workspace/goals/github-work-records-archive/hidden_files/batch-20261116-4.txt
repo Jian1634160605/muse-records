@@ -1,0 +1,3 @@
+workspace/goals/x/hidden_files/post-log.md
+workspace/objectives/goals/STUDYING.md
+workspace/x-ops/commented-overflow.json

@@ -1,0 +1,9 @@
+{
+  "profile": 65,
+  "account": "gaga5456",
+  "steps": [
+    "opened: {\"ok\": true, \"opened\": [{\"profile_id\": 1, \"debugging_address\": \"127.0.0.1:55704\", \"pid\": 47568, \"open_time\": \"2026-11-17 19:55:23\"}, {\"profile_id\": 5, \"debugging_address\": \"127.0.0.1:31528\", \"pid\": 49",
+    "open ok attempt 1"
+  ],
+  "error": "POST /goto 失败：操作失败：TargetClosedError: Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://www.instagram.com/gaga5456/\", waiting until \"domcontentloaded\"\n"
+}

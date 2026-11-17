@@ -1,0 +1,21 @@
+{
+  "profile": 65,
+  "account": "gaga5456",
+  "steps": [
+    "open ok attempt 1"
+  ],
+  "error": "POST /goto 失败：操作失败：TargetClosedError: Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"https://www.instagram.com/\", waiting until \"domcontentloaded\"\n",
+  "retry": [
+    "opened: {\"ok\": true, \"opened\": [{\"profile_id\": 1, \"debugging_address\": \"127.0.0.1:11748\", \"pid\": 824, \"open_time\": \"2026-11-17 19:36:29\"}, {\"profile_id\": 5, \"debugging_address\": \"127.0.0.1:41790\", \"pid\": 44008, \"open_time\": \"2026-11-17 19:35:21\"}, {\"profile_id\": 32, \"debugging_address\": \"127.0.0.1:42565\", \"",
+    "close 65 ok (stale cleanup)",
+    "open ok attempt 1",
+    "goto instagram.com ok"
+  ],
+  "home_retry": {
+    "href": "https://www.instagram.com/",
+    "title": "Instagram",
+    "hasLoginInput": false,
+    "textSample": "您已达到每日限额\n你今天使用 Instagram 的时间已经达到了9 小时37分钟。现在是关闭应用的好时机。"
+  },
+  "logged_in": true
+}

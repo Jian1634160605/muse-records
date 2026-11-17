@@ -1,0 +1,8 @@
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261115.json
+workspace/goals/goal/agent_notes/2026-11-16/goal.md
+workspace/goals/new-ig-account-content-operations/hidden_files/fb-warm_log.md
+workspace/goals/x/crons/minutely/fb-command-queue-watch__interval@1m.md
+workspace/goals/x/hidden_files/2026-11-16-x-viral-daily.md
+workspace/goals/x/hidden_files/fb-engage/2026-11-16-run1.md
+workspace/goals/x/hidden_files/fb-friends-seen.json
+workspace/goals/x/hidden_files/fb-reply-seen-part1.md

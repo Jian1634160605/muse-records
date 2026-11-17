@@ -139,11 +139,36 @@
       "friend_id": "61595352817361",
       "name": "佐藤麗子",
       "profile_url": "https://facebook.com/profile.php?id=61595352817361"
+    },
+    {
+      "friend_id": "1498000107",
+      "name": "Lauren Murphy",
+      "profile_url": "https://www.facebook.com/lauren.dalessio.7"
+    },
+    {
+      "friend_id": "100040622077325",
+      "name": "Wai Chun Tsui",
+      "profile_url": "https://facebook.com/profile.php?id=100040622077325"
+    },
+    {
+      "friend_id": "100023548050436",
+      "name": "Akana Marie",
+      "profile_url": "https://facebook.com/profile.php?id=100023548050436"
+    },
+    {
+      "friend_id": "1226107660",
+      "name": "Vee Wonder",
+      "profile_url": "https://facebook.com/profile.php?id=1226107660"
+    },
+    {
+      "friend_id": "100002680481233",
+      "name": "Joe Lam",
+      "profile_url": "https://facebook.com/taihung1511"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-16T17:52:06.159+08:00",
+    "user_local": "2026-11-17T16:56:18.000+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-16T09:52:06.159Z"
+    "utc": "2026-11-17T08:56:18.000Z"
   }
 }

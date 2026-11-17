@@ -1,0 +1,81 @@
+{
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 6
+  },
+  "opened": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 1,
+        "debugging_address": "127.0.0.1:9992",
+        "pid": 50724,
+        "open_time": "2026-11-17 20:20:30"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:42565",
+        "pid": 41532,
+        "open_time": "2026-11-17 19:34:51"
+      },
+      {
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:36770",
+        "pid": 50256,
+        "open_time": "2026-11-17 19:14:47"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:21351",
+        "pid": 3848,
+        "open_time": "2026-11-17 20:00:12"
+      },
+      {
+        "profile_id": 63,
+        "debugging_address": "127.0.0.1:52020",
+        "pid": 47560,
+        "open_time": "2026-11-17 20:13:30"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:2600",
+        "pid": 36216,
+        "open_time": "2026-11-17 20:23:42"
+      }
+    ],
+    "total": 6
+  },
+  "open80": {
+    "ok": true,
+    "profile_id": 80,
+    "debugging_address": "127.0.0.1:42823"
+  },
+  "check80": {
+    "ok": true,
+    "profile_id": 80,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": "Winsino",
+    "name_source": "composer",
+    "page_text_sample": null,
+    "screenshot": "shots/profile_80.png",
+    "debugging_address": "127.0.0.1:42823"
+  },
+  "identity": {
+    "links": [
+      "https://www.facebook.com/profile.php?id=100031033479770",
+      "https://www.facebook.com/profile.php?id=100031033479770&__cft__[0]=AZhtTQl7T5J1QQn-TCkP6yqyNle0nL8BHfZKTkw5s4ciTg2yXG6XoEOjGOHyvdJ1Fdz48WY6kx8TduJKLQ0G2e9iZPFYRe2yVvGRWoiTGRAva5FKiY2QMwYddyKr9XVheM64i11IMg2chAbnAAGVSwco&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=100031033479770&__cft__[0]=AZhtTQl7T5J1QQn-TCkP6yqyNle0nL8BHfZKTkw5s4ciTg2yXG6XoEOjGOHyvdJ1Fdz48WY6kx8TduJKLQ0G2e9iZPFYRe2yVvGRWoiTGRAva5FKiY2QMwYddyKr9XVheM64i11IMg2chAbnAAGVSwco&__tn__=-UC%2CP-R"
+    ],
+    "title": "Facebook",
+    "bodyTxt": " \nHome\nCreate a post\nWhat's on your mind, Winsino?\nCreate story\nShare a photo, video or write something\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nWinsino Lisa\nNovember 11, 2025\n \n·\n \n·\nShared with Your friends\nMay be an image of steak"
+  },
+  "goto_notif": {
+    "ok": true,
+    "title": "Notifications | Facebook",
+    "url": "https://www.facebook.com/notifications",
+    "profile_id": 80
+  },
+  "notif_text": " \nNotifications\nAll\nUnread\nNew\nUnread\nLuna Wa sent you a friend request.\n1w\nFollowed by 269\nConfirm\nDelete\nUnread\nอณุชา ยานะรมย์ sent you a friend request.\n4w\nConfirm\nDelete\nUnread\nวาสนา พูลจวง commented on her reel you haven't seen.\n9w\nUnread\nYou're now using a Meta Account on Facebook.\n6d\nUnread\nYou have a new friend suggestion: เรียก เมย์.\n8w\nUnread\nWe noticed a new login from a device or location you don't usually use. Please review.\n4w\nUnread\nWe noticed a new login from a device or location you don't usually use. Please review.\n6d\nUnread\nYou have a new friend suggestion: A Noung.\n2w\nUnread\nWe noticed a new login from a device or location you don't usually use. Please review.\n1d\nUnread\nMeta Accounts are coming to Facebook. You’ll be updated to yours soon.\n4w\nUnread\nYou have a new friend suggestion: Solanki Prituu.\n4d"
+}

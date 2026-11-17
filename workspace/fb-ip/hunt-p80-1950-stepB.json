@@ -1,0 +1,8 @@
+{
+  "rhinoplasty_goto": {
+    "error": "调用 POST /goto 失败（curl 18）：curl: (18) transfer closed with 172 bytes remaining to read\n"
+  },
+  "facelift_goto": {
+    "error": "调用 POST /goto 失败（curl 52）：curl: (52) Empty reply from server\n"
+  }
+}

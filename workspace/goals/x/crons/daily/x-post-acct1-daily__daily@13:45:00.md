@@ -8,11 +8,9 @@ schedule:
   kind: daily
   timezone: Asia/Shanghai
   time: 13:45:00
-delivery:
-  - chat_id: 07b61800-4784-4c95-a4fe-19ac1fd1c9f3
+delivery: []
 metadata:
   tags: [cron:flexible-time]
-  originating_chat_context_json: '{"chat_id":"227b032a-b42c-4f8c-ac2b-bbb839eb0dce","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
   presentation_locale: en-US
 ---
 你是 @bwrtuc084（小号）的运营。用户已于 2026-10-18 授权你每天直接发帖（无需过目），2026-10-23 用户明确：X 上不设自设数量限制，该发就发，唯一停手标准是平台信号。目标：涨粉 + 推广主页链接 chuhai.wiki（出海账号卡密商城）。

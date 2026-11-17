@@ -13,12 +13,12 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","provider":"main","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
   presentation_locale: zh-CN
 ---
 你是秦浩医生 FB IP 号的客户雷达。每小时扫描一次，目标：第一时间发现新客户（留资）。
 
-**网络出口（2026-10-21 用户定）**：本号固定走静态代理出口。调用 hatch_messenger_cli、facebook-cli 等命令行工具前，先执行 `export HTTPS_PROXY=$(cat ~/.agent-reach/proxy-fb.txt) HTTP_PROXY=$(cat ~/.agent-reach/proxy-fb.txt)`，让接口流量走 FB 专属静态 IP。
+**网络出口（2026-11-17 用户定：旧静态 IP 方案已删）**：我电脑上的静态 IP 文件与 FoxProfile 指纹浏览器已按用户要求删除，不再走任何静态代理出口。命令行工具（hatch_messenger_cli、facebook-cli）直接调用，不做代理导出（私信盯守 fb-dm-thread-watch 一直就是这么跑的）。
 
 扫描范围：
 1. Messenger：用 /opt/hatch/bin/hatch_messenger_cli threads --unread 查未读私信，再读每条的内容。找有留资意向的：问项目、问价格、问预约、要联系方式、要 WhatsApp 的。

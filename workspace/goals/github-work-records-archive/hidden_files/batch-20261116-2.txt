@@ -1,0 +1,13 @@
+workspace/fb-ip/dm-threads-part3.md
+workspace/fb-ip/dm-threads-part4.md
+workspace/fb-ip/group-prospects.md
+workspace/fb-ip/ig-qinhao-check-20261116.md
+workspace/fb-ip/publish-log-20261116.md
+workspace/fb-ops/daily-table-2026-11-15.md
+workspace/feature-request/reports.json
+workspace/goals/github-work-records-archive/hidden_files/batch-20261115-1.txt
+workspace/goals/github-work-records-archive/hidden_files/batch-20261115-2.txt
+workspace/goals/github-work-records-archive/hidden_files/batch-20261115-3.txt
+workspace/goals/github-work-records-archive/hidden_files/batch-20261115-4.txt
+workspace/goals/github-work-records-archive/hidden_files/batch-20261115-5.txt
+workspace/goals/github-work-records-archive/hidden_files/run-log-20261115.md

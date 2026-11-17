@@ -1,0 +1,7 @@
+{
+  "click": "clicked join",
+  "membership": {
+    "joinBtn": true,
+    "joined": true
+  }
+}

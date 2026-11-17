@@ -1,0 +1,15 @@
+{
+  "profile": 65,
+  "account": "gaga5456",
+  "round": 3,
+  "steps": [
+    "health: ok",
+    "opened: FAIL 调用 GET /opened 失败（curl 28）：curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\n",
+    "close 65: FAIL 调用 POST /close 失败（curl 28）：curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received\n"
+  ],
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 6
+  }
+}

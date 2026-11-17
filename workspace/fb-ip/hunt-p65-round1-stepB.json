@@ -1,0 +1,20 @@
+{
+  "profile": 65,
+  "account": "gaga5456",
+  "steps": [
+    "goto /gaga5456/ ok",
+    "goto notifications ok"
+  ],
+  "own_profile": {
+    "href": "https://www.instagram.com/gaga5456/",
+    "title": "秦昊博士 (@gaga5456) • Instagram 照片和视频",
+    "hasLoginInput": false,
+    "textSample": "您已达到每日限额\n你今天使用 Instagram 的时间已经达到了9 小时37分钟。现在是关闭应用的好时机。"
+  },
+  "notifications": {
+    "href": "https://www.instagram.com/accounts/notifications/",
+    "title": "Instagram",
+    "hasLoginInput": false,
+    "textSample": "您已达到每日限额\n你今天使用 Instagram 的时间已经达到了9 小时37分钟。现在是关闭应用的好时机。"
+  }
+}

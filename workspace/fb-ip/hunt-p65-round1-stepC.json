@@ -1,0 +1,14 @@
+{
+  "profile": 65,
+  "account": "gaga5456",
+  "steps": [
+    "click X fail: POST /click 失败：操作失败：TimeoutError: Locator.click: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"div[role=\\\"button\\\"]\").first\n    - locator resolved to <div tabindex=\"0\" role=\"button\" clas",
+    "goto /gaga5456/ ok"
+  ],
+  "after_click": {
+    "href": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "textSample": "Notifications\nThis week\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more 4d\nThis month\nrezazes\n liked your reel. Nov 10\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 09\neleanore.meyer.58\n liked your reel. Nov 08\nYou're now using a Meta Account on Instagram. Nov 06\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 19\nSuggested for you\nlkhenuu\nRaj Kumar\nSuggested for you\nFollow\nkyanoosh527\nkyanoosh\nSuggested for you\nFollow\naboozarashoori5\nAboozar@Ashoori\nSuggested for you\nFollow\nranginkam0un\nParisa 🪽\nFollowed by aliasghar_zolfaghari_\nFollow\nqusai_aljubuori\nqusai aljubuori\nFollowing mohamad_mbm95\nFollow\nfarzanehzolfaghari_\nFarzaneh Zolfaghari\nSuggested for you\nFollow\nmr_kazemi46\nkazemi\nSuggested for you\nFollow\nnail_art_nazlii\n•𝓝𝓪𝔃𝓵𝓲•🪼\nFollowed by aliasghar_zolfaghari_\nFollow\nyastunes\nYAS\nFollowed by aliasghar_zolfaghari_\nFollow\nhasan.shokr\nمحمد حسن شكر\nSuggested for you\nFollow\n___aseman__1\nSuggested for you\nFollow\ntarlan_parvanee\nTarlan Parvaneh\nFollowed by aliasghar_zolfaghari_\nFollow\nrealshadmehr\nShadmehr Aghi"
+  },
+  "error": "POST /eval 失败：打开 profile 65失败：code=2012 message=此窗口正在云备份，请稍后打开"
+}

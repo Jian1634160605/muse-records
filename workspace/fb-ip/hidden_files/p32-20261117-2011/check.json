@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "profile_id": 32,
+  "title": "Facebook",
+  "url": "https://www.facebook.com/",
+  "account_name": "Daisy",
+  "name_source": "composer",
+  "page_text_sample": null,
+  "screenshot": "shots/profile_32.png",
+  "debugging_address": "127.0.0.1:42565"
+}
