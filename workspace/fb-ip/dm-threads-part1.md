@@ -51,6 +51,7 @@
 - 2026-10-22 15:34 只读核验（独立任务）：Chats 列表仅 Sarah Jane / Anne Riches 两行，Requests（You may know/Spam）与 Archive 均无 Charlene → 新 E2EE 线程尚未同步进列表。与 Judi 补发（99 分钟未现身）同一模式，属 E2EE 同步延迟，不推翻发送端送达证据。下一轮继续观察线程是否出现及有无回复。
 - 2026-10-22 15:43 轮（fb-dm-thread-watch）：messenger.com 只读复查（未弹 PIN、未输入 PIN、未发消息）——Chats 列表仅 Sarah Jane / Anne Riches 两行，Requests（You may know/Spam）与 Archive 均无 Charlene，全局搜索无此人 → 15:28 首条的 E2EE 线程仍未同步进列表（与 Judi 补发同一延迟模式，发送端"Message sent"+"You sent"证据仍在，不推翻）。下一轮继续观察。
 - 状态：【21:00 用户实测更正】**未落地——15:28 首条从未送达**（浏览器端 "Message sent"+"You sent" 气泡不可信；服务器端无此线程、用户手机 App 不可见、CLI 缓存无此线程）。待发送通道恢复后重发，重发后须经 hatch_messenger_cli 查到线程存在且 snippet 为我方消息才算发送。B-18 按实际送达时间起算。
+- **【2026-11-20 18:52 首条已送达】**18:48 轮换时段重试一次经 messenger.com 重发 3 条短消息，CLI 核验通过：线程 cid.g.1056143690818854 已存在，snippet 为我方第 3 条（sender 61590577106578 Victoria），对话链接 https://www.messenger.com/e2ee/t/1056143690818854。状态改为等回复；B-18 按 18:52 起算。对方暂未回复。
 
 - 2026-10-22 15:48 轮（fb-dm-thread-watch）：messenger.com 只读（未弹 PIN、未发消息、未改设置）——Chats/Requests（You may know/Spam）/Archive 三处 + 全局搜索均无 Charlene 线程（15:28 首条的 E2EE 线程仍未同步进 messenger.com 列表，延迟模式延续）；但 facebook.com 上自动打开了一个 Charlene Nicoll 的聊天标签（E2EE、消息同样加载中）→ 表明与其的对话存在，发送端送达证据加强。通知面板无其 Messenger 通知。下一轮继续观察列表同步。
 
@@ -126,7 +127,7 @@
 - 2026-10-22 13:18 轮：CLI 通道无此线程缓存（盲区）；浏览器只读复查 16 分钟无有效结果（E2EE PIN 阻塞延续，未输入 PIN、未发消息），关闭；无确认的新回复。首条未满 24h，B-18 未到期。
 - 2026-10-22 13:32 经 messenger.com 输入 PIN 完成 E2EE 恢复后深度核验：Chats/Requests/Spam/Archive 列表、按消息搜索、按 FB ID 直达线程、主页 Message 浮窗——**该账号收件箱中不存在 Judi 的任何会话，连我方 12:04 首条也不存在**。结论：12:04 首条很可能从未在本账号落地（messenger.com 恢复正常、Sarah/Anne 线程均可读为对照）。
 - 2026-10-22 13:53 轮（fb-dm-thread-watch）：深度复查（Chats/Requests/Spam/Archive/全消息搜索"Judi Welch"）确认会话仍不存在（连 12:04 首条也不在，12:04 首条确认为从未落地）→ 按用户批准从其 Facebook 主页（judi.welch，群帖作者=立陶宛 Nords 帖）点 Message 发送 SOP 标准首条（出处=Facelift Support Group 她问立陶宛诊所的群帖），13:51 发送成功、FB 显示"Message sent"且聊天窗内渲染"You sent"。注意：新 E2EE 线程在复查结束前尚未出现在 messenger.com Chats 列表中（同步延迟，下一轮需复查落盘）。
-- 状态：【21:00 用户实测更正】**未落地——13:51 补发从未送达**（浏览器端 "Message sent"+"You sent" 气泡不可信；服务器端无此线程、用户手机 App 不可见、CLI 缓存无此线程）。不重补决议取消→待发送通道恢复后补发，补发后须经 CLI snippet 核验。按等回复处理的 B-18 口径作废，以实际送达为准。
+- 状态：【21:00 用户实测更正】**未落地——13:51 补发从未送达**（浏览器端 "Message sent"+"You sent" 气泡不可信；服务器端无此线程、用户手机 App 不可见、CLI 缓存无此线程）。不重补决议取消→待发送通道恢复后补发，补发后须经 CLI snippet 核验。按等回复处理的 B-18 口径作废，以实际送达为准。【2026-11-20 18:33 轮纠正：CLI 直查线程 cid.g.4589839544678791 已存在，2026-10-22–10-30 我方已发 14 条（10-22 首条实际已落盘，当日「未落地」判断已被后续同步推翻；其后跟进 10-23/26/28/30，含咨询链接），对方 0 回复，最新为我方 10-30 21:05 消息；已走完跟进全程，状态改为关闭，不再主动联系。】
 - 2026-10-22 14:03 轮（fb-dm-thread-watch）：messenger.com 深度复查——新 E2EE 线程仍未同步进 Chats 列表（列表仅 Sarah Jane / Anne Riches 两行，已滚动确认；Requests 文件夹也无 Judi），13:51 补发是否落盘本轮无法确认（FB 端上一轮显示 Message sent+You sent 为唯一证据）。下一轮继续复查落盘。未弹 PIN 对话框、未发送消息、未改设置。
 - 2026-10-22 14:47 轮（fb-dm-thread-watch）：messenger.com 只读复查（13:51 补发后约 56 分钟）——Chats 列表仅 Sarah Jane / Anne Riches 两行（已滚动、无隐藏项），Requests 文件夹 "You may know"/"Spam" 均为空，全局消息搜索 "Judi Welch" 无结果 → 补发首条仍未同步落盘。下一轮继续复查；若补发超过 3 小时仍未落盘，需考虑重新补发。未弹 PIN 对话框、未发送消息、未改设置。
 - 2026-10-22 15:43 轮（fb-dm-thread-watch）：浏览器只读（未弹 PIN、未发消息、未改设置）——Chats 列表仍无 Judi Welch 线程（13:51 补发后约 112 分钟），全局搜索无此人，Requests/Spam/Archive 为空 → 补发仍未同步落盘。规则：若至 16:51（补发满 3 小时）仍未落盘，下一轮考虑重新补发。
@@ -167,17 +168,17 @@
 ### MindfulPineapple3415（FB 1154193193716383）
 - 来源：Facelift Support Group 评论 "I'm planning to go to South Korea for my facelift"，未定医生
 - 国家：未知（意向地韩国，本人国家待确认）
-- 状态：待私信
+- 状态：关闭（2026-10-22 16:48 轮复筛：昵称匿名号、资料页不可访问，无法核验为真人个人号 → 按“不是准用户完全不联系”规则关闭，不发私信；2026-11-21 18:35 轮复核标注：此前表头“待私信”为过期标注，现更正）
 
 ### Christina Davies（FB 1032347779）
 - 来源：Facelift Support Group 评论问大家去泰国哪里做（目的地调研期）
 - 国家：未知
-- 状态：待私信
+- 状态：关闭（2026-11-20 18:33 轮纠正：台账「待私信」为过期标注。CLI 直查线程 cid.g.1797500518204639 已存在，2026-10-25–11-01 我方已发 12 条（首条+跟进，含咨询链接），对方 0 回复，最新为我方 11-01 09:51 消息；已走完跟进全程，不再主动联系、不再列为待私信）
 
 ### Josie Felton McIntee（FB 1524582309）
 - 来源：Facelift Support Group 评论区打听术后分享者的手术医生（与 Maury Morgan 同型）
 - 国家：未知
-- 状态：待私信
+- 状态：关闭（2026-10-22 16:48 轮复筛：虽为真人个人号，但资料页置顶含诈骗式引流文案，按筛选标准关闭，不联系；2026-11-21 18:35 轮复核标注：此前表头“待私信”为过期标注，现更正）
 
 ### 仅评论观察（匿名、无主页，不可私信）
 - Anonymous participant（已拿 Destination Beauty 拉皮报价、在两位医生间决策；匿名，仅可评论区接触）
@@ -197,7 +198,7 @@
 - 筛选：通过——真人个人号（真人姓名+真人亲吻金毛犬海滩照头像+大量生活照+资料连贯，2K followers；无机构/广告迹象）；意向强（诊所二选一+明确术式）；项目=上睑+中面部提升（全品相准用户口径）
 - 2026-10-22 17:23 轮（fb-dm-thread-watch）：现居美东佛罗里达（北京时间 17:23 对应美东约 05:23），不在 8:00–22:00 窗口 → 本轮不发，留待北京时间晚间轮次（她当地上午）发送；今日私信剩 1 额度，届时用 SOP 标准首条（第一句后点明出处=Facelift Support Group 她问韩国两诊所的群帖）
 - ✅ 2026-10-22 20:15 发送成功（回执事后到达）：经其群帖 1431320041849432 进主页核名=Lucy Brook 无误，点 Message 在 E2EE 聊天窗发出 SOP 标准首条（出处=Facelift Support Group 她问韩国两诊所的群帖）；聊天窗渲染 "You sent" 气泡（"Message sent 8:15 PM by You"）+ 页面 "Message sent" 提示，无 checkpoint/限制。今日私信额度至此 6/6 用尽。
-- 状态：等回复（首条已发 2026-10-22 20:15）
+- 状态：关闭（2026-11-20 18:33 轮纠正：10-22 20:15 首条当日未落地、但 10-23 已重发并落盘；CLI 直查线程 cid.g.1635843691316309，2026-10-23–11-01 我方已发 16 条（首条+跟进，含咨询链接），对方 0 回复，最新为我方 11-01 00:21 消息；已走完首条+B-18+B-19+再询问全程，不再主动联系）
 
 - 2026-10-22 17:33 轮（fb-dm-thread-watch）：美东当地约 05:33（美西约 02:33），BravePear3329 / Lucy Brook 均不在 8:00–22:00 窗口内，Christina Davies 国家未知、倾向美国时区同样在窗口外 → 三人本轮均不发，继续顺延。今日私信已证实 5/6（剩 1 额度）。0 新发、0 回复、0 客资。
 
@@ -211,7 +212,7 @@
 - 来源：Kassir couples facelift reel 下评论 "Nice. Contact info"（约 1 小时前发布；hunter round29 leg1 移交待筛）
 - 国家：美国（Intro "Lives in Dallas County, Texas"、"Moved to Dallas County, Texas August 16"；浏览器 2026-10-22 19:00 轮核验主页确认，美中时区）
 - 筛选：通过——真人个人号（显示名 Gail Serra Matthews、真人头像/封面/照片墙生活照、117 friends、无机构 logo/广告；有一条 professional mode 创作者引导动态，属 FB 功能文案非广告）；意向信号="Nice. Contact info" 求联系方式（公开意向门槛）；无机构/中介/广告号迹象
-- 状态：待私信（留待窗口；美中当地约 05:56，周四，窗口外 → 顺延至北京时间约 21:00 后美中 8:00+ 的轮次）
+- 状态：关闭（2026-11-20 18:33 轮纠正：台账「待私信」为过期标注。CLI 直查线程 cid.g.1147717274353940 已存在，2026-10-23–11-01 我方已发 16 条（首条+跟进，含咨询链接），对方 0 回复，最新为我方 11-01 00:21 消息；已走完跟进全程，不再主动联系）
 
 - 2026-10-22 19:00 轮（fb-dm-thread-watch）：时区核验（date 命令）美东约 06:56 / 美中约 05:56 周四，BravePear3329 / Lucy Brook / Christina Davies / Gail Serra Matthews 均在窗口外 → 本轮均不发，继续顺延。剩 1 额度继续预留 Lucy Brook（北京时间 20:00 后美东 8:00+ 轮次派 SOP 首条）；Gail 已复筛通过、排在其后（今日额度若用尽则顺延至明日）。本轮 0 新发、0 新回复、0 客资；今日私信已证实 5/6；账号无受限/checkpoint/发送失败。
 
@@ -12667,11 +12668,3 @@
 ## 2026-11-06 04:18 轮（fb-dm-thread-watch；04:18 cron 触发，Victoria 单线）
 - CLI 服务器端核验（04:18，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 04:03 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 04:03 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
 - Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
-- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 04:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
-- Dawn Louise / Charlene Nicoll 复核：沿用 03:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（03:48 轮刚复核均为 0 条，无变化信号）。
-- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
-- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
-- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
-- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
-
-## 2026-11-06 04:33 轮（fb-dm-thread-watch；04:33 cron 触发，Victoria 单线）
