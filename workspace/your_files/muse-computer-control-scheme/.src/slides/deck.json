@@ -1,0 +1,93 @@
+{
+  "format_version": 1,
+  "main_title": "Muse 电脑操控方案",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "deck_css": "deck.css",
+  "theme": {
+    "id": "general_graphite",
+    "css_variables": {
+      "--slide-bg": "#252432",
+      "--slide-fg": "#E8E6E2",
+      "--slide-primary": "#909BA9",
+      "--slide-accent": "#C28A5A",
+      "--slide-muted": "color-mix(in srgb, var(--slide-fg) 80%, var(--slide-bg))",
+      "--slide-font-display": "\"Source Serif 4\"",
+      "--slide-font-body": "\"Inter\""
+    }
+  },
+  "slides": [
+    {
+      "index": 0,
+      "id": "cover",
+      "page_title": "Muse 电脑操控方案",
+      "path": "cover.html",
+      "layout": "cover"
+    },
+    {
+      "index": 1,
+      "id": "overview",
+      "page_title": "先解决三个卡点",
+      "path": "overview.html",
+      "layout": "steps"
+    },
+    {
+      "index": 2,
+      "id": "architecture",
+      "page_title": "一条指令，走完五站",
+      "path": "architecture.html",
+      "layout": "two-column"
+    },
+    {
+      "index": 3,
+      "id": "node-muse",
+      "page_title": "节点一 · Muse 是云端大脑",
+      "path": "node-muse.html",
+      "layout": "hero-stats"
+    },
+    {
+      "index": 4,
+      "id": "node-tailscale",
+      "page_title": "节点二 · Tailscale 只管送达",
+      "path": "node-tailscale.html",
+      "layout": "hero-stats"
+    },
+    {
+      "index": 5,
+      "id": "node-syncthing",
+      "page_title": "节点三 · 本机 agent 是关键一环",
+      "path": "node-syncthing.html",
+      "layout": "gallery"
+    },
+    {
+      "index": 6,
+      "id": "node-control",
+      "page_title": "节点四 · ixBrowser 是账号工位",
+      "path": "node-control.html",
+      "layout": "bento"
+    },
+    {
+      "index": 7,
+      "id": "node-devices",
+      "page_title": "三条支线，各管一摊",
+      "path": "node-devices.html",
+      "layout": "headline-bullets"
+    },
+    {
+      "index": 8,
+      "id": "workflows",
+      "page_title": "三件日常工作，都跑完整闭环",
+      "path": "workflows.html",
+      "layout": "headline-bullets"
+    },
+    {
+      "index": 9,
+      "id": "landing",
+      "page_title": "现状：主链跑通，边界清楚",
+      "path": "landing.html",
+      "layout": "closing"
+    }
+  ]
+}

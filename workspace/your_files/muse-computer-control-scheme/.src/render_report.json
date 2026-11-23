@@ -1,0 +1,145 @@
+{
+  "ok": true,
+  "pdf": "",
+  "pages": 10,
+  "pngs": [
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-01.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-02.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-03.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-04.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-05.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-06.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-07.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-08.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-09.png",
+    "/home/hatch/workspace/your_files/muse-computer-control-scheme/.src/validate/page-10.png"
+  ],
+  "fonts": {
+    "missing": [],
+    "unused": [],
+    "used": [
+      "Noto Sans CJK JP",
+      "Inter",
+      "Source Serif 4",
+      "Liberation Serif",
+      "DejaVu Sans"
+    ],
+    "expected": [
+      "Source Serif 4:400",
+      "Inter:400"
+    ]
+  },
+  "overflow": [],
+  "cover_no_image": false,
+  "restraint": [
+    {
+      "index": 1,
+      "findings": [
+        "furniture class \"chip\""
+      ]
+    },
+    {
+      "index": 2,
+      "findings": [
+        "furniture class \"badge\""
+      ]
+    },
+    {
+      "index": 3,
+      "findings": [
+        "furniture class \"chip\""
+      ]
+    },
+    {
+      "index": 5,
+      "findings": [
+        "furniture class \"chip\""
+      ]
+    },
+    {
+      "index": 6,
+      "findings": [
+        "furniture class \"badge\""
+      ]
+    },
+    {
+      "index": 7,
+      "findings": [
+        "furniture class \"badge\""
+      ]
+    }
+  ],
+  "broken_images": [],
+  "fill": [
+    {
+      "index": 0,
+      "top_gap_pct": 82,
+      "v_fill_pct": 95,
+      "h_fill_pct": 48
+    },
+    {
+      "index": 1,
+      "top_gap_pct": 16,
+      "v_fill_pct": 82,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 2,
+      "top_gap_pct": 21,
+      "v_fill_pct": 77,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 3,
+      "top_gap_pct": 1,
+      "v_fill_pct": 84,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 4,
+      "top_gap_pct": 1,
+      "v_fill_pct": 84,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 5,
+      "top_gap_pct": 6,
+      "v_fill_pct": 93,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 6,
+      "top_gap_pct": 9,
+      "v_fill_pct": 90,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 7,
+      "top_gap_pct": 13,
+      "v_fill_pct": 85,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 8,
+      "top_gap_pct": 16,
+      "v_fill_pct": 83,
+      "h_fill_pct": 96
+    },
+    {
+      "index": 9,
+      "top_gap_pct": 14,
+      "v_fill_pct": 84,
+      "h_fill_pct": 96
+    }
+  ],
+  "generated_imagery": {
+    "generated": 4,
+    "drawn": 0
+  },
+  "plan": {
+    "missing_slides": [],
+    "extra_slides": []
+  },
+  "gate_failures": [],
+  "advisories": []
+}

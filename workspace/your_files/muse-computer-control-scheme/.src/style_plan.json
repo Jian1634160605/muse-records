@@ -1,0 +1,40 @@
+{
+  "catalog_version": "clippy-slides-port",
+  "archetype": "general_presentation",
+  "theme": "general_graphite",
+  "palette": {"paper": "#252432", "ink": "#E8E6E2", "primary": "#909BA9", "accent": "#C28A5A"},
+  "fonts": {"display": "Source Serif 4", "body": "Inter"},
+  "voice": ["clear", "considered", "direct"],
+  "preferred_layouts": ["cover", "headline-bullets", "two-column", "statement", "closing"],
+  "preferred_charts": ["bar", "line"],
+  "required_content_blocks": ["overview", "key_points", "conclusion"],
+  "image_style": "plain, balanced, generic aesthetic, with deep low-key tones that match the dark slide background, only subtle rim/highlight accents, and an uncluttered low-contrast area reserved for text overlay (no light-flooded regions)",
+  "tone": "warm",
+  "weight": "regular",
+  "density": "dense",
+  "display_weight": 700,
+  "body_weight": 400,
+  "display_scale": 1.0,
+  "layout_plan": [
+    {"id": "cover", "layout": "cover"},
+    {"id": "overview", "layout": "steps"},
+    {"id": "architecture", "layout": "two-column"},
+    {"id": "node-muse", "layout": "hero-stats"},
+    {"id": "node-tailscale", "layout": "hero-stats"},
+    {"id": "node-syncthing", "layout": "gallery"},
+    {"id": "node-control", "layout": "bento"},
+    {"id": "node-devices", "layout": "headline-bullets"},
+    {"id": "workflows", "layout": "headline-bullets"},
+    {"id": "landing", "layout": "closing"}
+  ],
+  "lockups": ["L1 left-heavy", "L2 right-heavy"],
+  "css_variables": {
+    "--slide-accent": "#C28A5A",
+    "--slide-bg": "#252432",
+    "--slide-fg": "#E8E6E2",
+    "--slide-font-body": "\"Inter\"",
+    "--slide-font-display": "\"Source Serif 4\"",
+    "--slide-muted": "color-mix(in srgb, var(--slide-fg) 80%, var(--slide-bg))",
+    "--slide-primary": "#909BA9"
+  }
+}
