@@ -1,0 +1,61 @@
+{
+  "round": "2026-11-22 23:12",
+  "profile": 65,
+  "note": "retry3: 65 was already open before this round (open_time 22:49:04, pid 24892); read-only, no open/close",
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": "FAIL goto x2",
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:52908",
+        "pid": 40996,
+        "open_time": "2026-11-22 23:10:50"
+      },
+      {
+        "profile_id": 35,
+        "debugging_address": "127.0.0.1:38017",
+        "pid": 21292,
+        "open_time": "2026-11-22 23:05:28"
+      },
+      {
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:37852",
+        "pid": 42404,
+        "open_time": "2026-11-22 23:21:19"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:13383",
+        "pid": 25160,
+        "open_time": "2026-11-22 22:17:05"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:39270",
+        "pid": 24892,
+        "open_time": "2026-11-22 22:49:04"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:14096",
+        "pid": 32648,
+        "open_time": "2026-11-22 23:22:33"
+      }
+    ],
+    "total": 6
+  },
+  "still_open": false
+}

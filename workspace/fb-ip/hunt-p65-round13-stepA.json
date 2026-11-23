@@ -1,0 +1,42 @@
+{
+  "ts": "2026-11-19 20:43:05 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "opened": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:4858",
+            "pid": 41540,
+            "open_time": "2026-11-20 04:26:31"
+          },
+          {
+            "profile_id": 63,
+            "debugging_address": "127.0.0.1:20321",
+            "pid": 49300,
+            "open_time": "2026-11-20 04:36:53"
+          }
+        ],
+        "total": 2
+      }
+    },
+    "open65": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:1448"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ts": "2026-11-20 17:44:20 UTC",
+  "steps": {
+    "open65": {
+      "ok": true,
+      "r": "{'ok': True, 'profile_id': 65, 'debugging_address': '127.0.0.1:39411'}"
+    },
+    "opened_after": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:7393",
+            "pid": 31200,
+            "open_time": "2026-11-21 01:43:37"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:56653",
+            "pid": 24496,
+            "open_time": "2026-11-21 01:26:25"
+          },
+          {
+            "profile_id": 65,
+            "debugging_address": "127.0.0.1:39411",
+            "pid": 20424,
+            "open_time": "2026-11-21 01:44:25"
+          }
+        ],
+        "total": 3
+      }
+    }
+  }
+}

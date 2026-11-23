@@ -1,0 +1,27 @@
+{
+  "ts": "2026-11-19 12:53:09 UTC",
+  "steps": {
+    "dom-search": {
+      "ok": true,
+      "r": {
+        "inTextContent": false,
+        "inInnerText": false,
+        "around": ""
+      }
+    },
+    "expand-replies": {
+      "ok": true,
+      "r": {
+        "clicked": "Hide all replies",
+        "total": 1
+      }
+    },
+    "readback2": {
+      "ok": true,
+      "r": {
+        "found": false,
+        "around": "gaga5456\nAI-generated profile\nOriginal audio\ngaga5456\n \n1h\nBefore the first cut, every line is drawn on purpose. This is how Dr. Qin Hao plans a nose — the bridge, the tip, the profile — marked before surgery, then done, then cared for in the ward. Would you want your nose planned like this? DM us for a free video consultation.\nMusic: NO LIMITS PHONK — https://www.youtube.com/@nolimits_phonk\ngaga5456\n \n1h\nCurious about rhinoplasty? Tap the WhatsApp link in my bio — happy to answer your questions.\nReply\nsarahcook6809\n \n1h\nI love that every line is drawn before the first cut. How do I book a consultation to plan my nose?\nReply\nView all 1 replies\nelainaklocko_lily.02176\n \n1h\nThis planning process looks so careful. How much does a rhinoplasty like this cost?\nReply\n4\n1 hour ago\nMore posts from gaga5456\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPort"
+      }
+    }
+  }
+}

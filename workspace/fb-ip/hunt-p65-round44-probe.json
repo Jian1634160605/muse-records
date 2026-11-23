@@ -1,0 +1,9 @@
+{
+  "ts": "2026-11-22 14:04:32 UTC",
+  "steps": {
+    "probe": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

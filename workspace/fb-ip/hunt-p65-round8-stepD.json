@@ -1,0 +1,26 @@
+{
+  "ts": "2026-11-19 15:50:28 UTC",
+  "steps": {
+    "goto-notif": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/notifications/",
+        "profile_id": 65
+      }
+    },
+    "notif": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 3010 bytes remaining to read\n"
+    },
+    "goto-profile": {
+      "ok": false,
+      "err": "调用 POST /goto 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "grid-links": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

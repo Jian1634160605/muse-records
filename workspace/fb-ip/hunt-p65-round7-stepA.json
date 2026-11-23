@@ -1,0 +1,17 @@
+{
+  "ts": "2026-11-19 14:44:23 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "err": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "opened": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "open65": {
+      "ok": false,
+      "err": "调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

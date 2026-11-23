@@ -1,0 +1,21 @@
+{
+  "ts": "2026-11-20 15:57:53 UTC",
+  "steps": {
+    "url": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "expand": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "sarah_reply_present": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "elaina_reply_present": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

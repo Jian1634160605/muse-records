@@ -1,0 +1,32 @@
+{
+  "ts": "2026-11-19 12:43:22 UTC",
+  "steps": {
+    "open": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:51924"
+      }
+    },
+    "goto-home": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/",
+        "profile_id": 65
+      }
+    },
+    "identity": {
+      "ok": true,
+      "r": {
+        "url": "https://www.instagram.com/",
+        "title": "Instagram",
+        "og": "",
+        "len": 1135,
+        "text": "karlo.furniture\nkian.studio2026\ndarushparsinezhad\nmilad7r\nsinam.1\nnagham105.3\ndor__fa\nnagham105.3\n•\n1d\nnagham105.3\nتستمعون اليوم علي نغم اف ام... \nmore\nSee translation\ncreators\n•\n1d\nSuggested for you\nFollow\n39.1K\n1.7K\n2.3K\n15.8K\ncreators\nContent protection is coming to Instagram. For eligible creators who enroll, content protection is a tool that... \nmore\nmetaglasses\n•\n2d\nMeta Glasses\nFollow\n8.1K\n52\n152\n79\nmetaglasses\nEvery angle’s your good side. ... \nmore\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa M"
+      }
+    }
+  }
+}

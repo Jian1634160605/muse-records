@@ -1,0 +1,30 @@
+{
+  "ts": "2026-11-20 16:47:11 UTC",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "search_textcontent": {
+      "ok": true,
+      "r": {
+        "found": false,
+        "len": 703141,
+        "has_view_all": true
+      }
+    },
+    "search_innertext": {
+      "ok": true,
+      "r": {
+        "has_revision": false,
+        "has_view_all": true,
+        "len": 1731
+      }
+    }
+  }
+}

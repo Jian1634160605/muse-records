@@ -1,0 +1,54 @@
+{
+  "round": 17,
+  "ts": "2026-11-20 08:42-09:00 CST",
+  "result": "轮次未跑成：profile 65 打不开，评论 0 条",
+  "steps": {
+    "stepA_open": {
+      "attempts": [
+        {
+          "n": 1,
+          "result": "FAIL POST /open code=1004 Unknown internal error"
+        },
+        {
+          "n": 2,
+          "after": "30s退避",
+          "result": "FAIL 同上 code=1004"
+        },
+        {
+          "n": 3,
+          "after": "close(65)报1009 Process not found（确认未运行）+10s等待",
+          "result": "FAIL 同上 code=1004"
+        }
+      ]
+    },
+    "agent_health": {
+      "ok": true,
+      "agent": "ixbrowser-agent",
+      "version": 10
+    },
+    "opened": {
+      "ok": true,
+      "opened": [
+        44
+      ],
+      "note": "44 为别号轮次，不管；65 不在 opened 列表"
+    },
+    "profiles_check": {
+      "name": "gaga5456",
+      "profile_id": 65,
+      "is_running": null,
+      "note": "只取 name + is_running，未打印原始响应"
+    },
+    "identity": "未完成（未进入页面，按铁律不发任何评论）",
+    "notifications": "未读到",
+    "comments": 0,
+    "e07": 0,
+    "leads": 0,
+    "signals": {
+      "226/344": "无",
+      "429": "无",
+      "login失效": "未证实（上轮 07:42 身份/登录/发评均正常，本轮纯属打不开）"
+    }
+  },
+  "conclusion": "agent 本体正常（health/ opened/ profiles 均返回），仅 profile 65 启动报 1004 Unknown internal error，三次尝试均失败；close 报 1009 Process not found，确认 65 未在运行、无残留进程。非登录失效、非平台封号信号。按恢复技能：单次重试仍失败则下轮再查，不硬闯、不重启 agent（44 号轮次正在跑，重启会干扰别号）。"
+}

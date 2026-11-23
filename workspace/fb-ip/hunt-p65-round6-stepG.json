@@ -1,0 +1,42 @@
+{
+  "ts": "2026-11-19 13:49:56 UTC",
+  "steps": {
+    "goto-reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "click-reply-sarah": {
+      "ok": true,
+      "r": {
+        "clicked": "sarah",
+        "totalReplyBtns": 3
+      }
+    },
+    "box-state": {
+      "ok": true,
+      "r": {
+        "tag": "TEXTAREA",
+        "placeholder": "Add a comment…",
+        "value": "@sarahcook6809 "
+      }
+    },
+    "type-draft1": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "readback1": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

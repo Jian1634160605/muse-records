@@ -1,0 +1,28 @@
+{
+  "ts": "2026-11-19 13:45:46 UTC",
+  "steps": {
+    "check": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": "Log into Facebook\nEmail or mobile number\nPassword\nLog in\nForgot password?\nCreate new account\nEnglish (US)\n中文(简体)\n日本語\n한국어\nFrançais (France)\nBahasa Indonesia\nPolski\nMore languages…\nSign Up\nLog In\nMessenger\nFacebook Lite\nVideo\nMeta Pay\nMeta Store\nMeta Quest\nRay-Ban Meta\nMeta AI\nMuse\nInstagram\nThreads\nP",
+        "screenshot": "shots/profile_65.png",
+        "debugging_address": "127.0.0.1:54668"
+      }
+    },
+    "notif": {
+      "ok": true,
+      "r": {
+        "url": "https://www.facebook.com/",
+        "title": "Facebook",
+        "len": 436,
+        "text": "Log into Facebook\nEmail or mobile number\nPassword\nLog in\nForgot password?\nCreate new account\nEnglish (US)\n中文(简体)\n日本語\n한국어\nFrançais (France)\nBahasa Indonesia\nPolski\nMore languages…\nSign Up\nLog In\nMessenger\nFacebook Lite\nVideo\nMeta Pay\nMeta Store\nMeta Quest\nRay-Ban Meta\nMeta AI\nMuse\nInstagram\nThreads\nPrivacy Policy\nPrivacy Center\nAbout\nCreate ad\nCreate Page\nDevelopers\nCareers\nCookies\nAd choices \nTerms\nHelp\nContact Uploading & Non-Users"
+      }
+    }
+  }
+}

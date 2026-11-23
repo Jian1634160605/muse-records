@@ -1,0 +1,22 @@
+{
+  "ts": "2026-11-22 16:46:33 UTC",
+  "steps": {
+    "goto_notif": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/notifications/",
+        "profile_id": 65
+      }
+    },
+    "notif_text": {
+      "ok": true,
+      "r": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\nmehdikianofficial\nMehdi Kian\nFollowed by kian.studio2026\nFollow\nrezazes\nrezaaz\nSuggested for you\nFollow\nnadiaaa.dehghan\nSuggested for you\nFollow\nkhademi4250\nMehdi khademi\nFollowing novinchoob_co\nFollow\ninstagram\nInstagram\nFollowed by manavipour + 6 more\nFollow\nghazal94471\nGhazal\nSuggested for you\nFollow\nvazifedan_sadegh\nصادق وظيفه دان\nFollowing zistyaran.ir\nFollow\nali.aydin743017\nali aydin\nSuggested for you\nFollow\natpaintingsyd\nNick - AT Painting & Decorating\nSuggested for you\nFollow\ntohid__m22\nT O H I D\nFollowed by aliasghar_zolfaghari_\nFollow\njalilmokanik.tabriz\njalil\nFollowed by aliasghar_zolfaghari_\nFollow\nnasiii.mmmm\nnasim\nFollowing hahauavavva + 1 more\nFollow\nmasoodabed524\nمسعود\nFollowed by aliasghar_zolfaghari_\nFollow\nxlandmedia\nMadia | Software Engineer\nSuggested for you\nFollow\ncar_beautyclinic\nhasan sadig\nFollowed by aliasghar_zolfaghari_\nFollow\naboozarashoori5\nAboozar@Ashoori\nSuggested for you\nFollow\ngholamreza.neysha...\ngholamreza.neyshabouri\nFollowed by aliasghar_zolfaghari_\nFollow\nitsparisun\nParisa 🪽\nSuggested for you\nFollow\nexodus_mmxx\nMohsen\nSuggested for you\nFollow\nmahdiyeh_s9\nmahdiyeh.s\nSuggested for you\nFollow\naliriza_tabrizi\nعلیرضا پاکی\nFollowed by aliasghar_zolfaghari_\nFollow\nazizporra\nmalek\nSuggested for you\nFollow\nali.salehww\nAli\nFollowed by aliasghar_zolfaghari_\nFollow\nbaran64580\nbaran\nSuggested for you\nFollow\ndainaser71\nDaii naser\nSuggested for you\nFollow\nrezaesmaeili.1338\nreza esmaeili .1338\nSuggested for you\nFollow\nfariborzbabrafkan\nFariborz BA\nFollowed by kian.studio2026\nFollow\nshima_karimifard\nshima karimifard\nFollowing novinchoob_co\nFollow\ntourchi.1\nSuggested for you\nFollow\nmorteza___saffar\n👑MORTEZA👑\nSuggested for you\nFollow\nSee All Suggestions\nABOUT\nHELP\nPRESS\nAPI\nJOBS\nPRIVACY\nCONSUMER HEALTH PRIVACY\nTERMS\nLOCATIONS\nLanguage\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\nMETA VERIFIED\n© 2026 INSTAGRAM FROM META\nMessages"
+    },
+    "url": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 84 bytes remaining to read\n"
+    }
+  }
+}

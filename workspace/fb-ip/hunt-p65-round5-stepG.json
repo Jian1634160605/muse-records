@@ -1,0 +1,40 @@
+{
+  "ts": "2026-11-19 12:47:31 UTC",
+  "steps": {
+    "goto-explore": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/explore/",
+        "profile_id": 65
+      }
+    },
+    "explore": {
+      "ok": true,
+      "r": {
+        "url": "https://www.instagram.com/explore/",
+        "title": "Instagram",
+        "len": 680,
+        "links": [
+          "/p/DectwPbI1QN/",
+          "/p/DfZWVJEKgzi/",
+          "/p/DewFMDnIGcE/",
+          "/p/DfI2Pletlzw/",
+          "/p/DfzD8YHgBSW/",
+          "/p/Der4TPyKgCJ/",
+          "/p/Dev7_dMoDNz/",
+          "/p/DfHBatNMfk1/",
+          "/p/DfM6QjURRe7/",
+          "/p/DdjAQvzC-Ug/",
+          "/p/DfnZGYiMBpc/",
+          "/p/DfipAU6PZR5/",
+          "/p/DcrXDj5MMas/",
+          "/p/Dc9p5flDGBN/",
+          "/p/Dfxl5FiRER9/"
+        ],
+        "text": "Search\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages"
+      }
+    }
+  }
+}

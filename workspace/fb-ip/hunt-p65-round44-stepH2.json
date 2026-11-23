@@ -1,0 +1,17 @@
+{
+  "ts": "2026-11-22 14:06:33 UTC",
+  "steps": {
+    "close65_#1": {
+      "ok": false,
+      "err": "调用 POST /close 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "close65_#2": {
+      "ok": false,
+      "err": "调用 POST /close 失败（curl 18）：curl: (18) transfer closed with 46 bytes remaining to read\n"
+    },
+    "opened_after": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

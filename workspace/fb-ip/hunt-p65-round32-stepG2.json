@@ -1,0 +1,17 @@
+{
+  "ts": "2026-11-22 15:58:04 UTC",
+  "steps": {
+    "goto_reel": {
+      "ok": false,
+      "err": "调用 POST /goto 失败（curl 18）：curl: (18) transfer closed with 115 bytes remaining to read\n"
+    },
+    "url": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "comments": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

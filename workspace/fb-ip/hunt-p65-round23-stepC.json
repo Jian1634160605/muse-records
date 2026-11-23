@@ -1,0 +1,43 @@
+{
+  "ts": "2026-11-20 14:44:25 UTC",
+  "steps": {
+    "goto_profile": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/",
+        "profile_id": 65
+      }
+    },
+    "og_title": {
+      "ok": true,
+      "r": "Dr. Qin Hao (@gaga5456) • Instagram photos and videos"
+    },
+    "header_text": {
+      "ok": true,
+      "r": "Note...\ngaga5456\nDr. Qin Hao\n14 posts\n0 followers\n47 following\nAI-generated profile\nDr. Qin Hao\nRhinoplasty Specialist\nShanghai\nEdit profile\nView archive\nNew"
+    },
+    "url": {
+      "ok": true,
+      "r": "https://www.instagram.com/gaga5456/"
+    },
+    "links": {
+      "ok": true,
+      "r": [
+        "/gaga5456/reel/Df66LDKMDYl/",
+        "/gaga5456/reel/Df6VpLAMU0y/",
+        "/gaga5456/reel/DfhFWGIsSch/",
+        "/gaga5456/reel/Dfgz9tMsEAb/",
+        "/gaga5456/reel/DfgNr81sInh/",
+        "/gaga5456/reel/Dfej33tANgh/",
+        "/gaga5456/reel/DfdsOEuDIbg/",
+        "/gaga5456/reel/DfdfYRUFRVx/",
+        "/gaga5456/reel/DfcZmu8j3vV/",
+        "/gaga5456/reel/Dfb9rv-AaSa/",
+        "/gaga5456/reel/Dfa4v7wE31_/",
+        "/gaga5456/reel/DfZdMDHlrhb/"
+      ]
+    }
+  }
+}

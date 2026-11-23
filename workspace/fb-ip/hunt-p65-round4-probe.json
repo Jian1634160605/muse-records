@@ -1,0 +1,23 @@
+{
+  "round": 4,
+  "started": "2026-11-17 13:04:07",
+  "steps": [
+    {
+      "name": "health",
+      "ok": true,
+      "secs": 1.5,
+      "data": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 6
+      }
+    },
+    {
+      "name": "opened",
+      "ok": false,
+      "secs": 30.0,
+      "error": "调用 GET /opened 失败（curl 28）：curl: (28) Operation timed out after 30000 milliseconds with 0 bytes received\n"
+    }
+  ],
+  "finished": "2026-11-17 13:04:38"
+}

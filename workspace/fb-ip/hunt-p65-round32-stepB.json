@@ -1,0 +1,25 @@
+{
+  "ts": "2026-11-22 15:45:54 UTC",
+  "steps": {
+    "goto_ig": {
+      "ok": false,
+      "err": "调用 POST /goto 失败（curl 18）：curl: (18) transfer closed with 89 bytes remaining to read\n"
+    },
+    "title": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 53 bytes remaining to read\n"
+    },
+    "og_title": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "url": {
+      "ok": true,
+      "r": "https://www.instagram.com/"
+    },
+    "body_snippet": {
+      "ok": true,
+      "r": "nagham105.3\nsarv.mh\nsinam.1\nmajidyousefy\nvilaa.online\namirmehran.gold\nkarlo.furniture\ndarushparsinezhad\nnagham105.3\n and \nameranour\n•\n55m\nOriginal audio\n16\n1\nnagham105.3\nوصول النجم القدير فاروق فلوكس لإذاعة راديو النيل و لقاء حصري مع أميرة نور في برنامج لمن يهمه الفن ✨... \nmore\nSee translation\nkarlo.furniture\n•\n3h\nOriginal audio\n35\n2\n13\nkarlo.furniture\nبا هر بودجه‌ای بیا مبلمان کارلو! 😍\n... \nmore\nSee translation\nmoekwt\n•\n4h\nSuggested for you\nFollow\n268\n6\n83\n121\nmoekwt\n«طفل يقرأ» تستقطب الطلبة في معرض الكتاب عبر جناح وزارة التربية... \nmore\nSee translation\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages"
+    }
+  }
+}

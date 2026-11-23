@@ -1,0 +1,5 @@
+{
+  "round": "2026-11-22 22:12 retry2",
+  "profile": 65,
+  "health": "FAIL 调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+}

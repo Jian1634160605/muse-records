@@ -1,0 +1,13 @@
+{
+  "ts": "2026-11-22 13:48:32 UTC",
+  "steps": {
+    "notif_text": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 2838 bytes remaining to read\n"
+    },
+    "notif_text2": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

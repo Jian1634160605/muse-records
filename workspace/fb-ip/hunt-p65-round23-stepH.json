@@ -1,0 +1,28 @@
+{
+  "ts": "2026-11-20 14:47:50 UTC",
+  "steps": {
+    "close65": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "closed": true
+      }
+    },
+    "opened": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 38,
+            "debugging_address": "127.0.0.1:52917",
+            "pid": 23296,
+            "open_time": "2026-11-20 22:27:33"
+          }
+        ],
+        "total": 1
+      }
+    }
+  }
+}

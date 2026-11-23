@@ -1,0 +1,31 @@
+{
+  "ts": "2026-11-20 17:47:07 UTC",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "click_innermost": {
+      "ok": true,
+      "r": "found 1 innermost, tag=SPAN"
+    },
+    "click_it": {
+      "ok": true,
+      "r": "clicked"
+    },
+    "after": {
+      "ok": true,
+      "r": {
+        "has_view_all": false,
+        "has_hide": true,
+        "has_revision": true,
+        "snippet": "ad my nose done elsewhere and I'm not happy with it. Can you fix a revision? How much would it cost?\nReply\nHide all replies\ngaga5456\n \n1d\n@sarahcook68Revision rhinoplasty is definitely something Dr. Qin Hao does — the key is seeing how your nose healed and what you'd like changed, so a photo review comes first. If you send us a front and side photo by DM, we can set up a free video consultation to talk through what's realistic. What bothers you most about the result — the shape, or how it sits with the rest of your face?09\nReply\nelainaklocko_lily.02176\n \n1d\nThe taping looks so neat! How long do you need to keep the tape on? And how much is a "
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ts": "2026-11-22 15:47:22 UTC",
+  "steps": {
+    "goto_profile": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/",
+        "profile_id": 65
+      }
+    },
+    "og_title": {
+      "ok": true,
+      "r": "Dr. Qin Hao (@gaga5456) • Instagram photos and videos"
+    },
+    "header_text": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "url": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "links": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

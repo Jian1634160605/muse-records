@@ -1,0 +1,30 @@
+{
+  "ts": "2026-11-20 16:46:23 UTC",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "click_view_replies": {
+      "ok": true,
+      "r": "clicked 4 candidates"
+    },
+    "comments_after": {
+      "ok": true,
+      "r": "REPLY TEXT NOT FOUND; innerText len=1731"
+    },
+    "thread_state": {
+      "ok": true,
+      "r": {
+        "has_view_all": true,
+        "has_hide": false,
+        "has_revision": false
+      }
+    }
+  }
+}

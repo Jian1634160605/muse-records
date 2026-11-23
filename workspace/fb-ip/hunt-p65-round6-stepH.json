@@ -1,0 +1,52 @@
+{
+  "ts": "2026-11-19 13:51:28 UTC",
+  "steps": {
+    "goto-reel-fresh": {
+      "ok": false,
+      "err": "调用 POST /goto 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "verify-draft1": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "click-reply-elaina": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "box-state2": {
+      "ok": true,
+      "r": {
+        "value": ""
+      }
+    },
+    "type-draft2": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "goto-reel-fresh2": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "verify-draft2": {
+      "ok": true,
+      "r": {
+        "frags": {
+          "no one-size price": true,
+          "about a week after surgery": true,
+          "more defined change": true
+        },
+        "context": "k in my bio — happy to answer your questions.ReplyLikegaga5456 11sUsually the tape stays on for about a week after surgery, then Dr. Qin Hao checks the swelling and decides what comes next — it varies a little from nose to nose. As for cost, there's no one-size price since the bridge, tip, and what you'd like changed all shape the plan. Would you want a subtle refinement, or a more defined change?ReplyLikesarahcook6809 7hJust had my nose done elsewhere and I'm not happy with it. Can you fix a revision? How much would it cost?ReplyLikeView all 1"
+      }
+    }
+  }
+}

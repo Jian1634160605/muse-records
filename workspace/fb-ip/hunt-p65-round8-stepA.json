@@ -1,0 +1,38 @@
+{
+  "ts": "2026-11-19 15:46:37 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "err": "调用 GET /health 失败（curl 18）：curl: (18) transfer closed with 55 bytes remaining to read\n"
+    },
+    "opened": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:37063",
+            "pid": 38064,
+            "open_time": "2026-11-19 23:27:14"
+          },
+          {
+            "profile_id": 63,
+            "debugging_address": "127.0.0.1:11058",
+            "pid": 40760,
+            "open_time": "2026-11-19 23:37:22"
+          }
+        ],
+        "total": 2
+      }
+    },
+    "open65": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:34720"
+      }
+    }
+  }
+}

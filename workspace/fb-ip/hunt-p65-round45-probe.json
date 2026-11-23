@@ -1,0 +1,45 @@
+{
+  "round": 45,
+  "ts": "2026-11-22 14:44:58 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "attempt": 3,
+      "err": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "opened": {
+      "ok": true,
+      "attempt": 2,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:51610",
+            "pid": 21940,
+            "open_time": "2026-11-22 22:13:36"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:41622",
+            "pid": 43740,
+            "open_time": "2026-11-22 22:15:57"
+          },
+          {
+            "profile_id": 35,
+            "debugging_address": "127.0.0.1:27462",
+            "pid": 39856,
+            "open_time": "2026-11-22 22:27:27"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:13383",
+            "pid": 25160,
+            "open_time": "2026-11-22 22:17:05"
+          }
+        ],
+        "total": 4
+      }
+    }
+  }
+}

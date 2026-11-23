@@ -1,0 +1,22 @@
+{
+  "ts": "2026-11-22 13:46:53 UTC",
+  "steps": {
+    "goto_notif": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/notifications/",
+        "profile_id": 65
+      }
+    },
+    "notif_text": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 2009 bytes remaining to read\n"
+    },
+    "url": {
+      "ok": true,
+      "r": "https://www.instagram.com/notifications/"
+    }
+  }
+}

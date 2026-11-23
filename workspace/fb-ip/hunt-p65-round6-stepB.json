@@ -1,0 +1,57 @@
+{
+  "ts": "2026-11-19 13:44:06 UTC",
+  "steps": {
+    "goto-home": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/",
+        "profile_id": 65
+      }
+    },
+    "home": {
+      "ok": true,
+      "r": {
+        "url": "https://www.instagram.com/",
+        "title": "Instagram",
+        "og": "",
+        "len": 1192,
+        "text": "sinam.1\nnagham105.3\nkian.studio2026\ndarushparsinezhad\nkarlo.furniture\nmilad7r\ndor__fa\nradiohits882\n and 4 others\n•\n2d\nOriginal audio\n4\n1\nradiohits882\nمدير التصوير أحمد المرسي وحديث عن أهم أعماله، من مهرجان القاهرة السينمائي الدولي بدورته الـ47🎥✨\n... \nmore\nSee translation\nmuse\n and \nmeta\n•\n18h\nAI content\nSuggested for you\n3.3K\n86\n177\n246\nmuse\nLess “can i pull this off?” more “let’s see.”... \nmore\ninstagram\n•\n2d\nSuggested for you\nFollow\n235.6K\n5.5K\n5.3K\n8.8K\ninstagram\nthe creative vision is VISIONING 👏⁣\n... \nmore\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPop"
+      }
+    },
+    "goto-profile": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/",
+        "profile_id": 65
+      }
+    },
+    "profile": {
+      "ok": true,
+      "r": {
+        "url": "https://www.instagram.com/gaga5456/",
+        "title": "Instagram",
+        "og": "Dr. Qin Hao (@gaga5456) • Instagram photos and videos",
+        "len": 831,
+        "header": "Note...\ngaga5456\nDr. Qin Hao\n14 posts\n0 followers\n47 following\nAI-generated profile\nDr. Qin Hao\nRhinoplasty Specialist\nShanghai\nEdit profile\nView archive\nNew",
+        "text": "Note...\ngaga5456\nDr. Qin Hao\n14 posts\n0 followers\n47 following\nAI-generated profile\nDr. Qin Hao\nRhinoplasty Specialist\nShanghai\nEdit profile\nView archive\nNew\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages"
+      }
+    },
+    "goto-notif": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/notifications/",
+        "profile_id": 65
+      }
+    },
+    "notif": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

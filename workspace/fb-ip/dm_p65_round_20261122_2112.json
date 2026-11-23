@@ -1,0 +1,57 @@
+{
+  "round": "2026-11-22 21:12",
+  "profile": 65,
+  "health": "ok",
+  "opened_before": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:22520",
+        "pid": 40880,
+        "open_time": "2026-11-22 21:07:49"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:22992",
+        "pid": 14524,
+        "open_time": "2026-11-22 21:13:45"
+      }
+    ],
+    "total": 2
+  },
+  "was_open": false,
+  "open": "ok",
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2773,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\njalilmokanik.tabriz\njalil\nFollowed by aliasghar_zolfaghari_\nFollow\ninstagram\nInstagram\nFollowed by mohammad.modirrousta + 6 more\nFollow\nanitafarahani\nanita farahani\nSuggested for you\nFollow\n20miss.royaa\nRoya____Hj70💜\nSuggested for you\nFollow\nnsrynsfry01\nnasrinsafari\nSuggested for you\nFollow\nsara_naseri717\nsara naseri\nFollowing novinchoob_co\nFollow\nnoyanvafa2024\nnoyan\nSuggested for you\nFollow\nsmosavy\nFollowing novinchoob_co\nFollow\nmaliherudaki\nmaliherudaki\nFollowing novinchoob_co\nFollow\nhossein_zareh64\nhossein\nSuggested for you\nFollow\nstarsky_pro\nStepan Arshynov\nFollowed by kian.studio2026\nFollow\nkhalilnafei\nkhalilnafei\nSuggested for you\nFollow\nwav.mim\nwav.maryam🦋\nSuggested for you\nFollow\nsamiratanide\nsamira tanideh\nSuggested for you\nFollow\nmortezaassarkashani\nMorteza Assar Kashani\nSuggested for you\nFollow\nmoohsenmiri\nMohsen Miri\nFollowing novinchoob_co\nFollow\nmo_hammad.8.88\nمحمد\nSuggested for you\nFollow\nel.amirdadbar56\nElHaM 👨‍👩‍👧💕\nSuggested for you\nFollow\npoet461\npoet\nSuggested for you\nFollow\nmorteza.statik\nmorteza\nFollowed by aliasghar_zolfaghari_\nFollow\nonlygod414\nFollowing novinchoob_co\nFollow\nxlandmedia\nMadia | Software Engineer\nSuggested for you\nFollow\nmehdikianofficial\nMehdi Kian\nFollowed by kian.studio2026\nFollow\nmobiiin._.pv\n𝑚𝑜𝑏𝑖𝑛\nFollowed by aliasghar_zolfaghari_\nFo"
+  },
+  "close": "ok",
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:22992",
+        "pid": 14524,
+        "open_time": "2026-11-22 21:13:45"
+      }
+    ],
+    "total": 1
+  },
+  "still_open": false
+}

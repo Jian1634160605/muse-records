@@ -1,0 +1,26 @@
+{
+  "ts": "2026-11-22 16:45:18 UTC",
+  "steps": {
+    "goto_profile": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/",
+        "profile_id": 65
+      }
+    },
+    "header": {
+      "ok": true,
+      "r": "Note...\ngaga5456\nDr. Qin Hao\n17 posts\n0 followers\n47 following\nAI-generated profile\nDr. Qin Hao\nRhinoplasty Specialist\nShanghai\nEdit profile\nView archive\nNew"
+    },
+    "og_title": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 99 bytes remaining to read\n"
+    },
+    "url": {
+      "ok": true,
+      "r": "https://www.instagram.com/gaga5456/"
+    }
+  }
+}

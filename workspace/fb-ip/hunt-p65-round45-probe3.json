@@ -1,0 +1,18 @@
+{
+  "round": 45,
+  "ts": "2026-11-22 14:53:53 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "err": "调用 GET /health 失败（curl 18）：curl: (18) transfer closed with 55 bytes remaining to read\n"
+    },
+    "opened": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "close65": {
+      "ok": false,
+      "err": "调用 POST /close 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

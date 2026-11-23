@@ -1,0 +1,29 @@
+{
+  "ts": "2026-11-22 16:56:12 UTC",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df6VpLAMU0y/",
+        "profile_id": 65
+      }
+    },
+    "expand_innermost": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 53 bytes remaining to read\n"
+    },
+    "sarah_reply_present": {
+      "ok": true,
+      "r": {
+        "present": true,
+        "snippet": "evision? How much would it cost?ReplyLikeHide all repliesgaga5456 3d@sarahcook68Revision rhinoplasty is definitely something Dr. Qin Hao does — the key is seeing how your nose healed and what you'd like changed, so a photo review comes first. If you send us a front and side photo by DM, we can set u"
+      }
+    },
+    "elaina_reply_present": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 59 bytes remaining to read\n"
+    }
+  }
+}

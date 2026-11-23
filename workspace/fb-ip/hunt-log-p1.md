@@ -50,3 +50,22 @@
 - **客资**：无。
 - **关闭：未关。** profile 1 在本轮末仍由并行轮次占用（20:57:59 刚被重开，标签页不在我离开时的群组页）；此时 close(1) 会掐断并行私信轮次的浏览器，故留待占用方自行关闭。**下轮注意**：开轮先用 opened() 核对 profile 是否已开、被谁占用；勿对已关的号调 check（会重拉起，见 AGENTS.md 2026-11-17 补充）。
 - **待处理**：Jen Tuller 颈部提升帖是本轮唯一拟好草稿的合格目标，下轮优先定位链接→E07 打分→发；agent 失联与标签页抢占问题需总管定夺（是否错开同号猎手/私信时段或分标签页跑）。
+
+## 2026-11-17 21:05 第四轮（21:05–约21:40，0 条评论发出，本轮中途被用户叫停）
+
+- **身份核验：通过（两次）**。轮初 opened() 显示 profile 1 已开（21:06:24，疑似并行 fb-dm-p1 打开），check 显示 account_name=Emerson，facebook.com 已登录，未重复 open。21:1x profile 1 从 opened() 列表消失后重开 open(1) 成功（新调试端口 127.0.0.1:20181），check 再次核验为 Emerson。
+- **通知**：无本号帖子下的待回真人评论。未读新增：Bautista B Reymark、Wanye Jong、Maivel Monsef 点赞本号 reel（"A beautiful side profile starts with a..."，2m 前）；reel 达 500 播放（6m 前）；FaceLift Support Group 入群欢迎（1h 前）。好友请求只剩 Khiraj Khiraj（6h）、M Waseem Sikander Bhutto（19h，1 位共同好友），T Bou T Bou 已不在列表；身份不明，仍未通过、未联系，留给私信轮次筛查。
+- **目标筛查（未发出的候选）**：
+  - 面提：Jen Tuller "Has anyone done just a neck lift?"——群内搜索 "Jen Tuller" 只返回租房广告垃圾帖，未定位到该帖；上轮草稿仍有效（见上轮，未过 E07），未发。
+  - 面提/鼻子混合：匿名参与者组合手术意向帖（neck lift 搜索结果）——"considering a combination of procedures, including a cheek lift, deep plane facelift and neck lift, brow lift, upper and lower blepharoplasty, and possibly some buccal fat removal. Received a quote of around $31,000 in the US, curious about Vietnam and Thailand"——仍在找、未定、问价/问地点/问经历，未锚定特定医生，符合目标标准。**未拿到帖子链接**：页面 DOM 里无 /posts/ 或 permalink 链接；正尝试用 JS 定位该帖评论框时 agent 报错中断。
+  - 不碰的：neck lift 搜索结果前几条均为已术后求助（12 周术后求意见、术后 6 天肿胀惊慌、术后 27 天下巴 ridge、术后神经受影响致嘴唇活动受限）；群首页首条 Doctor Liu 机构帖；Jen Tuller 搜索返回的租房广告号（Giri Yadhave、Tayly Sia）。
+- **Agent/ profile 故障（致命问题，本轮主因）**：
+  - 21:2x eval 报 `打开 profile 1失败：code=2012 message=此窗口正在云备份，请稍后打开`；等 60 秒后 opened() 显示仅剩 profile 38 在线，profile 1 已不在列表（并行轮次疑似已结束并关闭，或云备份踢掉窗口）。
+  - 重开后 goto neck lift 搜索页成功，但随后 eval 再报 2012；等 90 秒后 eval 返回 facebook.com 首页、textlen=0（空白页）；再等 45 秒仍空白；goto 重载成功后 eval 报 curl 52 Empty reply；等 60 秒后 /health 亦报 curl 52。
+  - **结论：ixBrowser agent 在本轮后段完全失联，与上轮 20:2x–20:4x 的失联模式相同；且 profile 1 反复出现云备份 2012 错误与空白页。失联期间任何操作都不可信，未点击任何评论框、未输入任何文字。**
+- **用户叫停（21:23）**：用户当面下令"停用所有任务"，20 个多号任务及全部非系统任务已停用，在跑的轮次逐个叫停；本轮即按此停止，不再重试、不再发评论。另据核查记录：21:21–21:23 用户电脑上的 ixBrowser agent 已无响应，已开窗口无法远程核验关闭，须用户电脑侧重启 agent 后再核验。
+- **发布结果：0 条发出。** 未过 E07（Jen Tuller 草稿与组合手术帖均未走到打分发帖环节）、未点击评论框。
+- **核验**：无（未发）。
+- **客资**：无。
+- **关闭：未确认。** agent 失联后 close(1) 无法执行；profile 1 最后状态未知（空白 facebook.com 首页），须 agent 恢复后核验 opened() 并关闭。21:38 左右 /health 重试（等 180 秒后）仍报 curl 52 Empty reply，agent 仍未恢复。
+- **待处理**：① 任务恢复跑时，优先发 Jen Tuller 颈部提升帖（草稿见上轮，需先过 E07）与匿名组合手术意向帖（需先拿链接、再拟稿过 E07）；② agent 失联 + 云备份 2012 + 空白页问题须在用户电脑侧重启 agent 后复核，非本号单号问题。

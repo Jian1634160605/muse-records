@@ -1,0 +1,27 @@
+{
+  "ts": "2026-11-22 16:50:19 UTC",
+  "code": "Df96NLVMX8g",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df96NLVMX8g/",
+        "profile_id": 65
+      }
+    },
+    "comments_compact_#1": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 1176 bytes remaining to read\n"
+    },
+    "comments_compact_#2": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "comments_compact_#3": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 1176 bytes remaining to read\n"
+    }
+  }
+}

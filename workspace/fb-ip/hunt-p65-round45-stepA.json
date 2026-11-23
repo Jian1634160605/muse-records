@@ -1,0 +1,33 @@
+{
+  "round": 45,
+  "ts": "2026-11-22 14:43:10 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "err": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "opened": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "open65_attempts": [
+      {
+        "n": 1,
+        "result": "FAIL",
+        "err": "调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server\n"
+      },
+      {
+        "n": 2,
+        "result": "FAIL",
+        "err": "调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server\n"
+      },
+      {
+        "n": 3,
+        "result": "FAIL",
+        "err": "调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server\n"
+      }
+    ]
+  },
+  "was_open": false,
+  "i_opened_it": true
+}
