@@ -1,0 +1,1 @@
+[{"args":{"kind":"video","limit":100,"path":"/volume1/秦浩医生/案例/2026-9-15-鼻子/查房"},"tool":"list_folder"},{"args":{"path":"/volume1/秦浩医生/案例/2026-9-15-鼻子/查房/IMG_9047.MOV"},"tool":"get_asset"},{"args":{"paths":["/volume1/秦浩医生/案例/2026-9-15-鼻子/术后/IMG_8998.MOV","/volume1/秦浩医生/案例/2026-9-15-鼻子/查房/IMG_9047.MOV"],"size":"large"},"save_images":"v4check","tool":"view_thumbnails"}]

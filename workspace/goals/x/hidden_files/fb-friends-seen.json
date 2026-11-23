@@ -31,11 +31,6 @@
       "profile_url": "https://facebook.com/profile.php?id=100034616923592"
     },
     {
-      "friend_id": "100024776107759",
-      "name": "梁先化",
-      "profile_url": "https://facebook.com/profile.php?id=100024776107759"
-    },
-    {
       "friend_id": "100010732600060",
       "name": "Shandi Utama Alcho",
       "profile_url": "https://facebook.com/shandi.alcho"
@@ -141,11 +136,6 @@
       "profile_url": "https://facebook.com/profile.php?id=61595352817361"
     },
     {
-      "friend_id": "1498000107",
-      "name": "Lauren Murphy",
-      "profile_url": "https://www.facebook.com/lauren.dalessio.7"
-    },
-    {
       "friend_id": "100040622077325",
       "name": "Wai Chun Tsui",
       "profile_url": "https://facebook.com/profile.php?id=100040622077325"
@@ -164,11 +154,52 @@
       "friend_id": "100002680481233",
       "name": "Joe Lam",
       "profile_url": "https://facebook.com/taihung1511"
+    },
+    {
+      "friend_id": "61592576663150",
+      "name": "Nilton Apaza Ch",
+      "profile_url": "https://facebook.com/profile.php?id=61592576663150"
+    },
+    {
+      "friend_id": "61557168962574",
+      "name": "沈己",
+      "profile_url": "https://facebook.com/chen.ji.344554"
+    },
+    {
+      "friend_id": "100038360259107",
+      "name": "Kwok Fai Yu",
+      "profile_url": "https://facebook.com/kwokfai.yu.52"
+    },
+    {
+      "friend_id": "100091967694544",
+      "name": "Bonnie Lee",
+      "profile_url": "https://facebook.com/profile.php?id=100091967694544"
+    },
+    {
+      "friend_id": "100032026241599",
+      "name": "Mei Hou Lei",
+      "profile_url": "https://facebook.com/meihou.lei"
+    },
+    {
+      "friend_id": "100027029514004",
+      "name": "Chi Wah Fan",
+      "profile_url": "https://facebook.com/chiwah.fan.33"
+    },
+    {
+      "friend_id": "61569600075016",
+      "name": "蒋德涛",
+      "profile_url": "https://facebook.com/profile.php?id=61569600075016"
+    },
+    {
+      "friend_id": "61594335544419",
+      "name": "Sandy Jing",
+      "profile_url": "https://facebook.com/profile.php?id=61594335544419"
     }
   ],
   "retrieved_at": {
-    "user_local": "2026-11-17T16:56:18.000+08:00",
+    "user_local": "2026-11-23T05:22:00.000+08:00",
     "user_timezone": "Asia/Shanghai",
-    "utc": "2026-11-17T08:56:18.000Z"
+    "utc": "2026-11-22T21:22:00.000Z",
+    "note": "05:18 fb-dm-thread-watch round — pages=[20,19,0] total=39, added=0, removed=1 (Lauren Murphy 1498000107, qualified lead #3 already handed to consultation team via WhatsApp; no action, do not contact), renamed=0; confirmed by 2 consecutive diff runs (first clean pass, second after 429 backoffs 60s+90s); baseline 40 -> 39."
   }
 }

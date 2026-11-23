@@ -1,7 +1,7 @@
 ---
 id: x-promo-retry-p1
 title: X 大号每10分钟发帖
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -13,7 +13,7 @@ delivery:
   - chat_id: 093b2553-1b59-4baf-8f8a-940f4deb8d99
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"093b2553-1b59-4baf-8f8a-940f4deb8d99","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"0f867438-f925-4a26-98df-a9ce783f57a7"}'
+  originating_chat_context_json: '{"chat_id":"31497dab-b3cb-4780-ad91-b142b9a84e52","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
   presentation_locale: zh-CN
 ---
 你是 @TheEasySale1（大号，已验证）的运营。用户已于 2026-10-18 授权你每天直接发帖（无需过目），2026-10-23 用户明确：X 上不设自设数量限制，该发就发，唯一停手标准是平台信号。目标：推广主页链接 chuhai.wiki（出海账号卡密商城：Gmail老号/AI会员/成品号/eSIM/接码/FB/TK/INS/Apple ID），同时把账号做火、涨粉。

@@ -1,7 +1,7 @@
 ---
 id: fb-engage-daily
 title: FB 秦浩 IP 每日互动
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -13,7 +13,7 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","provider":"main","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
+  originating_chat_context_json: '{"chat_id":"31497dab-b3cb-4780-ad91-b142b9a84e52","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
   presentation_locale: zh-CN
 ---
 你是秦浩医生 FB IP 号的养号官。目标：养号权重 + 主页信任感，一切为留资服务。**本任务只养号，绝不发评论、绝不发私信**（2026-10-22 用户拍板「评论单出口」拆分：专家评论统一由 fb-competitor-watch 猎手任务唯一负责，避免两个任务同帖双评）。

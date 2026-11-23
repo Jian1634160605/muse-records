@@ -1,0 +1,72 @@
+{
+  "ts": "2026-11-19 15:53:06 UTC",
+  "steps": {
+    "check65": {
+      "ok": true,
+      "tries": 1,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": "Log into Facebook\nEmail or mobile number\nPassword\nLog in\nForgot password?\nCreate new account\nEnglish (US)\n中文(简体)\n日本語\n한국어\nFrançais (France)\nBahasa Indonesia\nPolski\nMore languages…\nSign Up\nLog In\nMessenger\nFacebook Lite\nVideo\nMeta Pay\nMeta Store\nMeta Quest\nRay-Ban Meta\nMeta AI\nMuse\nInstagram\nThreads\nP",
+        "screenshot": "shots/profile_65.png",
+        "debugging_address": "127.0.0.1:34720"
+      }
+    },
+    "tabs": {
+      "ok": true,
+      "tries": 1,
+      "r": {
+        "ok": true,
+        "tabs": [
+          {
+            "title": "Facebook",
+            "url": "https://www.facebook.com/"
+          }
+        ],
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "profile_id": 65
+      }
+    },
+    "where": {
+      "ok": true,
+      "tries": 1,
+      "r": {
+        "url": "https://www.facebook.com/",
+        "title": "Facebook"
+      }
+    },
+    "goto-profile": {
+      "ok": true,
+      "tries": 1,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/",
+        "profile_id": 65
+      }
+    },
+    "grid-links": {
+      "ok": true,
+      "tries": 1,
+      "r": [
+        "/gaga5456/reel/Df66LDKMDYl/",
+        "/gaga5456/reel/Df6VpLAMU0y/",
+        "/gaga5456/reel/DfhFWGIsSch/",
+        "/gaga5456/reel/Dfgz9tMsEAb/",
+        "/gaga5456/reel/DfgNr81sInh/",
+        "/gaga5456/reel/Dfej33tANgh/",
+        "/gaga5456/reel/DfdsOEuDIbg/",
+        "/gaga5456/reel/DfdfYRUFRVx/",
+        "/gaga5456/reel/DfcZmu8j3vV/",
+        "/gaga5456/reel/Dfb9rv-AaSa/",
+        "/gaga5456/reel/Dfa4v7wE31_/",
+        "/gaga5456/reel/DfZdMDHlrhb/"
+      ]
+    }
+  }
+}

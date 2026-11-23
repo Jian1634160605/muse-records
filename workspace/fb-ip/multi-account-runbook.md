@@ -24,7 +24,8 @@
 - 客户端：`~/workspace/ixbrowser-driver/flows/ixb_client.py`，`IxAgent()` 类。令牌在 `~/workspace/ixbrowser-driver/agent_token.txt`，客户端自己读。**绝不打印令牌、绝不 cat 凭据文件到输出。**
 - 常用方法：`open(profile_id)`、`check(profile_id)`、`goto(profile_id, url)`、`eval(profile_id, js)`、`click(profile_id, css选择器)`、`type(profile_id, css选择器, 文本, enter=True/False)`、`shot(profile_id)`、`close(profile_id)`。
 - **绝不走 browser.browse**：云浏览器默认 profile 是 Victoria，用它发别的号的评论/私信会发错号（Bertie 教训）。本任务一律用 IxAgent。
-- 每轮结束必须 `close(profile_id)` 关掉，不留窗口。
+- 每轮结束必须 `close(profile_id)` 关掉，不留窗口——**除非轮开始时它已经开着**（见下条）。
+- **判断 profile 是否已开，一律用 `a.is_open(P)`（2026-11-22 00:36 教训）**：`/opened` 实际返回 `{"opened": [...]}`，列表项的 `profile_id` 可能是字符串，必须按字符串比对。不要自己写解析、不要从旧轮次脚本复制 `is_open`（旧版只认 `data`/`profiles` 键、整数比对，会误判为未开）。轮开始时 `was_open = a.is_open(P)`：为真说明别的轮次正在用这个号，本轮不 `open`、不 `close`，用完即走，绝不能关别人的窗口；为假才是本轮自己开的，轮末才 `close`。误关别人窗口 = 可能打断正在跑的发布/猎手轮次。
 
 ## 铁律：先核身份再动手
 

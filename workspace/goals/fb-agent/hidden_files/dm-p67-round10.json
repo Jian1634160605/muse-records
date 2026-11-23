@@ -1,0 +1,45 @@
+{
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 10
+  },
+  "opened_before": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:58046",
+        "pid": 19824,
+        "open_time": "2026-11-20 03:13:09"
+      },
+      {
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:56905",
+        "pid": 14492,
+        "open_time": "2026-11-20 03:18:49"
+      }
+    ],
+    "total": 2
+  },
+  "open": {
+    "ok": true,
+    "profile_id": 67,
+    "debugging_address": "127.0.0.1:50285"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 67,
+    "title": "(2) Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": "Ejje",
+    "name_source": "composer",
+    "page_text_sample": null,
+    "screenshot": "shots/profile_67.png",
+    "debugging_address": "127.0.0.1:50285"
+  },
+  "home_text": " \n2 Unread Chats\n2\nHome\nCreate a post\nWhat's on your mind, Ejje?\nStories\nCreate story\nLantho Flavio\nGihas Uddin\nRayan Rayan\nSohan Akanda\nRonald Boy\nLayon Larckam\nActive\nAnuvab Roy\nBabbu Babbu\nBe Olivier\nRashem Lal\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nOnline status indicator\nActive\nJan Mahamad\nAI content\n \n·\ns͏\no͏\nd͏\np͏\nS͏\nt͏\nr͏\nn͏\ne͏\no͏\n3͏\n ͏\no͏\ne͏\nb͏\nc͏\n6͏\n2͏\n4͏\n7͏\n:͏\n ͏\nt͏\n2͏\ng͏\n1͏\n0͏\nN͏\ng͏\ni͏\n ͏\n4͏\nv͏\nh͏\nm͏\nA͏\nm͏\nu͏\n ͏\nM͏\n1͏\nc͏\nm͏\n7͏\n9͏\nf͏\nh͏\n1͏\nh͏\nt͏\nr͏\nc͏\nm͏\n5͏\n0͏\na͏\nl͏\ne͏\n7͏\n7͏\n3͏\n \n·\nDelhi meri Jaan 🥹\nDisclaimer: DM for removal or credit \n… See more\nDelhilovereels\n \n· Follow\nNov 13\n \n · \nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nSponsored​\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\n免费送货 + 货到付款\nhttps://www.jk1000.com/product/garmin-gps-projection-system-114.html\nFriend requests\nSee all\nAhmad Hassan\n1h\n1 mutual friend\nConfirm\nDelete\nমোঃ জাকিরুল ইসলাম\nActive 3",
+  "notifications": " \nNotifications\nAll\nUnread\nYour push notifications are off\nTurn on notifications to stay connected\nTurn on\nNot now\nNew\nUnread\nAhmad Hassan sent you a friend request.\n1h\n1 mutual friend\nConfirm\nDelete\nToday\nUnread\nYour reel is published. You can also share to Stories, groups and other places.\n7h\nEarlier\nUnread\nমোঃ জাকিরুল ইসলাম poked you. \n13h\nUnread\nYour reel is published. You can also share to Stories, groups and other places.\n1d\nSee previous notifications\nমোঃ জাকিরুল ইসলাম\nActive 33m ago\nMessages\nThu 10:59 PM\nMessage not restored\nEnter, Message sent Thursday 10:59pm by a participant\nRestore messages\nPersonal chats are secured with end-to-end encryption, so you need to restore chat history when you switch devices.\nRestore now\nEnter, Messages are missing.\nমোঃ জাকিরুল\nEnter, Message sent Thursday 11:00pm by মোঃ জাকিরুল: 😡😡😡😡😡\nTumhare Desh Kaun Jayega\nEnter, Message sent Thursday 11:01pm by মোঃ জাকিরুল: Tumhare Desh Kaun Jayega\nTamasha Dev friend Dekhte chai\nEnter, Message sent Thursday 11:03pm by মোঃ জাকিরুল: Tamasha Dev friend Dekhte chai\nTumi con rashtagon Dragon number\nEnter, Message sent Thursday 11:04pm by মোঃ জাকিরুল: Tumi con rashtagon Dragon number\nCompose\nWrite to মোঃ জাকিরুল ইসলাম\n\n\n\n\nAa\nLoading messages",
+  "friend_requests": " \n2 Unread Chats\n2\nFriends\nFriend requests\n1 Friend request\nView sent requests\nAhmad Hassan\n1h\n1 mutual friend\nConfirm\nDelete\nSelect people's names to preview their profile.\nমোঃ জাকিরুল ইসলাম\nActive 34m ago\nMessages\nThu 10:58 PM\nমোঃ জাকিরুল\nAmi tomake miss korte\nEnter, Message sent Thursday 10:58pm by মোঃ জাকিরুল: Ami tomake miss korte\nTomar song friend Hote parina\nEnter, Message sent Thursday 10:58pm by মোঃ জাকিরুল: Tomar song friend Hote parina\nTumi kon desi\nEnter, Message sent Thursday 10:59pm by মোঃ জাকিরুল: Tumi kon desi\nUttar do na Kahana\nEnter, Message sent Thursday 10:59pm by মোঃ জাকিরুল: Uttar do na Kahana\nI miss you\nEnter, Message sent Thursday 10:59pm by মোঃ জাকিরুল: I miss you\nEnter, Message sent Thursday 10:59pm by মোঃ জাকিরুল: 😭😭😭😭😭\nEnter, Message sent Thursday 11:00pm by মোঃ জাকিরুল: 😡😡😡😡😡\nTumhare Desh Kaun Jayega\nEnter, Message sent Thursday 11:01pm by মোঃ জাকিরুল: Tumhare Desh Kaun Jayega\nTamasha Dev friend Dekhte chai\nEnter, Message sent Thursday 11:03pm by মোঃ জাকিরুল: Tamasha Dev friend Dekhte chai\nTumi con rashtagon Dragon number\nEnter, Message sent Thursday 11:04pm by মোঃ জাকিরুল: Tumi con rashtagon Dragon number\nCompose\nWrite to মোঃ জাকিরুল ইসলাম\n\n\n\n\nAa\nLoading messages",
+  "messages": " \nMessenger\nSkip to main content\nSkip to messages\nSkip to compose\nChats\nAll\nHas new content\nUnread\nGroups\nCommunities\nMore\nMuhamad Siddique\nUnread message:\n \n·\n58m\nমোঃ জাকিরুল ইসলাম\nUnread message:\nTumi con rashtagon Dragon number\n \n·\n4h\nMohsen Aziz\nMohsen sent a sticker.\n \n·\n2d\nNayan Nayan\nএলাছনবেকার\n \n·\n2d\nActive now\nLando Fer\nBsr\n \n·\n3d\nসৌরভ হাসান সালমান\nYou: Suck yourself \n \n·\n3d\nSimson Joseph\nYou: Sorry, I only have a link: https://wa.ginhao.me/nst\n \n·\n3d\nSheikh Alomgir\nok\n \n·\n3d\n \n·\nReply?\nMohammad Ksbeh\nYou: هل يمكنني إضافتك على واتساب؟ إذا كنت مهتماً، أود أن أتحدث معك عن عملية تجميل الأنف وعلاجات تجديد الشباب.\n \n·\n6d\nVincent Lubis\nYou: Can I add you on WhatsApp? I‘d like to talk about rhinoplasty and anti-aging treatments if you're interested.\n \n·\n6d\nGihas Uddin\nMessages and calls are secured with end-to-end encryption.\n \n·\n1w\nAbdelghani Elbaz\nMessages and calls are secured with end-to-end encryption.\n \n·\n1w\nJay L Jay\nYou: Hello. Would you like to learn about facial lifting? We offer a free online one-on-one customized plan and can start with a preliminary assessment of your main concern. Are you most concerned about the jawline, jowls, nasolabial folds, or neck laxity?\n \n·\n1w\nNo chats selected\nEnter your PIN to restore your chats\nSome messages are missing. Enter your PIN to restore your chat history.\n-\n-\n-\n-\n-\n-\nUse a one-time code instead\nMessenger. Press Shift and question mark for keyboard shortcuts."
+}

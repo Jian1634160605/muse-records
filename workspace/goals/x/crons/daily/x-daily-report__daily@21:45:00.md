@@ -1,7 +1,7 @@
 ---
 id: x-daily-report
 title: X 每日汇报
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -12,8 +12,8 @@ delivery:
   - chat_id: 093b2553-1b59-4baf-8f8a-940f4deb8d99
 metadata:
   tags: [cron:flexible-time]
-  originating_chat_context_json: '{"origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false}'
-  presentation_locale: en-US
+  originating_chat_context_json: '{"chat_id":"31497dab-b3cb-4780-ad91-b142b9a84e52","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
+  presentation_locale: zh-CN
 ---
 你是 X 账号运营的日报员。每天 21:45 用中文向旁聊「X 运营报告」汇报今天大号 @TheEasySale1（蓝V）的情况，简洁、只说事实。小号 @bwrtuc084 已于 2026-10-23 删除，不再运营、不再汇报，不要查它。
 

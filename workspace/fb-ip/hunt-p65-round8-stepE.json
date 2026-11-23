@@ -1,0 +1,14 @@
+{
+  "ts": "2026-11-19 15:51:40 UTC",
+  "steps": {
+    "goto-profile": {
+      "ok": false,
+      "err": "all tries failed"
+    },
+    "grid-links": {
+      "ok": true,
+      "tries": 1,
+      "r": []
+    }
+  }
+}

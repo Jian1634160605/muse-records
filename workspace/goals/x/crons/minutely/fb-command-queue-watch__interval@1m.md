@@ -1,7 +1,7 @@
 ---
 id: fb-command-queue-watch
 title: FB 园区命令队列盯守（1 分钟）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -13,7 +13,7 @@ delivery:
   - chat_id: 07b61800-4784-4c95-a4fe-19ac1fd1c9f3
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
+  originating_chat_context_json: '{"chat_id":"31497dab-b3cb-4780-ad91-b142b9a84e52","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
   presentation_locale: zh-CN
 ---
 每 1 分钟查一次 FB 园区（空间 fb-yun-ying-zhi-hui-zhong-xin-2）的新命令队列，让群聊里的命令有人接：

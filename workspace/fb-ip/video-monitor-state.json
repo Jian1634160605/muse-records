@@ -1,0 +1,58 @@
+{
+ "round": 14,
+ "time": "2026-11-19T20:27:36.623457+08:00",
+ "data": {
+  "IG-sarah-01m": {
+   "error": "insights 面板解析不到任何数字",
+   "raw_snippet": "sarahcook6809\nAI-generated profile\nOriginal audio\nsarahcook6809\n \nsarahcook6809\n \n18h\nCurious about a facelift consultation? Tap the WhatsApp link in my bio — happy to answer your questions.\nReply\ngaga5456\n \n5h\nThis is so reassuring to see! How do I book a video consultation? Do you offer them for o"
+  },
+  "IG-elaina-03m": {
+   "views": 15.0,
+   "reach": 2.0,
+   "views_3s": null,
+   "avg_watch_pct": null,
+   "reactions": 0.0,
+   "comments": 3.0,
+   "shares": 0.0,
+   "saves": 0.0,
+   "engaged": 3.0,
+   "follows": 0.0
+  },
+  "IG-gaga-02m": {
+   "error": "页面无 View insights 入口（可能未加载/不是作者本人视图）"
+  },
+  "IG-sarah-matlib01": {
+   "error": "页面无 View insights 入口（可能未加载/不是作者本人视图）"
+  },
+  "IG-elaina-matlib02": {
+   "views": 26.0,
+   "reach": 23.0,
+   "views_3s": null,
+   "avg_watch_pct": null,
+   "reactions": 0.0,
+   "comments": 2.0,
+   "shares": 0.0,
+   "saves": 0.0,
+   "engaged": 2.0,
+   "follows": 0.0
+  },
+  "IG-gaga-matlib03": {
+   "error": "页面无 View insights 入口（可能未加载/不是作者本人视图）"
+  },
+  "FB-victoria-01m": {
+   "error": "insights 暂无数据（FB 提示数据不足）"
+  },
+  "FB-jusa-02m": {
+   "error": "insights 暂无数据（FB 提示数据不足）"
+  },
+  "FB-oe-05m": {
+   "error": "读页面文本失败：POST /eval 失败：操作失败：Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at evaluate (:370:30), <anonymous>:1:21)\n    at UtilityScript.evaluate (<anonymous>:377:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+  },
+  "FB-lark-03m": {
+   "error": "insights 暂无数据（FB 提示数据不足）"
+  },
+  "FB-ejje-06m": {
+   "error": "打开 insights 页失败：POST /goto 失败：打开 profile 67失败：code=2012 message=此窗口正在云备份，请稍后打开"
+  }
+ }
+}

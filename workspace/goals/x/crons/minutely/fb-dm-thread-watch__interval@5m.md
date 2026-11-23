@@ -14,9 +14,11 @@ delivery:
   - chat_id: 2e7b7db1-0363-40bc-8c95-f4cb3b432c25
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"chat_id":"2e7b7db1-0363-40bc-8c95-f4cb3b432c25","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"3a86e1ead60c505a"}'
-  presentation_locale: en-US
+  originating_chat_context_json: '{"chat_id":"07b61800-4784-4c95-a4fe-19ac1fd1c9f3","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
+  presentation_locale: zh-CN
 ---
+【夜里窗口 2026-11-20 成安改定】本任务只在北京时间 18:30–次日 06:00（美东 05:30–17:00）发送任何私信或跟进；窗口外本轮只读不发：照常读线程、记台账、做新好友筛查记录，但不发送任何消息、不发首条、不发跟进、不发激活；客户新回复的接话也等到窗口内再发。窗口内按下面流程跑。
+
 **退回 Victoria 单线（2026-10-30 用户定）**：从本轮起私信盯守只走 Victoria 一个号。Fowler、Emerson、Jioklm、Jusa 四号暂停（不是删除），本任务不再查它们的线程、不再用它们的 FoxProfile 浏览器、不做四号停车动作。其他四号的新回复首接哨兵已停用，Victoria 的新回复首接仍走 30 秒 CLI 哨兵（fb-messenger-inbox）。Cristiana Winter、Kim Kieu 两线程为用户本人自聊（2026-10-30 09:55/09:59 用户本人发出），本任务绝不跟进、不计数、不报送；一般规则：最新消息为用户本人在台账外发出的线程一律勿动。
 
 **职责**：客户新回复的「第一时间接话」由实时盯守 hook 负责，不再靠本任务 5 分钟一轮发现。本任务保留三件事：①按节奏的跟进（B-18/B-19/真人式再询问）与客户激活盘点；②待私信名单的首条私信（陌生人新会话，注意平台 24h 新会话冻结窗口）；③台账维护。防重复回复：回复任何线程前先看 dm-threads.md，若同一线程 30 分钟内已有实时接手的处理记录，本轮跳过该线程。

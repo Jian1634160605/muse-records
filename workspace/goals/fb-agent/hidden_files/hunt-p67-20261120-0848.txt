@@ -1,0 +1,14 @@
+== 2026-11-20 08:48 Ejje p67 猎手轮开始 ==
+health: 10
+opened: [{"profile_id": 44, "debugging_address": "127.0.0.1:56235", "pid": 29916, "open_time": "2026-11-20 08:26:21"}]
+67 未开，无占用
+  [retry 1/4] POST /open 失败：打开 profile 67失败：code=1004 message=Unknown internal error
+  [retry 2/4] POST /open 失败：打开 profile 67失败：code=1004 message=Unknown internal error
+  [retry 3/4] POST /open 失败：打开 profile 67失败：code=1004 message=Unknown internal error
+  [retry 4/4] POST /open 失败：打开 profile 67失败：code=1004 message=Unknown internal error
+
+== 恢复尝试（脚本结束后手动） ==
+close(67): 失败 code=1009 Process not found（无残留进程可关）
+open(67) 再试: 失败 code=1004 Unknown internal error
+等 60 秒后 open(67) 再试: 失败 code=1004 Unknown internal error
+结论：open(67) 共 6 次全部失败，code=1004；agent 本身正常（v10），p44 正常开着。问题在 67 号 profile 本身（用户电脑端），非残留状态、非撞号、非限流。

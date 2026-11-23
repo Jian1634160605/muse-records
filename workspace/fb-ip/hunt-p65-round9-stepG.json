@@ -1,0 +1,17 @@
+{
+  "ts": "2026-11-19 16:50:14 UTC",
+  "steps": {
+    "close65": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "closed": true
+      }
+    },
+    "opened": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 18）：curl: (18) transfer closed with 366 bytes remaining to read\n"
+    }
+  }
+}

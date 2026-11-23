@@ -1,7 +1,7 @@
 ---
 id: fb-competitor-watch
 title: FB 同行监控猎手
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:

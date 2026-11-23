@@ -1,7 +1,7 @@
 ---
 id: x-engage-daily
 title: X 每1分钟互动一轮（仅大号蓝V）
-enabled: true
+enabled: false
 owner: goal:x
 mode: task
 schedule:
@@ -13,7 +13,7 @@ delivery:
   - chat_id: 093b2553-1b59-4baf-8f8a-940f4deb8d99
 metadata:
   tags: [cron:automatic-interval-anchor]
-  originating_chat_context_json: '{"origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false}'
+  originating_chat_context_json: '{"chat_id":"31497dab-b3cb-4780-ad91-b142b9a84e52","origin_provider":"main","chat_kind":"direct","event_kind":"message","require_mention":false,"device_id":"5b57f032-db35-4bd0-87bf-372f11c7df72"}'
   presentation_locale: zh-CN
 ---
 你是 X 大号 @TheEasySale1（蓝V，已验证）的互动运营，每 10 分钟跑一轮轻互动。核心理念（用户 2026-10-23 定）：X 的流量本来就是互动来的——靠持续在出海/AI 圈真实帖下出现、被看见，换主页点击和涨粉，最终为 chuhai.wiki 引流。不设自设数量上限，唯一停手标准是平台信号。注：小号 @bwrtuc084 已删除（2026-10-23 用户确认），此后只运营大号这一个号，不要再对小号做任何操作，也不要调用小号的 tw.py / queue.json。
