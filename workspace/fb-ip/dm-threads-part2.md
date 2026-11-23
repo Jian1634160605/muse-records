@@ -1,3 +1,11 @@
+- hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 04:18）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
+- Dawn Louise / Charlene Nicoll 复核：沿用 03:48 轮决议（前者继续记「已尝试、待核验」绝不重发，后者维持暂停自动重发，等用户定），本轮未重复做 threads --search（03:48 轮刚复核均为 0 条，无变化信号）。
+- 0 跟进、0 新发、0 客资：无到期跟进项；在册线程 B-19 后真人式再询问额度均已用尽；BravePear3329 暂挂、Charlene Nicoll 暂停自动重发（等用户定）、Dawn Louise 待核验期间不重发、Nicole Meawasige 再评估待用户确认、不冷发。
+- 4b 客户激活盘点：收集表自 11-05 20:03 轮后无新增行（文件最后修改仍为北京时间 11-05 20:00，尾部仍止于 #244 Niki MacDuff，已判不私信），无新增可激活项；「私信待评估」项仍需浏览器核验真人+国家后才定，本轮不擅自首发。
+- 账号无受限/checkpoint/发送失败；无审批卡、无需微信喊人。按任务第 7 条：无新动态，本轮安静结束、不发报告。
+- 待办提醒（非本轮动作）：Peta Bentley 周四（11-05）晚线上视频面诊确切时间仍待用户/咨询团队确认——周四已过，承诺的 WhatsApp 时间提醒尚未发出，需确认时间后另行处理。
+
+## 2026-11-06 04:33 轮（fb-dm-thread-watch；04:33 cron 触发，Victoria 单线）
 - CLI 服务器端核验（04:33，静态代理，sync both --since-days 1）：messages_new=0、messages_decrypt_failed=0、threads_failed=0、cached_thread_count 仍 20、newest_cached_ts 未变（1793873726270）→ 自 04:18 轮后 0 客户新回复。threads --unread 仍仅 4 条，均为已知排除项（Nicole Meawasige 线程最新仍为我方 2026-11-02 单字问候，无入站、无变化，再评估待用户确认，本轮不发；Cristiana Winter 与 Kim Kieu 用户本人 10-30 外发，按规则不跟进、不计数、不报送；Sherine Balbaa 旧 ❤️ 表情反应已闭合，按防重复规则跳过）。其余在册线程自 04:18 轮后无新同步消息，最新仍为我方消息，无对方回复；Kevin Conzone 线程（cid.g.2016979615633691）is_unread=false、最新仍为我方索要 WhatsApp 消息（updated_at 未变）；Peta Bentley 线程最新仍为我方 11-04 18:34 确认消息（将经 WhatsApp 发周四确切时间及提醒），is_unread=false。Judi Welch / Anne Riches / Sarah Jane 线程最新仍为我方消息、无对方回复。
 - Asim Ozdemir / Sf Hk / Nthofela 线程观察（无变化、无动作）：三线程 snippet 仍为 Victoria 外发单字「hi」，updated_at 未变，无对方回复；按规则「最新消息为用户本人在台账外发出的线程一律勿动」，本轮不跟进、不追问、不计入发送量，继续观察。NteboRose 线程最新仍为我方消息，无新回复。
 - hook 日志：Victoria 哨兵 ~/hooks/logs/fb-messenger-inbox.jsonl 尾部连续 outcome=silent「无新入站私信」（至 04:33）→ 30 分钟内无新的接手记录，无重复回复风险；最近一次 wake 仍为 11-04 Peta Bentley 三条（已处理），其后无新唤醒。
@@ -6632,4 +6640,3 @@
 
 ## 2026-11-12 11:52 轮（fb-dm-thread-watch；11:48 cron 触发，Victoria 单线；本轮 0 新发，今日累计已发 4 条：Jocelyn Bee 07:47 接话 1 + Luan Wong B-19 3）
 - 新好友差分检查（11:50，静态代理 ~/.agent-reach/proxy-fb.txt，facebook-cli me friends --limit 30）：好友 17 人，姓名集与基线 fb-friends-seen.json（17 位，2026-11-11 17:44 拉取）逐名比对——新增 0、减少 0，本轮无新好友，不单独汇报，基线无需更新。田兆玄仍未出现在好友列表中，其 Messenger 空线程仍在 CLI 缓存中（cid.g.2212470302700343，snippet "(empty)"，无消息），不联系。Hong Wu 空线程 cid.g.1129344926167921（snippet "(empty)"）无消息内容、无需回复。
-- CLI 服务器端核验（11:51，静态代理，hatch_messenger_cli sync both --since-days 1）：messages_new=2、messages_fetched=2、messages_decrypt_failed=0、threads_failed=0、cached_thread_count=35 未变、newest_cached_ts 1794455350425（即 Jocelyn Bee 线程、我方 11:49:10 消息）、oldest_cached_ts 1792720109508 未变（即 Kevin Conzone）、threads_last_synced_at 已刷新至 1794455478709，身份核验 self_user_id 61590577106578（Victoria Maizie）。threads --unread 复核：未读仍为已知旧状态 5 条、updated_at 均未变——Tatiana InEngland（1793992971715，snippet 为我方消息，B-19 待用户定夺）；Nicole Meawasige（1793591787782，snippet「hi」，再评估待用户确认，本轮不发）；Cristiana Winter（1793325555446）与 Kim Kieu（1793325349375）（用户本人 10-30 自聊线程，绝不跟进、不计数、不报送）；Sherine Balbaa（1792837222353，旧 ❤️ 表情回应，线程已关闭）。30 秒实时哨兵正常：hook 日志最近 5 条全为 silent（无新入站私信，截至 11:53 前后），"outcome":"failed" 总计仍 887（09:52 后无新增失败），与 CLI 0 客户新消息一致，无漏接证据。
