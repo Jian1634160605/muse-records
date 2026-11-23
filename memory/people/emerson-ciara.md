@@ -2,9 +2,9 @@
 display_name: "Emerson Ciara"
 first_name: "Emerson"
 last_name: "Ciara"
-summary: "FB doctor-IP account, ixBrowser profile 1; login/feed verified normal 2026-11-17, default group all usable — no longer retired-pending; no hunter/DM tasks assigned yet."
+summary: "FB doctor-IP account, ixBrowser profile 1; moved out of the default group to 尹卓组 2026-11-18, operated by 尹卓; Muse must not post to or operate it."
 rank: 18
-updated: "2026-11-17"
+updated: "2026-11-19"
 ---
 
 # Emerson Ciara
@@ -29,6 +29,7 @@ updated: "2026-11-17"
 - 2026-11-13 12:06: **登录已核验正常（仍退役）** — user sent a fresh cookie + (separately) password and 2FA key; E08 verified by cookie import into fb-6399 (10 cookies, HTTP 200), home page shows Emerson Ciara, no login wall; password + 2FA never used. One page-load stall (~5 min) fixed by a single environment restart, not an account problem. Env stopped after verification; no operations restored. Whether to bring Emerson back as the second account is still the user's call; the space now shows an Emerson row (retired · login normal).
 - 2026-11-17 13:30–13:31 (correction): Emerson is ixBrowser default-group profile 1 (61590579626399); login normal and feed normal. The user decided the default group is all usable, and **Emerson is no longer retired-pending** — the 2026-11-13 "still retired, return awaits decision" state is superseded.
 - 2026-11-17 13:46–13:50: default-group verification passed for 6 FB accounts including Emerson (1 Emerson, 5 Jusa, 32 Lark/Daisy, 38 Oe, 67 Ejje, 80 Winsino) and for all 4 IG accounts; the opened profiles were then closed. Emerson was not among the 7 accounts in the parallel-run audit that morning (Victoria, Jusa, Lark, gaga5456, sarahcook6809, pokkhusadedere, elainaklocko), and no hunter or DM tasks for Emerson were assigned in this window.
+- 2026-11-18 evening: **moved out of the default group to 尹卓组 (group 350877), operated by 尹卓**; Muse must not post to or operate Emerson. This supersedes the 2026-11-17 "default group all usable / no longer retired-pending" state.
 
 ## History
 - 2026-10-21: delivered, cookie-login succeeded, Page Dr.qh666 discovered; test post v1 succeeded after a FoxProfile patch (reel 2298761260969935). 2026-10-25: login re-verified for rotation; 2026-10-27: matrix reduced to 5 (Cora, Simon deleted); 2026-10-28: warm round failed on FoxProfile launch, user notified; 2026-10-30: b4 post, then paused under the Victoria single-line revert.
@@ -38,9 +39,10 @@ updated: "2026-11-17"
 - 2026-11-13 12:06: login verified normal by fresh-cookie import into fb-6399 (home page shows Emerson Ciara, no login wall); environment stopped again after verification, no operations restored; whether to bring Emerson back as the second FB account is still the user's call.
 - 2026-11-17 13:30–13:31: user decided the ixBrowser default group is all usable; Emerson (profile 1, login and feed normal) is no longer retired-pending.
 - 2026-11-17 13:46–13:50: default-group verification passed for Emerson and the other FB/IG accounts; opened profiles closed afterwards.
+- 2026-11-18 evening: moved out of the default group to 尹卓组 (group 350877), operated by 尹卓; Muse must not operate it.
 
 ## The relationship
-An operational account persona, not a personal tie: the user owns the account and Muse runs it as one leg of the Qin Hao doctor-IP matrix. No direct relationship with the person behind the display name is evidenced.
+An operational account persona, not a personal tie: the user owns the account and Muse runs it as one leg of the Qin Hao doctor-IP matrix. No direct relationship with the person behind the display name is evidenced. Since the 2026-11-18 move to 尹卓组, it is operated by 尹卓 and Muse must not operate it.
 
 ## In common
 - The 秦浩 doctor-IP lead-gen work, the FB matrix, and the FoxProfile fingerprint-browser setup.
@@ -57,7 +59,7 @@ An operational account persona, not a personal tie: the user owns the account an
 - [x] Xiaohongshu搬運 subsequent items to Emerson — cancelled 2026-11-04 by retirement from operations; no further搬運 to Emerson.
 - [x] Emerson personal-profile clean-up (2026-11-03) — video portion done (6 Reels set to Only me 2026-11-04); avatar and bio changes cancelled 2026-11-04 by retirement from operations.
 - [x] Dr.qh88 plus Emerson personal-profile videos hide-all (2026-11-04) — method A chosen by the user and executed: Emerson 6 Reels set to Only me, Dr.qh88 14 videos expired, nothing deleted.
-- [x] Whether to bring Emerson back as the second FB account — resolved 2026-11-17: the user decided the ixBrowser default group is all usable and Emerson is no longer retired-pending (login and feed verified normal 2026-11-17 13:30–13:31).
-- [ ] Emerson's operating role under ixBrowser — no hunter or DM tasks were assigned to Emerson in this window; its place in the parallel run is not yet recorded.
+- [x] Whether to bring Emerson back as the second FB account — resolved 2026-11-17: the user decided the ixBrowser default group is all usable and Emerson is no longer retired-pending (login and feed verified normal 2026-11-17 13:30–13:31). Superseded 2026-11-18 evening: moved to 尹卓组, operated by 尹卓.
+- [x] Emerson's operating role under ixBrowser — no hunter or DM tasks were assigned to Emerson in this window; its place in the parallel run is not yet recorded. — Closed 2026-11-18: moved to 尹卓组, operated by 尹卓; Muse does not operate it.
 
 ## Strengthening

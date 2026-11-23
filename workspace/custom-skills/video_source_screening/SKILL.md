@@ -2,6 +2,8 @@
 
 Run this gate on every candidate clip before it enters the edit. It catches bad sources. The editing workflow's own acceptance check catches build errors. Both have to pass.
 
+Check the audio track on the finished file before any publish.
+
 ## Confirm the footage is yours to use
 
 - Verify the account is company-owned or explicitly licensed for reuse before selecting any clip from a third-party account. Follower count and style similarity say nothing about ownership.
@@ -21,6 +23,16 @@ Run this gate on every candidate clip before it enters the edit. It catches bad 
 - Check watermark residue: look for another creator's handle, logo, or platform watermark burned into the frame, including faint marks hiding under your own overlay. Reject clips you cannot clean without degrading the picture.
 
 - Never let view count override a failed check. A high-view clip that fails screening stays a structure reference, never a source.
+
+## Check the audio track on the finished file
+
+- Run ffprobe on the finished file before any publish and count its streams. Require exactly one video stream and exactly one audio stream.
+
+- Reject a finished file with zero audio streams. Do not publish it, and do not rely on the editor timeline or a silent preview to catch the missing track.
+
+- When a file fails the audio check, add licensed background music in the edit and run ffprobe again on the rebuilt file. Publish only after the rebuilt file passes the one video plus one audio check.
+
+- Apply the same ffprobe check to a repost or a remade version. A file that was silent once stays blocked until its new version passes.
 
 ## Log rejections and report
 

@@ -2,9 +2,9 @@
 display_name: "Bertie Harmony"
 first_name: "Bertie"
 last_name: "Harmony"
-summary: "Second FB account alongside Victoria; RETIRED from operations 2026-11-13 by user decision ('第二个FB不要了'); login never recovered, 0 leads; hunter/DM-watch crons removed, fb-1030 stopped (env and FB account kept, not deleted)."
+summary: "Second FB account alongside Victoria; retired 2026-11-13, re-enabled 2026-11-19; ixBrowser profile 35, nose line; both 2026-11-20 night rounds failed on upload timeout."
 rank: 14
-updated: "2026-11-13"
+updated: "2026-11-21"
 ---
 
 # Bertie Harmony
@@ -27,6 +27,12 @@ updated: "2026-11-13"
 - 2026-11-11 daily totals: 4 comments (all from before login died), 0 DMs, 0 leads; hunter and DM-watch rounds after login died produced 0. The user decided 2026-11-11 19:07–19:13 that Victoria keeps publishing every 2 hours and Bertie joins the rotation once its login recovers.
 - 2026-11-12: login still not recovered — the rebuilt FB 运营指挥中心 status table showed Bertie abnormal, unpublished, with 0 leads, and having Bertie post through the command centre is blocked outright while its login is not restored (window conversation, message:assistant-msg-1df87333-550e-4add-90e2-217708401deb). The user-ordered full FB pause that evening also applies to this account.
 - 2026-11-13: RETIRED from operations by user decision (用户原话「第二个FB不要了」): hunter fb-bertie-watch and DM-watch fb-bertie-dm-watch crons removed; fb-1030 environment stopped (environment and Facebook account kept, not deleted); Yolande B-18, lady_flower first-DM draft, Neisha re-check and 3 pending friend requests all closed without action; no fresh cookie needed. FB is Victoria-only from now on.
+- 2026-11-19 13:58 (live check): **profile 35 in ixBrowser IS Bertie Harmony** — the account is alive and in the default group again. Login verified live, posting Qin Hao facelift content (2026-11-16 post: "Natural facelift: people notice you look younger, without obvious surgical marks #DrQinHao"), 14 followers, bio "Rhinoplasty", digital content creator, Meta Verified, qinhao.me link, manages a Page. Note: bio says Rhinoplasty (nose) but recent content is facelift — positioning is mixed, needs a direction.
+- 2026-11-19 14:03 (user decision): **RE-ENABLED** — user said 「重新启用」. Bertie is back as an operating account in the default group (ixBrowser profile 35). Note: the broader operation is still paused (all non-system crons disabled since 2026-11-17, resume plan pending approval), so re-enabling Bertie means it's back in the default group roster, not that hunter/DM rounds restart immediately.
+- 2026-11-19 14:03 (user decision): each default-group account does facelift OR nose only, no mixing; Bertie is nose line, one of 4 nose accounts after Winsino's removal (Jusa, gaga, Bertie, Ejje). The bio (Rhinoplasty) now matches the direction; going forward the account is nose-line.
+- 2026-11-19: mutual engagement executed — as one of the other 6 FB accounts, Bertie commented on and fully watched [Victoria Maizie](victoria-maizie.md)'s 2 videos (3D nose 1447502050832197, filler 1201612758860981) in customer voice.
+- 2026-11-20 night: both video rounds failed for this account on upload timeouts (180 seconds) — item 04 in the 22:00 round and item 04-alt-12s in the 00:00 round. The account is also missing 3 mutual-engagement comments from the 2026-11-19 batch, and its Chinese UI shows no comment box, which blocks commenting.
+- 2026-11-21 08:16 Beijing (user decision): the four failed items from the 2026-11-20 night, including Bertie's 04, were merged into the 2026-11-21 night publishing plan (22:00 round). The 04-alt-12s item was reassigned from Bertie to [Jusa Khan](jusa-khan.md) for the 00:00 round, because 04 and 04-alt-12s are different cuts of the same source and two versions of the same material cannot go to the same account.
 
 ## History
 - 2026-11-10: hunter and DM-watch first rounds ran; 1 verified comment, 1 group joined, 0 DMs, 0 leads.
@@ -34,15 +40,20 @@ updated: "2026-11-13"
 - 2026-11-11: login dead all day (one-click login page, unchanged across rounds); 4 comments, 0 DMs, 0 leads; Yolande B-18 due but unsendable; awaiting the user's fresh cookie.
 - 2026-11-12: login still not recovered; the command-centre status table showed Bertie abnormal and unpublished with 0 leads, and posting via Bertie is blocked outright until login recovers; FB paused for the day by the user's order.
 - 2026-11-13: retired from operations by user decision; crons removed, fb-1030 stopped, pending items closed.
+- 2026-11-19: re-enabled by user decision; nose line confirmed; took part in the mutual-engagement round on Victoria's videos.
+- 2026-11-20 night: both publishing rounds failed on upload timeouts; the items were merged into the 2026-11-21 night plan by the user's decision.
 
 ## The relationship
-An operational account in the user's FB operation, not a personal tie: a second FB line running alongside Victoria Maizie, operated by the user's team. Retired 2026-11-13.
+An operational account in the user's FB operation, not a personal tie: a second FB line running alongside Victoria Maizie, operated by the user's team. Retired 2026-11-13, re-enabled 2026-11-19. Content direction: nose (Rhinoplasty), set 2026-11-19.
 
 ## In common
 - The 秦浩 doctor-IP lead-gen work, alongside [Victoria Maizie](victoria-maizie.md).
 - The Bertie DM threads: [Yolande Engels de Lange](yolande-engels-de-lange.md) and the pending [lady_flower_power_1969](lady-flower-power-1969.md) first DM.
 
 ## Open threads
-无。2026-11-13 账号退役，全部未完事项关账：Yolande B-18 未发、lady_flower 首条私信草稿作废、Neisha 核验与 Carmina 重复评论不再处理、3 个待处理好友请求不再筛查、不再等新鲜 cookie。
+- 2026-11-19 re-enabled (ixBrowser profile 35, default group, nose direction). The 2026-11-13 close-out stands for the old items (Yolande B-18 unsent, lady_flower first-DM draft void, Neisha re-check and 3 pending friend requests not actioned, no fresh cookie needed) — those are not reopened by the re-enablement.
+- Positioning note: bio says Rhinoplasty (nose) but the 2026-11-16 post is facelift content; going forward the account is nose-line.
+- [ ] 2026-11-20 night publishing failures: item 04 failed in both rounds' attempts (22:00) and 04-alt-12s failed at 00:00, both on 180-second upload timeouts; item 04 is merged into the 2026-11-21 22:00 round by the user's decision, and 04-alt-12s was reassigned to Jusa Khan. If the timeout repeats, the account's network needs checking.
+- [ ] Mutual-engagement backlog: 3 comments missing from the 2026-11-19 batch; the Chinese UI shows no comment box, which blocks commenting.
 
 ## Strengthening

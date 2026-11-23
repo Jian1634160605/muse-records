@@ -3,7 +3,7 @@ display_name: "Ligita Kondrotaite"
 first_name: "Ligita"
 last_name: "Kondrotaite"
 summary: "Prospective overseas patient — new Facebook friend of Victoria's account who sent a photo on 2026-11-13; three verified messages sent asking for her WhatsApp with area code, awaiting her reply."
-rank: 25
+rank: 31
 updated: "2026-11-15"
 ---
 

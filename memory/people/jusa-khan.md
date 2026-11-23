@@ -2,9 +2,9 @@
 display_name: "Jusa Khan"
 first_name: "Jusa"
 last_name: "Khan"
-summary: "FB doctor-IP account on the unified facelift line (pre-op assessment angle); paused 2026-10-30, FoxProfile env deleted 2026-11-02; ixBrowser profile 5, login verified 2026-11-16, still not operated."
+summary: "FB doctor-IP account, ixBrowser profile 5; nose line since 2026-11-19; first comment 2026-11-17 (Ben Bao nose post, E07 97); 2026-11-20 night 03a failed then published at 00:00."
 rank: 20
-updated: "2026-11-16"
+updated: "2026-11-21"
 ---
 
 # Jusa Khan
@@ -31,6 +31,12 @@ updated: "2026-11-16"
 - 2026-10-31: user approved all 4 voice clips for manual evening publish; Jusa published the 104927 全流程 reel (https://www.facebook.com/reel/1472612874833671/), Reel and self-comment verified; Emerson left empty per prior confirmation; manual publish, not rotation resumption.
 - 2026-11-02: user ordered Jusa removed from the fingerprint browser; FoxProfile env fb-91565 deleted via API and verified gone from the profile list, its data dir removed and login session lost. Facebook account 61576748891565 and Page 61595765429611 themselves were NOT deleted — only Muse's browser environment for them. A 2026-10-29 backup folder fb-91565-bak-20261029 remains on disk and is not a FoxProfile profile.
 - 2026-11-16: ixBrowser default-group profile 5 = this account; login verified normal when the 5 FB profiles were opened — all logged in. No operating change: still paused since 2026-10-30, FoxProfile env deleted 2026-11-02; not revived as an operated account.
+- 2026-11-17: first operated comment — Ben Bao nose discussion post, E07 97, read-back verified; also joined the Turkey rhinoplasty group 1151025859914944. A 2026-11-17 measurement reported the personal account id as 61595765429611, differing from the 61576748891565 recorded 2026-10-22; the same number is also recorded as this account's Page id, so the two ids still need reconciling.
+- 2026-11-17 21:23: all tasks stopped by user order ("停用所有任务"); resume pending the agreed headless plan.
+- 2026-11-19 14:03 (user decision): each default-group account does facelift OR nose only, no mixing; Jusa is nose line, one of 4 nose accounts after Winsino's removal (Jusa, gaga, Bertie, Ejje). This supersedes the 2026-10-26 unified facelift line (pre-operative assessment angle).
+- 2026-11-19: mutual engagement executed — Jusa commented on and fully watched [Victoria Maizie](victoria-maizie.md)'s 2 videos; Jusa's comment was pre-sent in peer voice, while the other 11 comments in the round were in customer voice.
+- 2026-11-20 night: item 03a failed in the 22:00 round on a 180-second upload timeout, then published in the 00:00 round. One self-review引流 comment was filled in but not verified as visible; the 02:00 recheck that was meant to confirm it never ran.
+- 2026-11-21 08:16 Beijing (user decision): the four failed items from the 2026-11-20 night were merged into the 2026-11-21 night publishing plan. Item 04-alt-12s, originally Bertie's, was reassigned to this account for the 00:00 round, because it and Bertie's 04 are different cuts of the same source and two versions of the same material cannot go to the same account; item 03a goes in the 22:00 round.
 
 ## History
 - 2026-10-22: delivered by the user; login completed; stock check + PIN done; Page created and set up; entered daily posting + warming.
@@ -42,9 +48,12 @@ updated: "2026-11-16"
 - 2026-10-30: post 60 completed the day's 5-post set; paused under the Victoria single-line revert, not deleted.
 - 2026-10-31: user-approved manual publish of the 104927 voice reel, verified.
 - 2026-11-16: ixBrowser profile 5 confirmed as this account, login verified normal; still paused, not revived.
+- 2026-11-17: first operated comment landed (Ben Bao nose post, E07 97, verified); joined the Turkey rhinoplasty group 1151025859914944; all tasks stopped 21:23 by user order.
+- 2026-11-19: moved to the nose line by user decision; took part in the mutual-engagement round on Victoria's videos (comment pre-sent in peer voice).
+- 2026-11-20 night: item 03a failed at 22:00 on an upload timeout, then published at 00:00; item 04-alt-12s reassigned to this account for the 2026-11-21 00:00 round.
 
 ## The relationship
-An operational account persona, not a personal tie: the user owns the account and Muse runs it as the pre-operative-assessment leg of the 秦浩 doctor-IP matrix toward overseas patient leads, now on the unified facelift line. No relationship with the person behind the display name is evidenced.
+An operational account persona, not a personal tie: the user owns the account and Muse runs it as a leg of the 秦浩 doctor-IP matrix toward overseas patient leads, now on the nose line. No relationship with the person behind the display name is evidenced.
 
 ## In common
 - The 秦浩 doctor-IP lead-gen work and the unified WhatsApp consult link every account funnels to.
@@ -56,7 +65,10 @@ An operational account persona, not a personal tie: the user owns the account an
 - [ ] Page rename to facelift positioning (2026-10-26): the Page management interface did not load, so the Page name and introduction still carry the old eye positioning; retry when the environment is stable, or change it in the user's own browser. The retry below posts under the current name and does not wait for this rename.
 - [ ] Personal avatar change (2026-10-26): change Jusa's personal avatar from the default gray avatar to the Qin Hao white-coat photo, as with the other non-main accounts, before scaling DMs.
 - [ ] 18:45 retry, user choice A (2026-10-26 19:37 Beijing): after the 19:45 Victoria v2 post, retry Jusa's facelift text post via a FoxProfile task; if it still times out, stop and report per item, no blind retry. Not yet run at window end.
-- [ ] ixBrowser profile 5 login verified normal 2026-11-16; no operating decision — still paused, not revived.
+- [ ] Personal vs Page id discrepancy (2026-11-17): a measurement reported the personal id as 61595765429611, the number also recorded as the Page id; reconcile before relying on either.
+- [ ] Resume hunter/DM operation only after the headless plan is agreed (reminder 2026-11-18 09:30); all tasks stopped 2026-11-17 21:23.
+- [ ] 2026-11-21 night publishing: item 03a in the 22:00 round and item 04-alt-12s (reassigned from Bertie) in the 00:00 round, per the user's 2026-11-21 08:16 Beijing decision.
+- [ ] Self-review comment (2026-11-20 night): one引流 comment filled in but not verified as visible; the 02:00 recheck never ran, so confirmation is still pending.
 
 ## Strengthening
 - (nothing the evidence supports yet)

@@ -1,0 +1,23 @@
+name: fb_reel_publish_verification
+title: Facebook Reel Publish Verification
+description: Verify a Facebook Reel actually published with the CLI timeline readback instead of the Reels tab, and fix a wrong caption by republishing, when publishing on Facebook.
+category: Business
+include_in_prompt: false
+amends:
+  skill: social_publishing
+  reviewed_revision: a9cc7bd6107b581ea36ac74319d4dd6912a0c195ac5dffdc5d25e1c3496adda5
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:assistant-msg-5acc8cc9-d3cd-48fd-9e44-f31b858ec92a
+  - message:assistant-msg-2536b5ea-8664-40fe-ad89-682c9be5140d
+  measurement:
+    proxy_metric_id: unbacked_publish_slots
+    success_criterion: Zero publish items assigned to a slot with no scheduled job behind it, and zero items lost because a promised backup slot never ran, over the window.
+    window_days: 14
+  needs_review: false
+  rationale: On 2026-11-20 the 22:00 round published 6 of 9 and the 00:00 round 8 of 9, leaving 4 of 18 videos for a 02:00 backup slot that never ran because it existed only in a plan file with no scheduled job behind it. The existing amendment covers uncertain results with the CLI readback but has no slot-backing check, and its base social_publishing changed since review, so this update renews the reviewed revision and adds the check.
+  review_after: 2026-12-05T16:45:12.265414+00:00
+  reviewed_at: 2026-11-21T16:45:12.265414+00:00
+  run_id: sirun_088cf295e2bf4c7d9ecb8b64a72b1c2d

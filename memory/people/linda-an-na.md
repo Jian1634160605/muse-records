@@ -3,7 +3,7 @@ display_name: "Linda An Na"
 first_name: "Linda An"
 last_name: "Na"
 summary: "Prospective overseas patient (collection #495) — replied to Victoria's comment, hesitant after her doctor suggested cancelling; Victoria followed up 2026-11-11 (E07 91), no DM yet."
-rank: 249
+rank: 255
 updated: "2026-11-11"
 ---
 

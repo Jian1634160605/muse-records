@@ -1,9 +1,9 @@
 ---
 display_name: "sarahcook6809"
 first_name: "sarahcook6809"
-summary: "IG Qin Hao account converted 2026-11-10; ixBrowser profile 44; 2026-11-16 IG now comments on own works and replies to client DMs, superseding content-only; 3 old lifestyle posts await archiving."
-rank: 16
-updated: "2026-11-16"
+summary: "IG facelift-line Qin Hao account, ixBrowser profile 44; published in the 2026-11-20 22:00 and 2026-11-21 00:00 video rounds; 3 old lifestyle posts await archiving."
+rank: "16"
+updated: "2026-11-21"
 ---
 
 # sarahcook6809
@@ -21,11 +21,18 @@ updated: "2026-11-16"
 - New proxy line: the user agreed 2026-11-10 17:22 to send a new line to replace the leaked 20010 line; none had arrived as of the 2026-11-11 00:10 rounds.
 - 2026-11-16: ixBrowser profile 44, one of the default group's 4 IG profiles (43, 44, 63, 65).
 - 2026-11-16 (user decision): IG accounts now comment on their own works and reply to client DMs, the same logic as Victoria's FB operation — this supersedes the 2026-11-11 content-only decision. The comment/DM action layer in the on-PC agent was not yet wired at the end of the window.
+- 2026-11-19 14:03 (user decision): assigned to the facelift line in the default group — one of 5 facelift accounts (Victoria, Lark, sarah, elaina, Oe).
+- 2026-11-19 14:23 (user decision): mutual-engagement rule — when one account posts a video, all other same-platform accounts watch it fully and comment in customer voice. This account's sarah 01 video received the other two IG accounts' comments and full watches that afternoon.
+- 2026-11-19 video monitoring: sarah 01 read 31 plays (+1) in round 10 (14:18 Beijing) and 50 plays (+19) in round 11 (16:18 Beijing); comments rose 1 to 3, matching the two afternoon mutual-engagement comments. No video broke 10,000 plays and none gained 2,000 in 2 hours.
+- 2026-11-20 22:00: this account published in the night video round — https://www.instagram.com/sarahcook6809/reel/Df95QHiNj48/ — one of 6 of 9 accounts published in that round; its self-review引流 comment was verified visible.
+- 2026-11-21 00:00: this account published in the second night video round — https://www.instagram.com/sarahcook6809/reel/Df-KjQRSqwD/ — one of 8 of 9 accounts published in that round.
 
 ## History
 - 2026-11-10: converted to a Qin Hao account (E08, user-directed); hunter and DM-watch first rounds ran clean; DM watch paused after a proxy-credential leak in the 17:10 round.
 - 2026-11-11 00:19 Beijing: user decided the 3 old posts are to be hidden and IG is content-only (no DM, no comment replies); watch tasks stopped.
 - 2026-11-16: ixBrowser profile 44 confirmed; the user decided IG now comments on own works and replies to client DMs (content-only rule superseded).
+- 2026-11-19: facelift line confirmed; sarah 01 rose 31 to 50 plays with mutual-engagement comments landing.
+- 2026-11-20 22:00 and 2026-11-21 00:00: published in both night video rounds.
 
 ## The relationship
 An operational IG account in the user's 秦浩 operation, not a personal tie: the user owns the account and the team runs it as a Qin Hao doctor-IP line.
