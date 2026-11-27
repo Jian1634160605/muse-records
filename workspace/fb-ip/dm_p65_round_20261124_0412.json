@@ -1,0 +1,36 @@
+{
+  "round": "2026-11-24 04:12",
+  "profile": 65,
+  "was_open_before": false,
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2938,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\ngelimghochan\nگلیم قوچان\nFollowed by novinchoob_co\nFollow\nrealshadmehr\nShadmehr Aghili\nFollowed by aliasghar_zolfaghari_\nFollow\nmibinam\n𒀸 𒀭\nSuggested for you\nFollow\ndaniel6870\nDaniel Ribeiro\nFollowed by kian.studio2026\nFollow\nnazland_events\nNazland Events | OC Wedding Planner\nFollowed by kian.studio2026\nFollow\nfa_rhad6535\nfarhad\nFollowed by aliasghar_zolfaghari_\nFollow\n_farzad_tabriz\ngara_oglan20\nFollowed by aliasghar_zolfaghari_\nFollow\n_.atasamadi._\n𝒂𝒕𝒂𝒔𝒂𝒎𝒂𝒅𝒊\nFollowed by aliasghar_zolfaghari_\nFollow\nbazarchasb_ir\nSuggested for you\nFollow\nniktours.ir\nNIK TOUR | نیک تور\nFollowed by aliasghar_zolfaghari_\nFollow\ntarlan_parvanee\nTarlan Parvaneh\nFollowed by aliasghar_zolfaghari_\nFollow\namirhossein__1382...\nAmir Hossein Dehgani\nFollowed by aliasghar_zolfaghari_\nFollow\nfjkohan17\nFarbod Kohan\nSuggested for you\nFollow\n___abolfazl_turk___\n⚜️𝑨𝒃𝒐𝒍𝒇𝒂𝒛𝒍⚜️\nFollowed by aliasghar_zolfaghari_\nFollow\nbmw\nBMW\nFollowed by aliasghar_zolfaghari_\nFollow\nmorteza_nik_eghba...\nMortin\nFollowing novinchoob_co\nFollow\nellieo1111\nEllie O\nFollowed by kian.studio2026\nFollow\narmadillo.hrni\nArmadillo\nSuggested for you\nFollow\nfarzanehzolfaghari_\nFarzaneh Zolfaghari\nSuggested for you\nFollow\nbugatti\nBUGATTI\nFollowed by kian.studio2026\nFollow\narmiw.sr2\n⚜armin⚜\nFollowed by aliasghar_zolfaghari_\nFollow\n_____sw"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:44566",
+        "pid": 19128,
+        "open_time": "2026-11-24 04:13:21"
+      }
+    ],
+    "total": 1
+  },
+  "still_open": false
+}

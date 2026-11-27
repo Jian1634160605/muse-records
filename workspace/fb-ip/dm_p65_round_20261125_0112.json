@@ -1,0 +1,78 @@
+{
+  "round": "2026-11-25 01:12",
+  "profile": 65,
+  "was_open_before": false,
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram \u2022 Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests \u2022 Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2842,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in...\u00a0more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\nhoossenva\nhoosein/ valinazhad/nikan\nFollowing aliasghar_zolfaghari_\nFollow\nshahab_to25\nsha hab\nSuggested for you\nFollow\nrezazes\nrezaaz\nSuggested for you\nFollow\naboozarashoori5\nAboozar@Ashoori\nSuggested for you\nFollow\nbabaeiyanbahador\nbahador babaeiyan\nSuggested for you\nFollow\nfarzanehzolfaghari_\nFarzaneh Zolfaghari\nSuggested for you\nFollow\nranginkam0un\nParisa \ud83e\udebd\nFollowed by aliasghar_zolfaghari_\nFollow\nstarsky_pro\nStepan Arshynov\nFollowed by kian.studio2026\nFollow\nmehrzad._20\nmehrzad.. s\nFollowing novinchoob_co\nFollow\nnadiaaa.dehghan\nSuggested for you\nFollow\nfladisworld\nfladis\u2744\ufe0f\nSuggested for you\nFollow\nfarzaneh_fathi1370\nfarzaneh fathi\nFollowing aref.nz + 1 more\nFollow\nmasoodabed524\n\u0645\u0633\u0639\u0648\u062f\nFollowed by aliasghar_zolfaghari_\nFollow\nanitafarahani\nanita farahani\nSuggested for you\nFollow\nsheydanasiri_art\n\u0634\u06cc\u062f\u0627 \u0646\u0635\u06cc\u0631\u06cc\nFollowed by zistyaran.ir\nFollow\nbime_iran.tehrani\n\u0628\u06cc\u0645\u0647 \u0627\u06cc\u0631\u0627\u0646\nSuggested for you\nFollow\nmohamad_javad_2356\nm,javad1988_ordibheshti\nFollowing zistyaran.ir\nFollow\nhami.aryaie\nHami Aryaie\nFollowed by kian.studio2026\nFollow\nreyhanehashem_\n\ud83d\udc99\u0631\u06cc\u062d\u0627\u0646\u0647 \ud83d\udc8d \u0647\u0627\u0634\u0645\u2665\ufe0f \u0631\u06cc\u062d\u0627\u0646\u0647 \u06a9\u06cc\u0627\u0646\u06cc\nFollowing novinchoob_co\nFollow\ndainaser71\nDaii naser\nSuggested for you\nFollow\n_s.h1993_\nSaman Hemati\nSuggested for you\nFollow\nmorteza.statik\nmorteza\nFollowed by aliasghar_zolfaghari_\nFollow\nismim_mohammad\nFollowed by ali"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:34907",
+        "pid": 10396,
+        "open_time": "2026-11-24 22:07:24"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:46227",
+        "pid": 38892,
+        "open_time": "2026-11-24 22:21:24"
+      },
+      {
+        "profile_id": 35,
+        "debugging_address": "127.0.0.1:32508",
+        "pid": 23564,
+        "open_time": "2026-11-24 23:19:13"
+      },
+      {
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:46044",
+        "pid": 19712,
+        "open_time": "2026-11-24 22:10:03"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:17724",
+        "pid": 24052,
+        "open_time": "2026-11-24 23:13:27"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:34492",
+        "pid": 15312,
+        "open_time": "2026-11-24 22:12:54"
+      },
+      {
+        "profile_id": 102,
+        "debugging_address": "127.0.0.1:45750",
+        "pid": 13928,
+        "open_time": "2026-11-25 00:24:55"
+      },
+      {
+        "profile_id": 108,
+        "debugging_address": "127.0.0.1:49007",
+        "pid": 41004,
+        "open_time": "2026-11-25 00:30:09"
+      }
+    ],
+    "total": 8
+  },
+  "still_open": false
+}

@@ -1,0 +1,48 @@
+{
+  "round": "2026-11-24 00:12",
+  "profile": 65,
+  "was_open_before": true,
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2838,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\nmehdikianofficial\nMehdi Kian\nFollowed by kian.studio2026\nFollow\naboozarashoori5\nAboozar@Ashoori\nSuggested for you\nFollow\nnazland_events\nNazland Events | OC Wedding Planner\nFollowed by kian.studio2026\nFollow\ncristiano\nCristiano Ronaldo\nFollowed by aliasghar_zolfaghari_ + 1 more\nFollow\nrezazes\nrezaaz\nSuggested for you\nFollow\n_fatemeh__1369\nkhavari\nSuggested for you\nFollow\nxlandmedia\nMadia | Software Engineer\nSuggested for you\nFollow\npoet461\npoet\nSuggested for you\nFollow\nfa.safayi\nF.safayi\nFollowed by aref.nz\nFollow\nbime_iran.tehrani\nبیمه ایران\nSuggested for you\nFollow\nsheydanasiri_art\nشیدا نصیری\nFollowed by zistyaran.ir\nFollow\nwwmajid.b\nwwwasan\nFollowing novinchoob_co\nFollow\nmorrteezaa\nMorteza Ahmadi\nSuggested for you\nFollow\nmorteza.statik\nmorteza\nFollowed by aliasghar_zolfaghari_\nFollow\nsnchwly2722\nعباس سنچولی\nSuggested for you\nFollow\ndainaser71\nDaii naser\nSuggested for you\nFollow\ntbz_meysam\n🌐‌Mëýšâm🌐 🇮🇷\nFollowed by aliasghar_zolfaghari_\nFollow\nnasa\nNASA\nFollowed by kian.studio2026\nFollow\nkhademi4250\nMehdi khademi\nFollowing novinchoob_co\nFollow\namir.fallah.11\nfalah\nFollowed by aliasghar_zolfaghari_\nFollow\nmasoodabed524\nمسعود\nFollowed by aliasghar_zolfaghari_\nFollow\nhoossenva\nhoosein/ valinazhad/nikan\nFollowing aliasghar_zolfaghari_\nFollow\ndr.golsa.shekarkhar\nGolsa\nFollowed by kian.st"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:11242",
+        "pid": 44916,
+        "open_time": "2026-11-24 00:14:12"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:48399",
+        "pid": 36384,
+        "open_time": "2026-11-24 00:13:52"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:27654",
+        "pid": 18660,
+        "open_time": "2026-11-23 22:49:17"
+      }
+    ],
+    "total": 3
+  },
+  "still_open": true
+}

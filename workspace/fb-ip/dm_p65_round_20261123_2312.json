@@ -1,0 +1,54 @@
+{
+  "round": "2026-11-23 23:12",
+  "profile": 65,
+  "was_open_before": true,
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2731,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\nmohamad_javad_2356\nm,javad1988_ordibheshti\nFollowing zistyaran.ir\nFollow\naboozarashoori5\nAboozar@Ashoori\nSuggested for you\nFollow\nanitafarahani\nanita farahani\nSuggested for you\nFollow\nbabaeiyanbahador\nbahador babaeiyan\nSuggested for you\nFollow\nsharyar_1488\nshahryar\nFollowed by aliasghar_zolfaghari_\nFollow\nranginkam0un\nParisa 🪽\nFollowed by aliasghar_zolfaghari_\nFollow\nrezazes\nrezaaz\nSuggested for you\nFollow\n_fatemeh__1369\nkhavari\nSuggested for you\nFollow\nnadiaaa.dehghan\nSuggested for you\nFollow\n20miss.royaa\nRoya____Hj70💜\nSuggested for you\nFollow\nsamiratanide\nsamira tanideh\nSuggested for you\nFollow\nsalon_zebaye_\nAlireza\nFollowed by aliasghar_zolfaghari_\nFollow\nxlandmedia\nMadia | Software Engineer\nSuggested for you\nFollow\nghazal94471\nGhazal\nSuggested for you\nFollow\nmehdikianofficial\nMehdi Kian\nFollowed by kian.studio2026\nFollow\npoet461\npoet\nSuggested for you\nFollow\nfa.safayi\nF.safayi\nFollowed by aref.nz\nFollow\namir.fallah.11\nfalah\nFollowed by aliasghar_zolfaghari_\nFollow\nbime_iran.tehrani\nبیمه ایران\nSuggested for you\nFollow\nfarzanehzolfaghari_\nFarzaneh Zolfaghari\nSuggested for you\nFollow\nmorrteezaa\nMorteza Ahmadi\nSuggested for you\nFollow\ndainaser71\nDaii naser\nSuggested for you\nFollow\nariya_land3\nSuggested for you\nFollow\nhoossenva\nhoosein/ valinazhad/nikan\nFollowing aliasghar_zolfaghari_\n"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:20314",
+        "pid": 10372,
+        "open_time": "2026-11-23 23:09:16"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55488",
+        "pid": 24704,
+        "open_time": "2026-11-23 23:15:18"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:27654",
+        "pid": 18660,
+        "open_time": "2026-11-23 22:49:17"
+      },
+      {
+        "profile_id": 109,
+        "debugging_address": "127.0.0.1:26525",
+        "pid": 27256,
+        "open_time": "2026-11-23 23:10:58"
+      }
+    ],
+    "total": 4
+  },
+  "still_open": false
+}

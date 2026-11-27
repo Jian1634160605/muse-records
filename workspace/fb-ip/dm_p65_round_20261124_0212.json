@@ -1,0 +1,42 @@
+{
+  "round": "2026-11-24 02:12",
+  "profile": 65,
+  "was_open_before": false,
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2945,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\npixcalstudio\nPixcal Wedding Photography\nFollowed by kian.studio2026\nFollow\nsharyar_1488\nshahryar\nFollowed by aliasghar_zolfaghari_\nFollow\nwwmajid.b\nwwwasan\nFollowing novinchoob_co\nFollow\ncristiano\nCristiano Ronaldo\nFollowed by aliasghar_zolfaghari_ + 1 more\nFollow\n_.pakhtoon_\n_.._\nSuggested for you\nFollow\n_farzad_tabriz\ngara_oglan20\nFollowed by aliasghar_zolfaghari_\nFollow\ntabrizz201870\nDr.Tabriz\nFollowing zistyaran.ir\nFollow\nghazal94471\nGhazal\nSuggested for you\nFollow\n_.atasamadi._\n𝒂𝒕𝒂𝒔𝒂𝒎𝒂𝒅𝒊\nFollowed by aliasghar_zolfaghari_\nFollow\nmehransabonchyan\nMEHRAN_SABONCHYAN\nSuggested for you\nFollow\ntohid__m22\nT O H I D\nFollowed by aliasghar_zolfaghari_\nFollow\naliahmadii.88\nAli Ahmadi\nFollowing mohamad_mbm95\nFollow\nfa_rhad6535\nfarhad\nFollowed by aliasghar_zolfaghari_\nFollow\n___abolfazl_turk___\n⚜️𝑨𝒃𝒐𝒍𝒇𝒂𝒛𝒍⚜️\nFollowed by aliasghar_zolfaghari_\nFollow\nnima.b.s\nnima sadaghian\nFollowing novinchoob_co\nFollow\ntarlan_parvanee\nTarlan Parvaneh\nFollowed by aliasghar_zolfaghari_\nFollow\ndainaser71\nDaii naser\nSuggested for you\nFollow\nkhademi4250\nMehdi khademi\nFollowing novinchoob_co\nFollow\namirhossein__1382...\nAmir Hossein Dehgani\nFollowed by aliasghar_zolfaghari_\nFollow\ndr.golsa.shekarkhar\nGolsa\nFollowed by kian.studio2026\nFollow\nfladisworld\nfladis❄️\nSuggested for you\nFollow\n___aseman__1\nSugg"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:7018",
+        "pid": 44156,
+        "open_time": "2026-11-24 02:13:49"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:39911",
+        "pid": 42212,
+        "open_time": "2026-11-24 02:13:33"
+      }
+    ],
+    "total": 2
+  },
+  "still_open": false
+}

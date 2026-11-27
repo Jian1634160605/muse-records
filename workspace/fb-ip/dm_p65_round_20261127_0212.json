@@ -1,0 +1,24 @@
+{
+  "job": "fb-dm-p65",
+  "account": "gaga5456",
+  "profile": 65,
+  "platform": "IG",
+  "round_time_cst": "2026-11-27 02:12",
+  "in_night_window": true,
+  "window": "18:30-06:00 CST",
+  "executed": false,
+  "reason": "ixBrowser agent unresponsive (known outage since 2026-11-25 13:47)",
+  "probes": [
+    {"target": "health 8765 v10", "attempts": 4, "result": "all fail", "error": "curl 52 Empty reply from server"},
+    {"target": "health 8766 v15 backup", "attempts": 1, "result": "fail", "error": "curl 52 Empty reply from server"}
+  ],
+  "outage_duration_hours": 36.4,
+  "profile_opened": false,
+  "identity_verified": false,
+  "inbox_read": false,
+  "requests_read": false,
+  "notifications_read": false,
+  "dms_sent": 0,
+  "leads": 0,
+  "verdict": "environment block, not 226/344, not confirmed login failure; do not fabricate results"
+}

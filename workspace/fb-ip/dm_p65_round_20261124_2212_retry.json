@@ -1,0 +1,54 @@
+{
+  "round": "2026-11-24 22:12 retry",
+  "profile": 65,
+  "was_open_before": true,
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2824,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\narsalan_07111\nawrsi\nFollowing aliasghar_zolfaghari_\nFollow\nmortezaassarkashani\nMorteza Assar Kashani\nSuggested for you\nFollow\nmotalebimaedeh\nFollowing novinchoob_co\nFollow\n_fatemeh__1369\nkhavari\nSuggested for you\nFollow\n_s.h1993_\nSaman Hemati\nSuggested for you\nFollow\nstarsky_pro\nStepan Arshynov\nFollowed by kian.studio2026\nFollow\ntabrizz201870\nDr.Tabriz\nFollowing zistyaran.ir\nFollow\nmehransabonchyan\nMEHRAN_SABONCHYAN\nSuggested for you\nFollow\nkhalilnafei\nkhalilnafei\nSuggested for you\nFollow\nab.em80\nAbolfazl Emami\nFollowed by aliasghar_zolfaghari_\nFollow\nmehdikianofficial\nMehdi Kian\nFollowed by kian.studio2026\nFollow\nnadiaaa.dehghan\nSuggested for you\nFollow\nialirezagh\nAlireza\nFollowed by aliasghar_zolfaghari_\nFollow\nxlandmedia\nMadia | Software Engineer\nSuggested for you\nFollow\nfarzaneh_fathi1370\nfarzaneh fathi\nFollowing aref.nz + 1 more\nFollow\nmorrteezaa\nMorteza Ahmadi\nSuggested for you\nFollow\nsheydanasiri_art\nشیدا نصیری\nFollowed by zistyaran.ir\nFollow\npoet461\npoet\nSuggested for you\nFollow\nhoossenva\nhoosein/ valinazhad/nikan\nFollowing aliasghar_zolfaghari_\nFollow\nnasa\nNASA\nFollowed by kian.studio2026\nFollow\nhami.aryaie\nHami Aryaie\nFollowed by kian.studio2026\nFollow\nmobiiin._.pv\n𝑚𝑜𝑏𝑖𝑛\nFollowed by aliasghar_zolfaghari_\nFollow\nmohamad_javad_2356\nm,javad1988_ordibheshti\nFollowing zistyara"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:34907",
+        "pid": 10396,
+        "open_time": "2026-11-24 22:07:24"
+      },
+      {
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:46044",
+        "pid": 19712,
+        "open_time": "2026-11-24 22:10:03"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:54490",
+        "pid": 42448,
+        "open_time": "2026-11-24 22:15:52"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:41820",
+        "pid": 14344,
+        "open_time": "2026-11-24 22:14:33"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:34492",
+        "pid": 15312,
+        "open_time": "2026-11-24 22:12:54"
+      }
+    ],
+    "total": 5
+  },
+  "still_open": true
+}

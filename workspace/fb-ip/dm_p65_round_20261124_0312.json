@@ -1,0 +1,36 @@
+{
+  "round": "2026-11-24 03:12",
+  "profile": 65,
+  "was_open_before": false,
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 179,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2918,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\nhasan_fakhri_tabriz\nhasan_amiiiiii\nFollowed by aliasghar_zolfaghari_\nFollow\nhosseinariapoor\nHossein Ariapoor\nSuggested for you\nFollow\nsharyar_1488\nshahryar\nFollowed by aliasghar_zolfaghari_\nFollow\ndariushfarziaee\nعموپورنگ|داریوش فرضیایی\nFollowed by zistyaran.ir\nFollow\nfa_rhad6535\nfarhad\nFollowed by aliasghar_zolfaghari_\nFollow\n_.atasamadi._\n𝒂𝒕𝒂𝒔𝒂𝒎𝒂𝒅𝒊\nFollowed by aliasghar_zolfaghari_\nFollow\nghazal94471\nGhazal\nSuggested for you\nFollow\nmohamad_javad_2356\nm,javad1988_ordibheshti\nFollowing zistyaran.ir\nFollow\nmehdikianofficial\nMehdi Kian\nFollowed by kian.studio2026\nFollow\nab.em80\nAbolfazl Emami\nFollowed by aliasghar_zolfaghari_\nFollow\nnail_art_nazlii\n•𝓝𝓪𝔃𝓵𝓲•🪼\nFollowed by aliasghar_zolfaghari_\nFollow\natpaintingsyd\nNick - AT Painting & Decorating\nSuggested for you\nFollow\naliahmadii.88\nAli Ahmadi\nFollowing mohamad_mbm95\nFollow\nyabanii63\nDAL🦅🛡️\nFollowed by kian.studio2026\nFollow\nfjkohan17\nFarbod Kohan\nSuggested for you\nFollow\nvahidgadimix.x\nوحید قدیمی\nFollowing mohamad_mbm95\nFollow\nmohammadnuri_music\nAmirmohammad Nory\nFollowing hahauavavva\nFollow\nbmw\nBMW\nFollowed by aliasghar_zolfaghari_\nFollow\nmorteza_nik_eghba...\nMortin\nFollowing novinchoob_co\nFollow\npixcalstudio\nPixcal Wedding Photography\nFollowed by kian.studio2026\nFollow\nellieo1111\nEllie O\nFollowed by kian.studio2026\nFollo"
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:29746",
+        "pid": 19028,
+        "open_time": "2026-11-24 03:13:47"
+      }
+    ],
+    "total": 1
+  },
+  "still_open": false
+}

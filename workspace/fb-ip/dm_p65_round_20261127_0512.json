@@ -1,0 +1,39 @@
+{
+  "job": "fb-dm-p65",
+  "round": "2026-11-27 05:12 CST",
+  "profile": 65,
+  "health_first": [
+    {
+      "i": 0,
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 1,
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ],
+  "health_recheck": [
+    {
+      "i": 0,
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 1,
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 2,
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ],
+  "agent_up": false,
+  "v15_health": {
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  }
+}

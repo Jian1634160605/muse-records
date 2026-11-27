@@ -1,0 +1,41 @@
+{
+  "round": "2026-11-26 04:12",
+  "profile": 65,
+  "job": "fb-dm-p65",
+  "health_round1": [
+    {
+      "i": 0,
+      "ok": false,
+      "error": "\u8c03\u7528 GET /health \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 1,
+      "ok": false,
+      "error": "\u8c03\u7528 GET /health \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 2,
+      "ok": false,
+      "error": "\u8c03\u7528 GET /health \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n"
+    }
+  ],
+  "health_round2_60s_later": [
+    {
+      "i": 0,
+      "ok": false,
+      "error": "\u8c03\u7528 GET /health \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 1,
+      "ok": false,
+      "error": "\u8c03\u7528 GET /health \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n"
+    },
+    {
+      "i": 2,
+      "ok": false,
+      "error": "\u8c03\u7528 GET /health \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n"
+    }
+  ],
+  "opened_error": "\u8c03\u7528 GET /opened \u5931\u8d25\uff08curl 52\uff09\uff1acurl: (52) Empty reply from server\n",
+  "summary": "ixBrowser agent (8765) still unresponsive, curl 52 empty reply; outage continuous since 2026-11-25 19:12 (~8h)"
+}

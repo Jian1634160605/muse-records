@@ -1,0 +1,82 @@
+{
+  "round": "2026-11-25 03:12",
+  "profile": 65,
+  "faults": [],
+  "was_open_before": false,
+  "open": "{'ok': True, 'profile_id': 65, 'debugging_address': '127.0.0.1:21616'}",
+  "check": "{'ok': True, 'profile_id': 65, 'title': 'Facebook', 'url': 'https://www.facebook.com/', 'account_name': None, 'name_source': None, 'page_text_sample': 'Log into Facebook\\nEmail or mobile number\\nPassword\\nLog in\\nForgot password?\\nCreate new account\\nEnglish (US)\\n\u4e2d\u6587(\u7b80\u4f53)\\n\u65e5\u672c\u8a9e\\n\ud55c\uad6d\uc5b4\\nFran\u00e7ais (France)",
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram \u2022 Messages",
+    "len": 167,
+    "head": "gaga5456\nDrop a song\u2026\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests \u2022 Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2870,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in...\u00a0more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\ndelyar.nial\nSuggested for you\nFollow\nshahika.raad\n\u0634\u0627\u0647\u06cc\u06a9\u0627\nFollowed by aliasghar_zolfaghari_\nFollow\n_mohammadkhanbaba_\nSuggested for you\nFollow\nranginkam0un\nParisa \ud83e\udebd\nFollowed by aliasghar_zolfaghari_\nFollow\nmehransabonchyan\nMEHRAN_SABONCHYAN\nSuggested for you\nFollow\ntabrizz201870\nDr.Tabriz\nFollowing zistyar"
+  },
+  "close": "{'ok': True, 'profile_id': 65, 'closed': True}",
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:34907",
+        "pid": 10396,
+        "open_time": "2026-11-24 22:07:24"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:46227",
+        "pid": 38892,
+        "open_time": "2026-11-24 22:21:24"
+      },
+      {
+        "profile_id": 35,
+        "debugging_address": "127.0.0.1:32508",
+        "pid": 23564,
+        "open_time": "2026-11-24 23:19:13"
+      },
+      {
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:46044",
+        "pid": 19712,
+        "open_time": "2026-11-24 22:10:03"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:17724",
+        "pid": 24052,
+        "open_time": "2026-11-24 23:13:27"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:34492",
+        "pid": 15312,
+        "open_time": "2026-11-24 22:12:54"
+      },
+      {
+        "profile_id": 102,
+        "debugging_address": "127.0.0.1:45750",
+        "pid": 13928,
+        "open_time": "2026-11-25 00:24:55"
+      },
+      {
+        "profile_id": 108,
+        "debugging_address": "127.0.0.1:49007",
+        "pid": 41004,
+        "open_time": "2026-11-25 00:30:09"
+      }
+    ],
+    "total": 8
+  },
+  "still_open": false
+}
