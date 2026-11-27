@@ -3,7 +3,7 @@ display_name: "Jeff Siegel"
 first_name: "Jeff"
 last_name: "Siegel"
 summary: "Prospective overseas patient — lower eyebags, thin skin and dark circles; Victoria replied on a Truesdale Reel 2026-11-19 (E07 95), no reply yet, not DM'd."
-rank: 290
+rank: 293
 updated: "2026-11-20"
 ---
 

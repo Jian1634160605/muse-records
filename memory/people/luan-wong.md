@@ -3,7 +3,7 @@ display_name: "Luan Wong"
 first_name: "Luan"
 last_name: "Wong"
 summary: "New Facebook friend of Victoria's account from Hong Kong; friend request approved 2026-11-09, first DM sent and verified, B-18 sent 2026-11-10, B-19 sent 2026-11-12 and verified, awaiting reply."
-rank: 177
+rank: 180
 updated: "2026-11-12"
 ---
 

@@ -1,0 +1,21 @@
+name: ixbrowser_agent_health_check
+title: Check the ixBrowser agent before a round and escalate a long outage
+description: Check the ixBrowser agent health before any round that needs it, skip the round when the agent is dead, and escalate a prolonged outage once instead of asking for a restart every round.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - f6fde678-a792-4fb0-8f1f-d1e3df3f3929
+  - da75b2cc-5c7c-420d-b3cf-153be332096a
+  - 7371265a-c512-4fed-8a40-f76f9c62dd82
+  measurement:
+    proxy_metric_id: publish_rounds_run_with_dead_agent
+    success_criterion: Zero publish, hunt, DM, or group watch rounds run browser steps while both ixBrowser agent ports are unreachable, and every outage over twelve hours gets one consolidated block report with a restart request and a carry forward plan instead of a restart ask per round over the window.
+    window_days: 14
+  needs_review: false
+  rationale: 'The ixBrowser agent was down from 2026-11-25 13:47 to 2026-11-26 07:33, over twelve hours with both ports unreachable and no self recovery, while three publish rounds produced 0 of 33 items and the user was asked repeatedly to restart the agent. The ixBrowser operations skill checks health only at install time and the FoxProfile recovery skill covers a different service, so no managed skill taught a pre round liveness gate or a single consolidated escalation for a prolonged outage. The new skill adds that gate, the skip and carry forward rule, and the twelve hour re escalation, while leaving any switch to the alternate agent service to the user or the engineer. Other candidates were checked and not proposed: the records daily sync approval timeouts and the Charlene B-18 approval cards are already covered by blocking_action_escalation reporting and await a user decision on standing authorization, the discussion versus execution corrections are behaviour with no reusable skill method, and consolidation is not triggered with 9 active learned skills against the 10 skill threshold.'
+  review_after: 2026-12-10T06:16:38.401520+00:00
+  reviewed_at: 2026-11-26T06:16:38.401520+00:00
+  run_id: sirun_548d63db01a147b489fd6848d26663df

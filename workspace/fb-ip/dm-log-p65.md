@@ -318,7 +318,17 @@
 - **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）；轮末 profile 32 为其他并行轮次的号（05:13:30 打开），未碰。
 - **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
 - 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
---- fb-dm-p65 (gaga5456, IG p65) 2026-11-21 10:12 窗口外跳过：当前北京时间 10:12，不在 18:30–次日 06:00 窗口内，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-24 20:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
 2026-11-21 11:12 CST fb-dm-p65：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
 2026-11-21 12:13 CST fb-dm-p65：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
 2026-11-21 13:12 窗口外跳过（窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
@@ -584,3 +594,525 @@
 ## 2026-11-23 08:12 fb-dm-p65 窗口外跳过：北京时间 08:12 不在 18:30–次日 06:00 窗口内，未开浏览器、未发内容、未碰账号。
 
 - 2026-11-23 09:12 CST fb-dm-p65（gaga5456 / profile 65）：窗口外跳过——当前 09:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-23 10:12 CST fb-dm-p65（gaga5456 / profile 65）：窗口外跳过——当前 10:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+2026-11-23 11:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——夜里窗口为 18:30–次日 06:00，当前 11:12 不在窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-23 12:12 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-23 13:12 CST fb-dm-p65（gaga5456 / profile 65）：窗口外跳过——当前 13:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+---
+2026-11-23 14:12 CST fb-dm-p65：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+2026-11-23 15:13 CST fb-dm-p65：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+2026-11-23 16:12 CST fb-dm-p65：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-23 17:12 CST fb-dm-p65（gaga5456，profile 65）跳过：未到夜里窗口 18:30–06:00，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 18:13 跳过：未到 18:30 夜里窗口，本轮未跑，未开浏览器、未发内容。
+
+## 2026-11-23 19:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 05:12 轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-23 20:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 19:12 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）；轮末 profile 32 为其他并行轮次的号（20:13:17 打开），未碰。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-23 21:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-23 22:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 19:12/20:12/21:12 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32，为其他并行轮次的号）。
+
+## 2026-11-23 23:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 19:12/20:12/21:12/22:12 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康。**轮开始时 profile 65 已开着**（open_time 22:49:17，应为其他轮次所开），按手册本轮未 open、未 close，用完即走；opened-after 确认 65 仍在开（另有 5、32、109 为其他并行轮次的号），未碰。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束 profile 65 未由本轮关闭（轮开始时已开，按手册不关别人的窗口），并经 opened 列表复核确认。
+
+## 2026-11-24 00:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。**轮开始时 profile 65 已开着**（open_time 2026-11-23 22:49:17，属其他轮次），按手册本轮只读不关，未 close；opened-after 复核 65 仍在开（另有 profile 5、32 为其他并行轮次的号）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+
+## 2026-11-24 01:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-24 02:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent 健康；open(65) 一次成功。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile：close 返回 closed:true；复核时 opened 列表一度仍显示 65（列表滞后），`is_open(65)` 返回 False，再次复核 opened 列表确认 65 已不在（只剩 profile 32，为其他并行轮次的号，未碰）。
+
+## 2026-11-24 03:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。核验文件：~/workspace/fb-ip/dm_p65_round_20261124_0312.json
+
+## 2026-11-24 04:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23、11-24 00:12–03:12 轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-24 05:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 各轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+- 2026-11-24 06:13 CST fb-dm-p65：窗口外跳过（窗口 18:30–次日 06:00，当前 06:13），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 07:13 CST fb-dm-p65（gaga5456 / profile 65）：窗口外跳过——当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 08:12 CST — fb-dm-p65（gaga5456，profile 65）跳过
+- 窗口外跳过：当前 08:12 不在 18:30–次日 06:00 夜里窗口内，本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-24 09:12 跳过：窗口外（18:30–次日 06:00），本轮未跑，未开浏览器、未发内容、未碰账号。
+## 2026-11-24 10:12 跳过：窗口外（18:30–次日 06:00），本轮未跑，未开浏览器、未发内容、未碰账号。
+## 2026-11-24 11:12 跳过：窗口外（18:30–次日 06:00），本轮未跑，未开浏览器、未发内容、未碰账号。
+- 2026-11-24 12:12 CST fb-dm-p65（gaga5456，profile 65）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 13:12 CST fb-dm-p65（gaga5456，profile 65）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 14:12 CST fb-dm-p65（gaga5456，profile 65）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 15:12 CST fb-dm-p65（gaga5456，profile 65）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 16:13（fb-dm-p65，gaga5456 / profile 65）：窗口外跳过——当前北京时间 16:13，未到夜里窗口 18:30–次日 06:00；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 17:12 fb-dm-p65（gaga5456，profile 65）轮次跳过
+
+- 本轮定时触发于 17:12（北京时间），在夜里窗口 18:30–次日 06:00 之外，按规则直接跳过，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 18:13 fb-dm-p65（gaga5456，profile 65）轮次跳过
+
+- 本轮定时触发于 18:12（北京时间），在夜里窗口 18:30–次日 06:00 之外，按规则直接跳过，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 19:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-23 各轮及本日 00:12–05:12 轮完全一致，无新关注、无新评论、无新私信通知。本周一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent 健康；open(65) 一次成功。轮开始时 opened 列表为空（0 个在开）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-24 21:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 20:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-24 22:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（补核轮确认，`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 20:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 Meta Account 通知（Nov 05、Oct 18）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输故障记录**：本轮 agent 波动较大，多次 curl 52（空回复）与 1 次 curl 18（传输截断）：首轮 open 第 1 次 curl 18、第 2 次成功；check、inbox goto 第 1 次、requests/notifications goto 各 2 次、close、opened-after 均遇 curl 52；补核轮 requests/notifications 一次读回，内容与前几轮一致；close 第 1 次 curl 52、第 2 次返回 closed:true。均属瞬时故障，重试后通过；非 226/344、非 429。首轮 close 失败后 profile 残留开着（open_time 22:14:33、与首轮 open 的调试地址一致，确为本轮自己开的），补核轮按「已开不关别人窗口」误判为他轮未关，后单独 close 两次、第 2 次成功。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、38、44、67，为其他并行轮次的号）。
+
+## 2026-11-24 23:12（本轮未执行：ixBrowser agent 无响应，job fb-dm-p65）
+
+- **本轮未执行：agent 连不上**。health 首轮 3 次重试均 curl 52（Empty reply from server）；60 秒后复探 1 次 health 成功（agent v10, ok），但 /opened 立即 curl 52；随后重跑整轮脚本 health 又 3 次 curl 52；再 5 次间隔 20 秒探 health 全部 curl 52。**累计 12 次失败、仅 1 次瞬时成功**，持续约 5 分钟——持续性故障，非瞬时波动。
+- **故障定位**：隧道通路正常（其间 1 次 health 成功证明可达用户电脑 100.78.166.12:8765），agent 进程本身返回空回复，疑似用户电脑上 ixbrowser-agent v10 挂起/崩溃，或 ixBrowser Local API 异常。未尝试重启 agent（涉及用户电脑端服务、可能打断其他并行轮次，按手册记日志报总管）。
+- **与今晚 20:12 轮对比**：20:12 轮次 agent 正常、open(65) 一次成功、收件箱/Requests/通知均读到；故障发生在 20:12 之后、23:12 之前。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮 20:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 无响应，**全部账号操作被挡，属致命问题，需报总管/用户**（重启 agent 或检查 ixBrowser 客户端/Local API）。下轮先看 agent 是否恢复再跑。
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-25 00:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输故障记录**：open 第 1 次、inbox goto 第 1 次、requests eval 第 1 次各遇一次 curl 18（传输截断），notifications eval 第 1 次遇 curl 52（agent 空回复），均属瞬时故障，重试后通过；open 第 2 次成功。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、35、38、44、67，为其他并行轮次的号）。
+
+## 2026-11-25 01:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮、11-25 00:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 Meta Account 通知（Nov 05、Oct 18）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：首轮与补核轮（重跑一次只读核验）均全程一次通过，未遇 curl 18/52/56；agent 已恢复（11-24 23:12 的 agent 无响应故障已消失）。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **小故障记录**：首轮脚本写 JSON 证据文件时因通知页「Suggested for you」里一个孤立代理对字符（\ud835）导致 UnicodeEncodeError，文件未写出；已把脚本的 json.dump 改为 ensure_ascii=True（转义写出）并重跑一次只读核验，两次结果完全一致，证据文件已正常写出（~/workspace/fb-ip/dm_p65_round_20261125_0112.json）。脚本本身无其他改动。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、35、38、44、67、102 等其他并行轮次的号）。
+
+## 2026-11-25 02:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮、11-25 00:12、01:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 Meta Account 通知（Nov 05、Oct 18）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮全程一次通过，未遇 curl 18/52/56；agent 正常；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、35、38、44、67、102、108，为其他并行轮次的号）。证据：~/workspace/fb-ip/dm_p65_round_20261125_0212.json。
+
+## 2026-11-25 03:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮、11-25 00:12、01:12、02:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 Meta Account 通知（Nov 05、Oct 18）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮全程一次通过，未遇 curl 18/52/56；agent v10 正常；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、35、38、44、67、102、108，为其他并行轮次的号）。证据：~/workspace/fb-ip/dm_p65_round_20261125_0312.json。
+
+## 2026-11-25 04:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、35、38、44、67、102、108，为其他并行轮次的号）。
+
+## 2026-11-25 05:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v10 健康；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关；轮开始时在开的 profile 5、32、35、38、44、67、102、108 为其他并行轮次的号，未碰。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、35、38、44、67、102、108，为其他并行轮次的号）。
+- 2026-11-25 06:13（CST）fb-dm-p65 跳过：已过夜里窗口（18:30–次日 06:00），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-25 07:12（CST）fb-dm-p65 跳过：已过夜里窗口（18:30–次日 06:00），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 08:13 CST fb-dm-p65 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 09:13 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 09:13 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 10:13 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 10:13 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+2026-11-25 11:12 CST fb-dm-p65：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 12:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 12:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 13:12 跳过：北京时间 13:12 在窗口外（窗口 18:30–次日 06:00），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 14:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 14:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 15:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 15:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 16:12（fb-dm-p65）：窗口外跳过——北京时间 16:12 未到 18:30 夜里窗口，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 17:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 17:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-25 18:13（跳过）
+- 本轮定时 18:12 触发，北京时间 18:13，窗口外（窗口 18:30–次日 06:00）。按规则直接结束：未开浏览器、未发任何内容、未碰账号（profile 65 gaga5456）。
+
+## 2026-11-25 19:12（本轮未执行：ixBrowser agent 无响应，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 持续无响应（curl 52 空回复）**。`open(65)` 三次均失败：`调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server`；随后 health 与 opened 复核各两次、间隔 60 秒，同样全部 curl 52 空回复。五次调用横跨约 4 分钟，**持续性故障，非瞬时波动**。
+- **与 11-20 10:12 轮（Local API 不可达）不同**：本轮隧道连通、agent 端口有应答但返回空回复（非连接超时/拒绝），agent 进程疑似挂起或崩溃；与 11-24 夜里 agent 掉线后自行恢复的情形类似。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮 05:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 无响应，**全部账号操作被挡，属致命问题**，需总管/用户侧处理（重启用户电脑上 D:\ixbrowser-agent，或等 agent 自行恢复——11-24 夜里与 11-25 07:28 均曾自行恢复）。下轮先看 agent 是否恢复再跑；若持续无响应，考虑重启 agent 后重试。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261125_1912.json。
+
+## 2026-11-25 20:12（本轮未执行：ixBrowser agent 仍无响应，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 持续无响应（curl 52 空回复），与 19:12 轮完全相同**。`open(65)` 三次均失败：`调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server`；随后 `health` 与 `opened` 复核同样 curl 52；60 秒后再次 `health` 仍 curl 52。本轮 6 次调用全部失败。**19:12 轮已是同样故障，本轮确认故障已持续 1 小时以上（19:12→20:12），非瞬时波动**。
+- **故障性质**：隧道连通、agent 端口有应答但返回空回复（非连接超时/拒绝），agent 进程疑似挂起或崩溃；与 11-24 夜里 agent 掉线后自行恢复、11-25 07:28 自行恢复的情形类似，但本次已持续 1 小时以上未恢复。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的状态为 11-25 05:12，收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 无响应，**全部账号操作被挡，属致命问题**，需总管/用户侧处理（重启用户电脑上 D:\ixbrowser-agent，或等 agent 自行恢复）。下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261125_2012.json。
+
+## 2026-11-25 21:12（本轮未执行：ixBrowser agent 仍无响应，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 持续无响应（curl 52 空回复），与 19:12、20:12 两轮完全相同**。`open(65)` 三次均失败：`调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server`；随后 `health` 与 `opened` 复核同样 curl 52；60 秒后再次 `health` 仍 curl 52。**19:12 轮起故障已持续 2 小时以上（19:12→21:12），三轮共 18 次调用全部失败，非瞬时波动**。
+- **故障性质**：隧道连通、agent 端口有应答但返回空回复（非连接超时/拒绝），agent 进程疑似挂起或崩溃；与 11-24 夜里 agent 掉线后自行恢复、11-25 07:28 自行恢复的情形类似，但本次已持续 2 小时以上未恢复。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的状态为 11-25 05:12，收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 无响应，**全部账号操作被挡，属致命问题**，需总管/用户侧处理（重启用户电脑上 D:\ixbrowser-agent，或等 agent 自行恢复）。下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261125_2112.json。
+
+## 2026-11-25 22:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（curl 52 空回复，持续性故障）**。`health` 先后 7 次失败：首轮脚本 3 次、60 秒后复核 3 次、再 120 秒后复核 1 次，全部 `curl: (52) Empty reply from server`。`opened`/`open`/`check` 均未走到——agent 本身无响应。
+- **与 11-20 10:12 轮同类**：当时是 ixBrowser Local API 不可达（ConnectTimeout），本次是 agent 返回空回复（curl 52），同样是**用户电脑端 agent 服务异常，所有 profile 操作都被挡住，不只 65 号**。与 11-24 夜里 agent 掉线后 ~22:25 自恢复的先例类似，本轮 22:12–22:16 三次复核均未恢复；是否稍后自恢复待下轮验证。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮（11-24 20:12）收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 服务无响应，需总管/用户侧处理（重启 D:\ixbrowser-agent 或检查 agent 进程）。**属致命问题（全部账号操作被挡），需报总管/用户。**下轮先看 agent 是否恢复再跑；若持续 52，考虑重启 agent 后重试。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-25 23:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 全面空回复（curl 52）**。首轮 `open(65)` 三次均失败：`调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server`。随后核查 agent 健康：`health`、`opened` 同样 curl 52 空回复；`is_open(65)` 返回 False（启动前 65 未开）。60 秒后重试一轮，`open(65)` 再次三次 curl 52 失败，两轮共 6 次 open 全部失败。
+- **不是 226/344、不是已确认的登录失效**：agent 本身无响应，无法验证登录态；上轮 21:12 收件箱与 Requests 均为空、通知无新增（21:12 轮正常跑通）。**不编结果**：收件箱/Requests/通知均未读到，无法判断有无新私信/新关注。
+- **判定**：运行环境阻塞——ixBrowser agent（v10，8765）间歇性掉线，与 11-24 夜里 22:00 轮后 agent 掉线、22:25 左右自行恢复的模式相同。本轮未硬闯、未重复 open 超过两轮。profile 65 未开着，无需 close（opened 列表读不到，但 open 从未成功返回，启动前 is_open 为 False）。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**。例行轮次，只写日志，不报用户；下轮先看 agent 是否恢复再跑，若持续空回复需总管/用户侧处理（重启 D:\ixbrowser-agent）。
+
+## 2026-11-26 00:12（本轮未执行：ixBrowser agent 仍无响应，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 持续无响应（curl 52 空回复），与 11-25 19:12、20:12、21:12、22:12、23:12 五轮完全相同**。首轮 `health` 三次均失败（间隔 20 秒），`opened` 同样 curl 52；60 秒后复核一轮，`health` 再次三次 curl 52、`opened` 仍 curl 52。两轮共 8 次调用全部失败。
+- **故障已持续 5 小时以上（11-25 19:12 → 11-26 00:14），六轮共 30+ 次调用全部失败，非瞬时波动**。隧道连通、agent 端口有应答但返回空回复（非连接超时/拒绝），agent 进程疑似挂起或崩溃；与 11-24 夜里 agent 掉线后自行恢复、11-25 07:28 自行恢复的情形类似，但本次持续时间已远超此前自恢复的间隔。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的状态仍为 11-25 05:12，收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 无响应，**全部账号操作被挡，属致命问题**，需总管/用户侧处理（重启用户电脑上 D:\ixbrowser-agent，或等 agent 自行恢复）。下轮先看 agent 是否恢复再跑；若继续 52，重启 agent 后重试。
+- **轮次结束 profile 65 未开着**（open 从未走到、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261126_0012.json。
+
+## 2026-11-26 01:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（curl 52 空回复，持续性故障）**。`IxAgent.health()` 连续失败：01:13 首轮、重试轮各一次 curl 52；直接 curl 探查（经 tunnel proxy hatch-egress-proxy:3130）`http://100.78.166.12:8765/health` 同样 curl 52；备用端口 8766（v15）也 curl 52；90 秒等待后两次重试（17:16:56、17:17:19 UTC）仍 curl 52。**4 分钟内共 6 次尝试全部空回复，非瞬时波动**（此前轮次的 curl 52 均一次重试即恢复）。
+- **与 11-20 10:12 轮类似但不同**：当时是 Local API ConnectTimeout（客户端不可达）；本次是 tunnel 已通、服务端返回空回复，8765 与 8766 同时无响应，疑似用户电脑端 ixBrowser agent 进程已停/崩溃，或隧道到电脑的后端断开。默认环境代理，未覆盖 proxy-acct2.txt。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮 11-24 20:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，需用户侧处理（重启 D:\ixbrowser-agent 或检查用户电脑）。**属致命问题（全部账号操作被挡），需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-26 02:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端，curl 52 空回复）**。三次 `health` 调用均失败：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`（完整轮脚本两次 + 单独 health 一次，间隔约 4 分钟，默认环境代理，未覆盖 proxy-acct2.txt）。隔离诊断：8766 口（v15 备用 agent）与 8765 根路径同样 curl 52、均 8 秒超时空回复——**不是单个 agent 进程的问题，是用户电脑 100.78.166.12 侧两个 agent 端口均无响应**（agent 未运行、或电脑离线/休眠、或 Tailscale 路由中断）。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮有记录的 11-24 20:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，需用户侧处理（检查电脑是否在线、重启 ixBrowser agent / ixBrowser 客户端）。与 11-20 10:12 的 Local API 不可达同类，属全部账号操作被挡的致命问题，需报总管/用户。下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-26 03:12（本轮未执行：ixBrowser agent 仍无响应，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（curl 52 空回复，持续性故障）**。`health` 首轮三次均失败（间隔 20 秒）；60 秒后复核一轮，`health` 再次三次 curl 52；`opened` 同样 curl 52。两轮共 7 次调用全部失败（默认环境代理，未覆盖 proxy-acct2.txt）。
+- **故障已持续 ~8 小时（11-25 19:12 → 11-26 03:12），连续第 9 轮失败**（19:12、20:12、21:12、22:12、23:12、00:12、01:12、02:12、03:12），非瞬时波动。02:12 轮的隔离诊断（8765 与 8766 双端口同时无响应）仍适用：疑似用户电脑端 agent 未运行、电脑离线/休眠、或 Tailscale 路由中断。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的状态仍为 11-25 05:12，收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，**全部账号操作被挡，属致命问题**，需总管/用户侧处理（检查电脑是否在线、重启 D:\ixbrowser-agent / ixBrowser 客户端，或等 agent 自行恢复）。下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（open 从未走到、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261126_0312.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261126_0312.py。
+
+## 2026-11-26 04:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent（8765）持续无响应（curl 52 空回复）**。health 探针两轮共 6 次全部失败：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`；第二轮为 60 秒后复核，同样 3 次失败。`opened` 同样读不到。
+- **断线已持续约 9 小时**：自 2026-11-25 19:12 起（03:12 轮确认 ~8 小时，本轮 ~9 小时），非瞬时波动。上一轮 03:12 同样 6 次 health 失败。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮能读到时（11-24 22:12）收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 持续无响应，需用户侧处理（重启 ixBrowser agent / 检查用户电脑）。**属致命问题（全部账号操作被挡），持续 9 小时未恢复，需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261126_0412.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261126_0412.py。
+
+## 2026-11-26 05:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent（8765）无响应**。05:12–05:27 间共 9 次 `health` 调用全部失败，报错一致：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`（首轮脚本 3 次重试 + 60 秒后重试 3 次 + 240 秒后重跑脚本 3 次）。另做直连测试：经隧道代理 curl `http://100.78.166.12:8765/health` 同样 curl 52（http=000），**隧道本身通、端口有监听但 agent 不返回任何内容**，说明不是本侧代理问题，是用户电脑上 ixBrowser agent 进程卡死/崩溃。
+- **与历史故障同型**：11-20 10:12 曾出现 ixBrowser Local API 不可达（全部账号操作被挡）、11-24 夜里 agent 多次掉线后自行恢复；本次属同一类持续性故障，非瞬时波动，故未再盲重试。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮（11-24 20:12）收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent（8765）无响应，需用户侧处理（重启 D:\ixbrowser-agent；11-24 同类故障靠重启恢复，11-25 07:28 也曾自行恢复）。**属致命问题（全部账号操作被挡），需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-26 06:22（窗口外跳过）
+- 本轮定时 06:12，实际执行时 06:22，已过夜里窗口截止 06:00（北京时间 18:30–次日 06:00），按任务口径直接跳过：未开浏览器、未碰 profile 65、未发任何内容、未读收件箱。
+- 备注：上一轮（11-25 22:xx）ixBrowser agent（8765）无响应导致未跑成，属运行环境阻塞；本轮因窗口外未再核验 agent 状态，下轮窗口内先看 agent 是否恢复再跑。
+## 2026-11-26 07:13 CST — 窗口外跳过
+- 定时触发 07:12，当前 07:13 CST，已过夜里窗口（18:30–次日 06:00）上限 06:00。
+- 按规则本轮直接结束：未开浏览器、未发任何内容、未碰账号（gaga5456 / profile 65）。
+- 无新回复处理、无合格客资、无致命问题。
+
+## 2026-11-26 08:12 CST — 窗口外跳过
+- 定时触发 08:12，当前 08:12 CST，已过夜里窗口（18:30–次日 06:00）上限 06:00。
+- 按规则本轮直接结束：未开浏览器、未发任何内容、未碰账号（gaga5456 / profile 65）。
+- 无新回复处理、无合格客资、无致命问题。
+
+## 2026-11-26 09:12 CST — 窗口外跳过
+- 定时触发 09:12，当前 09:12 CST，夜里窗口为 18:30–次日 06:00，已过窗口上限 06:00。
+- 按规则本轮直接结束：未开浏览器、未发任何内容、未碰账号（gaga5456 / profile 65）。
+- 无新回复处理、无合格客资、无致命问题。
+
+## 2026-11-26 10:13 CST — fb-dm-p65 跳过（窗口外）
+窗口 18:30–次日 06:00，当前 10:13 在窗口外，按规则直接结束：未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-26 11:12 fb-dm-p65（gaga5456，profile 65）轮次：窗口外（夜里窗口 18:30–次日 06:00），跳过；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 12:12 fb-dm-p65（gaga5456，profile 65）轮次：窗口外（夜里窗口 18:30–次日 06:00），跳过；未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 13:12（窗口外跳过）
+- 时间 13:12 CST，窗口为 18:30–次日 06:00，窗口外直接结束，未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-26 14:12 fb-dm-p65（gaga5456，profile 65）轮次：窗口外（夜里窗口 18:30–次日 06:00），跳过；未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 15:12（窗口外跳过）
+- 时间 15:12 CST，窗口为 18:30–次日 06:00，窗口外直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 16:12（窗口外跳过）
+- 时间 16:12 CST，窗口为 18:30–次日 06:00，窗口外直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-26 17:13 CST：窗口外跳过（夜里窗口 18:30–次日 06:00，当前 17:13 未到），未开浏览器、未发内容、未碰账号。
+- 2026-11-26 18:13 CST：窗口外跳过（夜里窗口 18:30–次日 06:00，当前 18:13 未到），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 19:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent（8765）仍无响应**。19:12 首探与 60 秒后复核，`health` 与 `opened` 全部失败，报错一致：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`。默认环境代理，未覆盖 proxy-acct2.txt。
+- **断线已持续约 30 小时**：自 2026-11-25 13:47 起断（11-26 05:12 轮直连测试已证实隧道通、端口有监听但 agent 不返回任何内容，系用户电脑上 agent 进程卡死/崩溃）。期间 11-25 19:12、11-26 04:12、05:12 三轮同样全部失败；白天各轮窗口外跳过未核验。**非瞬时波动，未再盲重试。**
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮能读到时（11-24 20:12）收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 持续无响应，需用户侧处理（重启 D:\ixbrowser-agent；11-24 同类故障靠重启恢复，11-25 07:28 也曾自行恢复）。**属致命问题（全部账号操作被挡），已持续约 30 小时，需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-26 20:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent（8765）仍无响应**。20:12 首探与 60 秒后复核，`health` 共 6 次全部失败，报错一致：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`。默认环境代理，未覆盖 proxy-acct2.txt。
+- **断线已持续约 30.5 小时**：自 2026-11-25 13:47 起断（11-26 05:12 轮直连测试已证实隧道通、端口有监听但 agent 不返回任何内容，系用户电脑上 agent 进程卡死/崩溃）。期间 11-25 19:12、11-26 04:12、05:12、19:12 四轮同样全部失败；白天各轮窗口外跳过未核验。**非瞬时波动，未再盲重试。**
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮能读到时（11-24 20:12）收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 持续无响应，需用户侧处理（重启 D:\ixbrowser-agent；11-24 同类故障靠重启恢复，11-25 07:28 也曾自行恢复）。**属致命问题（全部账号操作被挡），已持续约 30.5 小时，需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261126_2012.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261126_2012.py。
+
+## 2026-11-26 21:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端，双路均不通）**。`health`（8765，v10）先后 5 次失败，均为 curl 52 Empty reply from server（首轮 2 次 + 60 秒后复核 3 次）；备用 v15（8766）health 同样 curl 52 空回复。**断线自 2026-11-25 13:47 起持续至今（已超 31 小时），本次仍未自己恢复**，与 11-26 10:24 复核结论一致。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的 11-24 20:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——ixBrowser agent 双路无响应，需用户侧处理（此前已问用户是否重启过 D:\ixbrowser-agent，等他回话）。**属致命问题（全部账号操作被挡），此前轮次已上报过，本轮不重复直接打扰用户；只写日志。**
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-26 22:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent（8765）仍无响应**。22:12 首探与 60 秒后复核，`health` 共 6 次全部失败，报错一致：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`。默认环境代理，未覆盖 proxy-acct2.txt。备用 v15（8766）本轮未重探——21:12 轮一小时前已确认同样 curl 52 空回复。
+- **断线已持续约 32.5 小时**：自 2026-11-25 13:47 起断（11-26 05:12 轮直连测试已证实隧道通、端口有监听但 agent 不返回任何内容，系用户电脑上 agent 进程卡死/崩溃）。期间 11-25 19:12、11-26 04:12、05:12、19:12、20:12、21:12 六轮同样全部失败；白天各轮窗口外跳过未核验。**非瞬时波动，未再盲重试。**
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的 11-24 20:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——ixBrowser agent 持续无响应，需用户侧处理（此前已问用户是否重启过 D:\ixbrowser-agent，等他回话）。**属致命问题（全部账号操作被挡），此前轮次已上报过，本轮不重复直接打扰用户；只写日志。**
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261126_2212.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261126_2212.py。
+
+## 2026-11-26 23:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent（8765）仍无响应**。23:12 首探与 60 秒后复核，`health` 共 6 次全部失败，报错一致：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`。默认环境代理，未覆盖 proxy-acct2.txt。备用 v15（8766）本轮未重探——22:12 轮一小时前已确认同样 curl 52 空回复。
+- **断线已持续约 33.5 小时**：自 2026-11-25 13:47 起断（11-26 05:12 轮直连测试已证实隧道通、端口有监听但 agent 不返回任何内容，系用户电脑上 agent 进程卡死/崩溃）。期间 11-25 19:12、11-26 04:12、05:12、19:12、20:12、21:12、22:12 七轮同样全部失败；白天各轮窗口外跳过未核验。**非瞬时波动，未再盲重试。**
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的 11-24 20:12 收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——ixBrowser agent 持续无响应，需用户侧处理（此前已问用户是否重启过 D:\ixbrowser-agent，等他回话）。**属致命问题（全部账号操作被挡），此前轮次已上报过，本轮不重复直接打扰用户；只写日志。**
+- **轮次结束 profile 65 未开着**（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261126_2312.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261126_2312.py。
+
+## 2026-11-27 00:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 无响应（用户电脑端）**。两次 `health` 均失败，报错一致：`调用 GET /health 失败（curl 52）：Empty reply from server`（首轮、45 秒后重试均同错）。隧道已连通但 agent 空回复，属 agent 服务未响应，非本机代理问题（默认环境代理，未覆盖 proxy-acct2.txt）。
+- **与已知故障同一条线**：agent 自 2026-11-25 13:47 断连至今未恢复（11-26 上午 10:24 再探仍不通），本次为同一故障的持续，未见自行恢复；此前 11-25 夜里三轮发布合计 0/33 也是同一原因。未改走 8766 的 v15 备用 agent——切换与否等成安/工程师定，本轮不擅自切。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮成功读到的状态（11-24 20:12）为收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——ixBrowser agent 持续无响应，需用户侧重启 D:\ixbrowser-agent（此前已问过用户是否重启过，等他回话）。例行轮次，只写日志；本故障此前已报过用户，本轮不再重复报。
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-27 01:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端），health 两次失败**。两次 `health` 探测（01:12 首探、60 秒后重试）均报 curl 52 Empty reply from server；脚本在 health 失败时即退出，未执行 open/check/goto/eval/close。
+- **与已知断线同一故障**：ixBrowser agent 自 2026-11-25 13:47 起断线，2026-11-26 10:24 再探仍不通、本次无自行恢复；至本轮（11-27 01:12）已断线约 35.5 小时。属持续性故障，非瞬时波动。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮可读记录为 11-24 20:12（收件箱与 Requests 均为空、通知无新增）。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，需用户侧处理（重启 D:\ixbrowser-agent 或检查 agent 进程）。**属致命问题（全部账号操作被挡），需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-27 02:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端），双路均不通**。`health`（8765，v10）先后 4 次失败，均为 curl 52 Empty reply from server（首探 1 次 + 45 秒后复核 3 次）；备用 v15（8766）health 同样 curl 52 空回复。默认环境代理，未覆盖 proxy-acct2.txt。
+- **与已知断线同一故障**：ixBrowser agent 自 2026-11-25 13:47 起断线，2026-11-26 10:24 再探仍不通、本次无自行恢复；至本轮（11-27 02:12）已断线约 36.5 小时。属持续性故障，非瞬时波动。未改走 8766 的 v15 备用 agent——切换与否等成安/工程师定，本轮不擅自切。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮可读记录为 11-24 20:12（收件箱与 Requests 均为空、通知无新增）。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，需用户侧处理（重启 D:\ixbrowser-agent 或检查 agent 进程；此前已问过用户是否重启过，等他回话）。**属致命问题（全部账号操作被挡），此前轮次已上报过，本轮不重复直接打扰用户；只写日志。**
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261127_0212.json。
+
+## 2026-11-27 03:12（本轮，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端，持续性故障）**。两次 `health` 均失败，报错一致：`调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server`（首轮 03:16、60 秒后重试 03:17 均同错）。agent 自 2026-11-25 13:47 断开以来未恢复（11-26 10:24 再探仍不通），本次为第 3 天持续断线，非瞬时波动。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮（11-24 20:12）收件箱与 Requests 均为空、通知无新增。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent（8765）无响应，需用户侧处理（重启 D:\ixbrowser-agent 或检查 agent 进程）。**属致命问题（全部账号操作被挡），需报总管/用户。**下轮先看 agent 是否恢复再跑。
+- **轮次结束 profile 65 未开着**（health 失败、open 从未成功、无残留进程可关），无需 close。
+
+## 2026-11-27 04:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端），双路均不通**。`health`（8765，v10）先后 5 次失败，均为 curl 52 Empty reply from server（首探 2 次 + 60 秒后复核 3 次）；备用 v15（8766）health 同样 curl 52 空回复。默认环境代理，未覆盖 proxy-acct2.txt。
+- **与已知断线同一故障**：ixBrowser agent 自 2026-11-25 13:47 起断线，2026-11-26 10:24 再探仍不通、本次无自行恢复；至本轮（11-27 04:12）已断线约 38.5 小时。属持续性故障，非瞬时波动。未改走 8766 的 v15 备用 agent——切换与否等成安/工程师定，本轮不擅自切。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮可读记录为 11-24 20:12（收件箱与 Requests 均为空、通知无新增）。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，需用户侧处理（重启 D:\ixbrowser-agent 或检查 agent 进程；此前已问过用户是否重启过，等他回话）。**属致命问题（全部账号操作被挡），此前轮次已上报过，本轮不重复直接打扰用户；只写日志。**
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261127_0412.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261127_0412.py。
+
+## 2026-11-27 05:12（本轮未执行，job fb-dm-p65）
+
+- **本轮未执行：ixBrowser agent 连不上（用户电脑端），双路均不通**。`health`（8765，v10）先后 5 次失败，均为 curl 52 Empty reply from server（首探 2 次 + 60 秒后复核 3 次）；备用 v15（8766）health 同样 curl 52 空回复。默认环境代理，未覆盖 proxy-acct2.txt。
+- **与已知断线同一故障**：ixBrowser agent 自 2026-11-25 13:47 起断线，2026-11-26 10:24 再探仍不通、本次无自行恢复；至本轮（11-27 05:12）已断线约 39.5 小时。属持续性故障，非瞬时波动。未改走 8766 的 v15 备用 agent——切换与否等成安/工程师定，本轮不擅自切。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：profile 65 未打开，身份未核验，收件箱/Requests/通知均未读到，无法判断有无新私信/新关注；上一轮可读记录为 11-24 20:12（收件箱与 Requests 均为空、通知无新增）。**不编结果**。
+- **判定**：不是 226/344、不是已确认的登录失效（未验证到登录态）。是运行环境阻塞——用户电脑端 ixBrowser agent 不可达，需用户侧处理（重启 D:\ixbrowser-agent 或检查 agent 进程；此前已问过用户是否重启过，等他回话）。**属致命问题（全部账号操作被挡），此前轮次已上报过，本轮不重复直接打扰用户；只写日志。**
+- 轮次结束 profile 65 未开着（open 从未成功、无残留进程可关），无需 close。证据：~/workspace/fb-ip/dm_p65_round_20261127_0512.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261127_0512.py。
+## 2026-11-27 06:28 跳过：已过夜里窗口（18:30–06:00），本轮不跑，未开浏览器、未发内容。
+## 2026-11-27 07:12 跳过：已过夜里窗口（18:30–06:00），本轮不跑，未开浏览器、未发内容、未碰账号。
+## 2026-11-27 08:13 跳过：已过夜里窗口（18:30–06:00），本轮不跑，未开浏览器、未发内容、未碰账号。
+## 2026-11-27 09:12 跳过：已过夜里窗口（18:30–06:00），本轮不跑，未开浏览器、未发内容、未碰账号。
+## 2026-11-27 10:12 — 窗口外跳过：当前 10:12 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发内容、未碰账号。
+2026-11-27 11:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+2026-11-27 12:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+
+- 2026-11-27 13:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 13:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 14:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 14:12 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+2026-11-27 15:12 CST fb-dm-p65（gaga5456，profile 65）：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+2026-11-27 17:13 CST fb-dm-p65（gaga5456，profile 65）：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-27 18:13 CST fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前 18:13 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-27 19:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 "You're now using a Meta Account on Instagram"（Nov 05）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。**环境已恢复**：8765 agent health 一次通过，版本 15（11-25 13:47 起的持续断线已恢复）；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的。
+- **注意**：8766 v15 备用 agent health 仍报 curl 52 空回复（与 11-27 00:12–05:12 轮同状）；但 8765 主路现已是 version 15，备用路不通不影响本轮，不切换。另：close 返回 closed:true 后立即查 opened 列表仍见 65 在列（pid 9404），属关闭后列表未及时刷新；随后复核 opened 列表已只剩 5、32（其他并行轮次的号），65 确已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（复核后在开的只有 profile 5、32，为其他并行轮次的号）。
+- 证据：~/workspace/fb-ip/dm_p65_round_20261127_1912.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261127_1912.py。
+
+## 2026-11-27 20:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 19:12 轮完全一致，无新关注、无新评论、无新私信通知。本月一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输/环境记录**：agent 8765 健康（v15）；8766 v15 探测返回 curl 52 空回复（仅探测、不切换、不执行，轮次未受影响）。open(65) 一次成功，全程未遇 curl 18/52/56（默认环境代理，未覆盖 proxy-acct2.txt）。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。

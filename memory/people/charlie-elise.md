@@ -3,7 +3,7 @@ display_name: "Charlie Elise"
 first_name: "Charlie"
 last_name: "Elise"
 summary: "Prospective overseas patient — collection-table #158; Victoria commented 2026-10-31 on her Albuquerque eyelid-procedure recommendation post, not DM'd under the local-anchoring rule."
-rank: 120
+rank: 123
 updated: "2026-10-31"
 ---
 

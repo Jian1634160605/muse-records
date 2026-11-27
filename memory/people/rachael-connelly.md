@@ -3,7 +3,7 @@ display_name: "Rachael Connelly"
 first_name: "Rachael"
 last_name: "Connelly"
 summary: "Prospective overseas patient — under-eye hollowness, debating fat grafting; Victoria commented 2026-11-19 (E07 93), no reply yet, not DM'd."
-rank: 284
+rank: 287
 updated: "2026-11-20"
 ---
 

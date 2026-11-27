@@ -3,7 +3,7 @@ display_name: "Suzie Court"
 first_name: "Suzie"
 last_name: "Court"
 summary: "Prospective overseas patient — Victoria replied to her on a Nayak Reel 2026-11-19 (E07 94), no reply yet, not DM'd."
-rank: 287
+rank: 290
 updated: "2026-11-20"
 ---
 

@@ -3,7 +3,7 @@ display_name: "蒋德涛"
 first_name: "德涛"
 last_name: "蒋"
 summary: "Facebook friend of Victoria's account since the 2026-11-21 00:58 check; screened, no medical intent, identity uncertain, closed with no DM sent; keep or delete awaiting the user's decision."
-rank: 295
+rank: 298
 updated: "2026-11-21"
 ---
 

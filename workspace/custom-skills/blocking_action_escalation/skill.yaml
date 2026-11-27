@@ -1,25 +1,22 @@
 name: blocking_action_escalation
-title: Blocking Action Escalation
-description: Report a blocking approval, login, or platform problem at once in the main chat and the designated urgent channel, with what the user must do.
+title: Approval lock and blocking escalation
+description: Hold outbound sends awaiting exact approval and report blocking approval, login, or platform problems at once in the main chat and the designated urgent channel.
 category: Work and knowledge
 include_in_prompt: true
 skill_improvement:
   managed: true
   status: active
   evidence_handles:
-  - c4a71c43
-  - acf7ed32
-  - 68e84971
-  - 935c07fe
-  - c0d4821e
-  - 741048da
-  - ~/MEMORY.md
+  - sirun_deecb26fab0c42c59439dee1cc34f072
+  - sirun_e5cf0469211745028c7346f221a239cc
+  - 145e4f3b4b24ad0b61c2ea403cfc1cbf25bf39355d16550caca88efa44f2a821
+  - 416e765a1096bfb3d601a422b4549f7442d0c67045124da8dd33fb0a9446b7f3
   measurement:
-    proxy_metric_id: user_flagged_delayed_blocking_report
-    success_criterion: Zero blocking approval, login, verification, or platform problems reported only at a daily summary or after a job timeout over the window, and every blocking event in the window is reported in the main chat and the designated urgent channel with platform, account, problem, and whether the user must act.
+    proxy_metric_id: pending_approval_breach_count
+    success_criterion: Zero outbound sends on a locked thread, recipient, or item and zero blocking events reported only at a daily summary or after a job timeout over the window, with every lock skip logged and reported in the same round.
     window_days: 14
   needs_review: false
-  rationale: 'The escalation rule existed only in one task body and not in the hunter task, was then clarified to immediate notification after a short wait rather than on timeout, and still failed the same evening when a Lucy follow-up approval card appeared at 21:05 Beijing and was approved at 22:34 with no urgent-channel call, with the executor later reading the rule as timeout-only. The user then set it as a top rule: report any platform or account problem at once in the main chat and the urgent channel with platform, account, problem, and whether the user must act, never deferred to a daily report. This mirrors the earlier quota lesson where a fix in one surface did not generalize. A skill_search for approval escalation returned only unrelated skills, so no existing skill covers this reusable trigger, dual-channel, four-fact, and cross-task propagation method.'
-  review_after: 2026-11-07T19:14:39.817080+00:00
-  reviewed_at: 2026-10-24T19:14:39.817080+00:00
-  run_id: sirun_deecb26fab0c42c59439dee1cc34f072
+  rationale: Ten active learned skills trigger consolidation. blocking_action_escalation and pending_approval_lock teach complementary halves of one approval workflow, reporting a block at once and holding a send until exact approval, and both must be loaded before a scheduled or background send. The merged skill preserves every lock, set and clear, new-reply, skip-report, dual-channel, four-fact, and propagation rule from both sources, so no method is lost while the active count falls from 10 to 9.
+  review_after: 2026-12-08T00:18:51.650276+00:00
+  reviewed_at: 2026-11-24T00:18:51.650276+00:00
+  run_id: sirun_14b12ed96fb74014a5c9d749984ee4bd

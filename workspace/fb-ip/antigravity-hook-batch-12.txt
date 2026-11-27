@@ -1,0 +1,126 @@
+反重力剪辑任务：12 条钩子版视频（重剪版）
+================================================
+
+任务：把下面 12 条原片重剪成“钩子版”。每条的核心改法只有一个：把爆点（揭晓/反转/结果）挪到开头 0–2 秒，并配上大字钩子；后面再讲过程/解释。不要重新编内容，不要换音乐，不要发布，只剪出来等检查。
+
+素材根目录：C:\Users\Administrator\Desktop\秦浩视频\未发视频
+输出目录：C:\Users\Administrator\Desktop\秦浩视频\未发视频\钩子版\（没有就新建）
+ffmpeg 在系统 PATH 里（9.0.2，直接用 ffmpeg / ffprobe 命令）。
+
+
+1. 先用 ffprobe 查 12 条原片：时长、分辨率、音视频轨数，记下来。
+2. 每条原片抽几帧看一下内容，找到下面指定的“爆点画面”再动手剪。
+
+
+通用做法：从原片里找到爆点画面，截 2 秒放到最开头 0–2 秒，上面压大字钩子（英文，全大写，白色粗体加黑边，居中，够大够清楚）；然后接原片从头开始的内容（如果爆点画面就在开头附近，避免重复播两遍）。视频和音频一起剪，保持音画同步。不要换音乐，沿用原片音乐。
+大字字体：C:\Windows\Fonts\arialbd.ttf（没有就用系统里有的粗体无衬线字体）。
+
+1. fb03-hook.mp4（Victoria，拉皮）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\03_秦浩口播\video_music.mp4
+0–2 秒大字：WHERE DOES A FACELIFT ACTUALLY LIFT?
+爆点画面：医生在脸上画线、线条最清楚的那一下。
+文案存 fb03-hook.txt：WHERE DOES A FACELIFT ACTUALLY LIFT? Dr. Qin Hao marks it out line by line — structure first, balance always, no pulling, no pulled look. What would you ask him in a consultation?
+Music: DJ culebers - Won't be stopped / Free to use with credit via GMXMusic: https://www.youtube.com/@gmxmusicofficial
+
+2. fb04-hook.mp4（Jusa，鼻子）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\04_鼻子术后即刻\video_music.mp4
+0–2 秒大字：DAY 7. THE CAST COMES OFF TODAY.
+爆点画面：鼻夹板/术后即刻、鼻子形状最清楚的那一下（像开箱一样揭晓）。
+文案存 fb04-hook.txt：DAY 7. THE CAST COMES OFF TODAY. Right after surgery — this is what Day 0 actually looks like. Splint on, swelling expected, shape already there. The next 30 days change everything. Which day do you want to see next — Day 7 or Day 30?
+
+3. mv-01-f2-hook.mp4（Lark，拉皮）※ 这条只剪出来，单独标注“待验证”，不进发布
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\多版本剪辑\01-f2-markings.mp4
+0–2 秒大字：THESE LINES ARE THE SURGERY.
+爆点画面：脸上划线最密、最清楚的特写。
+文案存 mv-01-f2-hook.txt：THESE LINES ARE THE SURGERY. Every line is a vector — lift, support, balance. No pulling, no pulled look. What part of your face would you ask about first?
+Music: Classical Vibes (Mixkit).
+
+4. f2-20261123-hook.mp4（Oe，拉皮）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\20261123新片\f2-20261123.mp4
+0–2 秒大字：WATCH THE FIRST LINE.
+爆点画面：医生开始画第一条线的动作进行中。
+文案存 f2-20261123-hook.txt：WATCH THE FIRST LINE. Before any lift, the face gets a proper assessment. The doctor checks each area one by one — jawline, cheeks, neck — and decides what actually needs lifting, before anything is cut. Which area would you want checked first — jawline, cheeks, or neck?
+Music: Driving Ambition (Mixkit).
+
+5. r1-20261123-hook.mp4（Ejje，鼻子）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\20261123新片\r1-20261123.mp4
+0–2 秒大字：DAY 7. WAIT FOR IT.
+爆点画面：Day 7 那帧先放开头 2 秒，然后再回 Day 0 真实手术画面。
+特别注意：Day 7 那帧是 AI 示意画面、不是这个病人，Day 0 是真实画面。两者不要拼成“同一个人恢复过程”的样子，顺序就是 Day 7 在前、Day 0 在后，文案里会说明。视频画面里不加任何 AI 角标、“AI 生成”字样。
+文案存 r1-20261123-hook.txt：DAY 7. WAIT FOR IT. Day 7 first. Then back to Day 0 — the real operating-room moment, no filter. The Day 7 frame is an AI illustration, not this patient; the Day 0 footage is real. Recovery is a process, not a single photo. What would you want to see at Day 14?
+AI-generated video for illustration where marked.
+Music: Relaxation (Mixkit).
+
+6. fb01-hook.mp4（sarah，拉皮）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\01_面诊棉签\video_music.mp4
+0–2 秒大字：STOP SCROLLING IF YOUR JAWLINE DISAPPEARED.
+爆点画面：面诊时用棉签在下颌线处比划、线条最清楚的那一下。
+文案存 fb01-hook.txt：STOP SCROLLING IF YOUR JAWLINE DISAPPEARED. A careful consultation makes all the difference — mapping the face line by hand before planning anything. This is where a good result starts. Which area would you want mapped first?
+Music: NO LIMITS PHONK — https://www.youtube.com/@nolimits_phonk
+
+7. n2-20261123-hook.mp4（gaga，鼻子）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\20261123新片\n2-20261123.mp4
+0–2 秒大字：DON'T GET A NOSE JOB.
+爆点画面：术后最肿/最戏剧化的那一帧，先给反差，第 5 秒左右再反转。
+文案存 n2-20261123-hook.txt：DON'T GET A NOSE JOB. The swelling lasts weeks. The first week is rough. And it's not reversible....Unless you want this. Real before/after from our clinic at the end — no filter, no promises. Would you still do it?
+Music: Driving Ambition (Mixkit).
+
+8. starface-01-hook.mp4（p102，鼻子）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\20261123新片\starface-01-20261123.mp4
+0–2 秒大字：WHY DO SOME FACES LOOK FAMOUS?
+爆点画面：AI 虚构脸正面最清楚的那一帧。
+特别注意：画面里的人脸是 AI 虚构的、不是真人，只讲审美方向，不提任何真实明星的名字，不说“整容后变成谁”。
+文案存 starface-01-hook.txt：WHY DO SOME FACES LOOK FAMOUS? It's not one feature — it's three working together: a smooth, flowing jawline; full, lifted cheeks; a straight nose bridge. If this face were lifted, these are the directions it would go — a smoother line, fuller volume, a straighter profile. Aesthetic analysis is about direction, not about becoming someone else. Which one do you have? Tell me in the comments.
+AI-generated video for illustration. Faces shown are AI-generated illustrations, not real people.
+Music: "relaxation-05-lily-j" by Mixkit
+
+9. starface-04-hook.mp4（p103，鼻子）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\20261123新片\starface-04-20261123.mp4
+0–2 秒大字：YOUR EYES POP WHEN YOUR NOSE STOPS DISTRACTING.
+爆点画面：眼睛部位最清楚的那一帧。
+特别注意：同上，AI 虚构脸，只讲方向，不提真实明星名。
+文案存 starface-04-hook.txt：YOUR EYES POP WHEN YOUR NOSE STOPS DISTRACTING. Why are celebrity eyes so bright? It's not one feature — it's three things working together: open, lifted lids; lighter upper lids; a bright, awake look. If this eye area were lifted, the direction is a lighter, more open lid and a brighter, more awake look. Aesthetic analysis is about direction, not about becoming someone else. Which eyes do you have? Tell me in the comments.
+AI-generated video for illustration. Faces shown are AI-generated illustrations, not real people.
+Music: "relaxation-05-lily-j" by Mixkit
+
+10. f1-20261123-hook.mp4（p106，拉皮）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\20261123新片\f1-20261123.mp4
+0–2 秒大字：DAY 1 vs DAY 90. SAME FACE.
+爆点画面：开头左右分屏/硬切：左边 CASE 1（病房里那位），右边 CASE 2（Hafez，拉皮+鼻子联合手术），两边画面上分别压字 CASE 1、CASE 2。
+特别注意：这是两个不同的病人，不是同一个人、不是一条时间线，画面上必须一直能看到 CASE 1 / CASE 2 的区分，不要让人误会。
+文案存 f1-20261123-hook.txt：DAY 1 vs DAY 90. SAME FACE. Two real facelift cases, side by side — not the same person, not a timeline. Case 1 in the ward, Case 2 is Hafez (facelift + nose refinement). Real patients, real recovery, no staging. Which case do you want to hear more about?
+Music: Classical Vibes (Mixkit).
+
+11. fb05-hook.mp4（p108，拉皮）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\05_面诊长片\video_music.mp4
+0–2 秒大字：GUESS WHICH DAY THIS IS.
+爆点画面：面诊中最有悬念的一幕（量尺寸/画线/看镜子）。
+文案存 fb05-hook.txt：GUESS WHICH DAY THIS IS. A full consultation, unhurried — mapping, measuring, planning before any decision is made. What matters most to you in a consultation?
+Music: Riotsorio - Tight / Free to use with credit via GMXMusic: https://www.youtube.com/@gmxmusicofficial
+
+12. mv-03-hook-hook.mp4（p109，鼻子）
+原片：C:\Users\Administrator\Desktop\秦浩视频\未发视频\多版本剪辑\03-hook-10s.mp4
+0–2 秒大字：ONE SECOND. THAT'S THE DIFFERENCE.
+爆点画面：原片里一秒转场/揭晓的那一下，放到最开头。
+文案存 mv-03-hook-hook.txt：ONE SECOND. THAT'S THE DIFFERENCE. Dr. Qin Hao explains what actually changes after rhinoplasty — and what doesn't. What would you ask him first?
+Music: Relaxation by Lily J (Mixkit).
+
+
+- 竖屏 1080×1920；时长 15–60 秒（跟原片时长接近即可，不要拉长也不要剪太短）。
+- 编码 H.264 + AAC，yuv420p，带 faststart。
+- 每条成片必须正好 1 条视频轨 + 1 条音频轨（0 音轨不许出片），音频沿用原片音乐，不要换音乐。
+- 0–2 秒大字必须清楚可读；封面就是开头这帧（大字 + 揭晓画面），不用另外做封面图。
+- 视频画面里不加任何 AI 角标、“AI 生成”字样、水印、logo。
+
+
+- 不编造病人案例，不做假前后对比，不冒充病人自述。
+- 不同病人的画面不拼成一条时间线；f1 必须分 CASE 1 / CASE 2。
+- 不写真实明星名字，不说“整容后变成谁”。
+- 不承诺效果，不报价。
+- 原片里没有的事实不要自己编进画面或文字。
+
+
+1. 每条成片用 ffprobe 核验：1 视频轨 + 1 音频轨、1080×1920、时长；有问题的写进报告，不要自己猜。
+2. 每个 mp4 旁边存一个同名.txt，内容就是上面给的那条文案（照抄）。
+3. 在输出目录写一份 报告.txt：每条一行，写输出路径、时长、分辨率、音视频轨数；再写：原片有没有缺音频、哪条没按要求剪、哪条你拿不准。
+4. 不要发布，不要上传，剪完等检查。

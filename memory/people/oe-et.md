@@ -2,9 +2,9 @@
 display_name: "Oe Et"
 first_name: "Oe"
 last_name: "Et"
-summary: "FB doctor-IP account, ixBrowser profile 38 (44 friends, facelift line since 2026-11-19); one comment deleted by FB as spam/high-frequency 2026-11-20, next round paused, appeal decision with the user."
-rank: 23
-updated: "2026-11-21"
+summary: "FB doctor-IP account, ixBrowser profile 38 (44 friends, facelift line since 2026-11-19); comment deleted by FB as spam 2026-11-20; published 2026-11-23 22:00, 05 failed at 00:00."
+rank: 22
+updated: "2026-11-24"
 ---
 
 # Oe Et
@@ -20,11 +20,13 @@ updated: "2026-11-21"
 - 2026-11-20 21:38 Beijing: one comment sent that evening was deleted by Facebook as "spam/high-frequency", with a "prevent further restrictions" warning; two drafted comments were held and not sent. The account itself was not banned and showed no 226/344 signal.
 - 2026-11-20 night: this account published in both video rounds (22:00 and 00:00). Its page header still showed the "We removed your comment" notice for the 21:18 deletion.
 - 2026-11-20 night: one self-review引流 comment was filled in but not verified as visible; the 02:00 recheck that was meant to confirm it never ran.
+- 2026-11-23 night: published in the 22:00 round — https://www.facebook.com/reel/1624769699401515/ — and item 05 failed in the 00:00 round. The failed item was among the 15 held for the rebuilt publish plan on 2026-11-24.
 
 ## History
 - 2026-11-17: login and feed verified normal; hunter/DM tasks built as part of the 20-task multi-account launch; all operation stopped 21:23 by user order.
 - 2026-11-19: facelift line confirmed; took part in the mutual-engagement round on Victoria's videos.
 - 2026-11-20: a comment was deleted by Facebook as spam/high-frequency; the next round was paused and the drafted comments held.
+- 2026-11-23 night: published in the 22:00 round; item 05 failed in the 00:00 round and was held for the rebuilt 2026-11-24 publish plan.
 
 ## The relationship
 An operational account persona, not a personal tie: the user owns the account and Muse runs it as a facelift-line leg of the 秦浩 doctor-IP matrix toward overseas patient leads.
@@ -38,5 +40,6 @@ An operational account persona, not a personal tie: the user owns the account an
 - [ ] Traffic question (2026-11-16 note): profile 38 was described as poor-traffic and droppable, yet it was verified and included in the 2026-11-17 operation — whether it stays in the matrix is unresolved.
 - [ ] Deleted comment (2026-11-20): one comment removed by Facebook as spam/high-frequency; next round paused, two drafts held; whether to appeal the deletion is the user's decision, and no appeal has been made.
 - [ ] Self-review comment (2026-11-20 night): one引流 comment filled in but not verified as visible; the 02:00 recheck never ran, so confirmation is still pending.
+- [ ] 2026-11-23 night failure (item 05): held for the rebuilt 2026-11-24 publish plan — retry and verify.
 
 ## Strengthening

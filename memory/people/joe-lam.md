@@ -3,7 +3,7 @@ display_name: "Joe Lam"
 first_name: "Joe"
 last_name: "Lam"
 summary: "New Facebook friend of Victoria's account, added 2026-11-17; screened, no medical intent shown, no messages, no DM sent, closed."
-rank: 281
+rank: 284
 updated: "2026-11-17"
 ---
 

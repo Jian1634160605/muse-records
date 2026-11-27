@@ -5,17 +5,16 @@ category: Work and knowledge
 include_in_prompt: true
 skill_improvement:
   managed: true
-  status: active
+  status: retired
   evidence_handles:
-  - assistant-msg-0fade3f0
-  - ~/dreams/alignment/derived/ALIGNMENT_SYNTHESIS.md
-  - ~/workspace/custom-skills/fb-ip-operations/SKILL.md
+  - sirun_e5cf0469211745028c7346f221a239cc
+  - 416e765a1096bfb3d601a422b4549f7442d0c67045124da8dd33fb0a9446b7f3
   measurement:
     proxy_metric_id: pending_approval_breach_count
-    success_criterion: Zero outbound sends on a locked thread, recipient, or item over the window, with every lock skip logged and reported to the user in the same round.
+    success_criterion: The retired skill leaves active discovery and the merged blocking_action_escalation skill covers its lock checks with zero outbound sends on a locked thread, recipient, or item over the window.
     window_days: 14
   needs_review: false
-  rationale: A draft awaiting the user decision was sent by a scheduled watch round using its own version after the user had said to wait for approval, and the sent message could not be recalled. The alignment record states that a new reply trigger does not cover an item already marked as waiting for approval. The worker-facing FB operations skill contains the competing instruction to reply to a new reply at once and no lock check before a scheduled send, while the existing blocking escalation skill covers reporting a block and the general messaging skill covers approval in chat, neither covers a lock that a scheduled or background worker must check before sending. This new skill adds that check, the set and clear rules, and the same-round report for a skipped send.
-  review_after: 2026-11-27T05:18:39.988459+00:00
-  reviewed_at: 2026-11-13T05:18:39.988459+00:00
-  run_id: sirun_e5cf0469211745028c7346f221a239cc
+  rationale: 'Retirement half of the consolidation: pending_approval_lock is superseded by the merged blocking_action_escalation skill, which carries its full lock, set and clear, new-reply, and skip-report method unchanged.'
+  review_after: 2026-12-08T00:18:51.650276+00:00
+  reviewed_at: 2026-11-24T00:18:51.650276+00:00
+  run_id: sirun_14b12ed96fb74014a5c9d749984ee4bd

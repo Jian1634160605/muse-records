@@ -3,7 +3,7 @@ display_name: "Elizabeth Toledo"
 first_name: "Elizabeth"
 last_name: "Toledo"
 summary: "Prospective overseas patient — in the Philippines, seeking eyelid-surgery experiences; Victoria commented 2026-11-06, not DM'd."
-rank: 167
+rank: 170
 updated: "2026-11-06"
 ---
 

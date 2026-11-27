@@ -3,7 +3,7 @@ display_name: "Angela DaGrosa"
 first_name: "Angela"
 last_name: "DaGrosa"
 summary: "Comment-thread contact — Victoria replied to her on a Nayak Reel 2026-11-19, no reply yet, not DM'd."
-rank: 289
+rank: 292
 updated: "2026-11-20"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Kwok Fai Yu"
 first_name: "Kwok Fai"
 last_name: "Yu"
 summary: "Facebook friend of Victoria's account, screened 2026-11-19 — no medical intent, not contacted, leave undisturbed."
-rank: 293
+rank: 296
 updated: "2026-11-20"
 ---
 

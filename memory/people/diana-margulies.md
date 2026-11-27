@@ -3,7 +3,7 @@ display_name: "Diana Margulies"
 first_name: "Diana"
 last_name: "Margulies"
 summary: "New follower of the Lark/Daisy account, screened 2026-11-17 — two same-name accounts found, neither showing facelift intent; not contacted."
-rank: 283
+rank: 286
 updated: "2026-11-17"
 ---
 

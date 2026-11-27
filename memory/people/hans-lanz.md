@@ -3,7 +3,7 @@ display_name: "Hans Lanz"
 first_name: "Hans"
 last_name: "Lanz"
 summary: "Prospective overseas patient — Victoria commented 2026-11-09, verified as landed, not DM'd."
-rank: 210
+rank: 213
 updated: "2026-11-09"
 ---
 

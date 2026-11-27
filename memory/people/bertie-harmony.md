@@ -2,9 +2,9 @@
 display_name: "Bertie Harmony"
 first_name: "Bertie"
 last_name: "Harmony"
-summary: "Second FB account alongside Victoria; retired 2026-11-13, re-enabled 2026-11-19; ixBrowser profile 35, nose line; both 2026-11-20 night rounds failed on upload timeout."
-rank: 14
-updated: "2026-11-21"
+summary: "Second FB account alongside Victoria; re-enabled 2026-11-19, ixBrowser profile 35, nose line; upload channel still broken 2026-11-24; 2026-11-26 night 0 items — agent still down."
+rank: 13
+updated: "2026-11-27"
 ---
 
 # Bertie Harmony
@@ -33,6 +33,10 @@ updated: "2026-11-21"
 - 2026-11-19: mutual engagement executed — as one of the other 6 FB accounts, Bertie commented on and fully watched [Victoria Maizie](victoria-maizie.md)'s 2 videos (3D nose 1447502050832197, filler 1201612758860981) in customer voice.
 - 2026-11-20 night: both video rounds failed for this account on upload timeouts (180 seconds) — item 04 in the 22:00 round and item 04-alt-12s in the 00:00 round. The account is also missing 3 mutual-engagement comments from the 2026-11-19 batch, and its Chinese UI shows no comment box, which blocks commenting.
 - 2026-11-21 08:16 Beijing (user decision): the four failed items from the 2026-11-20 night, including Bertie's 04, were merged into the 2026-11-21 night publishing plan (22:00 round). The 04-alt-12s item was reassigned from Bertie to [Jusa Khan](jusa-khan.md) for the 00:00 round, because 04 and 04-alt-12s are different cuts of the same source and two versions of the same material cannot go to the same account.
+- 2026-11-23: a small-file test loaded in 1 second after four consecutive 180-second timeouts; the test clip was discarded, not published. That test did NOT prove the channel fixed — a small file cannot test a full upload.
+- 2026-11-23 night: both items failed again on upload timeouts — item 06 in the 22:00 round and N1 v4 in the 00:00 round (06 was the 5th consecutive 180-second timeout on a real file).
+- 2026-11-24: **upload channel confirmed still broken** — a real 06 file test timed out at 180 seconds, the 7th consecutive failure. Her 2 items for tonight were reassigned (06 to [gaga5456](gaga5456.md) in round 2, N1 v4 to p103 in round 2); Bertie has 0 items tonight and is not to be scheduled until the channel is fixed.
+- 2026-11-26/27: no items and no DM-watch output — the ixBrowser agent stayed down (down since 2026-11-25 13:47, over 39 hours by 2026-11-27 05:54). DM-watch rounds failed on health-check curl 52 empty replies and the FoxProfile backup channel was refused; profile 35 was never opened, no messages were sent, and no account problem was observed. This is a transport outage, not a new account or upload-channel signal; the upload channel itself had no new real-file test in this window.
 
 ## History
 - 2026-11-10: hunter and DM-watch first rounds ran; 1 verified comment, 1 group joined, 0 DMs, 0 leads.
@@ -42,9 +46,12 @@ updated: "2026-11-21"
 - 2026-11-13: retired from operations by user decision; crons removed, fb-1030 stopped, pending items closed.
 - 2026-11-19: re-enabled by user decision; nose line confirmed; took part in the mutual-engagement round on Victoria's videos.
 - 2026-11-20 night: both publishing rounds failed on upload timeouts; the items were merged into the 2026-11-21 night plan by the user's decision.
+- 2026-11-23: small-file test loaded in 1 second, but both night items failed again on 180-second upload timeouts.
+- 2026-11-24: real-file test timed out at 180 seconds (7th consecutive); channel confirmed still broken, 0 items tonight, her 2 items reassigned to gaga and p103.
+- 2026-11-26/27: 0 items and 0 DM-watch output because the ixBrowser agent stayed down; no new upload-channel test, no account signal.
 
 ## The relationship
-An operational account in the user's FB operation, not a personal tie: a second FB line running alongside Victoria Maizie, operated by the user's team. Retired 2026-11-13, re-enabled 2026-11-19. Content direction: nose (Rhinoplasty), set 2026-11-19.
+An operational account in the user's FB operation, not a personal tie: a second FB line running alongside Victoria Maizie, operated by the user's team. Retired 2026-11-13, re-enabled 2026-11-19. Content direction: nose (Rhinoplasty), set 2026-11-19. Currently unpublishable until its upload channel is fixed.
 
 ## In common
 - The 秦浩 doctor-IP lead-gen work, alongside [Victoria Maizie](victoria-maizie.md).
@@ -53,7 +60,8 @@ An operational account in the user's FB operation, not a personal tie: a second 
 ## Open threads
 - 2026-11-19 re-enabled (ixBrowser profile 35, default group, nose direction). The 2026-11-13 close-out stands for the old items (Yolande B-18 unsent, lady_flower first-DM draft void, Neisha re-check and 3 pending friend requests not actioned, no fresh cookie needed) — those are not reopened by the re-enablement.
 - Positioning note: bio says Rhinoplasty (nose) but the 2026-11-16 post is facelift content; going forward the account is nose-line.
-- [ ] 2026-11-20 night publishing failures: item 04 failed in both rounds' attempts (22:00) and 04-alt-12s failed at 00:00, both on 180-second upload timeouts; item 04 is merged into the 2026-11-21 22:00 round by the user's decision, and 04-alt-12s was reassigned to Jusa Khan. If the timeout repeats, the account's network needs checking.
+- [ ] Upload channel broken (2026-11-24): 7 consecutive 180-second timeouts on real files; 0 items scheduled tonight, her 06 and N1 v4 reassigned to gaga and p103. Do not schedule Bertie again until the channel is fixed; diagnose before re-adding.
 - [ ] Mutual-engagement backlog: 3 comments missing from the 2026-11-19 batch; the Chinese UI shows no comment box, which blocks commenting.
+- [ ] ixBrowser agent outage (2026-11-25 13:47–): DM-watch rounds failing on curl 52 empty replies, profile 35 never opened, no messages sent; recovery needs the user to restart D:\ixbrowser-agent on his computer.
 
 ## Strengthening

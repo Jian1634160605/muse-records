@@ -3,7 +3,7 @@ display_name: "Denise Wallis"
 first_name: "Denise"
 last_name: "Wallis"
 summary: "Prospective overseas patient — nested reply in the #903 Perth thread; wants a brow-lift redo by someone who understands measurements (E07 95); reply to assess DM, not DM'd yet."
-rank: 268
+rank: 271
 updated: "2026-11-17"
 ---
 

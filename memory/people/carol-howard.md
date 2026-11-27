@@ -3,7 +3,7 @@ display_name: "Carol Howard"
 first_name: "Carol"
 last_name: "Howard"
 summary: "Prospective overseas patient — Victoria replied to her on a Nayak Reel 2026-11-19 (E07 95), no reply yet, not DM'd."
-rank: 286
+rank: 289
 updated: "2026-11-20"
 ---
 

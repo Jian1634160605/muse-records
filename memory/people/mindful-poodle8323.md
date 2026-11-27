@@ -2,7 +2,7 @@
 display_name: "MindfulPoodle8323"
 first_name: "MindfulPoodle8323"
 summary: "Comment-thread contact — collection-table #820; replied to Victoria's comment and got a follow-up 2026-11-17, no DM yet."
-rank: 267
+rank: 270
 updated: "2026-11-17"
 ---
 

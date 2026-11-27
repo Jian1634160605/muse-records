@@ -3,7 +3,7 @@ display_name: "Bonnie Johansen"
 first_name: "Bonnie"
 last_name: "Johansen"
 summary: "Prospective overseas patient — collection-table #901; torn between lower-eyelid surgery plus fat grafting and standard eyelid surgery; Victoria commented 2026-11-17, no reply yet, not DM'd."
-rank: 265
+rank: 268
 updated: "2026-11-17"
 ---
 

@@ -522,3 +522,577 @@ Page 收件箱 asset：1390637890803002
 - 2026-11-23 07:36 CST fb-dm-p5：窗口外跳过（夜里窗口 18:30–次日 06:00），本轮未跑，未开浏览器、未发任何内容、未碰账号。
 ## 2026-11-23 08:36 fb-dm-p5 轮次：窗口外跳过（北京时间 08:36，不在 18:30–次日 06:00 夜里窗口内；未开浏览器、未发内容、未碰账号）
 - 2026-11-23 09:36 CST fb-dm-p5（Jusa Khan）轮次跳过：当前在北京时间 18:30–次日 06:00 窗口外，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 10:36 CST fb-dm-p5（Jusa Khan）轮次跳过：当前在北京时间 18:30–次日 06:00 窗口外，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 11:36 CST fb-dm-p5（Jusa Khan）轮次跳过：当前在北京时间 18:30–次日 06:00 窗口外，未开浏览器、未发内容、未碰账号。
+2026-11-23 12:36 跳过：窗口外（白天），未跑本轮。
+## 2026-11-23 13:36 CST fb-dm-p5 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 14:36 CST fb-dm-p5 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 15:36 CST fb-dm-p5 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 16:36 CST fb-dm-p5 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 17:36 CST fb-dm-p5 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 18:36–18:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：`check(5)` 返回 account_name “Dr. Qin Hao Eye Rejuvenation”（composer 署名）；首页读到 profile.php?id=61595765429611 链接 ×2 与发帖框署名 “What's on your mind, Dr. Qin Hao Eye Rejuvenation?”。FB 显示名即英文名，中文“秦昊博士眼部年轻化”为任务内称呼。轮次开始时 profile 5 未打开（opened 列表只有 44），open 正常拉起（debugging_address 127.0.0.1:46035）。
+- 通知：最新为 “Your reel hit 300 plays!”（1d 前）；其余为 “Your reel is ready to view” ×3（1d、1d、2d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，3d 前，与前几轮同一事件、疑似重复提醒）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”（与 00:36–05:36 轮次相同），但无对应线程行读出，本轮未重新核验该评论串内容（11-19 轮次已核实为矩阵内号互刷评论，非客户私信）——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部 14 次调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：5 已不在列表，仅 profile 44 在开——18:30:18 打开，疑似同期其他轮次在跑，与本轮无关）。
+
+## 2026-11-23 19:36–19:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；首页中文界面显示“秦昊医生，您在考虑眼部年轻化吗？”（已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、11-21 01:36 轮次相同），且发帖框署名正则未匹配（页面为中文界面，非英文 "What's on your mind"），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 44，19:26:41 打开，疑似同期其他轮次在跑），open 正常拉起（debugging_address 127.0.0.1:39271）。
+- 通知：最新为 “Your reel hit 300 plays!”（1d 前）；其余为 “Your reel is ready to view” ×3（1d、1d、2d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，3d 前，与前几轮同一事件、疑似重复提醒）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”（与 00:36–18:36 轮次相同），但无对应线程行读出，本轮未重新核验该评论串内容（11-19 轮次已核实为矩阵内号互刷评论，非客户私信）——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部 14 次调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空，5 已不在列表；44 在本轮期间也已关闭，疑似同期其他轮次正常结束，与本轮无关）。
+
+## 2026-11-23 20:36–20:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；首页中文界面显示“秦昊医生，您在考虑眼部年轻化吗？”（已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、01:36 轮次相同），且发帖框署名正则未匹配（页面为中文界面），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 44），open 正常拉起（debugging_address 127.0.0.1:30143）。
+- 通知：最新为 “Your reel hit 300 plays!”（1d 前）；其余为 “Your reel is ready to view” ×3（1d、1d、2d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，3d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 00:36–19:36 轮次相同），但无对应线程行读出；本轮左栏未见“Facebook评论 1 / 1 个新”标记（11-19 轮次已核实该评论串为矩阵内号互刷评论，非客户私信）。按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：opened 为空，total 0。注：轮次开始时在开的 profile 44（20:26:52 打开）在本轮结束时已不在列表，疑似同期其他轮次正常结束关闭，与本轮无关）。
+
+## 2026-11-23 21:36–21:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：`check(5)` 返回 account_name “Dr. Qin Hao Eye Rejuvenation”（composer 署名）；首页读到 profile.php?id=61595765429611 链接 ×2 与发帖框署名 “What's on your mind, Dr. Qin Hao Eye Rejuvenation?”。FB 显示名即英文名，中文“秦昊博士眼部年轻化”为任务内称呼。轮次开始时 profile 5 未打开（opened 列表只有 44，21:27:18 打开，疑似同期其他轮次在跑），open 正常拉起（debugging_address 127.0.0.1:24014）。
+- 通知：最新为 “Your reel hit 300 plays!”（1d 前）；其余为 “Your reel is ready to view” ×3（1d、1d、2d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 00:36–20:36 轮次相同），但无对应线程行读出；本轮左栏未见“Facebook评论 1 / 1 个新”标记（11-19 轮次已核实该评论串为矩阵内号互刷评论，非客户私信）。按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题；本轮为英文界面 “Log in”）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：5 已不在列表，仅 profile 44 在开——21:27:18 打开，疑似同期其他轮次在跑，与本轮无关）。
+
+## 2026-11-23 22:36–22:40 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；首页中文界面显示“秦昊医生，您在考虑眼部年轻化吗？”（已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、11-21 01:36 轮次相同），发帖框署名正则未匹配（页面为中文界面），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 44、67），open 正常拉起（debugging_address 127.0.0.1:20508）。
+- 通知：最新为 “Your reel hit 300 plays!” 1d 前；其余为 “Your reel is ready to view” ×3（1d、2d、2d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 419，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下仍带“新的”标记；注意：此前多轮出现的“Facebook评论 1 / 1 个新”标记本轮已消失（只剩“Facebook评论”），11-19 轮次已核实该评论串为矩阵内号互刷评论、非客户私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：5 已不在列表，仅 44 在开；67 在本轮期间关闭，疑似其他轮次正常结束，与本轮无关）。
+
+## 2026-11-23 23:36–23:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；首页中文界面显示“秦昊医生，您在考虑眼部年轻化吗？”（已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、01:36 等轮次相同，中文界面），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 35、65），open 正常拉起（debugging_address 127.0.0.1:51698）。
+- 通知：最新为 “Your reel hit 300 plays!”（1d 前）；其余为 “Your reel is ready to view” ×3（1d、2d、2d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 00:36–22:36 轮次相同），但无对应线程行读出，无法确认为新私信——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：5 已不在列表，仅 profile 65 在开——22:49:17 打开，疑似同期其他轮次在跑；35 在本轮期间关闭，疑似其他轮次正常结束，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261123_2336.py / .log
+
+## 2026-11-24 00:36–00:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；check 的 page_text_sample 显示“秦昊医生，您在考虑眼部年轻化吗？”（中文界面，已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、11-21 01:36 轮次相同），且发帖框署名正则未匹配（页面为中文界面，非英文 "What's on your mind"），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 35、44、65），open 正常拉起（debugging_address 127.0.0.1:32776）。
+- 通知：最新为 “Your reel hit 300 plays!” 1d 前；其余为 “Your reel is ready to view” ×3（2d、2d、3d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 11-20 00:36–11-23 23:36 轮次相同），但无对应线程行读出，无法确认为新私信——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：5 已不在列表，仅 44、102 在开——102 于 00:37:34 打开，疑似同期其他轮次在跑；35、65 在本轮期间关闭，疑似其他轮次正常结束，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_0036.py / .log
+
+## 2026-11-24 01:36–01:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；check 的 page_text_sample 显示“秦昊医生，您在考虑眼部年轻化吗？”（中文界面，已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、11-21 01:36、11-24 00:36 轮次相同），且发帖框署名正则未匹配（页面为中文界面，非英文 "What's on your mind"），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 44），open 正常拉起（debugging_address 127.0.0.1:24153）。
+- 通知：最新为 “Your reel hit 300 plays!” 1d 前；其余为 “Your reel is ready to view” ×3（2d、2d、3d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 419，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 11-20 00:36–11-24 00:36 轮次相同），但无对应线程行读出，无法确认为新私信——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空，5 已不在；轮次开始时在开的 profile 44 在本轮期间亦已关闭，疑似同期其他轮次正常结束，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_0136.py / .log
+
+## 2026-11-24 02:36–02:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：`check(5)` 返回 account_name “Dr. Qin Hao Eye Rejuvenation”（composer 署名）；首页读到 profile.php?id=61595765429611 链接 ×2 与发帖框署名 “What's on your mind, Dr. Qin Hao Eye Rejuvenation?”。FB 显示名即英文名，中文“秦昊博士眼部年轻化”为任务内称呼。轮次开始时 profile 5 未打开（opened 列表只有 44），open 正常拉起（debugging_address 127.0.0.1:30265）。
+- 通知：最新为 “Your reel hit 300 plays!” 1d 前；其余为 “Your reel is ready to view” ×3（2d、2d、3d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 11-20 00:36–11-24 01:36 轮次相同），但无对应线程行读出，无法确认为新私信——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空，5 已不在；轮次开始时在开的 profile 44 在本轮期间亦已关闭，疑似同期其他轮次正常结束，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_0236.py / .log
+
+## 2026-11-24 03:36–03:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；首页中文界面显示“秦昊医生，您在考虑眼部年轻化吗？”（已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、01:36 轮次相同），且发帖框署名正则未匹配（页面为中文界面），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表只有 35，03:25:42 打开），open 正常拉起（debugging_address 127.0.0.1:14061）。
+- 通知：最新为 “Your reel hit 300 plays!”（1d 前）；其余为 “Your reel is ready to view” ×3（2d、2d、3d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记（与 00:36–02:36 轮次相同），但无对应线程行读出，无法确认为新私信——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空 total 0——轮次开始时在开的 profile 35 在本轮期间已关闭，疑似同期其他轮次正常结束，与本轮无关，本轮只关了自己开的 5）。
+
+## 2026-11-24 04:36–04:39 轮次（agent 平稳，全步骤成功）
+
+- 身份核验通过：首页读到 profile.php?id=61595765429611 链接 ×2，与个人号 id 一致；首页中文界面显示“秦昊医生，您在考虑眼部年轻化吗？”（已登录态）。注：本轮 `check(5)` 返回 account_name 为 None（与 03:36、07:36、20:36、11-21 01:36、11-24 00:36/01:36/03:36 轮次相同），且发帖框署名正则未匹配（页面为中文界面，非英文 "What's on your mind"），核验以个人号链接为准，成立，不谎报为 check 署名通过。轮次开始时 profile 5 未打开（opened 列表为空），open 正常拉起（debugging_address 127.0.0.1:29886）。
+- 通知：最新为 “Your reel hit 300 plays!” 1d 前；其余为 “Your reel is ready to view” ×3（2d、2d、3d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”（与 00:36–03:36 轮次相同），但无对应线程行读出，本轮未重新核验该评论串内容（11-19 轮次已核实为矩阵内号互刷评论，非客户私信）——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空 total 0）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_0436.py / .log
+
+## 2026-11-24 05:36–05:42 轮次（首跑被运行时重启打断，回收后重跑成功；agent 平稳，全步骤成功）
+
+- 首跑中断：05:36 脚本启动，health OK、opened 为空、open(5) 成功（debugging_address 127.0.0.1:7017）；随后 check 报 curl 52、eval/goto 报 curl 7（连不上 hatch-egress-proxy 3130 端口），脚本被运行时重启杀掉，未跑到 close。profile 5 遗留为打开态（open_time 05:36:52，pid 39276，与首跑 open 一致，同期无其他 profile 打开、非其他轮次占用）。
+- 回收：核验 agent 恢复健康后，先显式 close(5)（closed:true，opened 复核为空），再用同一脚本重跑完整轮次；重跑 15 次调用全部成功，无 curl 52/18 与超时。首跑失败均为传输层/运行时错误，非 FB 429/226/344。
+- 身份核验通过：`check(5)` 返回 account_name “Dr. Qin Hao Eye Rejuvenation”（composer 署名）；首页读到 profile.php?id=61595765429611 链接 ×2 与发帖框署名 “What's on your mind, Dr. Qin Hao Eye Rejuvenation?”。FB 显示名即英文名，中文“秦昊博士眼部年轻化”为任务内称呼。重跑开始时 profile 5 未打开（opened 列表为空），open 正常拉起（debugging_address 127.0.0.1:19900）。
+- 通知：最新为 “Your reel hit 300 plays!” 1d 前；其余为 “Your reel is ready to view” ×3（2d、2d、3d 前）+ “hit 300 plays” 3d 前 + 入群欢迎（Rhinoplasty in… 群，4d 前，与前几轮同一事件）。无评论、无好友请求、无私信类通知。
+- 好友请求：/friends/requests 显示“目前暂无此内容”；通知里亦无好友请求信号。无新好友待筛查，未盲目通过任何人。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，外壳加载，但线程列表窗格两次读取均无对话行（len 419，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”（与 00:36–04:36 轮次相同），但无对应线程行读出，本轮未重新核验该评论串内容（11-19 轮次已核实为矩阵内号互刷评论，非客户私信）——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：重跑全程平稳，无 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空 total 0）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_0536.py / .log
+## 2026-11-24 06:36 CST 跳过：窗口外（夜里窗口 18:30–次日 06:00），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 07:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 08:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 09:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-24 10:36 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+2026-11-24 12:36 窗口外跳过（北京时间 12:36，不在 18:30–06:00 窗口内），未开浏览器、未发内容。
+- 2026-11-24 13:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 14:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 16:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 17:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 18:36–18:53 轮次（agent 平稳；首次出现好友请求 3 条，均未通过；身份 id 与台账记录不一致，留待总管核对）
+
+- 身份核验（部分通过，需总管核对 id）：`check(5)` 首轮返回 account_name 为 None（中文界面，已知模式），筛查轮重试返回 account_name “Jusa”（composer 署名）；首页发帖框“尤萨，你在想什么？”；messenger.com 显示“继续扮演朱萨·汗”——登录账号确为 Jusa Khan。但首页 profile 链接精核：含 61595765429611 的链接为 0 条，含 61576748891565 的为 2 条，左侧导航栏 “Jusa Khan” 链接即 profile.php?id=61576748891565。台账/手册记录的个人号 id 是 61595765429611（2026-11-17 实测），而 61576748891565 是当时的旧记录（~/workspace/fb-ip/multi-account-evening-20261117.md 已记“与旧记录 61576748891565 不符，以实测为准，待统一修正矩阵”）。本轮 FB 自身导航把 Jusa Khan 指向 61576748891565，与 11-17 以来的各轮（首页读到 61595765429611 ×2）不一致——**id 归属未定论，不谎报为按 61595765429611 核验通过**。本轮无任何发出动作，无错发风险；请总管核对 61576748891565 与 61595765429611 哪一个是 Jusa 个人号、哪一个是 Page/旧号，并统一修正矩阵记录。
+- 通知：未读 13 条。新增好友请求 3 条（均为 6d 前，此前各轮 /friends/requests 均显示“目前暂无此内容”，本次首次出现）：Haridas Roy（Followed by 5.5K）、Alia Molla、বলরাম মন্দির（1 位共同好友）。其余为 Reel 已发布通知 ×7（2d–5d 前）+ “Dr. Qin Hao Eye Rejuvenation has 14 new views”（1w 前）+ Insights 就绪（2d 前）。无评论、无私信类通知。
+- 好友请求筛查（3 人均未通过、未联系）：
+  - Alia Molla（profile.php?id=100084386516821）：2.9K 位好友，个人资料已锁定（仅好友可见内容），无帖子可见，无医美意向信号。身份不确定 → 不盲目通过，记下待总管定。
+  - বলরাম মন্দির Balaram Mandir（profile.php?id=61595760347547）：793 位好友，1 位共同好友（钱丹·达斯），来自图凡甘杰；可见内容为换头像与转发的宗教帖（হরে কৃষ্ণ），无医美意向信号。真人个人号但无意向 → 不联系、不通过，留待观察。
+  - Haridas Roy：两次提取均未拿到其个人主页链接（请求页锚点里无 Haridas 名字链接）；第三次复核（约 18:52）请求页只剩 Balaram 与 Alia 两条 profile 链接，Haridas 一行已不见——可能对方撤回请求或 FB 显示波动，未证实。未筛查、未通过，记下待总管定。
+- 私信：facebook.com/messages 跳转 Business Suite Page 收件箱（asset 1390637890803002）正常，两次读取均为 “No chats”（len 197，仅外壳/导航文字），未见未读/新线程。messenger.com 本轮显示“继续扮演朱萨·汗”（与以往“登录页/未登录态”不同，本轮为已登录继续扮演屏），未读到线程列表。**结论：未见新回复的证据，但收件箱只读到外壳、无线程行——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：ixBrowser agent 全程平稳，三轮脚本全部调用成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息（无新回复可回；3 条好友请求均未通过、未私信）。轮次结束已关 profile 5（三次开/关均 closed:true；末次 opened 复核：5 已不在列表，仅 32、65 在开——18:43 打开，疑似同期其他轮次在跑，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_1836.py / .log、dm_p5_round_20261124_1836_screen.py / .log、dm_p5_round_20261124_1836_haridas.py / .log
+
+## 2026-11-24 19:36–19:39 轮次（agent 平稳，全步骤成功；身份 id 疑问基本解开）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 返回 account_name “Jusa”（composer 署名）；首页发帖框 “What's on your mind, Jusa?”；messenger.com 显示 “Continue as Jusa Khan”。轮次开始时 profile 5 未打开（opened 列表只有 35，19:36:12 打开，疑似同期其他轮次在跑），open 正常拉起（debugging_address 127.0.0.1:53256）。
+- **身份 id 疑问的补充证据（接 18:36 轮次留待总管核对的问题）**：本轮首页 profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；左侧导航 “Jusa Khan” → profile.php?id=61576748891565；同时导航里另有一条 “Dr. Qin Hao Eye Rejuvenation” → https://www.facebook.com/61595765429611/（无 profile.php 前缀的短链形式）。据此判断：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**——手册/台账把 61595765429611 记为“个人号 id”是错的（2026-11-17 实测时读到的应是 Page 链接）。登录态本身无问题，无错发风险；请总管确认后统一修正手册与台账里的 id 标注。
+- 通知：未读 13 条，与 18:36 轮次相同。3 条好友请求（均为 6d 前）：Haridas Roy（Followed by 5.5K）、Alia Molla、বলরাম মন্দির（1 位共同好友）；其余为 Reel 已发布 ×7（2d–5d 前）+ “Dr. Qin Hao Eye Rejuvenation has 14 new views”（1w 前）+ Insights 就绪（2d 前）+ “Your reel reached 1K plays”（1w 前，Earlier 栏）。无评论、无私信类通知。
+- 好友请求：仍为上述 3 条，均已于 18:36 轮次筛查过（Alia 资料锁定无意向信号、Balaram 真人但无意向、Haridas 未拿到主页链接），本轮均未通过、未联系。Haridas 本轮在请求页文本列表中重新出现（18:36 约 18:52 复核时其行曾消失），锚点提取仍只拿到 Balaram 与 Alia 的主页链接、未拿到 Haridas 的，属 FB 显示波动，未证实撤回或恢复。无新增好友请求。
+- 私信：facebook.com/messages 两次读取均为 “No chats”（len 377，本轮为英文界面 Messenger 外壳，含 PIN 恢复提示），未见未读/新线程；messenger.com 显示 “Continue as Jusa Khan”（已登录继续扮演屏，非旧的未登录登录页），未读到线程列表。**结论：未见新回复的证据，但收件箱只读到外壳、无线程行——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：ixBrowser agent 全程平稳，全部调用成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息（无新回复可回；3 条好友请求均未通过、未私信）。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空 total 0；35 在本轮期间关闭，疑似同期其他轮次正常结束，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_1936.py / .log
+
+## 2026-11-24 20:36–20:42 轮次（agent 平稳，全步骤成功；新增 1 条好友请求，已筛查未通过）
+
+- 身份核验通过：`check(5)` 返回 account_name “Jusa”（composer 署名）；首页发帖框署名 “What's on your mind, Jusa?”；导航栏 “Jusa Khan” 指向 profile.php?id=61576748891565（×2 链接）。注：任务正文写的个人号 id 61595765429611 在首页出现 0 次——该 id 是 Page “Dr. Qin Hao Eye Rejuvenation” 的地址（facebook.com/61595765429611/），与 18:36、19:36 轮次观察一致；登录账号确为 Jusa Khan 本人，个人号 id 以实测的 61576748891565 为准，留待总管核对任务正文的 id 写法。
+- 通知：新好友请求 2 条（Balaram Mandir、Alia Molla，均为 6d）；其余为 2d 前帖子洞察就绪 + 2 条 2d 前 Reel 已发布通知。无评论、无私信类通知。
+- 好友请求：共 4 条（19:36 轮次为 3 条，新增 1 条）——Haridas Roy（6d，5.5K 关注）、Tarik Mai（1w，**新增**）、Alia Molla（6d）、Balaram Mandir（6d，1 位共同好友）。筛查：Tarik Mai（profile.php?id=61592619122886）5.9K 好友，工作栏显示“3000万朋友”（疑似玩笑/虚假填写），仅见头像更新帖，无医美相关内容、无地点/意向信号——不通过，留待观察。其余 3 条沿用 18:36 轮次筛查结论（Alia 锁号无帖、Balaram 宗教内容无医美信号、Haridas 请求页无链接），均无医美意向信号，不通过、不盲目联系。4 条全部挂起，未点通过/删除。
+- 私信：facebook.com/messages 显示 “No chats”（个人 Messenger，中文界面；两次读取一致）；Page 收件箱（business.facebook.com/latest/inbox?asset_id=1390637890803002）外壳正常加载，但只读到导航文字（len 397），未读出线程行；左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”与此前轮次相同（11-19 轮次已核实该评论串为矩阵内号互刷，非客户私信），本轮未重新核验。messenger.com 显示 “Continue as Jusa Khan” 落地页（未进入收件箱，已知状态）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用均成功，无 curl 52/18 与超时。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：列表为空，5 已不在）。
+
+## 2026-11-24 21:36–21:40 轮次（ixBrowser agent/tunnel 全断，本轮未执行）
+
+- 身份核验未完成：本轮 17 次调用全部失败——`health`、`opened`、`open(5)`、`check(5)`、`goto`/`eval`（通知、好友请求、Page 收件箱、messenger.com）与收尾 `close(5)`/`opened` 均报 curl 56（Recv failure: Connection reset by peer）。诊断复核：代理文件 `~/.agent-reach/proxy-acct2.txt` 存在、HTTPS_PROXY 已设，单独再调一次 `health` 仍 curl 56——tunnel proxy（:3130）或用户电脑端 agent（100.78.166.12:8765）传输层断开，非 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮从未拉起，无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：与 11-19 晚 22:36–00:36 的 curl 52/18 抖动不同，本轮是全部调用一致 curl 56、含 `health` 在内全断，属 agent/tunnel 服务端不可达。profile 5 登录态无法核验，**不是已确认登录失效**，不谎报。未撞 FB 429/226/344。
+- 动作：无发出消息。profile 5 本轮未打开，无需 close（收尾 close 调用本身亦 curl 56 失败，但 opened 亦不可读，无法复核；本轮未曾 open 成功，残留窗口的可能性低，留待下轮 opened 复核确认）。
+- 处理：按手册“读不到记日志、报总管”处理——留待总管决定是否重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent）后补跑，或等后续轮次复核恢复情况。
+
+## 2026-11-24 22:36–22:48 轮次（ixBrowser agent 再断，首轮 + 重试轮均未执行）
+
+- 身份核验未完成：轮前约 22:37 手动复核 `health` 曾成功（agent v10），`opened` 显示 6 个 profile 在开，其中 profile 5（22:07:24 打开，pid 10396，debugging_address 127.0.0.1:34907，疑似同期另一轮次在用）；但首轮脚本启动后 agent 即断：`health` 仅首 call 成功，其后 `opened`、`open(5)`、`check(5)`、通知/好友请求/私信/Page 收件箱/messenger.com 的全部 `goto`/`eval` 与收尾 `close(5)`/`opened` 共 17 次调用全部报 curl 52（Empty reply from server）。重试轮（等待 150 秒后，约 22:44–22:48）：18 次调用（含 `health`）全部 curl 52，无一次成功。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮无页面可读。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir）与新增 Tarik Mai（20:36 轮次已筛查，均未通过）本轮未复核、无任何通过/删除操作。
+- 异常：与 21:36 轮次的 curl 56 全断不同，本轮是 agent 曾短暂可达（22:37 health + opened 成功）后彻底 curl 52——tunnel proxy 或用户电脑端 agent（100.78.166.12:8765）传输层断开，至少 22:38–22:48 持续不可达。**今晚连续第二轮完全失败**（21:36 curl 56、22:36 curl 52 × 两次尝试），非 FB 429/226/344（未触达 FB，无封号/限流信号）。profile 5 登录态无法核验，**不是已确认登录失效**，不谎报。注意：首轮 `opened-before` 失败导致 `was_open` 误判为 False，脚本随后尝试了 `close(5)`，但该调用本身亦 curl 52 失败、服务端未执行，未实际关闭任何窗口；profile 5 轮前处于打开状态（22:07:24 由另一轮次打开），轮末状态无法复核（`opened` 不可读），留待下轮复核。
+- 动作：无发出消息，无合格客资。按手册“读不到记日志、报总管”处理——留待总管决定是否重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent）后补跑；另请注意 profile 5 于 22:07 打开的同期轮次（疑似 22:00 发布轮）可能同样受 agent 断线影响。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_2236.py / .log、dm_p5_round_20261124_2236_retry.py / .log
+
+## 2026-11-24 23:36–23:49 轮次（agent 严重抖动，身份/通知/好友请求读到，私信收件箱未读到）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 三次均失败（curl 18/52），但首页 eval 第三次成功——profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；左侧导航 “Jusa Khan” → profile.php?id=61576748891565；导航另有 “Dr. Qin Hao Eye Rejuvenation” → https://www.facebook.com/61595765429611/（短链形式）；发帖框署名 “What's on your mind, Jusa?”。与 18:36/19:36/20:36 轮次一致：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**；任务正文写 61595765429611 为个人号 id 的标注仍待总管统一修正。轮次开始时 profile 5 已处于打开状态（opened 列表：22:07:24 打开，pid 10396，debugging_address 127.0.0.1:34907，与 22:36 轮次记录的同一会话，疑似 22:00 发布轮次在用），本轮未 open、未 close，符合手册“已开不关别人窗口”。
+- 通知（第三次 eval 成功读到）：新好友请求 2 条——বলরাম মন্দির（6d，1 位共同好友）、Alia Molla（6d）；其余为 Insights 就绪（2d 前）+ Reel 已发布 ×2（2d、3d 前）。无评论、无私信类通知。
+- 好友请求：请求页读到（msg-text-1 落在 /friends/requests/ 成功）共 3 条——Haridas Roy（6d，Followed by 5.5K）、Alia Molla（6d）、বলরাম মন্দির（6d，1 位共同好友）。3 条均为 18:36 轮次已筛查过的（Alia 锁号无意向信号、Balaram 宗教内容无医美信号、Haridas 请求页无链接），均未通过、未联系，无新增好友请求。**注意：20:36 轮次新增的 Tarik Mai（1w）本轮请求页列表中已不见**（与 18:36 轮次 Haridas 曾短暂消失又重现的波动类似），未证实撤回/过期/删除，仅记录，不做结论。
+- 私信：**未读到。**facebook.com/messages 的 goto 三次均 curl 52 失败；msg-text-1、msg-text-2 两次 eval 均失败（msg-text-1 唯一一次成功读到的仍是好友请求页，非收件箱）；Page 收件箱（business.facebook.com/latest/inbox?asset_id=1390637890803002）goto 与 eval 各三次均 curl 52 失败；messenger.com goto 与 eval 各三次均 curl 52 失败。**结论：本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent 本轮严重抖动——全轮 41 次调用中仅 5 次成功（health、opened-before、idcheck-home、notif-text、msg-text-1），其余 36 次均为 curl 52（Empty reply）或 curl 18（transfer closed，截断 115–2214 字节），含 check(5)、goto-freq、freq-text、goto-msg、Page 收件箱、messenger.com 全部失败。**今晚连续第三轮 agent 故障**（21:36 全部 curl 56、22:36 全部 curl 52 × 两轮尝试、23:36 本轮 36/41 失败）；23:06 猎手轮曾短暂恢复（health 成功一次）、23:24 猎手轮（p35）亦间歇成功，属同一 agent/tunnel 传输层抖动，非 FB 429/226/344（未触达 FB 限流/封号信号）。profile 5 登录态已证实正常（首页已登录态、署名 Jusa），非登录失效。轮末 opened 复核亦 curl 52 失败，profile 5 是否仍开无法核验——本轮未开未关，22:07 打开的会话去留由占用它的轮次负责。
+- 动作：无发出消息，无合格客资。按手册“读不到记日志、报总管”处理——留待总管决定是否重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent）后补跑；agent 连续三轮故障已影响今晚三轮私信盯守，23:00 发布轮次亦可能受波及。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261124_2336.py / .log
+
+## 2026-11-25 00:36–00:38 轮次（agent 恢复平稳，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 返回 account_name “Jusa”（composer 署名，debugging_address 127.0.0.1:34907）；首页 profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；左侧导航 “Jusa Khan” → profile.php?id=61576748891565；导航另有 “Dr. Qin Hao Eye Rejuvenation” → https://www.facebook.com/61595765429611/（短链形式）；发帖框署名 “What's on your mind, Jusa?”。与 18:36/19:36/20:36/23:36 轮次一致：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**；任务正文写 61595765429611 为个人号 id 的标注仍待总管统一修正。轮次开始时 profile 5 已处于打开状态（opened 列表：2026-11-24 22:07:24 打开，pid 10396，与 22:36、23:36 轮次记录的同一会话，疑似 22:00 发布轮次在用），本轮未 open、未 close，符合手册“已开不关别人窗口”；轮末复核 profile 5 仍在开（同一 pid 10396），去留由占用它的轮次负责。
+- 通知：未读新好友请求 1 条——Haridas Roy（6d，Followed by 5.5K）；其余为 Insights 就绪（2d 前）+ Reel 已发布 ×3（3d、3d、4d 前，Dr. Qin Hao Eye Rejuvenation）。无评论、无私信类通知。
+- 好友请求：共 3 条，与 18:36/23:36 轮次同一组，均已筛查过——Haridas Roy（6d，5.5K 关注，请求页仍未提取到其主页链接）、Alia Molla（现 1w，profile.php?id=100084386516821，资料锁定无意向信号）、বলরাম মন্দির Balaram Mandir（现 1w，1 位共同好友，profile.php?id=61595760347547，宗教内容无医美信号）。3 条均未通过、未联系，无新增好友请求。**注意：20:36 轮次新增的 Tarik Mai（1w）本轮请求页列表中再次不见**（23:36 轮次亦不见），与 Haridas 曾短暂消失又重现的波动类似，未证实撤回/过期/删除，仅记录，不做结论。
+- 私信：facebook.com/messages 两次读取均为 “No chats”（len 197，中文界面 Messenger 外壳，含 PIN 恢复提示），未见未读/新线程；Page 收件箱（business.facebook.com/latest/inbox?asset_id=1390637890803002）外壳正常加载，但只读到导航文字（len 397），未读出线程行；左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”与此前轮次相同（11-19 轮次已核实该评论串为矩阵内号互刷评论，非客户私信），本轮未重新核验。messenger.com 显示 “Continue as Jusa Khan” 落地页（未进入收件箱）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：**ixBrowser agent 本轮完全恢复平稳**——全部 15 次调用一次成功，无 curl 52/18/56 与超时，是 11-24 20:36 轮次之后首个全成功轮次（21:36 全部 curl 56、22:36 全部 curl 52、23:36 36/41 失败）。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。profile 5 本轮未开未关（轮前已开，轮末仍开，pid 10396，自 22:07 已持续打开逾 2.5 小时，疑似发布轮次会话）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_0036.py / .log
+
+## 2026-11-25 01:36–01:38 轮次（agent 平稳，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 返回 account_name “Jusa”（composer 署名，debugging_address 127.0.0.1:34907）；首页 profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；左侧导航 “Jusa Khan” → profile.php?id=61576748891565；导航另有 “Dr. Qin Hao Eye Rejuvenation” → https://www.facebook.com/61595765429611/（短链形式）；发帖框署名 “What's on your mind, Jusa?”。与 18:36/19:36/20:36/23:36/00:36 轮次一致：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**；任务正文写 61595765429611 为个人号 id 的标注仍待总管统一修正。轮次开始时 profile 5 已处于打开状态（opened 列表：2026-11-24 22:07:24 打开，pid 10396，与 22:36、23:36、00:36 轮次记录的同一会话，疑似 22:00 发布轮次在用），本轮未 open、未 close，符合手册“已开不关别人窗口”；轮末复核 profile 5 仍在开（同一 pid 10396），去留由占用它的轮次负责。
+- 通知：未读新好友请求 1 条——Haridas Roy（6d，Followed by 5.5K）；其余为 Insights 就绪（2d 前）+ Reel 已发布 ×3（3d、3d、4d 前，Dr. Qin Hao Eye Rejuvenation）。无评论、无私信类通知。
+- 好友请求：共 3 条，与 18:36/23:36/00:36 轮次同一组，均已筛查过——Haridas Roy（6d，5.5K 关注，请求页仍未提取到其主页链接）、Alia Molla（现 1w，profile.php?id=100084386516821，资料锁定无意向信号）、বলরাম মন্দির Balaram Mandir（现 1w，1 位共同好友，profile.php?id=61595760347547，宗教内容无医美信号）。3 条均未通过、未联系，无新增好友请求。**注意：20:36 轮次新增的 Tarik Mai（1w）本轮请求页列表中再次不见**（23:36、00:36 轮次亦不见，连续三轮），与 Haridas 曾短暂消失又重现的波动类似，未证实撤回/过期/删除，仅记录，不做结论。
+- 私信：facebook.com/messages 两次读取均为 “No chats”（len 197，中文界面 Messenger 外壳，含 PIN 恢复提示），未见未读/新线程；Page 收件箱（business.facebook.com/latest/inbox?asset_id=1390637890803002）外壳正常加载，但只读到导航文字（len 419），未读出线程行；左栏“信使/Instagram/WhatsApp”下各带“新的”/“New”标记、“Facebook评论 1 / 1 个新”与此前轮次相同（11-19 轮次已核实该评论串为矩阵内号互刷评论，非客户私信），本轮未重新核验。messenger.com 显示 “继续扮演朱萨·汗” 落地页（未进入收件箱）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：ixBrowser agent 本轮完全平稳——全部 15 次调用一次成功，无 curl 52/18/56 与超时，是 00:36 轮次之后连续第二个全成功轮次（21:36 全部 curl 56、22:36 全部 curl 52、23:36 36/41 失败的故障已连续两轮未出现）。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。profile 5 本轮未开未关（轮前已开，轮末仍开，pid 10396，自 22:07 已持续打开逾 3.5 小时，疑似发布轮次会话）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_0136.py / .log
+
+## 2026-11-25 02:36–02:39 轮次（agent 平稳，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 返回 account_name “Jusa”（composer 署名，debugging_address 127.0.0.1:34907）；首页 profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；左侧导航 “Jusa Khan” → profile.php?id=61576748891565；导航另有 “Dr. Qin Hao Eye Rejuvenation” → https://www.facebook.com/61595765429611/（短链形式）；发帖框署名 “What's on your mind, Jusa?”。与 18:36/19:36/20:36/23:36/00:36/01:36 轮次一致：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**；任务正文写 61595765429611 为个人号 id 的标注仍待总管统一修正。轮次开始时 profile 5 已处于打开状态（opened 列表：2026-11-24 22:07:24 打开，pid 10396，与 22:36、23:36、00:36、01:36 轮次记录的同一会话，疑似 22:00 发布轮次在用），本轮未 open、未 close，符合手册“已开不关别人窗口”；轮末复核 profile 5 仍在开（同一 pid 10396），去留由占用它的轮次负责。
+- 通知：未读新好友请求 1 条——Haridas Roy（6d，Followed by 5.5K）；其余为 Insights 就绪（2d 前）+ Reel 已发布 ×3（3d、3d、4d 前，Dr. Qin Hao Eye Rejuvenation）。无评论、无私信类通知。
+- 好友请求：共 3 条，与 18:36/23:36/00:36/01:36 轮次同一组，均已筛查过——Haridas Roy（6d，5.5K 关注，请求页仍未提取到其主页链接）、Alia Molla（现 1w，profile.php?id=100084386516821，资料锁定无意向信号）、বলরাম মন্দির Balaram Mandir（现 1w，1 位共同好友，profile.php?id=61595760347547，宗教内容无医美信号）。3 条均未通过、未联系，无新增好友请求。**注意：20:36 轮次新增的 Tarik Mai（1w）本轮请求页列表中再次不见**（23:36、00:36、01:36 轮次亦不见，连续四轮），与 Haridas 曾短暂消失又重现的波动类似，未证实撤回/过期/删除，仅记录，不做结论。
+- 私信：facebook.com/messages 两次读取均为聊天列表空（len 162，中文界面 Messenger 外壳，含“请输入您的PIN码以恢复您的聊天记录。部分聊天记录丢失。”提示），未见未读/新线程；Page 收件箱（business.facebook.com/latest/inbox?asset_id=1390637890803002）外壳正常加载，但只读到导航文字（len 419），未读出线程行；左栏“信使/Instagram/WhatsApp”下各带“新的”/“New”标记、“Facebook评论 1 / 1 个新”与此前轮次相同（11-19 轮次已核实该评论串为矩阵内号互刷评论，非客户私信），本轮未重新核验。messenger.com 显示 “Continue as Jusa Khan” 落地页（未进入收件箱；与 00:36/01:36 轮次相同）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：ixBrowser agent 本轮完全平稳——全部 15 次调用一次成功，无 curl 52/18/56 与超时，是 00:36 轮次之后连续第三个全成功轮次（21:36 全部 curl 56、22:36 全部 curl 52、23:36 36/41 失败的故障已连续三轮未出现）。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。profile 5 本轮未开未关（轮前已开，轮末仍开，pid 10396，自 22:07 已持续打开逾 4.5 小时，疑似发布轮次会话）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_0236.py / .log
+
+## 2026-11-25 03:36–03:53 轮次（ixBrowser agent/tunnel 再断，本轮未执行）
+
+- 身份核验未完成：本轮全部 18 个步骤、52 次调用（含重试）**无一次成功**，全部报 curl 56（Recv failure: Connection reset by peer）——`health`（4 次）、`opened`（4 次）、`open(5)`（3 次）、`check(5)`（3 次）、通知/好友请求/私信/Page 收件箱/messenger.com 的全部 `goto`/`eval` 与收尾 `opened` 均失败。代理文件 `~/.agent-reach/proxy-acct2.txt` 存在、HTTPS_PROXY 已设，属 tunnel proxy（:3130）或用户电脑端 agent（100.78.166.12:8765）传输层断开，非 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮从未拉起，无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai（20:36 轮次已筛查未通过）本轮未复核，无任何通过/删除操作。
+- 异常：**今晚 agent 第二次断线**——00:36、01:36、02:36 三轮曾完全恢复平稳（各 15 次调用一次成功），03:36 本轮又全部 curl 56，与 11-24 21:36 轮次（全部 curl 56）相同、不同于 22:36 的 curl 52；23:36 轮次曾 36/41 失败。agent/tunnel 今晚已是断—复—断的反复状态，非单次抖动。profile 5 登录态无法核验，**不是已确认登录失效**，不谎报。注意：轮前 profile 5 处于打开状态（02:36 轮次复核：2026-11-24 22:07:24 打开，pid 10396，疑似 22:00 发布轮次会话），本轮 `opened-before` 失败导致 was_open 未知，但 `open(5)` 本身亦失败、未实际拉起新窗口，收尾亦未执行 `close(5)`（脚本按 opened_by_me=False 跳过关闭），未关任何窗口；轮末 profile 5 是否仍开无法复核（`opened` 不可读），留待下轮复核。
+
+## 2026-11-25 04:36–04:39 轮次（agent 恢复平稳，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 返回 account_name “Jusa”（composer 署名，debugging_address 127.0.0.1:34907）；首页 profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；左侧导航 “Jusa Khan” → profile.php?id=61576748891565；导航另有 “Dr. Qin Hao Eye Rejuvenation” → https://www.facebook.com/61595765429611/（短链形式）；发帖框署名 “What's on your mind, Jusa?”。与 18:36/19:36/20:36/23:36/00:36/01:36/02:36 轮次一致：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**；任务正文写 61595765429611 为个人号 id 的标注仍待总管统一修正。轮次开始时 profile 5 已处于打开状态（opened 列表：2026-11-24 22:07:24 打开，pid 10396，与 22:36、23:36、00:36、01:36、02:36 轮次记录的同一会话，疑似 22:00 发布轮次在用），本轮未 open、未 close，符合手册“已开不关别人窗口”；轮末复核 profile 5 仍在开（同一 pid 10396），去留由占用它的轮次负责。
+- 通知：未读新好友请求 1 条——Haridas Roy（6d，Followed by 5.5K）；其余为 Insights 就绪（2d 前）+ Reel 已发布 ×3（3d、3d、4d 前，Dr. Qin Hao Eye Rejuvenation）。无评论、无私信类通知。
+- 好友请求：共 3 条，与 18:36/23:36/00:36/01:36/02:36 轮次同一组，均已筛查过——Haridas Roy（6d，5.5K 关注，请求页仍未提取到其主页链接）、Alia Molla（现 1w，profile.php?id=100084386516821，资料锁定无意向信号）、বলরাম মন্দির Balaram Mandir（现 1w，1 位共同好友，profile.php?id=61595760347547，宗教内容无医美信号）。3 条均未通过、未联系，无新增好友请求。**注意：20:36 轮次新增的 Tarik Mai（1w）本轮请求页列表中再次不见**（23:36、00:36、01:36、02:36 轮次亦不见，连续五轮），与 Haridas 曾短暂消失又重现的波动类似，未证实撤回/过期/删除，仅记录，不做结论。
+- 私信：facebook.com/messages 两次读取均显示 “No chats”（len 197，仅外壳文字）；Page 收件箱（asset 1390637890803002）外壳加载，线程列表窗格无对话行（len 397，仅外壳/导航文字），未见未读/新线程。左栏“信使/Instagram/WhatsApp”下各带“新的”标记、“Facebook评论 1 / 1 个新”（与 00:36–02:36 轮次相同），但无对应线程行读出，本轮未重新核验该评论串内容（11-19 轮次已核实为矩阵内号互刷评论，非客户私信）——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。messenger.com 显示 “Continue as Jusa Khan” 登录页（未登录态，已知问题）。未见新回复，无需回复；无合格客资。
+- 异常：本轮 ixBrowser agent 全程平稳，全部调用一次成功，无 curl 52/18/56 与超时；**03:36 轮次全部 curl 56 的断线本轮已恢复**（03:36 是今晚第二次 agent 断线，21:36、22:36、23:36、03:36 四轮均有断线/抖动记录，属断—复—断反复状态，留待总管注意）。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息。轮次结束未关 profile 5（轮开始时已开，属其他轮次会话，按手册不关；轮末 opened 复核确认 5 仍在列表，pid 10396）。
+- 动作：无发出消息，无合格客资。按手册“读不到记日志、报总管”处理——留待总管决定是否重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent）后补跑；agent 今晚断—复—断已影响 11-24 21:36、22:36、23:36 与本轮共四轮私信盯守。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_0336.py / .log
+
+## 2026-11-25 05:36–05:53 轮次（ixBrowser agent/tunnel 再断，本轮未执行）
+
+- 身份核验未完成：本轮全部 18 个步骤、52 次调用（含重试）**无一次成功**，全部报 curl 56（Recv failure: Connection reset by peer）——`health`（4 次）、`opened`（4 次，含收尾）、`open(5)`（3 次）、`check(5)`（3 次）、通知/好友请求/私信/Page 收件箱/messenger.com 的全部 `goto`/`eval` 均失败。代理文件 `~/.agent-reach/proxy-acct2.txt` 存在、HTTPS_PROXY 已设，属 tunnel proxy（:3130）或用户电脑端 agent（100.78.166.12:8765）传输层断开，非 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 轮后复核：05:53:52 单独再调一次 `health`，仍 curl 56 失败——断线在轮末仍未恢复。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮从未拉起，无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai（20:36 轮次已筛查未通过）本轮未复核，无任何通过/删除操作。
+- 异常：**今晚 agent 第五次断线**——21:36 全部 curl 56、22:36 全部 curl 52、23:36 36/41 失败、03:36 全部 curl 56、本轮 05:36 全部 curl 56；其间 00:36、01:36、02:36、04:36 四轮曾完全恢复平稳（各 15 次调用一次成功），属断—复—断的反复翻转，非单次抖动。profile 5 登录态无法核验，**不是已确认登录失效**，不谎报。注意：轮前 profile 5 的最后已知状态为打开（04:36 轮次复核：2026-11-24 22:07:24 打开，pid 10396，疑似发布轮次会话），本轮 `open(5)` 失败、未实际拉起新窗口，收尾亦未执行 `close(5)`（脚本按 opened_by_me=False 跳过关闭），未关任何窗口；轮末 profile 5 是否仍开无法复核（`opened` 不可读），留待下轮复核。
+- 动作：无发出消息，无合格客资。按手册“读不到记日志、报总管”处理——留待总管决定是否重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent）后补跑；另请注意：下一轮 06:36 在夜里窗口之外（将跳过），下一次窗口内盯守为今晚 18:36，若 agent 不恢复，p5 私信盯守将有约 13 小时空窗。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_0536.py / .log
+
+## 2026-11-25 06:36 CST — fb-dm-p5 跳过
+- 窗口外（夜里窗口 18:30–次日 06:00，本轮触发 06:36），按规则直接结束，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-25 07:36 CST — 跳过
+- 窗口外（18:30–次日 06:00），本轮直接结束，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-25 09:36（窗口外跳过）
+- 本轮定时触发于北京时间 09:36，窗口外（窗口 18:30–次日 06:00）。按规则直接结束：未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 10:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 11:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 12:36 CST fb-dm-p5 跳过：窗口外（18:30–06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 13:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 14:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 15:36 fb-dm-p5 跳过：当前时间在窗口外（窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 16:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 17:36 CST fb-dm-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-25 18:36–18:50 轮次（ixBrowser agent/tunnel 全断，本轮未执行）
+
+- 身份核验未完成：本轮 52 次调用全部失败——`health`（4 次）、`opened`（4+2 次）、`open(5)`（3 次）、`check(5)`（3 次）、`goto`/`eval`（通知、好友请求、facebook.com/messages、Page 收件箱、messenger.com，全部重试）均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：与 11-24 晚 21:36/22:36 的 curl 56 全断、11-19 晚 22:36–00:36 的 curl 52/18 抖动属同一类 agent/tunnel 服务端不可达；**今日已是第三次整轮断线**（03:36、05:36 轮次亦全断未执行；00:36/01:36/02:36/04:36 四轮曾恢复平稳）。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 动作：无发出消息。profile 5 本轮未成功打开，`close(5)` 按规则跳过（未确认是本轮打开的，不误关他人窗口）；收尾 `opened` 复核本身亦 curl 52 失败，**本轮结束时 profile 5 是否处于打开状态无法核验**（上一轮 04:36 结束时已关；本轮未曾 open 成功，残留窗口可能性低，留待下轮 opened 复核确认）。
+- 处理：按手册“读不到记日志、报总管”处理——留待总管决定是否重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent）后补跑，或等后续轮次复核恢复情况。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai（20:36 轮次已筛查未通过）本轮未复核，无任何通过/删除操作。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_1836.py / .log
+
+## 2026-11-25 19:36–19:51 轮次（agent 全断，本轮未执行）
+
+- 身份核验未完成：`health` 4 次、`opened` 4 次、`open(5)` 3 次、`check(5)` 3 次及全部后续步骤（身份核验、通知、好友请求、收件箱、Page 收件箱、messenger.com、收尾 opened 复核）**全部 curl 52 Empty reply from server，0 次成功、共 52 次失败**；轮前单独 health 探针亦 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，与 18:36 轮次（同为 0 OK / 52 FAIL）完全相同，**今日 18:36 起连续两轮整轮断线**；今日早些时候 03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 四轮曾恢复平稳，agent 当天反复断线。同期 fb-dm-p32（19:42 轮）与默认分组核查（19:47）亦报 agent 连不上（curl 52），为全号性故障，非本号独有。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 动作：无发出消息。profile 5 本轮未成功打开，`close(5)` 按规则跳过（未确认是本轮打开的，不误关他人窗口）；收尾 `opened` 复核本身亦 curl 52 失败，**本轮结束时 profile 5 是否处于打开状态无法核验**（上一轮 18:36 结束时同样无法核验；本轮未曾 open 成功，残留窗口可能性低，留待下轮 opened 复核确认）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——agent 掉线已持续 1 小时以上（自 18:36 起，18:44 后各轮次均全败），超出历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟），未自愈；留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent，11-24 用户曾两次重启）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_1936.py / .log
+
+## 2026-11-25 20:36–20:47 轮次（agent/tunnel 全断 + 运行环境中途重启，本轮未执行）
+
+- 身份核验未完成：本轮脚本 18 个步骤中只跑到第 6 步（goto-freq），已执行的 25 次调用（含重试）**全部失败、0 次成功**——`health`（4 次）、`opened`（4 次）、`open(5)`（3 次）、`check(5)`（3 次）、`idcheck-home`（3 次）、`goto-notif`（3 次）、`notif-text`（3 次）、`goto-freq`（前 2 次）均报 curl 56（Recv failure: Connection reset by peer）。随后运行环境重启，脚本被中断，未跑到 DONE 标记；原始日志只写到 goto-freq try 2（共 51 行）。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮从未拉起，无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**今晚 18:36 起连续第三轮整轮断线**（18:36、19:36 均为 curl 52 全断，本轮 curl 56 全断；03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 四轮曾恢复平稳）。中断后 20:47 单独探针复核：`health` 与 `opened` 仍 curl 56 失败，断线在轮末仍未恢复。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。profile 5 登录态无法核验，**不是已确认登录失效**，不谎报。
+- 动作：无发出消息。`open(5)` 3 次均失败，本轮未实际拉起任何窗口；`close(5)` 按规则跳过（未确认是本轮打开的，不误关他人窗口）；轮末 profile 5 是否处于打开状态无法核验（`opened` 不可读，留待下轮复核）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——agent 掉线已持续 2 小时以上（自 18:36 起），超出历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟），未自愈；19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent），本轮仍未恢复，复核探针亦失败，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_2036.py / .log
+
+## 2026-11-25 21:36–21:53 轮次（agent/tunnel 全断，本轮未执行）
+
+- 身份核验未完成：本轮脚本 18 个步骤、**52 次调用全部失败、0 次成功**——`health`（4 次）、`opened`（4 次，含收尾）、`open(5)`（3 次）、`check(5)`（3 次）、身份核验、通知、好友请求、facebook.com/messages、Page 收件箱、messenger.com 的全部 `goto`/`eval` 均报 curl 56（Recv failure: Connection reset by peer）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**今晚 18:36 起连续第四轮整轮断线**（18:36、19:36 均为 curl 52 全断，20:36、21:36 均为 curl 56 全断；03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 四轮曾恢复平稳）。轮末 21:53 单独探针复核：`health` 仍 curl 56 失败，断线在轮末仍未恢复。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 动作：无发出消息。`open(5)` 3 次均失败，本轮未实际拉起任何窗口；`close(5)` 按规则跳过（未确认是本轮打开的，不误关他人窗口）；轮末 profile 5 是否处于打开状态无法核验（`opened` 不可读，留待下轮复核；上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——agent 掉线已持续 3 小时以上（自 18:36 起），超出历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟），未自愈；19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_2136.py / .log
+
+## 2026-11-25 22:36–22:52 轮次（agent/tunnel 全断，本轮未执行）
+
+- 身份核验未完成：本轮脚本 18 个步骤、**52 次调用全部失败、0 次成功**——`health`（4 次）、`opened`（4 次，含收尾）、`open(5)`（3 次）、`check(5)`（3 次）、身份核验、通知、好友请求、facebook.com/messages、Page 收件箱、messenger.com 的全部 `goto`/`eval` 均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**今晚 18:36 起连续第五轮整轮断线**（18:36、19:36 均为 curl 52 全断，20:36、21:36 均为 curl 56 全断，本轮 curl 52 全断；03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 四轮曾恢复平稳）。轮末 22:52 单独探针复核：`health` 仍 curl 52 失败，断线在轮末仍未恢复。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 动作：无发出消息。`open(5)` 3 次均失败，本轮未实际拉起任何窗口；`close(5)` 按规则跳过（未确认是本轮打开的，不误关他人窗口）；轮末 profile 5 是否处于打开状态无法核验（`opened` 不可读，留待下轮复核；上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——agent 掉线已持续 4 小时以上（自 18:36 起），远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟），未自愈；19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_2236.py / .log
+
+## 2026-11-25 23:36–23:53 轮次（agent/tunnel 全断，本轮未执行）
+
+- 身份核验未完成：本轮脚本 18 个步骤、**52 次调用全部失败、0 次成功**——`health`（4 次）、`opened`（4 次，含收尾）、`open(5)`（3 次）、`check(5)`（3 次）、身份核验、通知、好友请求、facebook.com/messages、Page 收件箱、messenger.com 的全部 `goto`/`eval` 均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到。profile 5 本轮无页面可读。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**今晚 18:36 起连续第六轮整轮断线**（18:36、19:36 均为 curl 52 全断，20:36、21:36 均为 curl 56 全断，22:36、23:36 均为 curl 52 全断；03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 四轮曾恢复平稳）。轮末 23:51 单独探针复核：`health` 仍 curl 52 失败，断线在轮末仍未恢复。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。
+- 动作：无发出消息。`open(5)` 3 次均失败，本轮未实际拉起任何窗口；`close(5)` 按规则跳过（未确认是本轮打开的，不误关他人窗口）；轮末 profile 5 是否处于打开状态无法核验（`opened` 不可读，留待下轮复核；上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——agent 掉线已持续 5 小时以上（自 18:36 起），远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟），未自愈；19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261125_2336.py / .log
+
+## 2026-11-26 00:36–00:47 轮次（ixBrowser agent 全面失联，本轮未执行）
+
+- 身份核验未完成：`health` 连续失败，profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（profile 未打开，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent 全面失联，全部调用报 curl 52（Empty reply from server）——00:06 猎手轮次三轮 probe 已是 9 次失败；本轮整轮脚本 health 4 次 + opened 2 次失败后停掉空转（避免无意义重试），3 分钟后精简探针 health 又 3 次失败；**累计 18 次连续 curl 52，约 40 分钟内无一次成功**。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。与 2026-11-19 晚 22:36、2026-11-24 夜里 agent 掉线同一现象；11-25 07:28 曾自行恢复。另：本轮中途运行环境重启一次，探针的 sleep 被打断，已重跑探针确认结果（health 0/3）。**切勿擅自改走 8766 v15 备用 agent**（成安/工程师定，运营仍走 8765）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮（下一轮 01:36）；脚本与日志：`~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_0036.py`、`.log`、`dm_p5_round_20261126_0036_probe.py`、`.log`。
+
+## 2026-11-26 01:36–01:43 轮次（ixBrowser agent 全面失联，本轮未执行）
+
+- 身份核验未完成：`health` 4 次 + `opened` 2 次 + 180 秒后复探 `health` 3 次，**共 9 次调用全部失败、0 次成功**，均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（profile 未打开，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**今晚 2026-11-25 18:36 起连续第八轮整轮断线**（18:36、19:36、20:36、21:36、22:36、23:36、00:36、01:36；03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 曾恢复平稳）。断线已持续 7 小时以上，远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟、11-25 07:28 自行恢复），未自愈。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。**切勿擅自改走 8766 v15 备用 agent**（成安/工程师定，运营仍走 8765）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close；`opened` 复核本身亦 curl 52 失败，轮末 profile 5 是否处于打开状态无法核验（上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低，留待下轮复核）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent，11-24 用户曾两次重启），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_0136.py（未实际跑全轮，沿用模板留存）、dm_p5_round_20261126_0136_probe.py / .log
+
+## 2026-11-26 02:36–02:41 轮次（ixBrowser agent 全面失联，本轮未执行）
+
+- 身份核验未完成：`health` 3 次 + `opened` 2 次 + 120 秒后复探 `health` 3 次，**共 8 次调用全部失败、0 次成功**，均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（profile 未打开，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**自 2026-11-25 18:36 起连续第九轮整轮断线**（18:36、19:36、20:36、21:36、22:36、23:36、00:36、01:36、02:36；其间 11-25 03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 曾恢复平稳）。断线已持续 8 小时，远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟、11-25 07:28 自行恢复），未自愈。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。**切勿擅自改走 8766 v15 备用 agent**（成安/工程师定，运营仍走 8765）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close；`opened` 复核本身亦 curl 52 失败，轮末 profile 5 是否处于打开状态无法核验（上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低，留待下轮复核）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent，11-24 用户曾两次重启），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_0236.py / .log
+
+## 2026-11-26 03:36–03:41 轮次（ixBrowser agent 全面失联，本轮未执行）
+
+- 身份核验未完成：`health` 3 次 + `opened` 2 次 + 120 秒后复探 `health` 3 次，**共 8 次调用全部失败、0 次成功**，均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（profile 未打开，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**自 2026-11-25 18:36 起连续第十轮整轮断线**（18:36、19:36、20:36、21:36、22:36、23:36、00:36、01:36、02:36、03:36；其间 11-25 03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 曾恢复平稳）。断线已持续 9 小时，远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟、11-25 07:28 自行恢复），未自愈。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。**切勿擅自改走 8766 v15 备用 agent**（成安/工程师定，运营仍走 8765）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close；`opened` 复核本身亦 curl 52 失败，轮末 profile 5 是否处于打开状态无法核验（上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低，留待下轮复核）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\\ixbrowser-agent，11-24 用户曾两次重启），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_0336.py / .log
+
+## 2026-11-26 04:36–04:41 轮次（ixBrowser agent 全面失联，本轮未执行）
+
+- 身份核验未完成：`health` 3 次 + `opened` 2 次 + 120 秒后复探 `health` 3 次，**共 8 次调用全部失败、0 次成功**，均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（profile 未打开，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**自 2026-11-25 18:36 起连续第十一轮整轮断线**（18:36、19:36、20:36、21:36、22:36、23:36、00:36、01:36、02:36、03:36、04:36；其间 11-25 03:36、05:36 轮次亦全断，00:36/01:36/02:36/04:36 曾恢复平稳）。断线已持续约 10 小时，远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟、11-25 07:28 自行恢复），未自愈。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。**切勿擅自改走 8766 v15 备用 agent**（成安/工程师定，运营仍走 8765）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close；`opened` 复核本身亦 curl 52 失败，轮末 profile 5 是否处于打开状态无法核验（上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低，留待下轮复核）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent，11-24 用户曾两次重启），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_0436_probe.py / .log
+
+## 2026-11-26 05:36–05:47 轮次（ixBrowser agent 全面失联，本轮未执行）
+
+- 身份核验未完成：`health` 3 次 + `opened` 2 次 + 120 秒后复探 `health` 3 次 + `opened` 2 次，**共 10 次调用全部失败、0 次成功**，均报 curl 52（Empty reply from server）。profile 5 本轮从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（profile 未打开，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：ixBrowser agent/tunnel 服务端完全不可达，**自 2026-11-25 18:36 起连续第十二轮整轮断线**（18:36、19:36、20:36、21:36、22:36、23:36、00:36、01:36、02:36、03:36、04:36、05:36）。断线已持续约 11 小时，远超历次自愈窗口（11-19 约 12 分钟、11-24 约 30 分钟、11-25 07:28 自行恢复），未自愈。未撞 FB 429/226/344（未触达 FB，无封号/限流信号）。**切勿擅自改走 8766 v15 备用 agent**（成安/工程师定，运营仍走 8765）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close；`opened` 复核本身亦 curl 52 失败，轮末 profile 5 是否处于打开状态无法核验（上一可核验状态为 11-24 04:36 轮次结束时已关，其后各轮均未成功 open，残留窗口可能性低，留待下轮复核）。3 条旧好友请求（Haridas Roy、Alia Molla、Balaram Mandir，均已筛查、未通过）与 Tarik Mai 本轮未复核，无任何通过/删除操作。
+- 处理：按手册“读不到记日志、报总管”处理——19:36 轮次已留待总管判断是否喊用户重启用户电脑上的 ixBrowser agent（D:\ixbrowser-agent，11-24 用户曾两次重启），本轮仍未恢复，留待总管决定。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_0536.py / .log
+
+## 2026-11-26 06:36 轮次（窗口外跳过）
+
+- 本轮定于 06:36，超出夜里窗口（18:30–次日 06:00），按规矩直接跳过，未开浏览器、未发任何内容、未碰账号。注：ixBrowser agent 自 2026-11-25 18:36 起已连续 12 轮整轮失联（至 05:36 轮次），本轮未做连通性复探。
+
+## 2026-11-26 07:36 轮次（窗口外跳过）
+
+- 本轮定于 07:36，超出夜里窗口（18:30–次日 06:00），按规矩直接跳过，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 08:36 轮次（窗口外跳过）
+
+- 本轮定于 08:36，超出夜里窗口（18:30–次日 06:00），按规矩直接跳过，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 09:36 轮次（窗口外跳过）
+
+- 本轮定于 09:36，超出夜里窗口（18:30–次日 06:00），按规矩直接跳过，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 10:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 10:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 11:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 11:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 12:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 12:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 13:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 13:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 14:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 14:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 15:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 15:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 16:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 16:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 17:36 fb-dm-p5（Jusa Khan）轮次跳过
+
+- 窗口外跳过：当前 17:36 CST，不在夜里窗口 18:30–次日 06:00 内；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 18:36–18:40 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent（8765）`/health` 首探 3 次与 120 秒后复探 3 次均 curl 52（Empty reply from server）；`/opened` 两次同样 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今（约 29 小时）仍未恢复，且今日 00:36–05:36 各轮次同样全部失败，本次是连续第 7 轮 agent 不可达；此前 11-25 13:47 前 agent 曾多次自行恢复，本次是已知最长的一次断线。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。用户是否重启过 D:\ixbrowser-agent 一事此前已问、等他回话。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理，留待总管决定是否等 agent 恢复后补跑本轮。
+
+## 2026-11-26 19:36–19:40 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent（8765）`/health` 首探 3 次与 120 秒后复探 3 次均 curl 52（Empty reply from server）；`/opened` 两次同样 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今（约 30 小时）仍未恢复，且今日 00:36–05:36 与 18:36 各轮次同样全部失败，本次是连续第 8 轮 agent 不可达；此前 11-25 13:47 前 agent 曾多次自行恢复，本次是已知最长的一次断线。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。用户是否重启过 D:\ixbrowser-agent 一事此前已问、等他回话。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理，留待总管决定是否等 agent 恢复后补跑本轮。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_1936_probe.py / dm_p5_round_20261126_1936_probe.log / dm_p5_round_20261126_1936_probe2.log
+
+## 2026-11-26 20:36–20:40 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent（8765）`/health` 首探 3 次与 120 秒后复探 3 次均 curl 52（Empty reply from server）；`/opened` 两次同样 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今（约 31 小时）仍未恢复，且今日 00:36–05:36、18:36、19:36 各轮次同样全部失败，本次是连续第 9 轮 agent 不可达；此前 11-25 13:47 前 agent 曾多次自行恢复，本次是已知最长的一次断线。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。用户是否重启过 D:\ixbrowser-agent 一事此前已问、等他回话。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理，留待总管决定是否等 agent 恢复后补跑本轮。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_2036_probe.py / dm_p5_round_20261126_2036_probe.log / dm_p5_round_20261126_2036_probe2.log
+
+## 2026-11-26 21:36–21:38 轮次（agent 双路均断，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查失败——8765（Python agent）`GET /health` curl 52 Empty reply；8766（v15 备用）同样 curl 52；20 秒后 8765 重试一次仍 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今未恢复（11-26 上午 10:24 再探仍不通），本次为第 3 次确认双路均断；此前 11-19 晚的抖动曾自行恢复，本次已持续约 32 小时、无自行恢复迹象。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。是否重启 D:\ixbrowser-agent 一事总管已问过成安、等他回话，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮。
+
+## 2026-11-26 22:36–22:40 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查失败——8765（Python agent）`GET /health` curl 52 Empty reply；8766（v15 备用）同样 curl 52；120 秒后复探一次，两路仍 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今未恢复，本轮为连续第 11 轮 agent 不可达（今日 00:36–05:36、18:36、19:36、20:36、21:36 各轮次同样全部失败），断线已持续约 33 小时、无自行恢复迹象。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。是否重启 D:\ixbrowser-agent 一事总管已问过成安、等他回话，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮。
+- 脚本：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_2236_probe.py
+
+## 2026-11-26 23:36–23:42 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查失败——8765（Python agent）`GET /health` curl 52 Empty reply；8766（v15 备用）同样 curl 52；120 秒后复探一次，两路仍 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今未恢复，本轮为连续第 12 轮 agent 不可达（今日 00:36–05:36、18:36、19:36、20:36、21:36、22:36 各轮次同样全部失败），断线已持续约 34 小时、无自行恢复迹象。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。是否重启 D:\ixbrowser-agent 一事总管已问过成安、等他回话，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261126_2336_probe.py / dm_p5_round_20261126_2336_probe.log / dm_p5_round_20261126_2336_probe2.log
+
+## 2026-11-27 00:36–00:44 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查失败——8765（Python agent）`GET /health` 3 次尝试均 curl 56（Recv failure: Connection reset by peer）；8766（v15 备用）同样 curl 56。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今未恢复，断线已持续约 35 小时；本轮为连续第 13 轮 agent 不可达（11-26 全天 12 轮同样全部失败）。注意本次报错由前几轮的 curl 52（Empty reply）变为 curl 56（Connection reset by peer），仍为传输层错误、非 FB 限流/封号信号；未撞 FB 429/226/344。是否重启 D:\ixbrowser-agent 一事总管已问过成安、等他回话，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_0036_probe.py / dm_p5_round_20261127_0036_probe.log
+
+## 2026-11-27 01:36–01:52 轮次（ixBrowser agent 不可达，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查失败——8765（Python agent）`GET /health` 首轮 3 次尝试均 curl 52（Empty reply）；120 秒后复探，8765 再 3 次 curl 52，8766（v15 备用）同样 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今未恢复，断线已持续约 36 小时；本轮为连续第 14 轮 agent 不可达（11-26 全天 12 轮 + 11-27 00:36 轮同样全部失败）。本次报错与前几轮一致为 curl 52（Empty reply），00:36 轮次的一度 curl 56 未再出现，仍为传输层错误、非 FB 限流/封号信号；未撞 FB 429/226/344。是否重启 D:\ixbrowser-agent 一事总管已问过成安、等他回话，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_0136_probe.py / dm_p5_round_20261127_0136_probe.log / dm_p5_round_20261127_0136_probe2.log
+
+## 2026-11-27 02:36–02:52 轮次（ixBrowser agent 双路均断，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查三次失败——8765 端口 `/health` 三次均 curl 52（Empty reply from server）；备用 8766 端口 `/health` 同样 curl 52 失败。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断开至今未恢复；本轮与今日 00:36、01:36 两轮探针结果一致（8765/8766 双路 curl 52/56）。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。重启 D:\ixbrowser-agent 一事此前已问过成安，等他回话再定，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。探针脚本与日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_0236_probe.py / .log。
+
+## 2026-11-27 03:36–03:57 轮次（ixBrowser agent 双路均断，本轮未执行）
+
+- 身份核验未完成：ixBrowser agent 健康检查失败——8765（Python agent）`GET /health` 首轮 3 次尝试均 curl 52（Empty reply from server）；120 秒后复探，8765 再 3 次 curl 52，8766（v15 备用）同样 curl 52。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今未恢复，断线已持续约 38 小时；本轮为连续第 16 轮 agent 不可达（11-26 全天 12 轮 + 11-27 00:36、01:36、02:36、03:36 各轮次同样全部失败）。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。是否重启 D:\ixbrowser-agent 一事总管已问过成安、等他回话，本轮不再重复追问。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：留待总管决定是否等 agent 恢复后补跑本轮。
+- 探针脚本与日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_0336_probe.py / dm_p5_round_20261127_0336_probe.log / dm_p5_round_20261127_0336_probe2.log
+
+## 2026-11-27 04:36–05:0x 轮次（ixBrowser agent 仍断，本轮未执行）
+
+- 窗口内：当前北京时间 04:59，在夜里窗口 18:30–次日 06:00 内，轮次应跑。
+- 身份核验未完成：ixBrowser agent（8765）`health` 与 `opened` 三次调用均失败——curl 52 Empty reply from server；备用 v15（8766）`health` 同样 curl 52 失败。profile 5 从未拉起，登录态无法核验，**不是已确认登录失效**，不谎报。
+- 通知 / 好友请求 / 私信：均未读到（agent 不通，无页面可读）。**本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**
+- 异常：agent 自 2026-11-25 13:47 断线至今已约 40 小时未恢复（2026-11-26 10:24 再探仍不通；本次 04:59/05:0x 两轮探查均 curl 52），且本次 v15 备用路同样无响应——与此前“v15 仍在 Temp 里跑”不同，两路同时不通，疑似用户电脑侧 agent 进程已停或网络隧道中断。未撞 FB 429/226/344（均为 agent 传输层错误，非 FB 限流/封号信号）。
+- 动作：无发出消息。profile 5 本就未打开，无需 close。按手册“读不到记日志、报总管”处理：agent 断线已是已知待决事项（此前已问成安是否重启过 D:\ixbrowser-agent，等他回话），本轮不重复打扰；留待总管决定是否等 agent 恢复后补跑本轮，或请成安/工程师检查用户电脑侧 agent 进程与隧道。
+
+## 2026-11-27 06:02 轮次（窗口外跳过）
+
+- 本轮定时触发时间 05:36（窗口内），实际执行时间 06:02，已超出夜里窗口 18:30–次日 06:00；按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 5 未拉起、无需 close。
+- 本轮未核查 ixBrowser agent 状态与私信：窗口外不探查、不谎报。已知背景：agent 自 2026-11-25 13:47 断线，至 04:36 轮次仍未恢复（约 40 小时），重启事宜已问过成安、等他回话。
+- 动作：无发出消息。
+
+## 2026-11-27 06:36 轮次（窗口外跳过）
+
+- 本轮定时触发时间 06:36，已超出夜里窗口 18:30–次日 06:00；按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 5 未拉起、无需 close。
+- 本轮未核查 ixBrowser agent 状态与私信：窗口外不探查、不谎报。已知背景：agent 自 2026-11-25 13:47 断线，至 2026-11-26 22:36（UTC）/ 2026-11-27 06:36（CST）仍未确认恢复，重启事宜已问过成安、等他回话。
+- 动作：无发出消息。
+
+## 2026-11-27 07:36 轮次（窗口外跳过）
+
+- 本轮定时触发时间 07:36，已超出夜里窗口 18:30–次日 06:00；按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 5 未拉起、无需 close。
+- 本轮未核查 ixBrowser agent 状态与私信：窗口外不探查、不谎报。已知背景：agent 自 2026-11-25 13:47 断线，重启事宜已问过成安、等他回话。
+- 动作：无发出消息。
+- 2026-11-27 08:36 CST fb-dm-p5：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-27 09:36 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-27 10:36 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 11:36 CST fb-dm-p5：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+## 2026-11-27 12:36 — 窗口外跳过（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-27 13:36 — 窗口外跳过（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+## 2026-11-27 14:36 — 窗口外跳过（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-27 15:36 — 窗口外跳过（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-27 16:36 — 窗口外跳过（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-27 17:36 — 窗口外跳过（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-27 18:36–18:39 轮次（agent 恢复后首个完整轮次，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过（登录账号确为 Jusa Khan）：`check(5)` 返回 account_name “Jusa”（composer 署名，debugging_address 127.0.0.1:52684）；首页 profile.php 链接精核：含 61595765429611 的为 0 条，含 61576748891565 的为 2 条；发帖框署名 “What's on your mind, Jusa?”；messenger.com 显示 “Continue as Jusa Khan”。与 11-24 23:36、11-25 00:36–04:36 轮次一致：**61576748891565 是 Jusa Khan 个人号，61595765429611 是 “Dr. Qin Hao Eye Rejuvenation” 的 Page id**；任务正文写 61595765429611 为个人号 id 的标注仍待总管统一修正。轮次开始时 profile 5 未打开（opened 列表只有 44，18:31:14 打开，疑似同期其他轮次在跑），open 正常拉起。
+- 通知：未读 5 条，均为 5d–1w 前的旧通知——“Insights are ready for your recent post” 5d；“Your reel has been published” ×5（5d、5d、6d、1w、1w，均署 Dr. Qin Hao Eye Rejuvenation）。无评论、无好友请求、无私信类通知；5 天内无新通知。
+- 好友请求：共 3 条，与 11-24 18:36/23:36、11-25 00:36–04:36 轮次同一组，均已筛查过、均未通过——Haridas Roy（1w，Followed by 5.7K，profile.php?id=100029208802142，请求页未提取到其主页链接）、Alia Molla（1w，profile.php?id=100084386516821，资料锁定无意向信号）、বলরাম মন্দির Balaram Mandir（1w，1 位共同好友，profile.php?id=61595760347547，宗教内容无医美信号）。3 条均未通过、未联系，无新增好友请求，无任何通过/删除操作。**注意：20:36 轮次新增的 Tarik Mai 本轮请求页列表中仍不见**（与此前多轮相同），未证实撤回/过期/删除，仅记录，不做结论。
+- 私信：facebook.com/messages 两次读取均为聊天列表空（len 162，含“请输入您的PIN码以恢复您的聊天记录。部分聊天记录丢失。”提示，与 11-25 02:36 轮次相同），未见未读/新线程；Page 收件箱（asset 1390637890803002）外壳加载，线程列表窗格无对话行（len 419，仅外壳/导航文字），左栏“信使/Instagram/WhatsApp”下“新的”标记与此前轮次相同、但无对应线程行读出，本轮未重新核验（11-19 轮次已核实“Facebook评论 1”串为矩阵内号互刷评论，非客户私信）；messenger.com 显示 “Continue as Jusa Khan” 落地页（未进入收件箱）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：**ixBrowser agent 已恢复**——health 一次成功（8765，version 15），本轮 18 个步骤全部一次成功，无 curl 52/18/56 与超时，是 2026-11-25 04:36 轮次之后首个完整成功轮次（其间 11-25 13:47 起断线约 44.5 小时，11-26 全天 + 11-27 00:36–05:36 共 16 轮全部失败）。未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核：5 已不在列表，仅 profile 44 在开——18:31:14 打开，疑似同期其他轮次在跑，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_1836.py / .log
+
+## 2026-11-27 19:36–19:39 轮次（agent 正常，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过：`check(5)` 登录态正常，首页显示 “秦昊博士眼部年轻化，您在考虑眼部年轻化吗？”（与任务要求的显示名一致）；首页 profile.php 链接含 Page id 61595765429611 的为 2 条，个人号 id 61576748891565 的为 0 条——与 18:36 轮次（个人号 2 条、Page 0 条）互补，本轮首页渲染的是 Page 身份入口，属同一登录会话的两种渲染，不影响身份认定。轮次开始时 profile 5 未打开（opened 列表只有 32、35，均为其他轮次窗口），本轮自行打开、轮末已关。
+- 通知：未读 6 条，均为 5d–1w 前的旧通知——“Your reel hit 300 plays!”×2（5d、1w）、“Your reel is ready to view”×3（5d、5d、6d）、“Welcome to Rhinoplasty in...”×1（1w）。无评论、无好友请求、无私信类通知；5 天内无新通知。
+- 好友请求：**本轮请求页渲染为空态**（“目前暂无此内容”，len 77，rows []），18:36 轮次见到的 3 条旧请求（Haridas Roy、Alia Molla、Balaram Mandir）本轮未列出——**未证实撤回/过期/删除，仅记录，不做结论**；无新增请求行，无任何通过/删除操作。
+- 私信：facebook.com/messages 照例跳 Business Suite Page 收件箱（asset 1390637890803002），外壳加载、线程列表窗格无对话行（len 419，仅外壳/导航文字，两次读取一致）；左栏“信使/Instagram/WhatsApp”下“新的”标记与此前轮次相同、但无对应线程行读出；messenger.com 显示未登录落地页（已知问题）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：无。ixBrowser agent 8765 健康一次成功（version 15），本轮 20 个步骤全部一次成功，无 curl 52/18/56 与超时；未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核仅剩 profile 32 在开——其他轮次窗口，未碰；轮始在开的 35 已由其所属轮次自行关闭，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_1936.py / .log
+
+## 2026-11-27 20:36–20:40 轮次（agent 正常，全步骤一次成功；无新回复、无新增好友请求）
+
+- 身份核验通过：`check(5)` 返回 account_name “Dr. Qin Hao Eye Rejuvenation”（composer 署名，debugging_address 127.0.0.1:37056）；首页 profile.php 链接含 Page id 61595765429611 的为 2 条，个人号 id 61576748891565 的为 0 条，发帖框署名 “What's on your mind, Dr. Qin Hao Eye Rejuvenation?”——与 19:36 轮次相同，本轮首页渲染的是 Page 身份入口，属同一登录会话的两种渲染，不影响身份认定。轮次开始时 profile 5 未打开（opened 列表只有 32、35、44，均为其他轮次窗口），本轮自行打开、轮末已关。
+- 通知：未读 6 条，均为 5d–1w 前的旧通知——“Your reel hit 300 plays!”×2（5d、1w）、“Your reel is ready to view”×3（5d、5d、6d）、“Welcome to Rhinoplasty in...”×1（1w）。无评论、无好友请求、无私信类通知；5 天内无新通知。
+- 好友请求：**本轮请求页渲染为空态**（“目前暂无此内容”，len 77，rows []），18:36 轮次见到的 3 条旧请求（Haridas Roy、Alia Molla、Balaram Mandir）本轮未列出（与 19:36 轮次相同）——**未证实撤回/过期/删除，仅记录，不做结论**；无新增请求行，无任何通过/删除操作。
+- 私信：facebook.com/messages 照例跳 Business Suite Page 收件箱（asset 1390637890803002），外壳加载、线程列表窗格无对话行（len 419，仅外壳/导航文字，两次读取一致）；直接访问 Page 收件箱 URL 结果相同；左栏“信使/Instagram/WhatsApp”下“新的”标记与此前轮次相同、但无对应线程行读出；messenger.com 显示未登录落地页（已知问题）。**结论：未见新回复，但收件箱未完整读到线程列表——按“未见新回复（未完整核验）”记录，不谎报为已确认无新私信。**
+- 异常：无。ixBrowser agent 8765 健康一次成功（version 15），本轮全部步骤一次成功，无 curl 52/18/56 与超时；未撞 FB 429/226/344。登录正常，非致命问题。
+- 动作：无发出消息，无合格客资。轮次结束已关 profile 5（close 返回 ok:true，closed:true；opened 复核仅剩 profile 32 在开——其他轮次窗口，未碰；轮始在开的 35、44 在本轮期间由其所属轮次自行关闭，与本轮无关）。
+- 脚本与原始日志：~/workspace/ixbrowser-driver/flows/dm_p5_round_20261127_2036.py / .log

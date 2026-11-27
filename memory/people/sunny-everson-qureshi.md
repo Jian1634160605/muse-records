@@ -3,7 +3,7 @@ display_name: "Sunny Everson-Qureshi"
 first_name: "Sunny"
 last_name: "Everson-Qureshi"
 summary: "Prospective overseas patient — asked about price on the Kassir post; Victoria commented 2026-11-10, no reply yet, not DM'd."
-rank: 223
+rank: 226
 updated: "2026-11-10"
 ---
 

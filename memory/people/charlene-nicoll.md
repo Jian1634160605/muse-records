@@ -2,9 +2,9 @@
 display_name: "Charlene Nicoll"
 first_name: "Charlene"
 last_name: "Nicoll"
-summary: "Prospective overseas patient — first DM server-verified delivered 2026-11-20 18:52 after three undelivered attempts; awaiting her reply, no WhatsApp yet."
-rank: 51
-updated: "2026-11-21"
+summary: "Prospective overseas patient — first DM delivered 2026-11-20 18:52 after three undelivered attempts; awaiting her reply, no WhatsApp yet; B-19 due 2026-11-27 18:52, awaiting the user's reply."
+rank: 54
+updated: "2026-11-26"
 ---
 
 # Charlene Nicoll
@@ -18,6 +18,7 @@ updated: "2026-11-21"
 - Likely cause: she has stranger message requests turned off on her end — other prospects send fine through the same channel (window conversation, message:assistant-msg-5cb43519-9bd2-444c-9bf0-3ab9a964361d).
 - 2026-11-20: the first DM was finally delivered, server-verified, at 18:52 Beijing. A recheck at 18:33 that day still showed it undelivered; a retry in a different time slot then landed. She is in Canada, Ontario, with facial rejuvenation intent.
 - No reply yet and no WhatsApp number yet; she is not a qualified lead.
+- 2026-11-26: the B-19 follow-up is due by 2026-11-27 18:52; its approval card still awaits the user's reply, and she has not replied to the first DM.
 
 ## History
 - 2026-10-22 evening: first DM attempted; browser said sent, server never received it.
@@ -33,6 +34,6 @@ updated: "2026-11-21"
 
 ## Open threads
 - [x] User decision pending (asked 2026-10-24 morning) — whether to retry Charlene's first DM once more at a different window or abandon the line entirely (undelivered ×3; auto-resend paused; likely blocked on her end rejecting stranger message requests). — Resolved 2026-11-20: retried in a different slot and server-verified delivered at 18:52.
-- [ ] Awaiting her reply to the first DM delivered 2026-11-20 18:52; no WhatsApp yet, not a qualified lead. Follow-up is handled by the DM-watch rounds.
+- [ ] Awaiting her reply to the first DM delivered 2026-11-20 18:52; no WhatsApp yet, not a qualified lead. B-19 follow-up due by 2026-11-27 18:52 — its approval card awaits the user's reply as of 2026-11-26. Follow-up is handled by the DM-watch rounds.
 
 ## Strengthening

@@ -3,7 +3,7 @@ display_name: "Viviana Calabrò"
 first_name: "Viviana"
 last_name: "Calabrò"
 summary: "Prospective rhinoplasty patient — spotted 2026-11-17 in the Rhinoplasty in Turkey 2026 group asking nose-tip price and about Dr Luena Elezi; Italy, three done, seeking a fourth; not contacted yet."
-rank: 275
+rank: 278
 updated: "2026-11-17"
 ---
 

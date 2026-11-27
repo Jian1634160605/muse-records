@@ -3,8 +3,8 @@ display_name: "Ligita Kondrotaite"
 first_name: "Ligita"
 last_name: "Kondrotaite"
 summary: "Prospective overseas patient — new Facebook friend of Victoria's account who sent a photo on 2026-11-13; three verified messages sent asking for her WhatsApp with area code, awaiting her reply."
-rank: 31
-updated: "2026-11-15"
+rank: 34
+updated: "2026-11-26"
 ---
 
 # Ligita Kondrotaite
@@ -18,6 +18,7 @@ updated: "2026-11-15"
 - Last contact: 2026-11-13. By 20:29 that day she had read the third message (the WhatsApp ask) and had not replied yet.
 - She reacted with a heart to one of the messages; no text reply yet.
 - 2026-11-14: the B-18 follow-up window opened, with a deadline of 2026-11-15 evening 20:04.
+- 2026-11-26: the B-18 follow-up was never sent — its approval card still awaits the user's reply; she has not replied to the 2026-11-13 messages.
 
 ## History
 - 2026-11-13: added as a Facebook friend of Victoria's account; initially screened as no medical intent and marked do-not-contact.
@@ -34,6 +35,6 @@ updated: "2026-11-15"
 
 ## Open threads
 - [ ] Awaiting her reply to the 2026-11-13 WhatsApp request — third message read, no reply as of 20:29 on 2026-11-13; only a heart reaction so far.
-- [ ] B-18 follow-up due by 2026-11-15 evening 20:04.
+- [ ] B-18 follow-up due by 2026-11-15 evening 20:04 — still unsent; its approval card still awaits the user's reply as of 2026-11-26.
 
 ## Strengthening

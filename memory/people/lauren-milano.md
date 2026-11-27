@@ -3,7 +3,7 @@ display_name: "Lauren Milano"
 first_name: "Lauren"
 last_name: "Milano"
 summary: "Prospective overseas patient — posted on combined procedures plus CO2 pitfalls (collection #502); Victoria commented 2026-11-11 (E07 95), no reply yet, not DM'd."
-rank: 245
+rank: 248
 updated: "2026-11-11"
 ---
 

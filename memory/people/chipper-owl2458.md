@@ -2,7 +2,7 @@
 display_name: "ChipperOwl2458"
 first_name: "ChipperOwl2458"
 summary: "Prospective overseas patient — collection-table #907; UK, seeking a transconjunctival lower-eyelid recommendation, willing to travel abroad; Victoria commented and followed up 2026-11-17, not DM'd."
-rank: 271
+rank: 274
 updated: "2026-11-17"
 ---
 

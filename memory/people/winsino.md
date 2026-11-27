@@ -2,7 +2,7 @@
 display_name: "Winsino"
 first_name: "Winsino"
 summary: "FB doctor-IP account, ixBrowser profile 80; removed from the default group 2026-11-19 by the user's own deletion; Muse no longer operates it."
-rank: 24
+rank: 26
 updated: "2026-11-19"
 ---
 

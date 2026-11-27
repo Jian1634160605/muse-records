@@ -3,7 +3,7 @@ display_name: "Suzanne LeBrun"
 first_name: "Suzanne"
 last_name: "LeBrun"
 summary: "Prospective overseas patient — Atlanta revision plus chin post; Victoria commented 2026-11-11 (E07 95 after a revision), no reply yet, not DM'd."
-rank: 247
+rank: 250
 updated: "2026-11-11"
 ---
 

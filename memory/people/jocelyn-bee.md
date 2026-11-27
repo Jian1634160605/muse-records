@@ -3,7 +3,7 @@ display_name: "Jocelyn Bee"
 first_name: "Jocelyn"
 last_name: "Bee"
 summary: "Prospective overseas patient (#457) — DM'd Victoria 2026-11-12 after 2 failed eyelid revisions; user intervened and secured her WhatsApp, making her a qualified lead; thread closed to Muse."
-rank: 28
+rank: 30
 updated: "2026-11-12"
 ---
 

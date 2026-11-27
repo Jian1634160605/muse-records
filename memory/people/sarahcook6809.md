@@ -1,9 +1,9 @@
 ---
 display_name: "sarahcook6809"
 first_name: "sarahcook6809"
-summary: "IG facelift-line Qin Hao account, ixBrowser profile 44; published in the 2026-11-20 22:00 and 2026-11-21 00:00 video rounds; 3 old lifestyle posts await archiving."
-rank: "16"
-updated: "2026-11-21"
+summary: "IG facelift-line Qin Hao account, ixBrowser profile 44; published 2026-11-20/21 night rounds; 2026-11-23 Post menu failures diagnosed incidental 2026-11-24, retry tonight."
+rank: 15
+updated: "2026-11-24"
 ---
 
 # sarahcook6809
@@ -26,6 +26,8 @@ updated: "2026-11-21"
 - 2026-11-19 video monitoring: sarah 01 read 31 plays (+1) in round 10 (14:18 Beijing) and 50 plays (+19) in round 11 (16:18 Beijing); comments rose 1 to 3, matching the two afternoon mutual-engagement comments. No video broke 10,000 plays and none gained 2,000 in 2 hours.
 - 2026-11-20 22:00: this account published in the night video round — https://www.instagram.com/sarahcook6809/reel/Df95QHiNj48/ — one of 6 of 9 accounts published in that round; its self-review引流 comment was verified visible.
 - 2026-11-21 00:00: this account published in the second night video round — https://www.instagram.com/sarahcook6809/reel/Df-KjQRSqwD/ — one of 8 of 9 accounts published in that round.
+- 2026-11-23 night: both items failed — 01-f2 in the 22:00 round and 03b in the 00:00 round, both because the IG Post menu was not found.
+- 2026-11-24 10:44 Beijing: the IG publish entry was verified normal — New post opened the Post menu as expected — so the 2026-11-23 misses were incidental, not a broken channel; both items retry tonight.
 
 ## History
 - 2026-11-10: converted to a Qin Hao account (E08, user-directed); hunter and DM-watch first rounds ran clean; DM watch paused after a proxy-credential leak in the 17:10 round.
@@ -33,6 +35,7 @@ updated: "2026-11-21"
 - 2026-11-16: ixBrowser profile 44 confirmed; the user decided IG now comments on own works and replies to client DMs (content-only rule superseded).
 - 2026-11-19: facelift line confirmed; sarah 01 rose 31 to 50 plays with mutual-engagement comments landing.
 - 2026-11-20 22:00 and 2026-11-21 00:00: published in both night video rounds.
+- 2026-11-23 night: both items failed on the IG Post menu not being found; 2026-11-24 the publish entry was verified normal and the failures judged incidental.
 
 ## The relationship
 An operational IG account in the user's 秦浩 operation, not a personal tie: the user owns the account and the team runs it as a Qin Hao doctor-IP line.
@@ -46,5 +49,6 @@ An operational IG account in the user's 秦浩 operation, not a personal tie: th
 - [ ] New proxy line from the user (agreed 2026-11-10 17:22, not yet received as of the 2026-11-11 00:10 rounds).
 - [x] DM watch / hunter resume after proxy rebind — superseded 2026-11-11 by the user's content-only decision; the tasks are stopped, not paused for rebind. Superseded again 2026-11-16 by the user's dual-platform decision (IG comments/DMs resume).
 - [ ] IG comment/DM operation (user decision 2026-11-16): comment on own works and reply to client DMs, superseding the 2026-11-11 content-only rule; action layer not yet wired.
+- [ ] 2026-11-23 night failures (01-f2, 03b): publish entry verified normal 2026-11-24 10:44; both items retry in tonight's rounds.
 
 ## Strengthening

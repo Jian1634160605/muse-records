@@ -1079,3 +1079,978 @@
 ## 2026-11-23 07:42 轮（fb-dm-p32，窗口外跳过）
 - 北京时间 07:42，窗口外（夜里窗口 18:30–次日 06:00），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
 - 2026-11-23 08:42 CST fb-dm-p32（Lark/Daisy Chambers, profile 32）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-23 09:42 CST fb-dm-p32（Lark/Daisy Chambers, profile 32）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-23 10:42 CST fb-dm-p32（Lark/Daisy Chambers, profile 32）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+---
+- 2026-11-23 11:42 CST fb-dm-p32：窗口外（18:30–次日06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 12:42 CST fb-dm-p32：窗口外（18:30–次日06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 13:42 CST fb-dm-p32：窗口外（18:30–次日06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+
+- 2026-11-23 15:42 CST fb-dm-p32：窗口外（18:30–次日06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 16:42 CST fb-dm-p32：窗口外（18:30–次日06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 17:42 CST fb-dm-p32：窗口外（18:30–次日06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 18:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：无新评论/新关注/新好友请求信号；仅发布类提示：Pahhip America 新增 2 条 Reel（13h 前，鼻子线「Confused about rhinoplasty?」）、Reel 达 200 播放（16h 前，署 Dr.Qinhao22）、Pahhip America 代 Dr.Qinhao22 发定时帖（22h 前）、Pahhip America 新增 8 条 Reel（1d 前，268 reactions · 9 comments）、Reel 达 200 播放（1d 前）；另 1 条旧提醒：Dr. Qin Hao Eye Rejuvenation（Jusa，profile 5）在本号帖子下提问（3 天前），非新、留给猎手轮处理，本轮未回。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；本轮截断文本内未见 Facebook comments 列表新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 65 号），由本轮 open 后操作；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关）。
+  - 原始读数存 /tmp/dm-p32-20261123-1842.log（临时）。
+
+## 2026-11-23 19:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind?"，check 返回 account_name "Daisy"（composer 署名），与任务一致；未见登录页。
+- 通知：无新评论/新关注/新好友请求信号；仅发布类提示：Pahhip America 新增 2 条 Reel（30m 前，鼻子线「Confused about rhinoplasty?」）、Reel 达 200 播放（17h 前，署 Dr.Qinhao22）、Pahhip America 代 Dr.Qinhao22 发定时帖（23h 前）、Pahhip America 新增 8 条 Reel（1d 前，268 reactions · 9 comments）、Reel 达 200 播放（1d 前）。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮截断文本内未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作（debugging_address 127.0.0.1:13014，pid 26220）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 19:44:13 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261123-1942-stepA–F.log（临时）。
+
+## 2026-11-23 20:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：无新评论/新关注/新好友请求信号；仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（30m 前）、新增 2 条 Reel（44m 前，鼻子线「For a youthful look, a soft upturned…」）、Reel 达 200 播放（18h 前，署 Dr.Qinhao22）、新增 8 条 Reel（1d 前，268 reactions · 9 comments）、Reel 达 200 播放（1d 前）。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 20:43:10 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261123-2042.log（临时）。
+
+## 2026-11-23 21:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：无新评论/新关注/新好友请求信号；仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（1h 前）、新增 2 条 Reel（1h 前，鼻子线「For a youthful look, a soft upturned…」）、Reel 达 200 播放（19h 前，署 Dr.Qinhao22）、新增 8 条 Reel（1d 前，268 reactions · 9 comments）、Reel 达 200 播放（1d 前）。8 条 Reel 的 9 条评论属帖子评论、留给猎手轮处理，本轮未回。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作（debugging_address 127.0.0.1:6178）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 21:43:35 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261123-2142.log（临时）。
+
+## 2026-11-23 22:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：无新评论/新关注/新好友请求信号；新增点赞信号（非私信，留给猎手轮处理，本轮未回）：Karla Pineda 与 Amandine Laurent 点赞 Dr.Qinhao22 的 Reel「It’s not changing your face, just...」（1h 前）。其余仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（2h 前）、新增 2 条 Reel（2h 前，鼻子线「For a youthful look, a soft upturned…」）、Reel 达 200 播放（20h 前，署 Dr.Qinhao22）、新增 8 条 Reel（1d 前，268 reactions · 9 comments）。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 44、65），由本轮 open 后操作（debugging_address 127.0.0.1:26981）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 44、65 在开，与本轮无关；65 号 22:42:08 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261123-2242.log（临时）。
+
+## 2026-11-23 23:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind, Daisy?"，与任务一致；未见登录页。
+- 通知：无新评论/新关注/新好友请求信号；新增点赞信号（非私信，留给猎手轮处理，本轮未回）：Karla Pineda 与 Amandine Laurent 点赞 Dr.Qinhao22 的 Reel「It’s not changing your face, just...」（16m 前）。其余仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（3h 前）、新增 2 条 Reel（3h 前，鼻子线「For a youthful look, a soft upturned…」）、Reel 达 200 播放（21h 前，署 Dr.Qinhao22）、新增 8 条 Reel（1d 前，268 reactions · 9 comments）。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 65 号），由本轮 open 后操作（debugging_address 127.0.0.1:55192）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 22:49:17 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261123-2342.log（临时）。
+
+## 2026-11-24 00:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，本人主页（Edit cover photo / Share a thought），发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：未读 2 条；新增两条关注信号（非私信，本轮未联系，记为待筛）：
+  - Zunera Farooq followed you.（1m 前，Dr.Qinhao22）——新关注，身份/意向待筛，留给猎手轮/后续轮次判断，本轮未私信、未主动联系。
+  - Hassan Ali started following you from your reel.（45m 前，Dr.Qinhao22）——从 Reel 关注的新粉丝，身份/意向待筛，留给猎手轮/后续轮次判断，本轮未私信、未主动联系。
+  - 其余仅发布/点赞类提示：Reel 达 500 播放（15m 前，Dr.Qinhao22）；Karla Pineda 与 Amandine Laurent 点赞 Dr.Qinhao22 的 Reel「It’s not changing your face, just...」（1h 前，上轮已记）；Pahhip America 代 Dr.Qinhao22 发定时帖（4h 前）、新增 2 条 Reel（4h 前，鼻子线「For a youthful look, a soft upturned…」）；Reel 达 200 播放（22h 前，署 Dr.Qinhao22）；新增 8 条 Reel（1d 前，268 reactions · 9 comments）。无新好友请求/新评论信号。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增：Aspen Jacobson（8w）、Hamim Mia（8w）、DePa Rises（8w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）与 April North（11-22 起从 Reel 关注、多次点赞本号 Reel）身份/意向仍待筛查——本轮通知里已无她们的关注提示（超出列表范围），仍记为待筛；新增待筛 Zunera Farooq、Hassan Ali。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表：65 号 00:43:21、103 号 00:41:17 由其他轮次打开），由本轮 open 后操作（debugging_address 127.0.0.1:56943）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关）。
+  - 原始读数存 /tmp/dm-p32-20261124-0042.log（临时）。
+
+## 2026-11-24 01:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，发帖框 "What's on your mind, Daisy?"，与任务一致；未见登录页。
+- 通知：未读 1 条；两条关注信号仍为 00:42 轮已记的新关注（非私信，本轮未联系，仍记为待筛）：
+  - Zunera Farooq followed you.（1h 前，Dr.Qinhao22）——新关注，身份/意向待筛，留给猎手轮/后续轮次判断，本轮未私信、未主动联系。
+  - Hassan Ali started following you from your reel.（1h 前，Dr.Qinhao22）——从 Reel 关注的新粉丝，身份/意向待筛，留给猎手轮/后续轮次判断，本轮未私信、未主动联系。
+  - 其余仅发布/点赞类提示：Pahhip America 新增 2 条 Reel（15m 前，鼻子线「Confused about rhinoplasty? Here is the…」）；Reel 已发布（45m 前，Dr.Qinhao22）；Reel 达 500 播放（1h 前，Dr.Qinhao22）；Karla Pineda 与 Amandine Laurent 点赞 Dr.Qinhao22 的 Reel「It’s not changing your face, just...」（2h 前，23:42 轮已记）；Pahhip America 代 Dr.Qinhao22 发定时帖（5h 前）；Reel 达 200 播放（23h 前，署 Dr.Qinhao22）；新增 8 条 Reel（1d 前，268 reactions · 9 comments）。无新好友请求/新评论信号。
+- 好友请求：仍是 3 条 8 周前的旧请求，无新增（现显示 9w）：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（00:42 轮新增）身份/意向仍待筛查——本轮通知里已无 Diana 与 April 的关注提示（超出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 65 号），由本轮 open 后操作（debugging_address 127.0.0.1:1840）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 01:43:32 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261124-0142.log（临时）。
+
+## 2026-11-24 02:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：新增两条新关注信号（非私信/好友请求，本轮未联系，仅记下来待筛）：
+  - Zunera Farooq followed you.（2h 前，署 Dr.Qinhao22）
+  - Hassan Ali started following you from your reel.（2h 前，署 Dr.Qinhao22）
+  - 新增点赞信号（非私信，本轮未回）：Karla Pineda and Amandine Laurent like Dr.Qinhao22's reel: "It's not changing your face, just..."（3h 前）。
+  - 其余仅发布类提示：Pahhip America 新增 3 条 Reel（14m 前）；Reel 已发布（1h 前，署 Dr.Qinhao22）；Reel 达 500 播放（2h 前，署 Dr.Qinhao22）；Pahhip America 代 Dr.Qinhao22 发定时帖（6h 前）；Reel 达 200 播放（1d 前）；Pahhip America 新增 8 条 Reel（1d 前，268 reactions · 9 comments）。无新好友请求信号。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查——本轮通知里已无她的关注提示（超出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 02:43:28 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261124-0242.log（临时）。
+
+## 2026-11-24 03:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。两条新关注信号仍为 02:42 轮已记的同一批（非私信，本轮未联系，仍记为待筛）：
+  - Zunera Farooq followed you.（3h 前，署 Dr.Qinhao22）
+  - Hassan Ali started following you from your reel.（3h 前，署 Dr.Qinhao22）
+  - 点赞信号仍为 02:42 轮已记的同一条：Karla Pineda and Amandine Laurent like Dr.Qinhao22's reel: "It's not changing your face, just..."（4h 前）。
+  - 其余仅发布类提示：Pahhip America 新增 4 条 Reel（15m 前，鼻子线「Confused about rhinoplasty? Here is the…」）；Reel 已发布（2h 前，署 Dr.Qinhao22）；Reel 达 500 播放（3h 前，署 Dr.Qinhao22）；Pahhip America 代 Dr.Qinhao22 发定时帖（7h 前）；Reel 达 200 播放（1d 前）；Pahhip America 新增 8 条 Reel（1d 前，268 reactions · 9 comments）。Ejje、Jusa 两条帖子评论信号已滑出通知列表，无新增评论信号。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（02:42 轮新增）身份/意向仍待筛查——本轮通知里已无 Diana 与 April 的关注提示（超出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作（debugging_address 127.0.0.1:30220）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 03:43:21 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261124-0342.log（临时）。
+
+## 2026-11-24 04:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增一条点赞信号（非私信，本轮未回）：Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（16m 前）。两条新关注信号仍为 02:42 轮已记的同一批（非私信，本轮未联系，仍记为待筛）：
+  - Zunera Farooq followed you.（4h 前，署 Dr.Qinhao22）
+  - Hassan Ali started following you from your reel.（4h 前，署 Dr.Qinhao22）
+  - 点赞信号：Karla Pineda and Amandine Laurent like Dr.Qinhao22's reel: "It's not changing your face, just..."（5h 前）。
+  - 其余仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（43m 前）、新增 5 条 Reel（46m 前，鼻子线「The nose is the anchor of your face. A…」）；Reel 已发布（3h 前，署 Dr.Qinhao22）；Reel 达 500 播放（4h 前，署 Dr.Qinhao22）；Reel 达 200 播放（1d 前）；Pahhip America 新增 8 条 Reel（1d 前，268 reactions · 9 comments）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，3h 前）。Ejje、Jusa 两条帖子评论信号已滑出通知列表，无新增评论信号。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（02:42 轮新增）身份/意向仍待筛查——本轮通知里已无 Diana 与 April 的关注提示（超出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 65），由本轮 open 后操作（debugging_address 127.0.0.1:20731）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 04:43:11 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261124-0442.log（临时）。
+
+## 2026-11-24 05:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号，全部为 04:42 轮已记的同一批（时间顺延约 1h，无新内容）：
+  - 点赞信号：Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（15m 前）；Karla Pineda and Amandine Laurent like Dr.Qinhao22's reel: "It's not changing your face, just..."（6h 前）。非私信，本轮未回，留给猎手轮。
+  - 两条新关注信号仍为 02:42 轮新增的同一批（非私信，本轮未联系，仍记为待筛）：Zunera Farooq followed you.（5h 前，署 Dr.Qinhao22）；Hassan Ali started following you from your reel.（5h 前）。
+  - 其余仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（1h 前）、新增 5 条 Reel（29m 前，鼻子线「A nose that fits your face can quietly…」）；Reel 已发布（4h 前，署 Dr.Qinhao22）；Reel 达 500 播放（5h 前，署 Dr.Qinhao22）；Reel 达 200 播放（1d 前）；Pahhip America 新增 8 条 Reel（2d 前，268 reactions · 9 comments）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，4h 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（02:42 轮新增）身份/意向仍待筛查——本轮通知里已无 Diana 与 April 的关注提示（超出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作（debugging_address 127.0.0.1:21774）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，与本轮无关；65 号 05:43:14 由其他轮次打开）。
+  - 原始读数存 /tmp/dm-p32-20261124-0542.log（临时）。
+
+## 2026-11-24 06:42 CST（窗口外跳过）
+- 本轮 scheduled_for 06:42，已过夜里窗口截止 06:00（18:30–次日 06:00），按任务口径直接跳过：未开浏览器、未发任何内容、未碰账号。
+- 发送：0 条；无新回复处理；无合格客资；无致命问题。
+
+## 2026-11-24 07:42 CST（窗口外跳过）
+- 本轮 scheduled_for 07:42，已过夜里窗口截止 06:00（18:30–次日 06:00），按任务口径直接跳过：未开浏览器、未发任何内容、未碰账号。
+- 发送：0 条；无新回复处理；无合格客资；无致命问题。
+
+## 2026-11-24 08:42 CST（窗口外跳过）
+- 本轮 scheduled_for 08:42，已过夜里窗口截止 06:00（18:30–次日 06:00），按任务口径直接跳过：未开浏览器、未发任何内容、未碰账号。
+- 发送：0 条；无新回复处理；无合格客资；无致命问题。
+
+## 2026-11-24 09:42 CST（窗口外跳过）
+- 本轮 scheduled_for 09:42，已过夜里窗口截止 06:00（18:30–次日 06:00），按任务口径直接跳过：未开浏览器、未发任何内容、未碰账号。
+- 发送：0 条；无新回复处理；无合格客资；无致命问题。
+- 2026-11-24 10:42 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 11:42 跳过
+- 11:42 CST 不在夜里窗口（18:30–次日 06:00）内，本轮跳过；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 12:42 跳过
+- 12:42 CST 不在夜里窗口（18:30–次日 06:00）内，本轮跳过；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 13:42 跳过
+- 13:42 CST 不在夜里窗口（18:30–次日 06:00）内，本轮跳过；未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 14:42 跳过
+- 14:42 CST 不在夜里窗口（18:30–次日 06:00）内，本轮跳过；未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 15:42 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 16:42 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-24 17:42 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-24 18:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与凌晨三轮只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 3 条；无新增关注/好友请求/评论信号，全部为此前轮次已记的同一批（时间顺延）：
+  - 点赞信号：Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（12h 前）。非私信，本轮未回，留给猎手轮。
+  - 其余仅发布类提示：Pahhip America 代 Dr.Qinhao22 发定时帖（8h 前）、新增 5 条 Reel（12h 前，鼻子线「The nose is the anchor of your face. A…」）；Reel 已发布（17h 前，署 Dr.Qinhao22）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，17h 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（02:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作（debugging_address 127.0.0.1:25349）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，18:43:24 由其他轮次打开，与本轮无关）。
+  - 原始读数存 /tmp/dm-p32-20261124-1842.log（临时）。
+
+## 2026-11-24 19:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与凌晨三轮只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增一条点赞信号（非私信，本轮未回，留给猎手轮）：
+  - Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（3m 前）。
+  - 其余为此前轮次已记的同一批（时间顺延）：Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（13h 前）；Pahhip America 代 Dr.Qinhao22 发定时帖（9h 前）、新增 5 条 Reel（13h 前，鼻子线「The nose is the anchor of your face. A…」）；Reel 已发布（18h 前，署 Dr.Qinhao22）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，18h 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表为空），由本轮 open 后操作（debugging_address 127.0.0.1:13453）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，19:43:16 由其他轮次打开，与本轮无关）。
+  - 原始读数存 /tmp/dm-p32-20261124-1942.log（临时）。
+
+## 2026-11-24 20:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与凌晨三轮只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增两条发布类信号（非私信，本轮未回）：
+  - Pahhip America added 6 new reels: "Do you think she looks like Selena…"（17m 前）。
+  - Pahhip America published your scheduled posts for Dr.Qinhao22.（31m 前）；Your reel is published.（46m 前，署 Dr.Qinhao22）。
+  - 其余为此前轮次已记的同一批（时间顺延）：Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（1h 前）；Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（14h 前）；Your reel is published.（19h 前，署 Dr.Qinhao22）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，19h 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 65），由本轮 open 后操作（debugging_address 127.0.0.1:8731）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，20:43:10 由其他轮次打开，与本轮无关）。
+  - 原始读数存 /tmp/dm-p32-20261124-2042.log（临时）。
+
+## 2026-11-24 21:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind, Daisy?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与凌晨三轮只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增一条播放里程碑（非私信，本轮未回）：
+  - Reel 达 100 播放（2m 前，署 Dr.Qinhao22）。
+  - 其余为此前轮次已记的同一批（时间顺延）：Your reel is published.（1h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（1h 前）；Pahhip America added 6 new reels: "Do you think she looks like Selena…"（1h 前，3 reactions · 1 comment）；Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（2h 前）；Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（15h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，20h 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 未开（opened 列表仅 65），由本轮 open 后操作（debugging_address 127.0.0.1:17451）；轮次结束已 close(32) 并用 opened() 复核确认已关（剩余 65 在开，21:43:27 由其他轮次打开，与本轮无关）。
+  - 原始读数存 /tmp/dm-p32-20261124-2142.log（临时）。
+
+## 2026-11-24 22:42 轮（fb-dm-p32）
+
+- 身份核验：**未直接完成**——idcheck、goto-profile、profile-text 各 4 次重试均 curl 52 失败，未读到 profile.php?id=61594843222285 显示名/发帖框署名。但无换号迹象：误读到的猎手轮当前页（他人主页）上评论框署名 "Comment as Daisy Chambers"，与本号一致；Page 收件箱 asset_id 103675056134329（Dr.Qinhao22）与台账一致；好友请求与个人 Messenger 内容与上一轮完全相同；全程未见登录页、未见身份验证弹窗（本轮仅导航+只读，不能据此断定 11-23 身份验证已解除）。
+- 通知：**未读到**——goto-notif 4 次重试均 curl 52 失败；notif-text 第 4 次重试读到的不是通知页（见异常记录），该读数作废。未读通知数在好友请求页与 Messenger 页眉均为 1，与 21:42 轮一致；有无新增关注/评论/好友请求信号，本轮未知，不谎报无新。
+- 好友请求：成功读到，仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求信号（通知页未读到）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知页未读到，仍记为待筛。
+- 个人 Messenger（facebook.com/messages）：成功读到，线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：成功读到，Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent 约 22:44–23:05 全程 curl 52 空回复：首脚本 health、open、opened-end 全部失败，仅 opened-before 一次成功；重试脚本 health、opened-check 全部失败。约 23:05 后部分恢复：health OK（version 10）、opened-check 成功（6 个在开：5、32、35、38、44、67）；retry2 中段 tabs/eval/goto 仍连续失败，约 23:15 后 goto-freq、goto-msg、goto-inbox 陆续成功，轮末 opened-end 又 4 次失败。属 agent 传输层持续抖动、间歇自愈，非 FB 限流信号（全程无 429/226/344）。
+  - 首脚本 is_open 在风暴中失败误报 False，险些对已开的 32 号重复 open；retry2 改用 opened() 列表直接判定 was_open=True，按手册未 open、未 close。32 号自 22:21:24 由其他轮次（猎手轮）开着，本轮未关；轮末 opened-end 复核 4 次均失败，未能确认最终在开列表。
+  - 猎手轮正在共用 profile 32 同一标签页：notif-text 第 4 次重试读到的是猎手正在查看的他人主页（Loreida Martin，Monroe, MI），非通知页，该读数作废、其帖文内容不记入本台账；本轮后半段 goto-freq/msg/inbox 成功后把共用标签页切走了，猎手轮的查看可能被打断。
+  - 原始读数存 /tmp/dm-p32-20261124-2242.log、/tmp/dm-p32-20261124-2242-retry.log、/tmp/dm-p32-20261124-2242-retry2.log（临时）。
+
+## 2026-11-24 23:42 轮（fb-dm-p32）——部分完成：agent curl 52 风暴持续约 30 分钟，三 pass 才读全
+
+- 身份核验：**未直接完成**——goto-profile 成功进入 profile.php?id=61594843222285（标题 "(1) Facebook"），但 profile-text eval 4 次重试均 curl 52 失败，未读到显示名/发帖框署名。无换号迹象：pass 1 误读到的猎手共用页上评论框署名 "Comment as Daisy Chambers"；Messenger 线程内容与历轮完全相同；Page 收件箱 asset_id 103675056134329（Dr.Qinhao22）与台账一致；全程未见登录页、未见 11-23 身份验证弹窗（本轮仅导航+只读，不能据此断定身份验证已解除）。
+- 通知（pass 3 读到真页）：无新关注/新好友请求/新评论信号。新增均为发布与点赞类：Pahhip America 新增 6 条 Reel（16m 前）；Manjarrez Joanne 与 Sarah Springs Carter 点赞 Dr.Qinhao22 的 Reel「No one-size-fits-all anti-aging...」（4h 前）；Reel 已发布（4h 前，署 Dr.Qinhao22）；Pahhip America 代 Dr.Qinhao22 发定时帖（4h 前）；Reel 达 100 播放（2h 前，署 Dr.Qinhao22）。早前：Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（18h 前）；同行推荐提示（Since you interacted with Victoria Maizie...，22h 前）。未读通知数 1，与本轮页眉一致。
+- 好友请求（pass 2 读到真页）：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 个人 Messenger（facebook.com/messages，pass 3 读到真页）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329，pass 3 读到真页）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent 约 23:44–00:15 全程 curl 52/18 波浪式故障：health、opened、tabs、eval、goto 大面积失败、偶有成功，单步常需 3–4 次重试；pass 2 的 goto-freq、freq-text、goto-inbox 与 pass 3 的 goto-msg、msg-text、goto-inbox、inbox-text、goto-notif、notif-text 在风暴间隙陆续成功。属 agent 传输层持续抖动、间歇自愈，非 FB 限流信号（全程无 429/226/344）。
+  - **pass 1 险些误关猎手轮窗口，已拦截**：opened-check 5 次全败，脚本误判 32 未开而盲 open；随后 opened() 直查证实 32 自 22:21:24 即由猎手轮开着（pid 38892，debugging 127.0.0.1:46227——盲 open 返回的正是同一地址，即只是挂上已有实例，未新开）。本轮在 close32 执行前主动 kill 掉 pass 1 进程，close 未执行；pass 2/3 改为永不 open、永不 close。轮末 opened-end 复核：32 仍在开（5、32、35、38、44、67），留给猎手轮，未关。
+  - pass 1 的 notif-text、freq-text 两次误读到猎手正在看的 facelift 搜索页（非目标页），读数作废、不记入本台账；本轮后半段 goto 亦多次把共用标签页从猎手处切走（22:42 轮同类冲突）。
+  ## 2026-11-25 00:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与此前只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号，全部为发布与点赞类（非私信，本轮未回，留给猎手轮）：
+  - Pahhip America 新增 6 条 Reel「Do you think she looks like Selena…」（17m 前，4 reactions · 1 comment）。
+  - Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（5h 前）。
+  - Your reel is published.（4h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（4h 前）；Reel 达 100 播放（3h 前，署 Dr.Qinhao22）。
+  - Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（18h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，23h 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号——与 11-24 22:42/23:42 两轮的 curl 52 风暴相比，今晚 agent 已恢复稳定。
+  - 本轮开始时 profile 32 已开（自 2026-11-24 22:21:24，pid 38892，猎手轮在用），按手册未 open、未 close；轮末 opened-end 复核 32 仍在开（共 9 个在开：5、32、35、38、44、65、67、102、108），留给猎手轮。
+  - 猎手轮正在共用 profile 32 同一标签页（本轮初标签页停在 Dr.Qinhao22 Page，profile.php?id=100094685171190）；本轮各 goto 把共用标签页切走，属历轮同类冲突。
+  - 原始读数存 /tmp/dm-p32-20261125-0042.log（临时）。
+
+
+
+## 2026-11-25 01:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与此前只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增均为发布与点赞类（非私信，本轮未回，留给猎手轮）：
+  - Reel 达 500 播放（33m 前，署 Dr.Qinhao22）——新里程碑。
+  - Pahhip America 新增 6 条 Reel「The nose is the anchor of your face. A…」（49m 前）。
+  - Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（6h 前）。
+  - Your reel is published.（5h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（5h 前）；Reel 达 100 播放（4h 前，署 Dr.Qinhao22）。
+  - Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（19h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，1d 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 已开（自 2026-11-24 22:21:24，pid 38892，猎手轮在用），按手册未 open、未 close；轮末 opened-end 复核 32 仍在开（共 9 个在开：5、32、35、38、44、65、67、102、108），留给猎手轮。
+  - 猎手轮正在共用 profile 32 同一标签页（本轮初标签页停在 Loreida Martin 主页，profile.php?id=61585274344631）；本轮各 goto 把共用标签页切走，属历轮同类冲突。
+  - 原始读数存 /tmp/dm-p32-20261125-0142.log（临时）。
+
+## 2026-11-25 02:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与此前只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增均为发布与点赞类（非私信，本轮未回，留给猎手轮）：
+  - Pahhip America 新增 6 条 Reel「Confused about rhinoplasty? Here is the…」（17m 前）。
+  - Reel 达 500 播放（1h 前，署 Dr.Qinhao22）。
+  - 其余为 01:42 轮已记的同一批（时间顺延）：Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（7h 前）；Your reel is published.（6h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（6h 前）；Reel 达 100 播放（5h 前，署 Dr.Qinhao22）；Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（20h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，1d 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 已开（自 2026-11-24 22:21:24，pid 38892，猎手轮在用），按手册未 open、未 close；轮末 opened-end 复核 32 仍在开（共 9 个在开：5、32、35、38、44、65、67、102、108），留给猎手轮。
+  - 猎手轮正在共用 profile 32 同一标签页（本轮初标签页停在 Dr.Qinhao22 Page，profile.php?id=100094685171190）；本轮各 goto 把共用标签页切走，属历轮同类冲突。
+  - 原始读数存 /tmp/dm-p32-20261125-0242.log（临时）。
+
+## 2026-11-25 03:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与此前只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增均为发布与点赞类（非私信，本轮未回，留给猎手轮）：
+  - Pahhip America 新增 6 条 Reel「Confused about rhinoplasty? Here is the…」（18m 前）。
+  - Reel 达 500 播放（2h 前，署 Dr.Qinhao22）；Reel 达 100 播放（6h 前，署 Dr.Qinhao22）。
+  - 其余为 02:42 轮已记的同一批（时间顺延）：Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（8h 前）；Your reel is published.（7h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（7h 前）；Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（21h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，1d 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号，0 次 FAIL。
+  - 本轮开始时 profile 32 已开（自 2026-11-24 22:21:24，pid 38892，猎手轮在用），按手册未 open、未 close；轮末 opened-end 复核 32 仍在开（共 9 个在开：5、32、35、38、44、65、67、102、108），留给猎手轮。
+  - 猎手轮正在共用 profile 32 同一标签页（本轮初标签页停在 Dr.Qinhao22 Page，profile.php?id=100094685171190）；本轮各 goto 把共用标签页切走，属历轮同类冲突。
+  - 原始读数存 /tmp/dm-p32-20261125-0342.log（临时）。
+
+## 2026-11-25 04:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与此前只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。新增均为发布与点赞类（非私信，本轮未回，留给猎手轮）：
+  - Pahhip America 新增 7 条 Reel「Do you think she looks like Kylie…」（17m 前）。
+  - Your reel is published.（34m 前，署 Dr.Qinhao22）；Reel 已发布（8h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（8h 前）。
+  - Reel 达 500 播放（3h 前，署 Dr.Qinhao22）；Reel 达 100 播放（7h 前，署 Dr.Qinhao22）。
+  - Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（9h 前）。
+  - Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（22h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，1d 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号，0 次 FAIL。
+  - 本轮开始时 profile 32 已开（自 2026-11-24 22:21:24，pid 38892，猎手轮在用），按手册未 open、未 close；轮末 opened-end 复核 32 仍在开（共 9 个在开：5、32、35、38、44、65、67、102、108），留给猎手轮。
+  - 猎手轮正在共用 profile 32 同一标签页（本轮初标签页停在 Dr.Qinhao22 Page，profile.php?id=100094685171190）；本轮各 goto 把共用标签页切走，属历轮同类冲突。
+  - 原始读数存 /tmp/dm-p32-20261125-0442.log（临时）。
+
+## 2026-11-25 05:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，发帖框 "What's on your mind?"，评论框署名 "Comment as Daisy Chambers"，与任务一致；未见登录页、未见身份验证弹窗（本轮仅导航+只读，未做点击/写操作，与此前只读复核同样，不能据此断定 11-23 身份验证已解除）。
+- 通知：未读 1 条；无新增关注/好友请求/评论信号。列表内容与 04:42 轮完全相同（仅时间戳老化 1 小时），均为发布与点赞类（非私信，本轮未回，留给猎手轮）：
+  - Pahhip America 新增 7 条 Reel「Do you think she looks like Kylie…」（16m 前）。
+  - Your reel is published.（1h 前，署 Dr.Qinhao22）；Reel 已发布（9h 前，署 Dr.Qinhao22）；Pahhip America published your scheduled posts for Dr.Qinhao22.（9h 前）。
+  - Reel 达 500 播放（4h 前，署 Dr.Qinhao22）；Reel 达 100 播放（8h 前，署 Dr.Qinhao22）。
+  - Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: "No one-size-fits-all anti-aging..."（10h 前）。
+  - Damaris Cabrera、Estefania Marquez 等 4 人点赞 Dr.Qinhao22 的 Reel「Good consultation matters. Only the...」（23h 前）；另有一条同行推荐提示（Since you interacted with Victoria Maizie...，1d 前）。
+  - 遗留：Diana Margulies（11-17 起新关注）、April North（11-22 起从 Reel 关注、多次点赞本号 Reel）、Zunera Farooq、Hassan Ali（11-24 00:42 轮新增）身份/意向仍待筛查——本轮通知里已无她们的关注提示（滑出列表范围），仍记为待筛。
+- 好友请求：仍是 3 条旧请求，无新增：Aspen Jacobson（9w）、Hamim Mia（9w）、DePa Rises（9w，Followed by 5.3K）。均未筛查、不盲目通过，记下来待筛；通知里亦无新好友请求。
+- 个人 Messenger（facebook.com/messages）：线程仍是 3 条，均为对方机构/同行号主动打招呼，无新回复、无新增线程、未读 0：
+  1. Plastic Surgery Tourism - Vietnam（3w）——越南医美旅游机构号，不联系。
+  2. Keon Parsa, MD（3w）——同行医生号，不联系。
+  3. Jenny Facial Aesthetics（3w）——同行机构号，不联系。
+  - E2EE 提示“Enter your PIN to restore your chats / Some messages are missing”仍在，未输 PIN，未影响线程列表读取。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 “No messages / You don't have any messages right now”，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 10），本轮全程无掉线、无超时、无 429/226/344 信号，0 次 FAIL。
+  - 本轮开始时 profile 32 已开（自 2026-11-24 22:21:24，pid 38892，猎手轮在用），按手册未 open、未 close；轮末 opened-end 复核 32 仍在开（共 9 个在开：5、32、35、38、44、65、67、102、108），留给猎手轮。
+  - 猎手轮正在共用 profile 32 同一标签页（本轮初标签页停在 Dr.Qinhao22 Page，profile.php?id=100094685171190）；本轮各 goto 把共用标签页切走，属历轮同类冲突。
+  - 原始读数存 /tmp/dm-p32-20261125-0542.log（临时）。
+
+## 2026-11-25 06:42 轮（fb-dm-p32，窗口外跳过）
+
+- 本轮触发时间 06:42，已超出夜里窗口（18:30–次日 06:00）42 分钟，按任务体窗口规则直接结束：未开浏览器、未碰账号、未发任何内容。
+- Lark 身份验证待用户处理的状态（2026-11-23 触发）未变，本轮未核验。
+
+## 2026-11-25 07:42 轮（fb-dm-p32，窗口外跳过）
+
+- 本轮触发时间 07:42，已超出夜里窗口（18:30–次日 06:00）1 小时 42 分钟，按任务体窗口规则直接结束：未开浏览器、未碰账号、未发任何内容。
+- Lark 身份验证待用户处理的状态（2026-11-23 触发）未变，本轮未核验。
+## 2026-11-25 08:42 跳过：窗口外（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+## 2026-11-25 09:42 CST — 跳过（窗口外）
+- 本轮定时触发于 09:42，夜里窗口为 18:30–次日 06:00，窗口外直接结束，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-25 10:42 CST — 跳过（窗口外）
+- 本轮定时触发于 10:42，夜里窗口为 18:30–次日 06:00，窗口外直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 11:42 CST fb-dm-p32 轮次跳过：窗口外（18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+2026-11-25 12:42 fb-dm-p32 轮次：窗口外跳过（北京时间 12:42，不在 18:30–次日 06:00 夜里窗口内），未开浏览器、未发内容、未碰账号。
+## 2026-11-25 13:42 CST — 跳过（窗口外）
+- 本轮定时触发于 13:42，夜里窗口为 18:30–次日 06:00，窗口外直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-25 14:42（跳过）
+- 本轮在窗口外（窗口 18:30–次日 06:00），按规矩直接结束：未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-25 15:42（跳过）
+- 本轮在窗口外（窗口 18:30–次日 06:00），按规矩直接结束：未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 16:43 fb-dm-p32（Lark/Daisy Chambers，profile 32）轮次跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-25 17:42 跳过：窗口外（夜里窗口 18:30–次日 06:00），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-25 18:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 三次尝试均告失败（首轮 18:44、重试 18:49、第三轮 18:56–19:06，第三轮前先循环探 health 6 次、每次间隔 60 秒，全部失败）：
+  - /health 与 /opened 全程 curl 52 空回复：health 3 次重试 + opened 3 次判定（每次间隔 20 秒）全部失败；第三轮 health 循环 6 次亦全失败。
+  - 脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），DONE-1842-ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续约 20 分钟以上（18:44 首查失败 → 19:06 第三轮结束仍失败），未自愈；属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。与 11-19 22:42（约 12 分钟后自愈）、11-24 22:42/23:42（约 30 分钟风暴后部分恢复）同类，但本次持续时间已超 11-19 前例。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；疑似用户电脑上的 ixBrowser agent 进程挂了或隧道断了，需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261125-1842.log、/tmp/dm-p32-20261125-1842-retry.log、/tmp/dm-p32-20261125-1842-retry2.log（临时）。
+
+## 2026-11-25 19:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 19:42–19:44、重试 19:49–19:51，间隔 5 分钟）：
+  - /health 三次重试全部 curl 52 空回复；重试轮 health 同样三次全败。脚本按安全规则主动中止：opened() 未达判定，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 1 小时以上（18:44 首查失败 → 19:51 重试仍失败），未自愈；已超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；疑似用户电脑上的 ixBrowser agent 进程挂了或隧道断了，需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261125-1942.log、/tmp/dm-p32-20261125-1942-attempt1.log（临时）。
+
+## 2026-11-25 20:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 三次探查均告失败（首轮 20:43–20:44 health 3 次重试全 curl 52；服务重启打断一次 5 分钟后重试；重建脚本后 20:50 再次 health 3 次全 curl 52；另直连探查 8765 与 8766 均 curl 52 空回复）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 2 小时以上（18:44 首查失败 → 20:50 仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 新增对照：8766 Concat 桥（v15）本轮同样 curl 52 空回复（11-17 轮曾正常）；8765 与 8766 同机双端口全死，隧道本身可达（curl 能连上、服务器空回复），更指向用户电脑上的 agent/桥进程挂了，而非单进程故障。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。今晚已是连续第三轮（18:42、19:42、20:42）全败。
+  - 本轮中途运行环境重启一次，/tmp 被清空（含本轮首轮探查脚本与历轮 /tmp 原始读数引用均已丢失；台账正文不受影响）。轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数：/tmp 在运行环境重启后被清空，本轮无留存日志文件（探查结果见本条台账）。
+
+## 2026-11-25 21:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 21:42–21:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 21:49–21:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 3 小时以上（18:44 首查失败 → 21:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第四轮（18:42、19:42、20:42、21:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数：复用 /tmp/dm-p32-20261125-2042-health.py 探查脚本（首轮与重试轮均 3 次 curl 52，见本条台账）。
+
+## 2026-11-25 22:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 22:42–22:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 22:49–22:51 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 4 小时以上（18:44 首查失败 → 22:51 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第五轮（18:42、19:42、20:42、21:42、22:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261125-2242-health.py 探查脚本（首轮与重试轮均 3 次 curl 52，见本条台账）。
+
+## 2026-11-25 23:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 23:42–23:43 health 3 次重试全 curl 52；间隔 5 分钟后重试 23:48–23:49 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 5 小时以上（18:44 首查失败 → 23:49 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第六轮（18:42、19:42、20:42、21:42、22:42、23:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261125-2342-health.py 探查脚本（首轮与重试轮均 3 次 curl 52，见本条台账）。
+
+## 2026-11-26 00:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 00:42–00:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 00:49–00:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 6 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 00:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第七轮（18:42、19:42、20:42、21:42、22:42、23:42、00:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261126-0042-health.py 探查脚本（首轮与重试轮均 3 次 curl 52，见本条台账）。
+
+## 2026-11-26 01:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 01:42–01:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 01:49–01:52 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 7 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 01:52 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第八轮（18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261126-0142-health.py 探查脚本（首轮与重试轮均 3 次 curl 52，见本条台账）。
+
+## 2026-11-26 02:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 02:44–02:46 health 3 次重试全 curl 52；重试轮因 /tmp 在两轮之间被清空、探查脚本丢失，重建脚本后 02:50–02:52 再次 health 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 8 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 02:52 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 运行环境在本轮中途重启一次：/tmp 在首轮与重试轮之间被清空（首轮探查脚本与首轮 tee 日志丢失；重试轮脚本为重建后写入）。与 11-25 20:42 轮 /tmp 被清空同类。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第九轮（18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261126-0242-health.py（重建版）与 /tmp/dm-p32-20261126-0242-health-retry.log（重试轮 3 次 curl 52；首轮日志因 /tmp 清空已丢失，见本条台账）。
+
+## 2026-11-26 03:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 03:43–03:45 health 3 次重试全 curl 52；间隔 5 分钟后重试 03:50–03:52 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 9 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 03:52 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第十轮（18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 /tmp/dm-p32-20261126-0342-health.py 与 /tmp/dm-p32-20261126-0342-health.log、/tmp/dm-p32-20261126-0342-health-retry.log（首轮与重试轮均 3 次 curl 52，见本条台账）。
+
+## 2026-11-26 04:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 04:43–04:46 health 3 次重试全 curl 52；间隔 5 分钟后重试 04:49–04:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 10 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 04:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第十一轮（18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-0442-health.py 与同目录 dm-p32-20261126-0442-health.log（首轮与重试轮均 3 次 curl 52；日志内时间戳为 UTC，本条台账时间为北京时间；本次改放 goal hidden_files，因 /tmp 近期多次被运行环境重启清空、探查脚本已丢过两次）。
+
+## 2026-11-26 05:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 05:43–05:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 05:49–05:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 11 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 05:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 新增变化：8766 Concat 桥本轮直连探查为 curl exit 7（connection refused，http=000），即桥进程已不在监听；而 11-25 20:42 轮时 8766 尚能连上、只是 curl 52 空回复。8765 与 8766 双端口状态同步恶化，更指向用户电脑上的 agent/桥进程已挂或隧道断了，而非单进程故障。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；今晚已是连续第十二轮（18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42）全败。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-0542-health.py 与同目录 dm-p32-20261126-0542-health.log（首轮与重试轮均 3 次 curl 52；日志内时间戳为 UTC，本条台账时间为北京时间；8766 对照结果见本条台账）。
+- 2026-11-26 06:51 CST 跳过：已过夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 07:42 CST 跳过：已过夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 08:42 CST 跳过：已过夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 09:42 CST 跳过：已过夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 10:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 11:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+
+- 2026-11-26 12:42 轮次跳过：窗口外（18:30–次日 06:00），未开浏览器、未读私信、未发内容。
+- 2026-11-26 13:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 14:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 15:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 16:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+- 2026-11-26 17:42 CST 跳过：未到夜里窗口（18:30–次日 06:00），本轮不跑；未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 18:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 18:43–18:45 health 3 次重试全 curl 52；间隔 5 分钟后重试 18:49–18:55 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 24 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 18:55 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 curl exit 7（connection refused，http=000），与 05:42 轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十三轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42），且已满 24 小时。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-1842-health.py 与同目录 dm-p32-20261126-1842-health.log、dm-p32-20261126-1842-health-retry.py、dm-p32-20261126-1842-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 exit 7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-26 19:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 19:43–19:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 19:49–19:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 25 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 19:49 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 curl exit 7（connection refused，http=000），与 05:42、18:42 两轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十四轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-1942-health.py 与同目录 dm-p32-20261126-1942-health.log、dm-p32-20261126-1942-health-retry.py、dm-p32-20261126-1942-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 exit 7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-26 20:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 20:43–20:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 20:49–20:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 26 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 20:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 curl exit 7（connection refused，http=000），与 05:42、18:42、19:42 三轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十五轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-2042-health.py 与同目录 dm-p32-20261126-2042-health.log、dm-p32-20261126-2042-health-retry.py、dm-p32-20261126-2042-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 exit 7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-26 21:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 21:43–21:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 21:48–21:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 27 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 21:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 curl exit 7（connection refused，http=000），与 05:42、18:42、19:42、20:42 四轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十六轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-2142-health.py 与同目录 dm-p32-20261126-2142-health.log、dm-p32-20261126-2142-health-retry.py、dm-p32-20261126-2142-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 exit 7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-26 22:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 22:43–22:45 health 3 次重试全 curl 52；间隔 5 分钟后重试 22:49–22:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 28 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 22:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 curl exit 7（connection refused，http=000），与 05:42、18:42、19:42、20:42、21:42 五轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十七轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-2242-health.py 与同目录 dm-p32-20261126-2242-health.log、dm-p32-20261126-2242-health-retry.py、dm-p32-20261126-2242-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 exit 7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-26 23:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 23:43–23:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 23:49–23:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 29 小时以上（2026-11-25 18:44 首查失败 → 2026-11-26 23:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 curl exit 7（connection refused，http=000），与 05:42、18:42、19:42、20:42、21:42、22:42 六轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十八轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261126-2342-health.py 与同目录 dm-p32-20261126-2342-health.log、dm-p32-20261126-2342-health-retry.py、dm-p32-20261126-2342-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 exit 7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 00:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 两次尝试均告失败（首轮 00:43–00:44 health 3 次重试全 curl 52；间隔 5 分钟后重试 00:49–00:50 health 同样 3 次全 curl 52）：
+  - /health 与 /opened 全程 curl 52 空回复；脚本按安全规则主动中止：opened() 无法判定 profile 32 是否已开，绝不盲目 open（猎手轮可能正在用 32 号），ABORT。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 30 小时以上（2026-11-25 18:44 首查失败 → 2026-11-27 00:50 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 http=000（连接被拒），与 11-26 05:42、18:42、19:42、20:42、21:42、22:42、23:42 七轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第十九轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-0042-health.py 与同目录 dm-p32-20261127-0042-health.log、dm-p32-20261127-0042-health-retry.py、dm-p32-20261127-0042-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 http=000；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 01:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 首查 health 连续 3 次 curl 52 空回复（北京时间 01:43:36–01:44:02）；间隔约 2 分钟后重试轮 health 再 3 次 curl 52（01:46:46–01:47:12），8766 桥直连 http=000 exit=7（连接被拒）。opened() 无法判定 profile 32 是否已开，按安全规则 ABORT，未盲目 open、未点任何按钮。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id，本轮未做任何发送。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（00:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 31 小时以上（2026-11-25 18:44 首查失败 → 2026-11-27 01:47 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 http=000（连接被拒），与 11-26 05:42、18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42 九轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第二十轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-0142-health.py 与同目录 dm-p32-20261127-0142-health.log、dm-p32-20261127-0142-health-retry.py、dm-p32-20261127-0142-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 http=000 exit=7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 02:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 首轮 02:42–02:50 全线 curl 52：health、opened、open(32)、goto（个人主页/通知/好友请求/Messenger）、eval（身份核验/通知/好友请求）各 2 次重试均失败，未读到任何页面。**唯一一次例外**：02:42 轮前单独探查 `is_open(32)` 曾一次成功返回 False（agent 短暂通了一下），数秒后脚本内 health 即 curl 52——属偶发抖动，非恢复，不作“已恢复”论。
+- 重试轮 02:52–02:56（间隔约 5 分钟后，仅探 health/opened，不 open、不 close）：health 连续 3 次 curl 52，opened 亦 curl 52；8766 桥直连 http=000 exit=7（连接被拒）。agent 仍全死。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 32 小时以上（2026-11-25 18:44 首查失败 → 2026-11-27 02:56 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 http=000（连接被拒），与 11-26 05:42、18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42 十轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第二十一轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42）。需总管判断是否喊用户在电脑上重启 agent（11-24 用户曾两次重启 D:\ixbrowser-agent；11-25 早上 07:28 agent 曾自行恢复过一次）。
+  - 注意：本轮脚本的 `was_open(32)=False` 是失败调用被客户端吞错后返回的假值，非真实读数；脚本中途已主动 kill，未执行 finally 里的盲目 close(32)，未碰任何账号。32 号实际开/关状态未知（opened() 读不到）。
+  - 轮次结束 32 号状态未知；本轮未 open 成功、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-0242.py 与同目录 dm-p32-20261127-0242.log、dm-p32-20261127-0242-retry.py、dm-p32-20261127-0242-retry.log（首轮各步均 2 次 curl 52；重试轮 health 3 次 curl 52、opened curl 52、8766 直连 http=000 exit=7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 03:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 首查 health 连续 3 次 curl 52 空回复（北京时间 03:43:45–03:44:11）；间隔约 3 分钟后重试轮 health 再 3 次 curl 52（03:47:36–03:48:02），8766 桥直连 http=000 exit=7（连接被拒）。opened() 无法判定 profile 32 是否已开，按安全规则 ABORT，未盲目 open、未点任何按钮。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 33 小时以上（2026-11-25 18:44 首查失败 → 2026-11-27 03:48 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 http=000（连接被拒），与 11-26 05:42、18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42 十一轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第二十二轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42、03:42）。重启 agent 需成安在电脑上操作——主聊 11-25 约 19:00 已通知过他重启 D:\ixbrowser-agent，至今未恢复，本轮不再重复通知。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-0342-health.py 与同目录 dm-p32-20261127-0342-health.log、dm-p32-20261127-0342-health-retry.py、dm-p32-20261127-0342-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 http=000 exit=7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 04:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 首查 health 连续 3 次 curl 52 空回复（北京时间 04:43:15–04:43:46）；间隔约 5 分钟后重试轮 health 再 3 次 curl 52（04:49:00–04:49:26），8766 桥直连 http=000 exit=7（连接被拒）。opened() 无法判定 profile 32 是否已开，按安全规则 ABORT，未盲目 open、未点任何按钮。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 34 小时以上（2026-11-25 18:44 首查失败 → 2026-11-27 04:49 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 http=000（连接被拒），与 11-26 05:42、18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42、03:42 十二轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第二十三轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42、03:42、04:42）。重启 agent 需成安在电脑上操作——主聊 11-25 约 19:00 已通知过他重启 D:\ixbrowser-agent，至今未恢复，本轮不再重复通知。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-0442-health.py 与同目录 dm-p32-20261127-0442-health.log、dm-p32-20261127-0442-health-retry.py、dm-p32-20261127-0442-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 http=000 exit=7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 05:42 轮（fb-dm-p32）——本轮未完成：ixBrowser agent 持续掉线，未读到任何页面
+
+- 首查 health 连续 3 次 curl 52 空回复（北京时间 05:43:32–05:44:03）；间隔约 5 分钟后重试轮 health 再 3 次 curl 52（05:48:16–05:48:43），8766 桥直连 http=000 exit=7（连接被拒）。opened() 无法判定 profile 32 是否已开，按安全规则 ABORT，未盲目 open、未点任何按钮。
+- 身份核验：未完成——未读到任何页面，无法核对显示名/个人号 id；11-23 身份验证弹窗是否仍在，本轮未知，不谎报。
+- 通知 / 好友请求 / 个人 Messenger / Page 收件箱：均未读到，不谎报。上一轮（2026-11-25 05:42）状态仍为最后已知：3 条 9 周前旧好友请求未筛查、个人 Messenger 3 条旧机构/同行线程无新回复、Page 收件箱 0 新私信；Diana Margulies、April North、Zunera Farooq、Hassan Ali 身份/意向仍待筛查。
+- 本轮发送：0 条。无新回复可回，无合格客资（未读到，无从判断）。
+- 异常记录：
+  - agent 掉线已持续 35 小时以上（2026-11-25 18:44 首查失败 → 2026-11-27 05:49 重试仍失败），未自愈；已大幅超出历次自愈窗口（11-19 22:42 约 12 分钟、11-24 22:42/23:42 约 30 分钟风暴后部分恢复、11-25 早上 07:28 曾自行恢复过一次）。属 agent 传输层全死（/health 本身无回复），非 FB 限流信号（全程无 429/226/344——未连上，无从观测）。
+  - 8766 桥直连本轮仍为 http=000（连接被拒），与 11-26 05:42、18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42、03:42、04:42 十二轮一致，桥进程不在监听；8765 与 8766 双端口同步全死，更指向用户电脑上的 agent/桥进程已挂或隧道断了。
+  - 影响面：agent 全死是全号性的，今晚各号轮次都会撞同一堵墙；这是连续第二十四轮全败（11-25 18:42、19:42、20:42、21:42、22:42、23:42、00:42、01:42、02:42、03:42、04:42、05:42、11-26 18:42、19:42、20:42、21:42、22:42、23:42、11-27 00:42、01:42、02:42、03:42、04:42、05:42）。重启 agent 需成安在电脑上操作——主聊 11-25 约 19:00 已通知过他重启 D:\ixbrowser-agent，至今未恢复，本轮不再重复通知。
+  - 轮次结束 32 号状态未知（opened() 读不到）；本轮未 open、未 close，未碰任何账号。
+- 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-0542-health.py 与同目录 dm-p32-20261127-0542-health.log、dm-p32-20261127-0542-health-retry.py、dm-p32-20261127-0542-health-retry.log（首轮与重试轮均 3 次 curl 52；重试轮 8766 直连 http=000 exit=7；日志内时间戳为 UTC，本条台账时间为北京时间）。
+
+## 2026-11-27 06:42 轮次（窗口外跳过）
+- 定时触发于 06:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+- 本轮未核查 agent 状态与私信。背景：ixBrowser agent 自 2026-11-25 13:47 断线至今未恢复。
+
+## 2026-11-27 07:42 轮次（窗口外跳过）
+- 定时触发于 07:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+- 本轮未核查 agent 状态与私信。背景：ixBrowser agent 自 2026-11-25 13:47 断线至今未恢复。
+
+## 2026-11-27 08:42 轮次（窗口外跳过）
+- 定时触发于 08:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+- 本轮未核查 agent 状态与私信。背景：ixBrowser agent 自 2026-11-25 13:47 断线至今未恢复。
+
+## 2026-11-27 09:42 轮次（窗口外跳过）
+- 定时触发于 09:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+- 本轮未核查 agent 状态与私信。背景：ixBrowser agent 自 2026-11-25 13:47 断线至今未恢复。
+
+## 2026-11-27 10:42 轮次（窗口外跳过）
+- 定时触发于 10:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+- 本轮未核查 agent 状态与私信。背景：ixBrowser agent 自 2026-11-25 13:47 断线至今未恢复。
+- 2026-11-27 11:42 CST：本轮跳过——当前时间在夜里窗口（18:30–次日 06:00）之外，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-27 13:42 轮次（窗口外跳过）
+- 定时触发于 13:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+
+## 2026-11-27 14:42 轮次（窗口外跳过）
+- 定时触发于 14:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+
+## 2026-11-27 15:42 轮次（窗口外跳过）
+- 定时触发于 15:42，已超出夜里窗口 18:30–次日 06:00，按规则直接结束：未开浏览器、未发任何内容、未碰账号，profile 32 未拉起、无需 close。
+## 2026-11-27 16:42 CST — fb-dm-p32 跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，按规则直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 17:42 fb-dm-p32 跳过：当前北京时间 17:42，未到夜里窗口 18:30–次日 06:00，按规则本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-27 18:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following（此前多轮为 6 followers，本轮 +1，通知可见列表里无新增关注信号，未能确认是谁），与任务一致；未见登录页。帖子评论框署名 "Comment as Dr.Qinhao22"（Page 身份，属正常）。
+- 通知：仅发布类提示，无新评论/新关注/新好友请求信号：Reel 达 100 播放（1h 前）；Pahhip America 代 Dr.Qinhao22 发定时帖（4h 前）；Reel 已发布提示（4h、8h、2d 前）。首页未读通知数为 1。
+- 好友请求：**未直接读到**——facebook.com/friends/requests/ 返回 "This content isn't available right now"（与 11-17 首轮同类表现）；通知可见列表里无新好友请求信号。上一已知状态（11-20 各轮）：3 条 8 周前旧请求（Aspen Jacobson、Hamim Mia、DePa Rises）未筛查、不盲目通过；Diana Margulies 身份/意向仍待筛查。
+  - 遗留：Diana Margulies（11-17 起新关注）身份/意向仍待筛查。
+- 个人 Messenger（facebook.com/messages）：本轮 goto 直接跳到 Business Suite Page 收件箱（已知行为），**个人线程列表本轮未单独重读**，不谎报。上一已知状态（11-20 各轮）：3 条旧机构/同行线程，无新回复、未读 0（Plastic Surgery Tourism - Vietnam、Keon Parsa, MD、Jenny Facial Aesthetics，均不联系）。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 "No messages / You don't have any messages right now"，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 15），本轮无掉线、无超时、无 429/226/344 信号。
+  - 本轮首次执行中途服务重启被中断：/tmp 下的首版脚本随重启丢失，profile 32 已由该次尝试于 18:43:23 打开（pid 12804）；重写脚本改存 goal hidden_files 后重跑完成。重跑开始时 32 号已在开（was_open=True），按手册不关闭，轮末未关，留给其他轮次使用。
+  - 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-1842.log（脚本同目录 dm-p32-20261127-1842.py）。
+
+## 2026-11-27 19:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following（上轮 6 followers，+1，未见通知里点名是谁），发帖框署名 "Comment as Dr.Qinhao22"（本号带 Page Dr.Qinhao22，符合既往状态），与任务一致；未见登录页。
+- 通知：仅发布类提示，无新评论/新关注/新好友请求信号：Reel 达 100 播放（2h 前）；Pahhip America 代 Dr.Qinhao22 发定时帖（5h 前）；Reel 已可查看（5h、9h、2d 前）。
+- 好友请求：**未读到**——`facebook.com/friends/requests/` 本轮返回 "This content isn't available right now"，未能直接读到待处理列表，不谎报无新增。上一轮最后已知：3 条 8 周前旧请求（Aspen Jacobson、Hamim Mia、DePa Rises）未筛查、不盲目通过；Diana Margulies 身份/意向仍待筛查。
+- 个人 Messenger（facebook.com/messages）：本轮直接跳转至 Business Suite Page 收件箱（已知行为），**个人线程列表未直接读到**，不谎报无变化；上一轮最后已知仍为 3 条旧机构/同行线程（Plastic Surgery Tourism - Vietnam、Keon Parsa, MD、Jenny Facial Aesthetics），均不联系。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 "No messages / You don't have any messages right now"，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 15），本轮无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 已开（open_time 2026-11-27 18:43:23，猎手轮正在共用，标签页停在 deep plane facelift 搜索页），按 runbook 本轮不 open、不 close；轮末 opened() 复核仍只有 32 号在开，未关闭。
+  - 原始读数存 /tmp/dm-p32-20261127-1942.log（临时）。
+
+## 2026-11-27 20:42 轮（fb-dm-p32）
+
+- 身份核验通过：profile.php?id=61594843222285，显示名 Daisy Chambers，7 followers、0 following，与任务一致；未见登录页。帖子评论框署名 "Comment as Dr.Qinhao22"（本号带 Page Dr.Qinhao22，符合既往状态）。
+- 通知：仅发布类提示，无新评论/新关注/新好友请求信号：Reel 达 100 播放（3h 前）；Reel 已可查看（28m、6h、10h 前）；Pahhip America 代 Dr.Qinhao22 发定时帖（6h 前）。
+- 好友请求：**未读到**——`facebook.com/friends/requests/` 本轮返回 "This content isn't available right now"，未能直接读到待处理列表，不谎报无新增。上一轮最后已知：3 条 8 周前旧请求（Aspen Jacobson、Hamim Mia、DePa Rises）未筛查、不盲目通过；Diana Margulies 身份/意向仍待筛查。
+- 个人 Messenger（facebook.com/messages）：本轮直接跳转至 Business Suite Page 收件箱（已知行为），**个人线程列表未直接读到**，不谎报无变化；上一轮最后已知仍为 3 条旧机构/同行线程（Plastic Surgery Tourism - Vietnam、Keon Parsa, MD、Jenny Facial Aesthetics），均不联系。
+- Page 收件箱（Business Suite Inbox，Dr.Qinhao22，asset_id 103675056134329）：Messenger / Instagram / WhatsApp 均 "No messages / You don't have any messages right now"，0 条新私信；Facebook comments 列表本轮未见新增内容。
+- 本轮发送：0 条。无新回复可回，无合格客资（无带国家区号 WhatsApp+国家）。
+- 异常记录：
+  - agent /health 首查即 ok（version 15），本轮无掉线、无超时、无 429/226/344 信号。
+  - 本轮开始时 profile 32 已开（open_time 2026-11-27 18:43:23，pid 12804，与 18:42 轮同一会话，猎手轮正在共用），按 runbook 本轮不 open、不 close；轮末未关闭，留给其他轮次使用。
+  - 原始读数存 ~/workspace/goals/fb-agent/hidden_files/dm-p32-20261127-2042.log（脚本同目录 dm-p32-20261127-2042.py）。

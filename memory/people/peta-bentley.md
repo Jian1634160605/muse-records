@@ -3,7 +3,7 @@ display_name: "Peta Bentley"
 first_name: "Peta"
 last_name: "Bentley"
 summary: "First qualified lead of the FB operation — Brisbane-based, seeking breast revision; left a WhatsApp number; handed to the backend consultation team 2026-11-06."
-rank: 27
+rank: 29
 updated: "2026-11-06"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Veronica Darling"
 first_name: "Veronica"
 last_name: "Darling"
 summary: "Prospective overseas patient — collection-table #906; on oral minoxidil 2.5mg, asking about use around surgery; Victoria followed up twice 2026-11-17, not DM'd (surgery scheduled, doctor anchored)."
-rank: 270
+rank: 273
 updated: "2026-11-17"
 ---
 

@@ -3,7 +3,7 @@ display_name: "Vee Wonder"
 first_name: "Vee"
 last_name: "Wonder"
 summary: "New Facebook friend of Victoria's account, added 2026-11-17; screened, no medical intent shown, thread empty, no DM sent."
-rank: 280
+rank: 283
 updated: "2026-11-17"
 ---
 

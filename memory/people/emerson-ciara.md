@@ -3,7 +3,7 @@ display_name: "Emerson Ciara"
 first_name: "Emerson"
 last_name: "Ciara"
 summary: "FB doctor-IP account, ixBrowser profile 1; moved out of the default group to 尹卓组 2026-11-18, operated by 尹卓; Muse must not post to or operate it."
-rank: 18
+rank: 17
 updated: "2026-11-19"
 ---
 

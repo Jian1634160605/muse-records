@@ -525,3 +525,560 @@
 - 2026-11-23 06:48 CST fb-dm-p38：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
 - 2026-11-23 07:48 CST fb-dm-p38：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
 - 2026-11-23 08:48 CST fb-dm-p38：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 09:48 CST fb-dm-p38：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 10:48 CST fb-dm-p38：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 11:48 CST fb-dm-p38：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 12:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前不在夜里窗口 18:30–次日 06:00，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-23 13:48 CST fb-dm-p38（Oe，profile 38）
+- 窗口外跳过：北京时间 13:48，不在 18:30–次日 06:00 夜里窗口内；未开浏览器、未发任何内容、未碰账号。
+2026-11-23 14:48 fb-dm-p38：窗口外（14:48，不在 18:30–次日 06:00 内），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-23 15:48 CST fb-dm-p38：窗口外（15:48，不在 18:30–次日 06:00 内），本轮跳过，未开浏览器、未发内容、未碰账号。
+## 2026-11-23 16:48 CST — 窗口外跳过：当前在 18:30–次日 06:00 窗口外，未开浏览器、未发内容、未碰账号。
+## 2026-11-23 17:48 CST — 窗口外跳过：当前在 18:30–次日 06:00 窗口外，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-23 18:48 轮次（第五十四轮）
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:29448），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读，全部是群组群发 @：Didi Nyamut ×2（12h、14h）、DA Will（13h）、Promota Lingo（13h）、أيويل كامل（23h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30w，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8w）、Obaydullah（30w），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与前五十三轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，18:48:48 由其他轮次打开，与本轮无关）。
+
+## 2026-11-23 19:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:36202），check 返回 account_name 'Oe'（name_source composer），首页 Facebook；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读，全部是群组群发 @（Didi Nyamut ×2、DA Will、Promota Lingo、أيويل كامل，13h–1d）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核仅剩 67（19:48:50 由其他轮次打开，与本轮无关）。
+
+## 2026-11-23 20:48 轮次（第五十六轮）
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:49346），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：6 条未读：5 条群组群发 @（Didi Nyamut ×2，14h、16h；DA Will 15h；Promota Lingo 15h；أيويل كامل 1d）+ 1 条 "Your reel is ready to view"（1d）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30w，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8w）、Obaydullah（30w），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核仅剩 67（20:49:06 由其他轮次打开，与本轮无关）。
+
+## 2026-11-23 21:48 轮次（第二十六轮）
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:37020），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：6 条未读：5 条群组群发 @（Didi Nyamut ×2，15h/17h；DA Will，16h；Promota Lingo，16h；أيويل كامل，1d）+ 1 条 "Your reel is ready to view"（1d）。无本号帖子评论、无新关注提醒，与私信无关，未处理。注：此前多轮出现的 "We removed your comment"（土耳其隆鼻群 Kengy 评论被移除）与 "iWouldLike2know replied to your comment"（拉皮互助群回评）已不在未读列表顶部，本轮未见新增同类通知。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread markers []）、无新线程**，与前二十五轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核为空。
+
+## 2026-11-23 22:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 65），open(38) 一次成功（调试地址 127.0.0.1:40181），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读。其中 1 条新增："Your reel is ready to view"（23m，与 Oe 近期发布一致）；其余 4 条与前轮同一批：群组群发 @（Didi Nyamut ×2，16h/18h；DA Will，17h；Promota Lingo，17h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 65、67、102，由其他轮次打开，与本轮无关）。
+
+## 2026-11-23 23:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 65），open(38) 一次成功（调试地址 127.0.0.1:55064），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读。其中 1 条新增：Lebohang M Mokoena 群组群发 @（15m）；其余 4 条与前轮同一批：1 条 "Your reel is ready to view"（1h）；3 条群组群发 @（Didi Nyamut 17h、DA Will 18h、Promota Lingo 18h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30w，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8w）、Obaydullah（30w），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 65、67，由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 00:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 65、103），open(38) 一次成功（调试地址 127.0.0.1:54338），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：4 条未读：Lebohang M Mokoena 群组群发 @（1h，新增）；"Your reel is ready to view"（2h，与 Oe 近期发布一致）；Didi Nyamut 群组群发 @（18h）；DA Will 群组群发 @（19h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），Huda 显示 "Active 20h ago"，正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67、106，由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 01:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 67，01:48:53 由其他轮次打开），open(38) 一次成功（调试地址 127.0.0.1:38452），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读。其中 1 条新增："NiftyHedgehog3318 likes your comment: 'Cynthia, planning it as a 'one and...'"（47m，别人给 Oe 的评论点了赞，属评论互动、与私信无关，本轮未处理）；其余 4 条与前轮同一批：Lebohang M Mokoena 群组群发 @（2h）；"Your reel is ready to view"（3h，与 Oe 近期发布一致）；Didi Nyamut 群组群发 @（19h）；DA Will 群组群发 @（20h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 02:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:54853），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读。其中 1 条新增：Lebohang M Mokoena 群组群发 @（3h）；其余 4 条与前轮同一批：NiftyHedgehog3318 点赞 Oe 的评论（1h，归猎手处理，本轮未回）；"Your reel is ready to view"（4h，与 Oe 近期发布一致）；Didi Nyamut 群组群发 @（20h）；DA Will 群组群发 @（21h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 03:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:10465），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读，与前轮同一批：新增 "Your reel is ready to view"（5h，与 Oe 近期发布一致）；NiftyHedgehog3318 点赞 Oe 的评论（2h，归猎手处理，本轮未回）；Lebohang M Mokoena 群组群发 @（4h）；Didi Nyamut 群组群发 @（21h）；DA Will 群组群发 @（22h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。注：Huda 本轮侧栏显示 "Active now"（00:48 轮次为 "Active 20h ago"），仅为在线状态变化，线程无未读、无新消息预览，不构成新回复。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核仅剩 67（03:49:05 由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 04:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:30957），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读，与前轮同一批，无新增：NiftyHedgehog3318 点赞 Oe 的评论（3h，归猎手处理，本轮未回）；"Your reel is ready to view"（6h，与 Oe 近期发布一致）；Lebohang M Mokoena 群组群发 @（5h）；Didi Nyamut 群组群发 @（22h）；DA Will 群组群发 @（23h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核仅剩 67（04:48:52 由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 05:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:24201），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：5 条未读，与前轮同一批，无新增：NiftyHedgehog3318 点赞 Oe 的评论（4h，归猎手处理，本轮未回）；"Your reel is ready to view"（7h，与 Oe 近期发布一致）；Lebohang M Mokoena 群组群发 @（6h）；Didi Nyamut 群组群发 @（23h）；DA Will 群组群发 @（1d）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核仅剩 67（05:48:47 由其他轮次打开，与本轮无关）。
+2026-11-24 06:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+- 2026-11-24 07:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+2026-11-24 08:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-24 09:48 跳过：窗口外（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+## 2026-11-24 10:48 CST — fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，本轮未开浏览器、未发内容、未碰账号。
+
+## 2026-11-24 11:48 CST — fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，本轮未开浏览器、未发内容、未碰账号。
+
+## 2026-11-24 12:48 CST — 轮次跳过（窗口外）
+- 北京时间 12:48，窗口外（18:30–次日 06:00），按成安 2026-11-20 改定直接结束：未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 13:48 CST fb-dm-p38（Oe p38）：窗口外跳过（窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-24 14:48 CST fb-dm-p38（Oe，p38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 15:48 CST fb-dm-p38（Oe，p38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 16:48 CST fb-dm-p38（Oe，p38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-24 17:48 CST fb-dm-p38（Oe，p38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-24 18:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 67，Ejje，18:49:01 由其他轮次打开），open(38) 一次成功（调试地址 127.0.0.1:17734），check 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。本轮独占标签页，无猎手轮次抢导航冲突。
+- **通知**：5 条未读。自 05:48 轮次后新增 2 条：**"SpeedyBee4753 mentioned you in a comment in Rhinoplasty in Turkey - real experiences, doctor suggestions."（1m）**——土耳其隆鼻群里的 @ 提及，属评论互动、归猎手轮次处理，本轮（私信盯守）未回；**"You approved a login."（4h）**——约 4 小时前有一次登录获批，本轮登录正常、无登录失效，非致命问题，仅记录。其余 3 条与前轮同一批：NiftyHedgehog3318 点赞 Oe 的评论（17h，归猎手处理，本轮未回）；Lebohang M Mokoena 群组群发 @（19h）；"Your reel is ready to view"（20h，与 Oe 近期发布一致）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread aria-labels: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 19:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:53121），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。本轮独占标签页，无猎手轮次抢导航冲突。
+- **通知**：5 条未读，与 18:48 轮次同一批，无新增：SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（1h，属评论互动、归猎手轮次处理，本轮未回）；"You approved a login."（5h，约 5 小时前有一次登录获批，本轮登录正常、无登录失效，非致命问题，仅记录）；NiftyHedgehog3318 点赞 Oe 的评论（18h，归猎手处理，本轮未回）；Lebohang M Mokoena 群组群发 @（20h）；"Your reel is ready to view"（21h，与 Oe 近期发布一致）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，Ejje，19:49:21 由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 20:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:8730），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。本轮独占标签页，无猎手轮次抢导航冲突。
+- **通知**：4 条未读。其中 1 条新增："BWØII WA ÇITY mentioned you and other followers in a comment."（49m，群组群发 @，与私信无关，未处理）；其余 3 条与 19:48 轮次同一批：SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（2h，属评论互动、归猎手轮次处理，本轮未回）；"You approved a login."（6h，18:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论（19h，归猎手处理，本轮未回）。注：19:48 轮次的 Lebohang M Mokoena 群发 @ 与 "Your reel is ready to view" 已不在未读列表顶部。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，20:49:08 由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 21:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:46639），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"，个人页 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift"；登录正常，无 429/226/344。本轮独占标签页，无猎手轮次抢导航冲突。
+- **Agent 抖动（已恢复，非平台限流）**：好友请求读取时 eval 撞 1 次 curl 18（transfer closed），重试后成功；health 全程 ok v10。不是 429/226/344，不停号、不报致命问题。
+- **通知**：4 条未读，与 20:48 轮次同一批，无新增：BWØII WA ÇITY 群组群发 @（1h，与私信无关，未处理）；SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（3h，属评论互动、归猎手轮次处理，本轮未回）；"You approved a login."（7h，18:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论（20h，归猎手处理，本轮未回）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，21:49:00 由其他轮次打开，与本轮无关）。
+
+## 2026-11-24 22:48 轮次
+
+- **身份核验通过**：check(38) 返回 account_name 'Oe'（name_source composer），首页 Facebook；登录正常，无 429/226/344。
+- **Agent 严重抖动/失联（工具侧故障，非平台限流）**：本轮 22:48–23:39 间 agent 反复失联，health/opened/open/goto/eval 均多次撞 curl 52 空回复与 curl 18 传输中断；22:50 首轮 health 3 次重试失败，22:52 短暂恢复后又失联，23:0x 第二轮 health 5/5 失败，23:1x 第三轮 open 成功但身份 eval 5/5 失败；23:25 运行环境重启，/tmp 被清空（前两轮脚本与中间结果丢失，所幸关键结果已在上下文中核对过）；23:26 起最后一轮（每调用 8 次重试、30 秒间隔）才陆续读到三页。无 429/226/344，无封号信号。
+- **轮次冲突（再次出现）**：profile 38 在本轮开始前已开（open_time 22:10:03，pid 19712，调试地址 127.0.0.1:46044），系其他轮次占用；is_open(38) 在 agent 抖动中因内部 opened() 调用失败返回 False（客户端异常返回 False 的兜底逻辑），一度误判为本轮自开；幸而脚本在身份 eval 处失败退出、未执行 close，未误关他人窗口。本轮全程未执行 open()、未执行 close(38)，窗口留给占用轮次收尾。
+- **通知：本轮未读到通知列表**：goto facebook.com/notifications 后抓到的页面实为 Facelift Support Group 讨论页（拆线 day 7/10 的帖子），非通知列表；疑似共享窗口被其他轮次切走导航所致。不谎报通知内容，下一轮次复核。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与前轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 系其他轮次占用（22:10:03 打开），按惯例未执行 close(38)，留给占用轮次收尾。
+- **原始结果**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261124_2248.json`；脚本：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261124_2248.py`。
+
+## 2026-11-24 23:48 轮次
+
+- **身份核验通过（check 层；eval 层未读到）**：轮次开始时 profile 38 已开（open_time 22:10:03，pid 19712，调试地址 127.0.0.1:46044，与 22:48 轮次同一窗口，系其他轮次占用）；check(38) 返回 account_name 'Oe'（name_source composer），首页 Facebook，标题 "(1) Facebook"；登录正常，无 429/226/344。身份 eval（profile.php 链接 + 首页文本）6 次全撞 curl 52/18 未读到，仅以 check 结果 + 往轮一致状态确认身份，未做任何发送操作。
+- **Agent 严重抖动（工具侧故障，非平台限流）**：health 6/6 失败（curl 52 空回复）；identity eval 6/6 失败；goto_friends 6/6、friends eval 6/6、friends_links 6/6 全部失败；其余调用多在第 2 次重试后成功。与 22:48 轮次同类故障连续两轮出现，agent 间歇性失联后自行恢复。无 429/226/344，无封号信号。
+- **轮次冲突（再次出现）**：38 自 22:10:03 起一直开着（疑似猎手轮次占用），本轮全程未执行 open()、未执行 close(38)，窗口留给占用轮次收尾。
+- **通知**：5 条未读：土耳其隆鼻群新帖 "Does anyone have any experience with Dr. Cengiz Ertekin? I'm considering having a nose job done by…"（14m，群帖通知、与私信无关，未处理）；SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（5h，属评论互动、归猎手轮次处理，本轮未回）；BWØII WA ÇITY 群组群发 @（3h，与私信无关，未处理）；"You approved a login."（9h，21:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（22h，归猎手处理，本轮未回）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求：本轮未读到，不谎报**：goto friends/requests 6 次全撞 curl 52，friends/friends_links eval 各 6 次全失败，页面从未成功加载。上一轮（22:48）状态供参考：仅 Andrea Nadel（30 周前，id 61563149105060），身份不确定、无医美意向证据、未通过；但本轮未实际核对有无新增，**不报"无新增"**，下一轮次复核。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表两次读到一致：仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与前轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 系其他轮次占用（22:10:03 打开），按惯例未执行 close(38)，留给占用轮次收尾。
+- **原始结果**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261124_2348.json`；脚本：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261124_2348.py`。
+
+## 2026-11-25 00:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 已开（open_time 2026-11-24 22:10:03，pid 19712，调试地址 127.0.0.1:46044，与 22:48/23:48 轮次同一窗口，系其他轮次占用）；本轮未执行 open()。check(38) 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"，44 位好友，简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"。登录正常，无 429/226/344。agent 全程稳定（health ok v10），无重试、无抖动。
+- **通知**：6 条未读。其中 1 条新增：Sakib Islam Rummon 群组群发 @（1m，与私信无关，未处理）；其余 5 条与 23:48 轮次同一批：土耳其隆鼻群新帖 "Does anyone have any experience with Dr. Cengiz Ertekin? I'm considering having a nose job done by…"（1h，群帖通知、与私信无关，未处理）；SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（6h，属评论互动、归猎手轮次处理，本轮未回）；BWØII WA ÇITY 群组群发 @（4h，与私信无关，未处理）；"You approved a login."（10h，21:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（23h，归猎手处理，本轮未回）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 系其他轮次占用（22:10:03 打开），按惯例未执行 close(38)，留给占用轮次收尾。
+- **脚本与原始结果**：`~/workspace/fb-ip/dm-p38-round-20261125-0048.py`；原始输出 `/tmp/dm-p38-20261125-0048.log`。
+
+## 2026-11-25 01:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 已开（open_time 2026-11-24 22:10:03，pid 19712，调试地址 127.0.0.1:46044，与 22:48/23:48/00:48 轮次同一窗口，系其他轮次占用）；本轮未执行 open()。check(38) 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"，44 位好友，简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"。登录正常，无 429/226/344。agent 全程稳定（health ok v10），无重试、无抖动。
+- **通知**：5 条未读，与 00:48 轮次同一批，无新增：土耳其隆鼻群新帖 "Does anyone have any experience with Dr. Cengiz Ertekin? I'm considering having a nose job done by…"（2h，群帖通知、与私信无关，未处理）；SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（7h，属评论互动、归猎手轮次处理，本轮未回）；BWØII WA ÇITY 群组群发 @（5h，与私信无关，未处理）；"You approved a login."（11h，21:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（1d，归猎手处理，本轮未回）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 系其他轮次占用（22:10:03 打开），按惯例未执行 close(38)，留给占用轮次收尾。
+- **脚本与原始结果**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261125_0148.py`；原始输出 `~/workspace/goals/fb-agent/hidden_files/dm_p38_20261125_0148.log`。
+
+## 2026-11-25 02:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 已开（open_time 2026-11-24 22:10:03，pid 19712，调试地址 127.0.0.1:46044，与 22:48/23:48/00:48/01:48 轮次同一窗口，系其他轮次占用）；本轮未执行 open()。check(38) 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"，44 位好友，简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"。登录正常，无 429/226/344。agent 全程稳定（health ok v10），无重试、无抖动。
+- **通知**：7 条未读。其中 2 条新增：Yñ Kha Lid 发群帖 "Best WhatsApp Group Still adding Members"（20m，群帖通知、疑似拉群广告、与私信无关，未处理）；সা দ বা বূ 群组群发 @（49m，与私信无关，未处理）；其余 5 条与 01:48 轮次同一批：土耳其隆鼻群新帖 "Does anyone have any experience with Dr. Cengiz Ertekin? I'm considering having a nose job done by…"（3h，群帖通知、与私信无关，未处理）；SpeedyBee4753 在土耳其隆鼻群评论里 @ Oe（8h，属评论互动、归猎手轮次处理，本轮未回）；BWØII WA ÇITY 群组群发 @（6h，与私信无关，未处理）；"You approved a login."（12h，21:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（1d，归猎手处理，本轮未回）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文仍显示 "Messages are missing" / "Loading messages"，页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 系其他轮次占用（22:10:03 打开），按惯例未执行 close(38)，留给占用轮次收尾。
+- **脚本**：`~/workspace/fb-ip/dm-p38-round-20261125-0248.py`。
+
+## 2026-11-25 03:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 已开（open_time 2026-11-24 22:10:03，疑似其他轮次占用；opened 另有 5、32、35、44、67、102、108，共 8 个），本轮未执行 open()；check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动。
+- **通知**：7 条未读，均为群组/互动类，与私信无关，未处理：Rhinoplasty in Turkey 群 "Hi everyone!"（49m）；Yñ Kha Lid 发帖 "Best WhatsApp Group Still adding Members"（1h）；সা দ বা বূ 群发 @（1h）；SpeedyBee4753 在 Rhinoplasty in Turkey 群评论里 @Oe（9h，属评论互动、归猎手轮次处理，本轮未回）；BWØII WA ÇITY 群发 @（7h）；"You approved a login"（13h，疑似其他轮次登录确认，非异常）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（1d）。无本号帖子评论、无新关注提醒。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：轮次开始时 38 已由其他轮次开着，按惯例未执行 close(38)，留给占用轮次收尾。
+- **脚本**：`~/workspace/ixbrowser-driver/flows/dm_p38_round_20261125_0348.py`，原始输出 `/tmp/dm_p38_round_20261125_0348.json`。
+
+## 2026-11-25 04:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 已开（open_time 2026-11-24 22:10:03，pid 19712，调试地址 127.0.0.1:46044，与 22:48–03:48 各轮同一窗口，系其他轮次占用）；本轮未执行 open()；check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动、无重试。
+- **通知**：7 条未读，均为群组/互动类，与私信无关，未处理：Rhinoplasty in Turkey 群 "Hi everyone!"（1h）；SpeedyBee4753 在 Rhinoplasty in Turkey 群评论里 @Oe（10h，属评论互动、归猎手轮次处理，本轮未回）；Yñ Kha Lid 发帖 "Best WhatsApp Group Still adding Members"（2h）；BWØII WA ÇITY 群发 @（8h）；সা দ বা বূ 群发 @（2h）；"You approved a login"（14h，21:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（1d）。无本号帖子评论、无新关注提醒。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：轮次开始时 38 已由其他轮次开着，按惯例未执行 close(38)，留给占用轮次收尾。注：38 自 2026-11-24 22:10 起同一窗口持续被占用已超 6 小时，留待总管注意是否某轮次未正常收尾。
+- **脚本**：`~/workspace/ixbrowser-driver/flows/dm_p38_round_20261125_0448.py`，原始输出 `/tmp/dm_p38_round_20261125_0448.json`。
+
+## 2026-11-25 05:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 已开（open_time 2026-11-24 22:10:03，pid 19712，调试地址 127.0.0.1:46044，与 22:48–04:48 各轮同一窗口，系其他轮次占用）；本轮未执行 open()；check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v10），无抖动、无重试。
+- **通知**：7 条未读，与 04:48 轮次同一批，无新增：SpeedyBee4753 在土耳其隆鼻群评论里 @Oe（11h，属评论互动、归猎手轮次处理，本轮未回）；Rhinoplasty in Turkey 群 "Hi everyone!"（2h）；Yñ Kha Lid 发帖 "Best WhatsApp Group Still adding Members"（3h）；BWØII WA ÇITY 群发 @（9h）；সা দ বা বূ 群发 @（3h）；"You approved a login"（15h，21:48 轮次已记录的登录获批，本轮登录正常、无登录失效，非致命问题）；NiftyHedgehog3318 点赞 Oe 的评论 "Cynthia, planning it as a 'one and..."（1d）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与此前各轮一致，无新回复证据，无须回任何消息。页面仍提示 "Create a PIN to access your chats on any device"，端到端加密线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：轮次开始时 38 已由其他轮次开着，按惯例未执行 close(38)，留给占用轮次收尾。注：38 自 2026-11-24 22:10 起同一窗口持续被占用已超 7.5 小时，留待总管注意是否某轮次未正常收尾。
+- **脚本**：`~/workspace/ixbrowser-driver/flows/dm_p38_round_20261125_0548.py`，原始输出 `~/workspace/ixbrowser-driver/flows/dm_p38_round_20261125_0548.stdout.log`。
+
+## 2026-11-25 06:48（窗口外跳过）
+- 本轮定时触发于 06:48，已超出夜里窗口（18:30–次日 06:00），按规则直接结束：未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 08:48 CST fb-dm-p38 轮次：窗口外跳过（夜里窗口 18:30–次日 06:00，当前 08:48），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 09:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 10:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 11:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 12:48 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 13:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 14:48 CST fb-dm-p38 跳过：当前在夜里窗口（18:30–次日 06:00）之外，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 15:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-25 16:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 17:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-25 18:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：18:48 轮次开始 health 即撞 curl 52 空回复；18:48–19:07 间三批重试共 11 次 health 全部失败（curl 52 空回复），agent 持续无响应，非单次抖动。累计失联已超 19 分钟（首败约 18:48，末次重试 19:07 仍失败）。此前同类故障：2026-11-19 22:48/23:48 两轮（约 70 分钟后自行恢复）、2026-11-24 夜里 22:07–22:25（约 18 分钟后自行恢复）、2026-11-25 07:28 自行恢复。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮（2026-11-25 05:48）状态供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，close(38) 无法执行；05:48 轮次记录 38 自 2026-11-24 22:10 起同一窗口持续被其他轮次占用已超 7.5 小时，当前是否还开着无法确认，待 agent 恢复后由后续轮次复核。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261125_1848.py`。
+
+## 2026-11-25 19:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：19:48 轮次开始 health 即撞 curl 52 空回复；三批尝试共 11 次 health 全部失败——首版轮次脚本 3 次（约 19:48–19:52）、等 5 分钟后复探 5 次（约 19:57–20:01）、再等 5 分钟后复探 3 次（约 20:06），全部 curl 52 空回复，agent 持续无响应，非单次抖动。**与 18:48 轮次为同一 outage 的延续**：agent 自 18:48 起已连续失联超 78 分钟（18:48–20:06），超过 2026-11-24 夜里那次（约 18 分钟），接近 2026-11-19 22:48/23:48 那次（约 70 分钟后自行恢复）。20:07 默认分组核查（default-group-watch）同样 health 失败 curl 52，佐证为 agent 全局故障、非本轮独有。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，close(38) 无法执行；05:48 轮次记录 38 自 2026-11-24 22:10 起同一窗口持续被其他轮次占用，当前是否还开着无法确认，待 agent 恢复后由后续轮次复核。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：`/tmp/dm_p38_20261125.py`（复用旧轮次脚本）。
+
+## 2026-11-25 20:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：20:48 轮次开始 health 即撞 curl 52 空回复；随后 5 次复探（约 20:50–20:55，每次间隔 60 秒）全部失败，均为 curl 52 空回复，agent 持续无响应，非单次抖动。**与 18:48、19:48 轮次为同一 outage 的延续**：agent 自 18:48 起已连续失联超 2 小时（18:48–约 20:55），超过此前最长自行恢复记录（2026-11-19 22:48/23:48 两轮，约 70 分钟后恢复；2026-11-24 夜里约 18 分钟）。本次失联时长已破纪录，需总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent，不宜再只等自行恢复。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，close(38) 无法执行；05:48 轮次记录 38 自 2026-11-24 22:10 起同一窗口持续被其他轮次占用，当前是否还开着无法确认，待 agent 恢复后由后续轮次复核。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261125_2048.py`（未实际跑通，health 即失败）。
+
+## 2026-11-25 21:48 轮次（第二十六轮）
+
+- **ixBrowser agent 全面失联，本轮未能执行**：21:48 轮次开始，首次 is_open(38)/opened 即撞 curl 52 空回复；随后三批重试（21:50、21:54、22:00 起各 3 次 health/opened，间隔 20–30 秒）全部失败，均为 `curl 52 Empty reply from server`，累计约 15 分钟未恢复。与 2026-11-19 22:48/23:48 两轮及 2026-11-20 09:48 轮次的 agent 长时间失联故障同类（当时约 8–15 分钟后自行恢复），本次已超 15 分钟仍未恢复。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮（2026-11-20 21:48，第二十一轮）状态供参考：通知 5 条未读（含土耳其隆鼻群 Kengy 评论被 FB 移除的通知、非 226/344）；好友请求仅 Andrea Nadel（29 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：agent 失联，close(38) 无法执行；38 开闭状态未知（首轮 is_open 返回 False，但该次调用本身撞 curl 52，结果不可信），待 agent 恢复后由后续轮次复核。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 ixBrowser agent；本轮不给用户发消息。
+
+## 2026-11-25 22:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：22:48 轮次开始，首版轮次脚本（复用 2026-11-25 05:48 已验证脚本）运行约 4 分钟后被运行环境重启打断，输出丢失（管道经 tail 缓冲、日志文件为空，/tmp 输出 JSON 未生成），无法确认脚本执行到哪一步、是否打开过 profile 38；随后复核 health 即撞 curl 52 空回复，两批重试共 11 次 health 全部失败（约 22:54–23:05，每次间隔 60 秒），均为 curl 52 空回复，agent 持续无响应，非单次抖动。**与 18:48、19:48、20:48、21:48 四轮为同一 outage 的延续**：agent 自 18:48 起已连续失联超 4 小时（18:48–约 23:06），大幅超过此前最长自行恢复记录（约 70 分钟），需总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent，不宜再只等自行恢复。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：首版脚本是否打开过 38 无法确认（输出丢失）；agent 失联，close(38) 与 /opened 复核均无法执行，38 当前是否开着无法确认，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：`~/workspace/ixbrowser-driver/flows/dm_p38_round_20261125_2248.py`（首版，运行中被运行环境重启打断、输出丢失）。
+
+## 2026-11-25 23:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：23:48 轮次开始，首批 3 次 health 全部撞 curl 52 空回复；随后复核批次 5 次 health（每次间隔 60 秒）全部失败，均为 curl 52 空回复，累计 8 次失败（约 23:48–23:57），非单次抖动。**与 18:48、19:48、20:48、21:48、22:48 五轮为同一 outage 的延续**：agent 自 18:48 起已连续失联超 5 小时（18:48–约 23:57），大幅超过此前最长自行恢复记录（约 70 分钟）。同期 fb-hunt-p67（Ejje）23:48 轮次亦 8 次 health 全失败，fb-dm-p32 18:42 轮次亦全失败，佐证为 agent 全局故障、非 38 号单号问题。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，close(38) 与 /opened 复核均无法执行；38 当前是否开着无法确认（22:48 轮次首版脚本是否打开过 38 同样未知），待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：内联 health 复核（3+5 次），未跑完整轮次脚本（health 即失败）。
+
+## 2026-11-26 00:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：00:48 轮次开始，首批 3 次 health 全部撞 curl 52 空回复（间隔 20 秒）；随后复核批次 5 次 health（每次间隔 60 秒）全部失败，均为 curl 52 空回复，累计 8 次失败（约 00:48–00:54），非单次抖动。**与 2026-11-25 18:48、19:48、20:48、21:48、22:48、23:48 六轮为同一 outage 的延续**：agent 自 2026-11-25 18:48 起已连续失联超 6 小时（18:48–约 00:54），大幅超过此前最长自行恢复记录（约 70 分钟）。需总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent，不宜再只等自行恢复。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，close(38) 与 /opened 复核均无法执行；38 当前是否开着无法确认（2026-11-25 22:48 轮次首版脚本是否打开过 38 同样未知），待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：内联 health 复核（3+5 次），未跑完整轮次脚本（health 即失败）。
+
+## 2026-11-26 01:48 轮次（第二十六轮）
+
+- **ixBrowser agent 全程失联，本轮未能执行**：01:48 轮次开始即 health 失败（curl 52 空回复）；其后 40 分钟（01:48–02:28）脚本全部 15 步调用均失败——health、opened、open、check、goto_home、identity、goto_notif、notif、goto_friends、friends、friends_links、goto_msgs、msgs、msgs2、close、opened_after 全为 ok: false，均为 curl 52 空回复。02:29 独立复核 health 仍失败（curl 52），失联已超 40 分钟，超过以往自恢复时长（11-19 约 15 分钟、11-24 夜约 18 分钟）。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮（2026-11-25 22:48，见脚本 dm_p38_round_20261125_2248.py）状态供参考——但本轮未实际读到任何列表，不报"无新消息"。历史参考：线程列表仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程；好友请求仅 Andrea Nadel（身份不确定、未通过）。
+- **动作**：无发出私信，无合格客资。
+- **profile 38 开关状态未知**：open(38) 3 次均失败，close(38) 3 次均失败，opened 复核亦失败；was_open 判定因 opened() 失败而不可靠（无法确认轮次开始前 38 是否已开），**无法确认 38 当前是否还开着**。
+- **非平台限流/封号信号**：无 429/226/344；属工具侧故障（agent 进程失联），与 2026-11-19 22:48/23:48 两轮 agent 长时间失联后自行恢复的故障同类，但本次失联已超 40 分钟未恢复，需总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent；本轮不给用户发消息。下一轮次先复核 health/opened 再动手。
+- **结果文件**：/tmp/dm_p38_round_20261126_0148.json（15 步全失败）；脚本 ~/workspace/ixbrowser-driver/flows/dm_p38_round_20261126_0148.py。
+
+## 2026-11-26 02:48 轮次
+
+- **ixBrowser agent 全面失联，本轮未能执行**：02:48 轮次开始，health 复核 5 次全部撞 curl 52 空回复（每次间隔 60 秒，约 02:48–02:53），非单次抖动。**与 2026-11-25 18:48、19:48、20:48、21:48、22:48、23:48 及 2026-11-26 00:48、01:48 八轮为同一 outage 的延续**：agent 自 2026-11-25 18:48 起已连续失联超 8 小时（18:48–约 02:53），大幅超过此前最长自行恢复记录（约 70 分钟）。需总管判断是否需用户在电脑端检查 ixBrowser / 重启 agent，不宜再只等自行恢复。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，close(38) 与 /opened 复核均无法执行；38 当前是否开着无法确认（2026-11-25 22:48 轮次首版脚本是否打开过 38 同样未知），待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。
+- **脚本**：内联 health 复核（5 次，间隔 60 秒），未跑完整轮次脚本（health 即失败）。
+
+## 2026-11-26 03:48 轮次（第二十六轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：03:48–03:54 间 3 次间隔探测 health 均失败（curl 52 空回复），与 2026-11-25 19:54 起 p35 轮次连续 7 次 health 失败同类故障，agent 自约 11-25 19:36 起持续不可达。本轮未做任何页面操作，未发任何消息。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未读通知/好友请求/私信全部未读到，不谎报。上一轮可读状态（2026-11-20 21:48）供参考：通知 5 条未读（均为群发 @/Reels 就绪/生日提醒/点赞/评论被移除，无本号帖子评论）；好友请求仅 Andrea Nadel（29 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 从未打开，无需关闭；agent 失联，opened 列表亦未读到。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。下一轮次先复核 health 再动手。
+
+## 2026-11-26 04:48 轮次（第二十七轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：04:48–04:54 间 3 次间隔探测 health 均失败（curl 52 空回复），与 03:48 轮次及 2026-11-25 19:54 起 p35 轮次连续 health 失败同类故障，agent 自约 11-25 19:36 起持续不可达，已逾 9 小时。本轮未做任何页面操作，未发任何消息。
+- **身份核验未完成**：health 从未成功返回，无法确认本轮账号，未读通知/好友请求/私信全部未读到，不谎报。上一轮可读状态（2026-11-20 21:48）供参考：通知 5 条未读（均为群发 @/Reels 就绪/生日提醒/点赞/评论被移除，无本号帖子评论）；好友请求仅 Andrea Nadel（29 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 从未打开，无需关闭；agent 失联，opened 列表亦未读到。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。下一轮次先复核 health 再动手。
+- **脚本**：~/workspace/ixbrowser-driver/flows/dm-round-p38-20261126-0448.py（复用 03:48 轮次脚本，健康探测 3 次间隔重试后判定 agent_down）。
+
+## 2026-11-26 05:48 轮次（第二十八轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：05:48 轮次开始即 health 失败（curl 52 空回复）；完整轮次脚本（~/workspace/fb-ip/dm-p38-round-20261126-0548.py）05:49–06:07 间全部调用均失败——health、opened、open、check、identity eval、goto profile 均为 4 次重试后 FAILED，均为 curl 52 空回复。06:07 主动终止脚本（停止无意义的重试消耗）；06:08 独立复核 health 又 3 次失败。**与 2026-11-25 18:48–2026-11-26 04:48 各轮为同一 outage 的延续**：agent 自约 11-25 19:36 起持续不可达，已逾 10.5 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息。轮次在窗口内开始（05:48，窗口 18:30–次日 06:00），重试延续至 06:07。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：本轮 open(38) 失败、未打开过 38；但 agent 失联，opened 列表亦未读到，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。下一轮次先复核 health 再动手。
+- **脚本**：~/workspace/fb-ip/dm-p38-round-20261126-0548.py；运行日志 /tmp/dm-p38-20261126-0548.log。
+2026-11-26 06:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+2026-11-26 07:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+2026-11-26 08:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+2026-11-26 09:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+2026-11-26 10:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+2026-11-26 11:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+2026-11-26 12:48 窗口外跳过：当前时间超出夜里窗口 18:30–次日 06:00，本轮未跑，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-26 13:48 fb-dm-p38：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-26 14:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前北京时间 14:48，不在 18:30–次日 06:00 窗口内，未开浏览器、未发内容、未碰账号。
+- 2026-11-26 15:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发内容、未碰账号。
+- 2026-11-26 16:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发内容、未碰账号。
+2026-11-26 17:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 18:48 轮次（第二十九轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：18:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（18:49、18:51、18:52）health 全部失败，均为 curl 52 空回复。**与 2026-11-25 18:48–2026-11-26 05:48 各轮为同一 outage 的延续**：agent 自 2026-11-25 13:47 起持续不可达，至今已逾 29 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为白天窗口外跳过（06:48–17:48）后首个窗口内轮次，agent 仍未恢复。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦失败，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。下一轮次先复核 health 再动手。
+
+## 2026-11-26 19:48 轮次（第三十轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：19:48 轮次开始即 health 失败（curl 52 空回复）；其后 2 次间隔约 60–120 秒重试（19:49、19:53）health 全部失败，均为 curl 52 空回复。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 30 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。8766 桥 /health 诊断性探测亦无返回体（仅作诊断，未用于操作；切不切换由成安/工程师定）。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦失败，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。下一轮次先复核 health 再动手。
+
+## 2026-11-26 20:48 轮次（第三十一轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：20:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（约 20:49、20:50、20:51）health 全部失败，均为 curl 52 空回复，累计 4 次失败。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 31 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为今晚第三个窗口内轮次（18:48、19:48 两轮同样全失败），outage 无任何好转迹象。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦无法执行，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。下一轮次先复核 health 再动手。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261126_2048.py`（4 次 health 均 curl 52，health_ok=false）。
+
+## 2026-11-26 21:48 轮次（第三十二轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：21:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（约 21:49、21:50、21:51）health 全部失败，均为 curl 52 空回复，累计 4 次失败。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 32 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为今晚第四个窗口内轮次（18:48、19:48、20:48 三轮同样全失败），outage 无任何好转迹象。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦无法执行，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定）。下一轮次先复核 health 再动手。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261126_2148.py`（4 次 health 均 curl 52，health_ok=false）。
+
+## 2026-11-26 22:48 轮次（第三十三轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：22:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（约 22:49、22:50、22:51）health 全部失败，均为 curl 52 空回复，累计 4 次失败。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 33 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为今晚第五个窗口内轮次（18:48、19:48、20:48、21:48 四轮同样全失败），outage 无任何好转迹象。诊断性探测：走同一 IxAgent 隧道路径探 8766 v15 备用端 health 同样 curl 52 空回复（仅作诊断，未用于操作；切不切换由成安/工程师定）。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦无法执行，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。下一轮次先复核 health 再动手。
+- **脚本**：/tmp/p38_health.py（4 次 health 均 curl 52）、/tmp/p38_diag2.py（8765 与 8766 双端口 health 均 curl 52）。
+
+## 2026-11-26 23:48 轮次（第三十四轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：23:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（约 23:49、23:50、23:51）health 全部失败，均为 curl 52 空回复，累计 4 次失败。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 34 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为今晚第六个窗口内轮次（18:48、19:48、20:48、21:48、22:48 五轮同样全失败），outage 无任何好转迹象。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦无法执行，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定；22:48 轮次诊断性探测 8766 同样 curl 52）。下一轮次先复核 health 再动手。
+
+## 2026-11-27 00:48 轮次（第三十五轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：00:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（约 00:50、00:51、00:53）health 全部失败，均为 curl 52 空回复，累计 4 次失败。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 35 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为今晚第七个窗口内轮次（11-26 18:48、19:48、20:48、21:48、22:48、23:48 六轮同样全失败），outage 无任何好转迹象。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦无法执行，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定；11-26 22:48 轮次诊断性探测 8766 同样 curl 52）。下一轮次先复核 health 再动手。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261127_0048.py`（首测 + 3 次重试均 curl 52，health_ok=false）。
+
+## 2026-11-27 01:48 轮次（第三十六轮）
+
+- **ixBrowser agent 持续失联，本轮未能执行**：01:48 轮次开始即 health 失败（curl 52 空回复）；其后 3 次间隔 60 秒重试（约 01:49、01:50、01:51）health 全部失败，均为 curl 52 空回复，累计 4 次失败。**与 2026-11-25 13:47 起的断线为同一 outage 的延续**：agent 持续不可达已逾 36 小时，大幅超过此前最长自行恢复记录（约 70 分钟）。本次为今晚第八个窗口内轮次（11-26 18:48、19:48、20:48、21:48、22:48、23:48 及 11-27 00:48 七轮同样全失败），outage 无任何好转迹象。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息，未开/未关任何 profile。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile（状态未知）**：agent 失联，/opened 复核亦无法执行，无法确认 38 当前是否由其他轮次开着，待 agent 恢复后由后续轮次先复核 opened 再动手。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管，由总管判断是否需用户在电脑端重启 agent；本轮不给用户发消息。未动用 8766 备用 v15（切不切换由成安/工程师定；11-26 22:48 轮次诊断性探测 8766 同样 curl 52）。下一轮次先复核 health 再动手。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261127_0148.py`（首测 + 3 次重试均 curl 52，agent_down）；运行日志 /tmp/dm-p38-20261127-0148.log。
+
+## 2026-11-27 02:48 轮次
+
+- **ixBrowser agent 持续失联，本轮未能执行**：02:48–02:51 间 health 探测 4 次全部失败，均为 curl 52 空回复（首探 + 60 秒间隔重试 3 次）。诊断：经同一 tunnel proxy 直连 100.78.166.12:8765 与 :8766（v15 备用服务）均返回 curl 52 空回复，两路都不通。agent 自 2026-11-25 13:47 断联至今未恢复，本次无自行恢复迹象。
+- **非平台限流/封号信号**：未触及任何 FB 页面，无 429/226/344；故障在工具/链路侧。未做任何页面操作，未发任何消息。
+- **身份核验未完成**：浏览器从未打开，无法确认本轮账号；通知/好友请求/私信全部未读到，不谎报。上一轮成功读到的状态（2026-11-20 21:48）供参考：通知 5 条未读（均为群发 @/Reels 就绪/生日提醒/点赞，无本号帖子评论）；好友请求仅 Andrea Nadel（29 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 从未打开，无需关闭；opened 列表无法读取，38 当前开闭状态未知。
+- **上报**：本轮不给用户发消息；agent 长时间失联属已知工具侧故障（2026-11-25 13:47 起），记日志报总管，由总管判断是否需用户在电脑端重启 agent；下一轮次先复核 agent 再动手。
+
+## 2026-11-27 03:48 轮次
+
+- **ixBrowser agent 持续失联，本轮未能执行**：03:48 首次探测 health/opened 均撞 curl 52 空回复；03:50 重试（间隔 60 秒）仍失败；03:53 第三次探测（间隔约 3 分钟）仍失败（curl 52）。与 2026-11-25 13:47 起的断线为同一故障延续，至今未自行恢复（此前 11-19/11-20 两次同类故障均在 15 分钟内自行恢复，本次已持续约 38 小时）。
+- **身份核验未完成**：agent 无响应，无法 open/check profile 38，未做任何页面操作，未发任何消息。无 429/226/344 证据（agent 层无响应，平台信号不可见），不停号、不报封号。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮（2026-11-20 21:48）状态供参考：通知 5 条未读（均为群发 @/Reels 就绪/生日提醒/点赞/评论被移除通知，无本号帖子评论）；好友请求仅 Andrea Nadel（29 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 从未打开，无需关闭；opened 列表亦读不到，无法确认 38 当前是否还开着。
+- **上报**：本轮不给用户发消息；agent 长时间失联属已知工具侧故障（总管已知悉、已问用户是否重启过 D:\ixbrowser-agent，等回话），记日志报总管；下一轮次先复核 agent 再动手。未走 8766 v15 备用 agent（切不切换等成安/工程师定，不擅自切换）。
+
+## 2026-11-27 04:48 轮次
+
+- **ixBrowser agent 持续失联，本轮未能执行**：04:48–04:52 间 health 探测 4 次全部失败，均为 curl 52 空回复（首探 + 60 秒间隔重试 3 次）。与 2026-11-25 13:47 起的断线为同一故障延续，至今未自行恢复（此前 11-19/11-20 两次同类故障均在 15 分钟内自行恢复，本次已持续约 39 小时）。今晚窗口内已连续第九个轮次全失败（11-26 18:48、19:48、20:48、21:48、22:48、23:48 及 11-27 00:48、01:48、02:48、03:48）。
+- **身份核验未完成**：agent 无响应，无法 open/check profile 38，未做任何页面操作，未发任何消息。无 429/226/344 证据（agent 层无响应，平台信号不可见），不停号、不报封号。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮实际读到的状态（2026-11-25 05:48）供参考：通知 7 条未读（均为群组/互动类，无本号帖子评论）；好友请求仅 Andrea Nadel（30 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 从未打开，无需关闭；opened 列表亦读不到，无法确认 38 当前是否还开着。
+- **上报**：本轮不给用户发消息；agent 长时间失联属已知工具侧故障（总管已知悉、已问用户是否重启过 D:\ixbrowser-agent，等回话），记日志报总管；下一轮次先复核 agent 再动手。未走 8766 v15 备用 agent（切不切换等成安/工程师定，不擅自切换；02:48 轮次诊断性探测 8766 同样 curl 52）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261127_0448.py`（首探 + 3 次重试均 curl 52，agent_down）；运行日志 /tmp/dm-p38-20261127-0448.log。
+
+## 2026-11-27 05:48 轮次
+
+- **ixBrowser agent 持续失联，本轮未能执行**：05:53、05:55、05:57 三次探查 health/opened 均失败，全部 curl 52 空回复；备用端口 8766（IX Agent v15）探查亦无响应。与 2026-11-25 13:47 起的 agent 断线为同一持续故障（2026-11-26 10:24 再探仍未恢复），本次未见自行恢复。
+- **身份核验未完成**：agent 无响应，浏览器从未打开，无法确认本轮账号，未做任何页面操作，未发任何消息。
+- **通知/好友请求/私信**：全部未读到，不谎报。上一轮可查状态（2026-11-20 21:48）供参考：通知 5 条未读（均为群发 @/Reels 就绪/生日提醒/点赞/评论移除通知，无本号帖子评论）；好友请求仅 Andrea Nadel（29 周前，身份不确定、未通过）；私信仅 2 条旧线程（Huda Hammad、Obaydullah），无未读、无新线程。
+- **动作**：无发出私信，无合格客资。
+- **未关 profile**：38 从未打开，无需关闭；opened 列表读不到，无法确认 38 当前是否还开着。
+- **上报**：agent 长时间失联属工具侧故障（非 429/226/344，无封号信号），记日志报总管；本轮不给用户发消息。需用户在电脑端检查/重启 ixBrowser agent 后，后续轮次再复核。
+
+## 2026-11-27 06:48 轮次（窗口外跳过）
+
+- **窗口外跳过**：本轮定时 06:48，执行时 06:57，已过夜里窗口终点 06:00（窗口 18:30–次日 06:00）。按任务体规定直接结束，未开浏览器、未发任何内容、未碰账号、未探查 agent。
+- **动作**：无发出私信，无合格客资。profile 38 未打开，无需关闭。
+- **上报**：例行轮次不给用户发消息；仅记日志。agent 自 2026-11-25 13:47 起失联仍未恢复（上一轮 05:48 探查仍 curl 52），属已知工具侧故障，待用户在电脑端检查/重启 ixBrowser agent。
+- 2026-11-27 07:48 CST：fb-dm-p38（Oe，profile 38）窗口外跳过——夜里窗口为 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 08:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 09:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-27 10:48 CST（fb-dm-p38）
+- 窗口外跳过：当前 10:48 不在夜里窗口 18:30–次日 06:00 内，本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+- 2026-11-27 11:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 12:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 13:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 14:48 CST fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-27 15:48 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 16:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间在夜里窗口 18:30–次日 06:00 之外，本轮未开浏览器、未发内容、未碰账号。
+- 17:48 fb-dm-p38（Oe，profile 38）窗口外跳过：当前时间在夜里窗口 18:30–次日 06:00 之外，本轮未开浏览器、未发内容、未碰账号。
+
+## 2026-11-27 18:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 32、44、65），open(38) 一次成功（调试地址 127.0.0.1:9781），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v15），无抖动。
+- **通知**：5 条未读。其中 1 条新增：土耳其隆鼻群新帖 "Revision rhinoplasty – I need your help"（1h，群组动态提醒，非本号帖子评论、与私信无关，未处理）；2 条群组群发 @（BWØII WA ÇITY 1h、Õg Lîkê ×2 3h）；1 条 "Since you interacted with Victoria Maizie, you may be interested in these similar creators"（10h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels: []）、无新线程**，与前轮一致，无新回复证据，无须回任何消息。messenger.com 显示 "Continue as Oe Et"（已登录态），未另行读线程。页面仍提示端到端加密需 PIN，线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核为 32、44、65、67（67 于 18:50:00 由其他轮次打开，与本轮无关）。
+
+## 2026-11-27 19:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 32），open(38) 一次成功（调试地址 127.0.0.1:21531），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，页面显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"；登录正常，无 429/226/344。agent 全程稳定（health ok v15），无抖动。
+- **通知**：5 条未读，均为群组群发 @ 或群组动态，与私信无关，未处理：土耳其隆鼻群动态 "I've booked surgery for January and I've been told to pay in cash…"（17m）；Aaron Jarsey mentioned you（31m）；BWØII WA ÇITY mentioned you（2h）；Õg Lîkê mentioned you ×2（4h）。无本号帖子评论、无新关注提醒。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与往轮一致，无新回复证据，无须回任何消息。页面仍提示端到端加密，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true）；close 后立即复核 opened 仍短暂列出 38（open_time 19:49:30，疑似列表滞后），随后再次复核 opened 已无 38（仅剩 32、67），关闭确认生效。
+
+## 2026-11-27 20:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 32、65），open(38) 一次成功（调试地址 127.0.0.1:50609），check 返回 account_name 'Oe'（name_source composer），首页 Facebook；登录正常，无 429/226/344。agent 全程稳定（health ok v15），无抖动。**agent 自 2026-11-25 13:47 起的约 39 小时断线已恢复**（18:48、19:48 轮次亦正常，本轮为今晚第三个正常轮次）。
+- **通知**：5 条未读，均为群组群发 @ 或群组动态，与私信无关，未处理：土耳其隆鼻群动态 "Hi All,"（16m）；Aaron Jarsey mentioned you（1h）；BWØII WA ÇITY mentioned you（3h）；Õg Lîkê mentioned you ×2（5h）。无本号帖子评论、无新关注提醒。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与往轮一致，无新回复证据，无须回任何消息。页面仍提示端到端加密需 PIN，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 32、67，67 于 20:49:22 由其他轮次打开，与本轮无关）。

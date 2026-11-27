@@ -3,7 +3,7 @@ display_name: "Lilo Von Weissenfels"
 first_name: "Lilo"
 last_name: "Von Weissenfels"
 summary: "Prospective overseas patient — commented on a Maria (55) deep-plane facelift + neck lift case; Victoria replied 2026-11-19 (E07 92 after a revision), no reply yet, not DM'd."
-rank: 291
+rank: 294
 updated: "2026-11-20"
 ---
 

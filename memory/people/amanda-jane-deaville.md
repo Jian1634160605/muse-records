@@ -3,7 +3,7 @@ display_name: "Amanda Jane Deaville"
 first_name: "Amanda"
 last_name: "Jane Deaville"
 summary: "New Facebook friend of Victoria's account, approved by the user 2026-11-13 — real personal account with no medical intent, no DM sent yet."
-rank: 263
+rank: 266
 updated: "2026-11-13"
 ---
 

@@ -2,9 +2,9 @@
 display_name: "Jusa Khan"
 first_name: "Jusa"
 last_name: "Khan"
-summary: "FB doctor-IP account, ixBrowser profile 5; nose line since 2026-11-19; first comment 2026-11-17 (Ben Bao nose post, E07 97); 2026-11-20 night 03a failed then published at 00:00."
-rank: 20
-updated: "2026-11-21"
+summary: "FB doctor-IP account, ixBrowser profile 5; nose line since 2026-11-19; first comment 2026-11-17 (Ben Bao nose post, E07 97); both 2026-11-23 night items failed to publish."
+rank: 19
+updated: "2026-11-24"
 ---
 
 # Jusa Khan
@@ -37,6 +37,7 @@ updated: "2026-11-21"
 - 2026-11-19: mutual engagement executed — Jusa commented on and fully watched [Victoria Maizie](victoria-maizie.md)'s 2 videos; Jusa's comment was pre-sent in peer voice, while the other 11 comments in the round were in customer voice.
 - 2026-11-20 night: item 03a failed in the 22:00 round on a 180-second upload timeout, then published in the 00:00 round. One self-review引流 comment was filled in but not verified as visible; the 02:00 recheck that was meant to confirm it never ran.
 - 2026-11-21 08:16 Beijing (user decision): the four failed items from the 2026-11-20 night were merged into the 2026-11-21 night publishing plan. Item 04-alt-12s, originally Bertie's, was reassigned to this account for the 00:00 round, because it and Bertie's 04 are different cuts of the same source and two versions of the same material cannot go to the same account; item 03a goes in the 22:00 round.
+- 2026-11-23 night: both items failed — item 04 fast-failed in the 22:00 round and 03-hook failed in the 00:00 round. Both were among the 15 failed items held for the rebuilt publish plan on 2026-11-24 (12 accounts × 2 items).
 
 ## History
 - 2026-10-22: delivered by the user; login completed; stock check + PIN done; Page created and set up; entered daily posting + warming.
@@ -51,6 +52,7 @@ updated: "2026-11-21"
 - 2026-11-17: first operated comment landed (Ben Bao nose post, E07 97, verified); joined the Turkey rhinoplasty group 1151025859914944; all tasks stopped 21:23 by user order.
 - 2026-11-19: moved to the nose line by user decision; took part in the mutual-engagement round on Victoria's videos (comment pre-sent in peer voice).
 - 2026-11-20 night: item 03a failed at 22:00 on an upload timeout, then published at 00:00; item 04-alt-12s reassigned to this account for the 2026-11-21 00:00 round.
+- 2026-11-23 night: both items failed (04 fast fail at 22:00, 03-hook at 00:00); held for the rebuilt 2026-11-24 publish plan.
 
 ## The relationship
 An operational account persona, not a personal tie: the user owns the account and Muse runs it as a leg of the 秦浩 doctor-IP matrix toward overseas patient leads, now on the nose line. No relationship with the person behind the display name is evidenced.
@@ -69,6 +71,7 @@ An operational account persona, not a personal tie: the user owns the account an
 - [ ] Resume hunter/DM operation only after the headless plan is agreed (reminder 2026-11-18 09:30); all tasks stopped 2026-11-17 21:23.
 - [ ] 2026-11-21 night publishing: item 03a in the 22:00 round and item 04-alt-12s (reassigned from Bertie) in the 00:00 round, per the user's 2026-11-21 08:16 Beijing decision.
 - [ ] Self-review comment (2026-11-20 night): one引流 comment filled in but not verified as visible; the 02:00 recheck never ran, so confirmation is still pending.
+- [ ] 2026-11-23 night failures (04, 03-hook): both held for the rebuilt 2026-11-24 publish plan — retry and verify.
 
 ## Strengthening
 - (nothing the evidence supports yet)
