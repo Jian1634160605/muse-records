@@ -1,0 +1,26 @@
+{
+  "ts": "2026-11-24 10:47:01 UTC",
+  "steps": {
+    "goto_tag": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/explore/search/keyword/?q=%23rhinoplasty",
+        "profile_id": 65
+      }
+    },
+    "url": {
+      "ok": true,
+      "r": "https://www.instagram.com/explore/search/keyword/?q=%23rhinoplasty"
+    },
+    "page_text": {
+      "ok": true,
+      "r": "Age inappropriate results hidden for predicted teens\nWe've hidden most results because they may be inappropriate for certain audiences. If you're looking for a specific account, search for their full username.\nLearn more\nFailed to Load.\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages"
+    },
+    "links": {
+      "ok": true,
+      "r": []
+    }
+  }
+}

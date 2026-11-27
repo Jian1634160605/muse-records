@@ -1,0 +1,40 @@
+{
+  "round": "probe zhakie editor state",
+  "steps": {
+    "click_comment": {
+      "ok": true,
+      "out": {
+        "found": 2,
+        "clicked": "评论，79条评论"
+      }
+    },
+    "expand": {
+      "ok": true
+    },
+    "click_reply": {
+      "ok": true,
+      "out": {
+        "hasTarget": true,
+        "found": true,
+        "containerLen": 51,
+        "replyBtns": 1,
+        "clicked": "回复"
+      }
+    },
+    "editors": {
+      "ok": true,
+      "out": {
+        "editors": [
+          {
+            "aria": "回复 Zhakie Yourk",
+            "text": "Zhakie Yourk "
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "round": 82,
+  "ts": "2026-11-26 20:56:30 UTC",
+  "probes": [
+    {
+      "n": 1,
+      "wait_s": 0,
+      "t": "20:56:30",
+      "health_8765": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      },
+      "health_8766": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      }
+    },
+    {
+      "n": 2,
+      "wait_s": 60,
+      "t": "20:57:30",
+      "health_8765": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      },
+      "health_8766": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      }
+    },
+    {
+      "n": 3,
+      "wait_s": 120,
+      "t": "20:59:30",
+      "health_8765": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      },
+      "health_8766": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      }
+    }
+  ]
+}

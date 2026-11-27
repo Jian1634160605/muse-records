@@ -1,0 +1,105 @@
+{
+  "round": "2026-11-25 02:24 fb-hunt-p35 round 66 post Zhakie",
+  "started_local": "2026-11-24 18:40:40 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "profile_id": 35,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n6天前\n2026年11月18日周三00:24\n6天\n \n·\n分享对象： 公开\nConfidence in anti-aging comes from stable, natural and subtle changes\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:11 / 0:11\n查看成效分",
+        "screenshot": "shots/profile_35.png",
+        "debugging_address": "127.0.0.1:32508"
+      }
+    },
+    "identity_home": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "hasBertie": true,
+        "profileLinks": 4
+      }
+    },
+    "open_reel_expand": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "found": 1,
+        "clicked": "评论，79条评论"
+      }
+    },
+    "click_reply_zhakie": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "hasTarget": true,
+        "found": true,
+        "containerLen": 51,
+        "replyBtns": 1,
+        "clicked": "回复",
+        "snippet": "Zhakie Yourk\n \n·\n1周\nSaang kpo nagpa rhinoplasty?\n回复"
+      }
+    },
+    "reply_box_check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "editors": [
+          {
+            "aria": "回复 Zhakie Yourk",
+            "text": "Zhakie Yourk "
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    },
+    "insert_draft": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "aria": "回复 Zhakie Yourk",
+        "editorText": "Zhakie Yourk Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing about your nose that bothers you most — the bridge, or the tip?"
+      }
+    },
+    "editor_after_insert": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "editors": [
+          {
+            "aria": "回复 Zhakie Yourk",
+            "text": "Zhakie Yourk Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing abo"
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    }
+  },
+  "draft": "Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing about your nose that bothers you most — the bridge, or the tip?",
+  "e07": 91,
+  "aborted": true,
+  "abort_reason": "draft not fully in editor; not submitting. editors: [{'aria': '回复 Zhakie Yourk', 'text': \"Zhakie Yourk Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing abo\"}, {'aria': '以 Bertie Harmony 的身份评论', 'text': '\\n'}]"
+}

@@ -1,0 +1,37 @@
+{
+  "round": 97,
+  "profile": 35,
+  "account": "Bertie Harmony",
+  "scheduled_for": "2026-11-27 02:24 CST",
+  "agent": "100.78.166.12:8765",
+  "recovered": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "time_cst": "2026-11-27 02:25:16",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 2,
+      "time_cst": "2026-11-27 02:30:24",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 3,
+      "time_cst": "2026-11-27 02:30:38",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 4,
+      "time_cst": "2026-11-27 02:31:14",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ],
+  "ran": false,
+  "qualified_leads": 0,
+  "note": "probe complete (attempts 1-4); completion script was interrupted by a runtime restart after attempt 3, attempt 4 run as a single probe and recorded here"
+}

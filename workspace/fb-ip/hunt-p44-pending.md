@@ -1,6 +1,7 @@
-# p44 待补读（2026-11-23 05:30 轮更新）
+# p44 待补读（2026-11-23 23:30 轮更新）
 
-- 待补清单已清空：04:30 轮后无未读帖；05:30 轮新出的 8 条（DfI4UScTo3J、DZNQC46lAP7、DdlYyYCE5kO、Da3rMPaJfwO、DcQ4kV0yD8X、C5rAzzaRofg、Dac_0tEDcmp、DcO5TtYGFq4）全部读完，0 目标，见 hunt-log-p44.md。
-- #facelift、#faceliftrecovery、#deepplanefacelift 三话题 05:30 轮已扫完，等更新帖。
-- 新关注待 dm 轮筛查：shreyansh_pandya_2216（18h 前）、moger4123（20h 前）。
-- 另记：44 本轮未关（轮开始前已由其他轮次打开，open_time 2026-11-22 22:17:05，pid 25160）；隧道已连续四轮稳定（01:30、03:30、04:30、05:30 均零 curl 失败）。
+- 待补已清空：DfSoxrph-WK 本轮已读成（internationalplasticsurgery916 男性面提，全赞美/玩笑/西葡语，0 目标），不再待补。
+- Dc0hTyVG4w-（dr.miles_aesthetic，11w）：帖子正文已读，评论区被 IG 隐藏、仅见计数（294 赞 32 评），读不到评论内容，不盲发；不列入待补，留待话题更新时再看。
+- Df7372Kvwqp（drleifrogers，3d）：“This reel has 22 comments from Facebook”，IG 侧仅见 3 条表情/西语评论，FB 跨帖评论读不到，不盲发；不列入待补。
+- 新关注待 dm 轮筛查：sevha.ki.divnhi（1d 前，18:30 轮复核仍在通知顶部）、moger4123（2d 前）；shreyansh_pandya_2216 仍不在通知列表。
+- 另记：44 本轮自开自关（首开遇残留态、close 后重开恢复，debugging 127.0.0.1:15496，轮末已 close，opened() 复核仅剩 5）；隧道本轮全程稳定，未见 curl 失败；三话题本轮仅 10 条新帖（#faceliftrecovery 4、#facelift 2、#deepplanefacelift 4），话题页见底，等更新帖。

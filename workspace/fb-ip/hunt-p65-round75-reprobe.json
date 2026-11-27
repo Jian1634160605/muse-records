@@ -1,0 +1,42 @@
+{
+  "round": 75,
+  "ts": "2026-11-25 17:58:57 UTC",
+  "probes": [
+    {
+      "n": 1,
+      "ts": "17:58:57",
+      "8765": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      },
+      "8766": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      }
+    },
+    {
+      "n": 2,
+      "ts": "17:59:57",
+      "8765": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      },
+      "8766": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      }
+    },
+    {
+      "n": 3,
+      "ts": "18:01:57",
+      "8765": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      },
+      "8766": {
+        "ok": false,
+        "err": "<urlopen error [Errno 111] Connection refused>"
+      }
+    }
+  ]
+}

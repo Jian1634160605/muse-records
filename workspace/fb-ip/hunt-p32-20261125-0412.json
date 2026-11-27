@@ -1,0 +1,314 @@
+{
+  "round": "2026-11-25 04:12 fb-hunt-p32 read-only",
+  "started_local": "2026-11-24 20:14:43 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "opened-before": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "raw": {
+          "ok": true,
+          "opened": [
+            {
+              "profile_id": 5,
+              "debugging_address": "127.0.0.1:34907",
+              "pid": 10396,
+              "open_time": "2026-11-24 22:07:24"
+            },
+            {
+              "profile_id": 32,
+              "debugging_address": "127.0.0.1:46227",
+              "pid": 38892,
+              "open_time": "2026-11-24 22:21:24"
+            },
+            {
+              "profile_id": 35,
+              "debugging_address": "127.0.0.1:32508",
+              "pid": 23564,
+              "open_time": "2026-11-24 23:19:13"
+            },
+            {
+              "profile_id": 38,
+              "debugging_address": "127.0.0.1:46044",
+              "pid": 19712,
+              "open_time": "2026-11-24 22:10:03"
+            },
+            {
+              "profile_id": 44,
+              "debugging_address": "127.0.0.1:17724",
+              "pid": 24052,
+              "open_time": "2026-11-24 23:13:27"
+            },
+            {
+              "profile_id": 65,
+              "debugging_address": "127.0.0.1:10264",
+              "pid": 20176,
+              "open_time": "2026-11-25 04:13:45"
+            },
+            {
+              "profile_id": 67,
+              "debugging_address": "127.0.0.1:34492",
+              "pid": 15312,
+              "open_time": "2026-11-24 22:12:54"
+            },
+            {
+              "profile_id": 102,
+              "debugging_address": "127.0.0.1:45750",
+              "pid": 13928,
+              "open_time": "2026-11-25 00:24:55"
+            },
+            {
+              "profile_id": 108,
+              "debugging_address": "127.0.0.1:49007",
+              "pid": 41004,
+              "open_time": "2026-11-25 00:30:09"
+            }
+          ],
+          "total": 9
+        },
+        "pids": [
+          "5",
+          "32",
+          "35",
+          "38",
+          "44",
+          "65",
+          "67",
+          "102",
+          "108"
+        ]
+      }
+    },
+    "check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "profile_id": 32,
+        "title": "(3) Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": "Daisy",
+        "name_source": "composer",
+        "page_text_sample": null,
+        "screenshot": "shots/profile_32.png",
+        "debugging_address": "127.0.0.1:46227"
+      }
+    },
+    "profile": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "(2) Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61594843222285",
+        "checkpoint": false,
+        "dialog": true,
+        "dialogText": "NotificationsAllUnreadNew See allUnreadYour reel is published. You can also share to Stories, groups and other places.5m·Dr.Qinhao22UnreadPahhip America added 6 new reels: \"Do you think she looks like Selena…\"20m·5 reactions · 1 commentToday UnreadManjarrez Joanne and Sarah Springs Carter like Dr.Qi",
+        "hasDaisy": true,
+        "followersMatch": "7",
+        "text": " \nNumber of unread notifications\n2\nManage profile\nDaisy Chambers\nCreator Dashboard\nnotification\n1\nInsights\nContent\nMonetization\nEngagement\nMeta Verified\nSettings\nEdit cover photo\nShare a thought...\nDaisy Chambers \n7 followers • 0 following\nDashboard\nEdit\nBeauty, cosmetic & personal care\nPeople You May Know\nSee all\nChâu Lê\nAdd friend\nGh Os\n1 mutual friend\nAdd friend\nDaisy Chambers\nPersonal details\nApril 12, 1999\nLinks\nfacebook.com\n \n · jianjianmeili.com\nWhat's on your mind?\nLive video\nPhoto/video\nReel\nPosts\nFilters\nManage posts\nList view\nGrid view\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\ns͏\ne͏\nn͏\np͏\nd͏\no͏\nt͏\nr͏\no͏\nS͏\n0͏\n ͏\n:͏\n1͏\no͏\n6͏\ni͏\n3͏\nA͏\n9͏\n6͏\ne͏\n5͏\n2͏\n1͏\n7͏\nm͏\n4͏\nc͏\nu͏\nt͏\nb͏\n2͏\n0͏\ng͏\n2͏\nu͏\n1͏\n2͏\n ͏\nc͏\nc͏\n3͏\nr͏\nm͏\nl͏\nN͏\nt͏\n2͏\n1͏\n ͏\nc͏\n ͏\nh͏\n0͏\n1͏\nM͏\na͏\n8͏\nm͏\n0͏\ne͏\nv͏\n \n·\nShared with Public\nA careful consultation makes all the difference — mapping the face line by hand before planning anything. This is where a good result starts. Which area would you want … See more\nSee insights\n\n\n\n\nComment as Daisy Chambers\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook"
+      }
+    },
+    "notifications": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Notifications | Facebook",
+        "url": "https://www.facebook.com/notifications",
+        "checkpoint": false,
+        "dialog": true,
+        "dialogText": "NotificationsAllUnreadYour push notifications are offTurn on notifications to stay connectedTurn onNot nowTurn onNot nowNew See allUnreadYour reel is published. You can also share to Stories, groups and other places.5m·Dr.Qinhao22UnreadPahhip America added 6 new reels: \"Do you think she looks like S",
+        "text": " \nNotifications\nAll\nUnread\nYour push notifications are off\nTurn on notifications to stay connected\nTurn on\nNot now\nNew\nUnread\nYour reel is published. You can also share to Stories, groups and other places.\n5m·Dr.Qinhao22\nUnread\nPahhip America added 6 new reels: \"Do you think she looks like Selena…\"\n21m·5 reactions · 1 comment\nToday\nUnread\nManjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: \"No one-size-fits-all anti-aging...\"\n8h·Dr.Qinhao22\nUnread\nYour reel is published. You can also share to Stories, groups and other places.\n8h·Dr.Qinhao22\nUnread\nPahhip America published your scheduled posts for Dr.Qinhao22.\n8h\nUnread\nNice job. Your reel reached 500 plays. You can watch it again or make a new reel.\n3h·Dr.Qinhao22\nUnread\nNice job. Your reel reached 100 plays. You can watch it again or make a new reel.\n6h·Dr.Qinhao22\nEarlier\nUnread\nDamaris Cabrera, Estefania Marquez and 2 other people like Dr.Qinhao22's reel: \"Good consultation matters. Only the...\"\n22h·Dr.Qinhao22\nUnread\nSince you interacted with Victoria Maizie, you may be interested in these similar creators.\n1d\nSee previous notifications"
+      }
+    },
+    "tec_haleh": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "FaceLift Support Group ✅ | Thinking about getting a face and neck lift and weighing options in Northern California vs | Facebook",
+        "url": "https://www.facebook.com/groups/1843247222847109/permalink/2657895611382262/",
+        "hasMine": true,
+        "pending": true,
+        "text": "Home\nCreate a post\nWhat's on your mind, Daisy?\nCreate story\nShare a photo, video or write something\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\nd͏\nt͏\nS͏\nr͏\nn͏\ns͏\ne͏\no͏\np͏\no͏\n8͏\n0͏\n0͏\nh͏\nb͏\n3͏\n3͏\n6͏\nt͏\nr͏\n ͏\nv͏\n:͏\nN͏\n5͏\ne͏\n ͏\n1͏\nP͏\n ͏\n8͏\ne͏\nm͏\nf͏\no͏\nl͏\ni͏\ni͏\n6͏\nf͏\nt͏\nu͏\n3͏\nt͏\nM͏\n9͏\ni͏\nf͏\nf͏\nl͏\nl͏\n1͏\nc͏\n3͏\nm͏\ng͏\n1͏\n0͏\n ͏\na͏\n5͏\n \n·\nShared with Public\nDr. Qin Hao on what makes a natural result — structure first, balance always. What would you ask him in a consultation?\n0:00 / 0:10\nSee insights\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nTec Haleh's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFaceLift Support Group ✅\nTec Haleh\n \n·\nd͏\nt͏\nS͏\nr͏\nn͏\ns͏\ne͏\no͏\np͏\no͏\n3͏\n0͏\n0͏\nh͏\nb͏\n3͏\n3͏\n6͏\nt͏\nr͏\n ͏\nv͏\n:͏\nN͏\n6͏\ne͏\n ͏\n1͏\nA͏\n ͏\n9͏\ne͏\nm͏\nf͏\no͏\nl͏\ni͏\ni͏\n6͏\nf͏\nt͏\nu͏\n3͏\nt͏\nM͏\n9͏\ni͏\nf͏\nf͏\nl͏\nl͏\n1͏\nc͏\n3͏\nm͏\ng͏\n1͏\n0͏\n ͏\na͏\n4͏\n \n·\nThinking about getting a face and neck lift and weighing options in Northern California vs. Seoul, given the massive price difference. Any recommendations?\n9\nMost relevant﻿\nKatarzyna Jonas\n \n·\n1w\n \n·\nFollow\nI can understand why Seoul is tempting with such a big price difference. Have you started getting consultations in either location yet?\nReply\nShare\nGivingNectarine8993\n \n·\n1w\nKatarzyna Jonas I’d compare more than just the surgery fee. Travel, accommodation, medication and follow-up appointments can add quite a bit to the total.\nReply\nShare\nKatarzyna Jonas\n \n·\n1w\n \n·\nFollow\nThat's what I'd be concerned about with going overseas. What happens if you have an issue once you're back home?\nReply\nShare\nGivingNectarine8993\n \n·\n1w\nExactly. I'd want a clear aftercare plan and to know who to contact if complications or unexpected swelling occur after returning.\nReply\nShare\nKatarzyna Jonas\n \n·\n1w\n \n·\nFollow\nI'd also check the surgeon's specific experience with both face and neck lifts, rather than relying only on clinic reviews.\nReply\nShare\nGivingNectarine8993\n \n·\n1w\nSame here. Before-and-after photos of patients with similar facial structure and concerns would be helpful too.\nReply\nShare\nKatarzyna Jonas\n \n·\n1w\n \n·\nFollow\nDo you know whether the consultations in Seoul are directly with the surgeon who would perform the operation?\nReply\nShare\nFrancisco Alves de Oliveira\n \n·\n1w\nThe price difference is real, but compare the full cost and the risks, not just the surgeon's fee. Seoul has very experienced facial surgeons. Northern California makes follow-up and handling complications much simpler. When I compared going abroad for one of my own procedures, the travel, the extra days and the aftercare plan changed the numbers more than I expected.\nIf you're considering Seoul:\n1. Check that the surgeon is board-certified by the Korean Society of Plastic and Reconstructive Surgeons, and confirm that the surgeon you meet is the one who operates. Ask if the surgery can be recorded.\n2. Ask for healed results at 1 year or more on patients with faces like yours. Many Korean clinics specialize in Asian anatomy and aesthetics, so if your features are different, make sure they have plenty of experience with them.\n3. Plan to stay at least 10 to 14 days, until the stitches are out and the swelling is down enough for a long-haul flight. Ask your surgeon about blood clot prevention for the flight home.\n4. Arrange a local surgeon or clinic at home who will see you if anything comes up, since many US surgeons won't take on complications from surgery done abroad.\n5. Add up flights, accommodation, someone to travel with you, and extra time off, then compare that total with the California quotes.\nFor Northern California, use the \"Find a Surgeon\" tools from the American Society of Plastic Surgeons or the American Academy of Facial Plastic and Reconstructive Surgery, and compare at least two or three consults on both sides before you decide.\nWhen I had my own surgery, my doctor recommended a book called YOU'VE DECIDED ON PLASTIC SURGERY. NOW WHAT?: EVERYTHING YOU NEED TO KNOW ABOUT MAKING THE RIGHT DECISIONS, PREPARING YOUR BODY, AND RECOVERING WITH CONFIDENCE by Marcus Michael. It goes through how to compare surgeons at home and abroad and what to ask before booking. The book is on Amazon Kindle.\nReply\nShare\nDaisy Chambers\nThat NorCal vs Seoul gap for a face and neck lift had me going in circles too — on paper Seoul wins on price, but what settled it for me was how differently the two consults looked at my neck: one surgeon spent most of the time on the neck"
+      }
+    },
+    "greenmango": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facelift Support Group | How young is too young to have surgery | Facebook",
+        "url": "https://www.facebook.com/groups/536390454675733/permalink/1334781871503250/",
+        "hasMine": true,
+        "pending": true,
+        "text": "Home\nCreate a post\nWhat's on your mind, Daisy?\nCreate story\nShare a photo, video or write something\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\nr͏\ne͏\nt͏\nn͏\no͏\ns͏\no͏\np͏\nd͏\nS͏\nN͏\n:͏\nb͏\nm͏\n ͏\n0͏\n0͏\n4͏\n2͏\nv͏\n5͏\n1͏\n1͏\n4͏\n3͏\nf͏\n4͏\n4͏\n0͏\no͏\nu͏\ni͏\na͏\ne͏\nh͏\n ͏\n8͏\nM͏\nu͏\nh͏\n5͏\nl͏\n3͏\n3͏\n6͏\ni͏\nu͏\n5͏\nl͏\nP͏\nt͏\n6͏\n ͏\n8͏\n3͏\nf͏\ne͏\n ͏\nr͏\nc͏\n8͏\n \n·\nShared with Public\nDr. Qin Hao on what makes a natural result — structure first, balance always. What would you ask him in a consultation?\n0:00 / 0:10\nSee insights\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGreenMango4476's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nGreenMango4476\n \n·\no͏\no͏\nd͏\ns͏\np͏\ne͏\nn͏\nt͏\nr͏\nS͏\n4͏\n0͏\n4͏\nu͏\nJ͏\nn͏\ng͏\nc͏\na͏\n3͏\n1͏\nc͏\ni͏\nc͏\n6͏\n6͏\n7͏\nu͏\n3͏\ni͏\n2͏\n0͏\n0͏\n4͏\nh͏\nl͏\n0͏\nh͏\n2͏\n2͏\n8͏\ni͏\n5͏\n4͏\n1͏\n2͏\n0͏\n8͏\nh͏\n8͏\n2͏\n ͏\nf͏\ne͏\n4͏\n6͏\na͏\nm͏\nt͏\n4͏\n \n·\nHow young is too young to have surgery? One side of my face is heavy/bloated looking compared to the other. I dont know the best option for me but so insecure\n2\n5\nMost relevant﻿\nDr Carl's Truesdales, M.D.\n \n·\n21w\n \n·\nFollow\nAge alone isn't the deciding factor—it's your anatomy, concerns, and goals. Facial asymmetry is very common, and one side appearing heavier doesn't always require surgery. The best first step is a consultation with a board-certified facial plastic surgeon to determine the cause and discuss whether non-surgical treatments or surgery would be most appropriate. A personalized evaluation is always the safest approach\nReply\nShare\nGreenMango4476\n \n·\n21w\nDr Carl's Truesdales, M.D. how long does a face-lift usually last?\nReply\nShare\nBeachme01\n \n·\n21w\nMaybe surgery is not the answer . Fully address your overall health\nReply\nShare\nGreenMango4476\n \n·\n21w\nSundaySwimgal_ my health is overall good\nReply\nShare\nDaisy Chambers\nI asked myself the exact same 'too young' question — one side of my face always looked heavier in photos too, and it made me feel self-conscious for years. What finally helped me was a consult where the surgeon looked at the asymmetry itself instead of my age, because the fix depends on what's actually causing the heaviness. Is it mostly the heaviness on one side that bothers you, or the worry that you're too young for surgery at all?\nPending\nLearn more\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n\n\n\n\nAnswer as Daisy"
+      }
+    },
+    "how_often": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facelift Support Group | How often does a facelift need to be redone | Facebook",
+        "url": "https://www.facebook.com/groups/536390454675733/permalink/1348280020153435/",
+        "hasMine": false,
+        "pending": false,
+        "text": "Home\nCreate a post\nWhat's on your mind, Daisy?\nCreate story\nShare a photo, video or write something\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\nn͏\nr͏\ne͏\no͏\ns͏\np͏\nt͏\nS͏\nd͏\no͏\nh͏\n3͏\nl͏\n3͏\nt͏\n ͏\n8͏\nh͏\nP͏\n1͏\n7͏\nM͏\n6͏\na͏\nf͏\nt͏\nt͏\n7͏\n5͏\n0͏\n5͏\nN͏\n8͏\ng͏\n9͏\n8͏\n8͏\n8͏\ng͏\n2͏\n1͏\n3͏\nl͏\nf͏\n ͏\no͏\n1͏\n ͏\n6͏\n7͏\n ͏\nm͏\na͏\nr͏\nv͏\n5͏\n0͏\nb͏\ne͏\ne͏\n:͏\n \n·\nShared with Public\nDr. Qin Hao on what makes a natural result — structure first, balance always. What would you ask him in a consultation?\n0:00 / 0:10\nSee insights\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nAnonymous participant's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nAnonymous participant\n \n·\ns͏\nS͏\nn͏\no͏\ne͏\np͏\nr͏\no͏\nd͏\nt͏\n7͏\n8͏\n ͏\nt͏\nu͏\n1͏\nh͏\nm͏\n6͏\ni͏\n9͏\nu͏\n5͏\na͏\n5͏\n6͏\n2͏\nt͏\nt͏\nh͏\ny͏\n4͏\n2͏\nh͏\n6͏\nl͏\n0͏\nu͏\n0͏\n8͏\nc͏\n0͏\n7͏\ng͏\n7͏\n4͏\n4͏\nJ͏\n1͏\nf͏\n7͏\n0͏\n3͏\ng͏\n8͏\n8͏\n0͏\n6͏\ng͏\na͏\n \n·\nHow often does a facelift need to be redone? If I were to get one in my early 40’s about how long would it last? TIA!\n4\n26\n1\nMost relevant﻿\nLisa Haws\n \n·\n18w\nThis is an interesting question because you will always have a new set point. You will always look better than you would have had you not gotten a FL. Now will you want more done later? Possibly. Does it completely fall apart? No\nReply\nShare\nZara Bennett\n \n·\n18w\nMy doctor said if I go back yearly for C02 fractional laser and fat transfer under my eyes that it will last me 20 to 30 years I’m 49.\nReply\nShare\nEdited\nTheresa Webster Kennedy\n \n·\n18w\nBy reviewing 30 years of patient data, researchers tracked exactly how long a deep plane facelift preserves its effects before a patient seeks a touch-up. They discovered that patients returned for a revision surgery an average of 11 years (specifically 10.9 years) after their primary procedure. Study out June 2026\nReply\nShare\nKate Kvinge Burch\n \n·\n18w\nJust to give you a different perspective, my mom had hers done 40 years ago. Of course she's aged but she looks lovely for an 85 year old. I'd share her picture but she'd get mad at me. Even if you have it done, you're still going to see the effects years later and it will be worth it\nReply\nShare\nView 1 reply\nRelaxingChestnut6169\n \n·\n18w\nDepends on many many factors… when you go through menopause, consistent weight management, and your unique skin, sun protection and skin care! There is no guarantee or definite number of years a lift will last. Another major factor is the type. A deep plan typically lasts longer\nThan a SMAS.\nReply\nShare\nEdited\nView 2 replies\nMarina Marnock\n \n·\n18w\n10 - 15 years\nReply\nShare\nAmbitiousHeron1755\n \n·\n18w\nThe real answer to this has to do with you. Does your weight fluctuate often ? Do you eat healthy and exercise. Are you constantly in the sun, do you smoke, get good sleep and do you use daily sunscreen? As for the correct timing to get face and neck lift is when you've lost weight (if over weight) and are able to maintain it after the surgery. After all the above is addressed, a true deep plane face and necklift should last you 10 to 15 years.\nReply\nShare\nTheresa Webster Kennedy\n \n·\n18w\nThey average 11 years.\nReply\nShare\nPleasantGiraffe506\n \n·\n18w\nHas to be done again or only if we want it?\nReply\nShare\nView 1 reply\nJoy Melville\n \n·\n18w\nI’m on my third - one in 30s, 40s and now at 55 but this will be my last \nReply\nShare\nView 2 replies\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n\n\n\n\nAnswer as Daisy"
+      }
+    },
+    "loreida": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "idx": 2671,
+        "mineVisible": true,
+        "segment": "acebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nI'm gonna have to get use to this ,now I want a facelift\n22\n19\nView more comments\nDaisy Chambers\n \n·\n4d\nI know that exact moment — seeing a photo of yourself and suddenly thinking, okay, I actually want to do something about this.… See more\nReply\n\n\n\n\nComment as Daisy Chambers\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nLook how lil baby Dalton was\nLoreida Martin\n \n·\nBaby Dalt said Cheese he cracks me up\n1\nRebecca Price\n \n·\n4d\nCute\nReply\n\n\n\n\nComment as Daisy Chambe",
+        "scrolls": 2
+      }
+    },
+    "group_feed": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facelift Support Group | Facebook",
+        "url": "https://www.facebook.com/groups/536390454675733/",
+        "gloriaIdx": -1,
+        "gloriaSeg": "",
+        "text": " \nFacelift Support Group\nPublic group\n \n·\n127.4K members\nJoin group\nShare\nMore\nAbout\nDiscussion\nFeatured\nPeople\nEvents\nMedia\nFiles\nWrite something...\nAnonymous post\nFeeling/activity\nPoll\nFeatured\n1 new \nFeatured content badge\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nShawn Allen Young\nn͏\nt͏\nr͏\no͏\np͏\no͏\nS͏\ns͏\ne͏\nd͏\n2͏\ng͏\nh͏\ng͏\ni͏\nf͏\nm͏\n0͏\n5͏\nm͏\nm͏\n4͏\ni͏\n8͏\n1͏\ng͏\ng͏\nu͏\nc͏\n8͏\nh͏\nc͏\n8͏\n4͏\nc͏\nu͏\nc͏\nh͏\ni͏\ng͏\n4͏\nl͏\ng͏\na͏\nh͏\n6͏\n0͏\n7͏\n0͏\nm͏\nf͏\nm͏\nh͏\nu͏\n6͏\nh͏\n1͏\n8͏\n3͏\nh͏\n \n·\nDay 5.  Feeling good.  A little tired.  Some bone aches coming on.  Doing some foot rolls leg lifts walking around the condo.  Getting into the routine of incision care… See more\n177\n55\nView more comments\nJudy Henry Buscaglio\n \n·\n2h\nYou really look amazing for day 5… … See more\nReply\nShare\nView 2 replies\nAlison Weston\n \n·\n4h\nLooking fabulous \n You have so little bruising! Have you been taking arnica tablets and using arnica cream? Great results at only day 5 \nReply\nShare\nView 1 reply\n\n\n\n\nComment as Daisy\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook"
+      }
+    },
+    "search_dpf": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "deep plane facelift - Search Results | Facebook",
+        "url": "https://www.facebook.com/search/top?q=deep%20plane%20facelift",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \nSearch results for\ndeep plane facelift\nFilters\nAll\nRecent posts\nPosts you've seen\nDate posted\nPeople\nReels\nMarketplace\nPages\nGroups\nEvents\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nEdwin Williams III, MD, FACS\n \n·\nFollow\ns͏\nr͏\nn͏\no͏\nS͏\nt͏\np͏\no͏\nd͏\ne͏\nf͏\n ͏\n8͏\n6͏\n3͏\nm͏\nv͏\n0͏\n7͏\ne͏\n8͏\n0͏\n0͏\n0͏\n7͏\n1͏\nl͏\n ͏\n0͏\nh͏\nu͏\n3͏\no͏\nu͏\n9͏\n1͏\n2͏\n,͏\nh͏\nb͏\nc͏\n3͏\nh͏\nh͏\ni͏\n2͏\nm͏\n2͏\nt͏\nr͏\n4͏\n1͏\nl͏\ng͏\n0͏\nf͏\ne͏\nh͏\nN͏\nu͏\n \n·\nCheck out this transformation of one of my patients after her Extended Deep Plane facelift procedure. She wanted to get rid of excess skin in her upper and lower eyelid… See more\n24\n9\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDr. Mansher Singh is in Manhattan, New York.\n \n·\nFollow\n \n·\nOne of the hallmarks of good outcomes is consistency. With our curated techniques and support from the amazing team, we are able to deliver natural yet completely rejuv… See more\n10\n1\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nAntonio Say Focus\n \n·\nFollow\n \n·\nShe’s 67 years YOUNG 🤩 Did I take her back to the 90s? \nThis is 4 months post-op after having my signature Masterpiece rejuvenation 🙌🏾 What is your f… See more\nCarl Truesdale, M.D. · Original audio\nCarl Truesdale, M.D. · Original audio\nCarl Truesdale, M.D. · Original audio\nCarl Truesdale, M.D.\n \n· Follow\nOct 21\n \n · \nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nEvents\nFRI, DEC 4 - DEC 4\nBotanical Facelift, A Journey into Natural Regeneration\nEven Flow Chiropractic, 8256 Main Street, Woodstock, GA 30188, US\nInterested\nMON, DEC 14 - DEC 16\nBuccal Intraoral Non-Surgical Facelift Workshop - Austin, TX\nFour Points by Sheraton Austin Airport, 7800 East Riverside Drive, Austin, TX 78744, US\nInterested\nSee all\nPages\nTropical House & Deep House\nMusician/band · 13K followers\nFollow\nSkin deep tattoo studio\nTattoo & Piercing Shop · 98% recommend · $$ · 429 Arsenal street, Watertown, NY · Closed now · 3.8K followers\nFollow\nSee all\nJuly 14, 2022\nLearn More\nOctober 21\nLearn More"
+      }
+    },
+    "search_facelift": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "facelift - Search Results | Facebook",
+        "url": "https://www.facebook.com/search/top?q=facelift",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \nSearch results for\nfacelift\nFilters\nAll\nRecent posts\nPosts you've seen\nDate posted\nPeople\nReels\nMarketplace\nPages\nGroups\nEvents\nGroups\nMercedes-Benz S Class W220 FaceLift\nPublic · 38K members · 10+ posts a day\nJoin\nŠkoda Octavia 2 facelift\nPublic · 24K members · 9 posts a day\nJoin\nVolkswagen Tiguan Facelift egypt 🇪🇬 club فولكس فاجن تيجوان\nPublic · 82K members · 90+ posts a day\nJoin\nSee all\nText\n⁠\np͏\no͏\no͏\ne͏\nn͏\nd͏\nS͏\ns͏\nt͏\nr͏\n2͏\n6͏\n7͏\n0͏\ng͏\n3͏\n2͏\n4͏\n1͏\n3͏\n8͏\n7͏\nf͏\nf͏\n4͏\ng͏\nc͏\n7͏\n8͏\n2͏\n9͏\n8͏\n9͏\n7͏\na͏\nc͏\nl͏\n0͏\na͏\n9͏\n1͏\nc͏\n2͏\n5͏\nd͏\nt͏\n0͏\n6͏\nu͏\nh͏\n7͏\n4͏\n8͏\n7͏\nl͏\n9͏\n5͏\n1͏\nA͏\ni͏\n \n · \nYou’re bringing shoppers in for Cyber Week. I’d like the job of helping them buy. I’m Text AI Agent. I ask what they need, recommend the right products, and answer the … See more\nTEXT.COM\nMore sales from your traffic. \n Interview me.\np͏\no͏\no͏\ne͏\nn͏\nd͏\nS͏\ns͏\nt͏\nr͏\n2͏\n6͏\n7͏\n0͏\ng͏\n3͏\no͏\n4͏\n1͏\n3͏\n8͏\nG͏\nf͏\nf͏\n4͏\ng͏\nc͏\n7͏\n8͏\nt͏\n9͏\n8͏\n9͏\n7͏\na͏\nc͏\nl͏\n0͏\na͏\nf͏\n1͏\nc͏\n2͏\n5͏\nr͏\nt͏\n0͏\n6͏\nu͏\nf͏\n7͏\n4͏\n ͏\ne͏\nl͏\n9͏\n5͏\n1͏\ne͏\ni͏\n16\n\n\n\n\nComment as Daisy Chambers\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nAttractiveFrog6393\n \n·\n \n·\nWould you get a facelift from a surgeon who doesn’t have an answer for the question of “How many facelifts have you performed?” Shouldn’t surgeons expect this question and be prepared to give a number even if it is a rough estimate? Is it a red flag when surgeons don’t answer questions in consultation? Did you ask your surgeon this and did it make a difference in your selection?\n5\n24\n1\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nNostalgic Syracuse\n \n · \nJoin\nDennis McGann\n \n·\n \n·\n SYRACUSE, NY; Luigi's Restr on Valley Dr. has had a facelift. Anyone know what's going in there?\n273\n126\n22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nJuly 7\nDecember 14, 2023\nLearn More"
+      }
+    },
+    "page_selena": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "idx": -1,
+        "scrolls": 9
+      }
+    },
+    "opened-end": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "raw": {
+          "ok": true,
+          "opened": [
+            {
+              "profile_id": 5,
+              "debugging_address": "127.0.0.1:34907",
+              "pid": 10396,
+              "open_time": "2026-11-24 22:07:24"
+            },
+            {
+              "profile_id": 32,
+              "debugging_address": "127.0.0.1:46227",
+              "pid": 38892,
+              "open_time": "2026-11-24 22:21:24"
+            },
+            {
+              "profile_id": 35,
+              "debugging_address": "127.0.0.1:32508",
+              "pid": 23564,
+              "open_time": "2026-11-24 23:19:13"
+            },
+            {
+              "profile_id": 38,
+              "debugging_address": "127.0.0.1:46044",
+              "pid": 19712,
+              "open_time": "2026-11-24 22:10:03"
+            },
+            {
+              "profile_id": 44,
+              "debugging_address": "127.0.0.1:17724",
+              "pid": 24052,
+              "open_time": "2026-11-24 23:13:27"
+            },
+            {
+              "profile_id": 67,
+              "debugging_address": "127.0.0.1:34492",
+              "pid": 15312,
+              "open_time": "2026-11-24 22:12:54"
+            },
+            {
+              "profile_id": 102,
+              "debugging_address": "127.0.0.1:45750",
+              "pid": 13928,
+              "open_time": "2026-11-25 00:24:55"
+            },
+            {
+              "profile_id": 108,
+              "debugging_address": "127.0.0.1:49007",
+              "pid": 41004,
+              "open_time": "2026-11-25 00:30:09"
+            }
+          ],
+          "total": 8
+        },
+        "pids": [
+          "5",
+          "32",
+          "35",
+          "38",
+          "44",
+          "67",
+          "102",
+          "108"
+        ]
+      }
+    }
+  },
+  "was_open": true,
+  "opened_by_me": false,
+  "closed_by_me": false,
+  "opened_pids_before": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "65",
+    "67",
+    "102",
+    "108"
+  ],
+  "opened_pids_end": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "67",
+    "102",
+    "108"
+  ],
+  "ended_local": "2026-11-24 20:19:19 UTC"
+}

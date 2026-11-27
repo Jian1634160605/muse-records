@@ -1,0 +1,24 @@
+{
+  "round": "2026-11-26 00:12 fb-hunt-p32 read-only",
+  "started_local": "2026-11-25 16:20:57 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "attempt": 3,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "opened-before": {
+      "ok": false,
+      "attempt": 3,
+      "error": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "profile": {
+      "ok": false,
+      "attempt": 2,
+      "error": "调用 POST /goto 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  },
+  "was_open": null,
+  "opened_by_me": false,
+  "closed_by_me": false
+}

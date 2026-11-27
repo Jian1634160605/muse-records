@@ -1,0 +1,22 @@
+{
+  "job_id": "fb-hunt-p32",
+  "round": "2026-11-26 21:12 CST",
+  "window": "18:30-06:00 (in window)",
+  "profile": 32,
+  "account": "Lark / Daisy Chambers",
+  "result": "not_started_agent_down",
+  "probes": [
+    {"time": "21:12", "target": "100.78.166.12:8765/health", "result": "curl 56 Recv failure: Connection reset by peer"},
+    {"time": "~21:15", "target": "100.78.166.12:8765/health", "result": "curl 56 Recv failure: Connection reset by peer"},
+    {"time": "~21:15", "target": "100.78.166.12:8766/health (v15 backup)", "result": "curl 56 Recv failure: Connection reset by peer"},
+    {"time": "~21:15", "target": "100.78.166.12:8765/opened", "result": "curl 56 Recv failure: Connection reset by peer"}
+  ],
+  "outage_since": "2026-11-25 13:47",
+  "outage_hours": 31.5,
+  "consecutive_failed_rounds_same_cause": 14,
+  "comments_posted": 0,
+  "leads": 0,
+  "profile_state": "unknown (agent unreachable, cannot verify opened/close)",
+  "identity_verification": "pending user action since 2026-11-23 20:12; write ops paused until confirmed lifted",
+  "user_notified_restart": "2026-11-25 ~19:00 (main chat); not re-notified this round"
+}

@@ -1,0 +1,105 @@
+{
+  "round": "2026-11-25 02:24 fb-hunt-p35 round 66 post Leanne",
+  "started_local": "2026-11-24 18:50:52 UTC",
+  "steps": {
+    "check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "profile_id": 35,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nKelly Gowland\n2026年10月25日周日09:35\n10月25日\n \n·\n3\n2\n赞助内容\nSaleSmartly全球官方网站：全渠道私域客户沟通工具\napp.salesmartly.com\n万里汇外贸多币种收款账户\nhttps://www.worldfirst.com.cn/",
+        "screenshot": "shots/profile_35.png",
+        "debugging_address": "127.0.0.1:32508"
+      }
+    },
+    "open_lily_post": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Something I’ve had a lot of thought about but... - Lily Ella Wrench | Facebook",
+        "hasLeanne": true,
+        "hasTarget": true,
+        "len": 1978
+      }
+    },
+    "click_reply_leanne": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "hasTarget": true,
+        "found": true,
+        "containerLen": 257,
+        "replyBtns": 1,
+        "clicked": "回复"
+      }
+    },
+    "reply_box_check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "editors": [
+          {
+            "aria": "以 Bertie Harmony 的身份回复",
+            "text": "Leanne Watson "
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    },
+    "insert_draft": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "aria": "以 Bertie Harmony 的身份回复",
+        "editorText": "Leanne Watson Leanne, a whole year of looking into it and still nervous about the needle — that makes complete sense, it's the part a lot of people get stuck on. Liquid can help some concerns and not others, so it really comes down to what bothers you most. Is it the shape from the front, or the profile?"
+      }
+    },
+    "editor_after_insert": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "editors": [
+          {
+            "aria": "以 Bertie Harmony 的身份回复",
+            "text": "Leanne Watson Leanne, a whole year of looking into it and still nervous about the needle — that makes complete sense, it's the part a lot of people get stuck on. Liquid can help some concerns and not others, so it really comes down to what bothers you most. Is it the shape from the front, or the profile?"
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    },
+    "submit": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "submitted_via": "div[contenteditable=\"true\"][aria-label=\"以 Bertie Harmony 的身份回复\"]",
+        "aria": "以 Bertie Harmony 的身份回复"
+      }
+    },
+    "verify_readback": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "hasDraftStart": true,
+        "hasDraftEnd": true,
+        "len": 3125,
+        "draftCtx": "ther brave that then have it changed forever and not be able to change it xx\n回复\n查看翻译\nBertie Harmony\n \n·\n1 分钟\nLeanne Watson Leanne, a whole year of looking into it and still nervous about the needle — that makes complete sense, it's the part a lot of people get stuck on. Liquid can help some concerns and not others, so it really comes down to what bothers you most. Is it the shape from the front, or the profile?\n回复\n\n\n\n\n以 Bertie Harmony 的身份回复\nRuby Jo Malcolm\n \n·\n5天\n \n·\n作者留下了心情\nDr Kerim Unal is insane at nose jobs and he is reasonably priced, I know loads of girls who have been to him xx\n回复\n查看翻译\nTia Maitland\n \n·\n5天\nThere’s nothing wrong with ur nose !!!! People pay for a nose like yours!\n回复\n查看翻"
+      }
+    }
+  },
+  "draft": "Leanne, a whole year of looking into it and still nervous about the needle — that makes complete sense, it's the part a lot of people get stuck on. Liquid can help some concerns and not others, so it really comes down to what bothers you most. Is it the shape from the front, or the profile?",
+  "e07": 91,
+  "aborted": false,
+  "ended_local": "2026-11-24 18:52:25 UTC"
+}

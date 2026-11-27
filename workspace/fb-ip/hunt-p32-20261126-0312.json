@@ -1,0 +1,13 @@
+{
+  "round": "2026-11-26 03:12 fb-hunt-p32 health probe",
+  "started_local": "2026-11-25 19:40:25 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "attempt": 3,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  },
+  "agent_up": false,
+  "ended_local": "2026-11-25 19:43:49 UTC"
+}

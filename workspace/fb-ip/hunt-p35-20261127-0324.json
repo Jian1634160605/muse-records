@@ -1,0 +1,30 @@
+{
+  "round": 98,
+  "started": "2026-11-27 03:24",
+  "attempts": [
+    {
+      "n": 1,
+      "time": "19:25:07",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 2,
+      "time": "19:30:15",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 3,
+      "time": "19:35:23",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 4,
+      "time": "19:40:31",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ]
+}

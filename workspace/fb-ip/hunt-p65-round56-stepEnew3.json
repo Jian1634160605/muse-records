@@ -1,0 +1,23 @@
+{
+  "ts": "2026-11-23 14:47:01 UTC",
+  "code": "Df96NLVMX8g",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df96NLVMX8g/",
+        "profile_id": 65
+      }
+    },
+    "comments_compact_#1": {
+      "ok": false,
+      "err": "POST /eval 失败：操作失败：Error: Page.evaluate: TypeError: Cannot read properties of null (reading 'innerText')\n    at eval (eval at evaluate (:311:30), <anonymous>:1:22)\n    at UtilityScript.evaluate (<anonymous>:318:18)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)"
+    },
+    "comments_compact_#2": {
+      "ok": true,
+      "r": "Note... gaga5456 Dr. Qin Hao 17 posts 0 followers 47 following AI-generated profile Dr. Qin Hao Rhinoplasty Specialist Shanghai Edit profile View archive New 140 8 105 160 58 125 12 19 87 13 22 109 Meta About Blog Jobs Help API Privacy Consumer Health Privacy Terms Locations Popular Instagram Lite Meta AI Muse Threads Contact Uploading & Non-Users Meta Verified English Afrikaans العربية Čeština Dansk Deutsch Ελληνικά English English (UK) Español (España) Español فارسی Suomi Français עברית Bahasa Indonesia Italiano 日本語 한국어 Bahasa Melayu Norsk Nederlands Polski Português (Brasil) Português (Portugal) Русский Svenska ภาษาไทย Filipino Türkçe 中文(简体) 中文(台灣) বাংলা ગુજરાતી हिन्दी Hrvatski Magyar ಕನ್ನಡ മലയാളം मराठी नेपाली ਪੰਜਾਬੀ සිංහල Slovenčina தமிழ் తెలుగు اردو Tiếng Việt 中文(香港) Български Français (Canada) Română Српски Українська © 2026 Instagram from Meta Messages"
+    }
+  }
+}

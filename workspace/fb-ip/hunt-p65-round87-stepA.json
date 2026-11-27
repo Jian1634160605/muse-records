@@ -1,0 +1,22 @@
+{
+  "round": 87,
+  "ts": "2026-11-27 19:42:46 CST",
+  "steps": {
+    "curl_health_8765": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "curl_health_8766": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "health": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "opened": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    }
+  }
+}

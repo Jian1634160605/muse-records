@@ -1,0 +1,30 @@
+{
+  "round": 62,
+  "ts": "2026-11-23 21:43:06 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "opened": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [],
+        "total": 0
+      }
+    },
+    "open65_attempts": [
+      {
+        "n": 1,
+        "result": "OK",
+        "r": "{'ok': True, 'profile_id': 65, 'debugging_address': '127.0.0.1:59548'}"
+      }
+    ]
+  },
+  "was_open": false
+}

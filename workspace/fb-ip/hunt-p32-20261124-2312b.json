@@ -1,0 +1,103 @@
+{
+ "health": {
+  "ok": true,
+  "agent": "ixbrowser-agent",
+  "version": 10
+ },
+ "opened_start": {
+  "ok": true,
+  "opened": [
+   {
+    "profile_id": 5,
+    "debugging_address": "127.0.0.1:34907",
+    "pid": 10396,
+    "open_time": "2026-11-24 22:07:24"
+   },
+   {
+    "profile_id": 32,
+    "debugging_address": "127.0.0.1:46227",
+    "pid": 38892,
+    "open_time": "2026-11-24 22:21:24"
+   },
+   {
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:32508",
+    "pid": 23564,
+    "open_time": "2026-11-24 23:19:13"
+   },
+   {
+    "profile_id": 38,
+    "debugging_address": "127.0.0.1:46044",
+    "pid": 19712,
+    "open_time": "2026-11-24 22:10:03"
+   },
+   {
+    "profile_id": 44,
+    "debugging_address": "127.0.0.1:17724",
+    "pid": 24052,
+    "open_time": "2026-11-24 23:13:27"
+   },
+   {
+    "profile_id": 67,
+    "debugging_address": "127.0.0.1:34492",
+    "pid": 15312,
+    "open_time": "2026-11-24 22:12:54"
+   }
+  ],
+  "total": 6
+ },
+ "check": {
+  "ok": true,
+  "profile_id": 32,
+  "title": "(1) Facebook",
+  "url": "https://www.facebook.com/",
+  "account_name": "Daisy",
+  "name_source": "composer",
+  "page_text_sample": null,
+  "screenshot": "shots/profile_32.png",
+  "debugging_address": "127.0.0.1:46227"
+ },
+ "profile": {
+  "error": "step failed"
+ },
+ "notifications": {
+  "title": "Notifications | Facebook",
+  "url": "https://www.facebook.com/notifications",
+  "len": 898,
+  "checkpoint": false,
+  "dialogText": "NotificationsAllUnreadYour push notifications are offTurn on notifications to stay connectedTurn onNot nowTurn onNot nowNew See allUnreadPahhip America added 6 new reels: \"Confused about rhinoplasty? Here is the…\"39mUnreadNice job. Your reel reached 100 plays. You can watch it again or make a new re",
+  "reelLinks": [
+   "UnreadPahhip America added 6 new reels: \"Confused about rhinoplasty? Here is the => https://www.facebook.com/reel/1961574301483171/?from_close_friend=1&notif_id=1795349641000000&notif_t=close_friend_activity&ref=notif",
+   "UnreadManjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: \"No one => https://www.facebook.com/reel/1687477096123764/?notif_id=1795517745000000&notif_t=feedback_reaction_generic&ref=notif",
+   "UnreadDamaris Cabrera, Estefania Marquez and 2 other people like Dr.Qinhao22's r => https://www.facebook.com/reel/1181789784385422/?notif_id=1795465632000000&notif_t=feedback_reaction_generic&ref=notif",
+   "Unread Pahhip America added 6 new reels: \"Confused about rhinoplasty? Here is th => https://www.facebook.com/reel/1961574301483171/?from_close_friend=1&notif_id=1795349641000000&notif_t=close_friend_activity&ref=notif",
+   "Unread Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: \"No on => https://www.facebook.com/reel/1687477096123764/?notif_id=1795517745000000&notif_t=feedback_reaction_generic&ref=notif",
+   "Unread Damaris Cabrera, Estefania Marquez and 2 other people like Dr.Qinhao22's  => https://www.facebook.com/reel/1181789784385422/?notif_id=1795465632000000&notif_t=feedback_reaction_generic&ref=notif"
+  ],
+  "text": " \nNotifications\nAll\nUnread\nYour push notifications are off\nTurn on notifications to stay connected\nTurn on\nNot now\nNew\nUnread\nPahhip America added 6 new reels: \"Confused about rhinoplasty? Here is the…\"\n39m\nUnread\nNice job. Your reel reached 100 plays. You can watch it again or make a new reel.\n1h·Dr.Qinhao22\nToday\nUnread\nManjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: \"No one-size-fits-all anti-aging...\"\n3h·Dr.Qinhao22\nUnread\nYour reel is published. You can also share to Stories, groups and other places.\n3h·Dr.Qinhao22\nUnread\nPahhip America published your scheduled posts for Dr.Qinhao22.\n3h\nEarlier\nUnread\nDamaris Cabrera, Estefania Marquez and 2 other people like Dr.Qinhao22's reel: \"Good consultation matters. Only the...\"\n17h·Dr.Qinhao22\nUnread\nSince you interacted with Victoria Maizie, you may be interested in these similar creators.\n22h\nSee previous notifications"
+ },
+ "tec_haleh": {
+  "error": "step failed"
+ },
+ "greenmango": {
+  "error": "step failed"
+ },
+ "how_often": {
+  "error": "step failed"
+ },
+ "group_feed": {
+  "error": "step failed"
+ },
+ "search_dpf": {
+  "error": "step failed"
+ },
+ "search_facelift": {
+  "error": "step failed"
+ },
+ "selena_reel": {
+  "skipped": "no link in notifications"
+ },
+ "loreida": {
+  "error": "step failed"
+ }
+}

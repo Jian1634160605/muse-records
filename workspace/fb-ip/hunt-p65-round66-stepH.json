@@ -1,0 +1,21 @@
+{
+  "ts": "2026-11-24 16:05:59 UTC",
+  "steps": {
+    "close65_#1": {
+      "ok": false,
+      "err": "调用 POST /close 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "close65_#2": {
+      "ok": false,
+      "err": "调用 POST /close 失败（curl 18）：curl: (18) transfer closed with 46 bytes remaining to read\n"
+    },
+    "close65_#3": {
+      "ok": false,
+      "err": "POST /close 失败：关闭 profile 65失败：code=1009 message=Process not found"
+    },
+    "opened_after": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

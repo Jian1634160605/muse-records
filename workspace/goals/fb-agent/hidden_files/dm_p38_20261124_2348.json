@@ -1,0 +1,124 @@
+{
+  "health": {
+    "ok": false
+  },
+  "opened": {
+    "ok": true,
+    "data": {
+      "ok": true,
+      "opened": [
+        {
+          "profile_id": 5,
+          "debugging_address": "127.0.0.1:34907",
+          "pid": 10396,
+          "open_time": "2026-11-24 22:07:24"
+        },
+        {
+          "profile_id": 32,
+          "debugging_address": "127.0.0.1:46227",
+          "pid": 38892,
+          "open_time": "2026-11-24 22:21:24"
+        },
+        {
+          "profile_id": 35,
+          "debugging_address": "127.0.0.1:32508",
+          "pid": 23564,
+          "open_time": "2026-11-24 23:19:13"
+        },
+        {
+          "profile_id": 38,
+          "debugging_address": "127.0.0.1:46044",
+          "pid": 19712,
+          "open_time": "2026-11-24 22:10:03"
+        },
+        {
+          "profile_id": 44,
+          "debugging_address": "127.0.0.1:17724",
+          "pid": 24052,
+          "open_time": "2026-11-24 23:13:27"
+        },
+        {
+          "profile_id": 67,
+          "debugging_address": "127.0.0.1:34492",
+          "pid": 15312,
+          "open_time": "2026-11-24 22:12:54"
+        }
+      ],
+      "total": 6
+    }
+  },
+  "opened_ids_before": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "67"
+  ],
+  "was_open": true,
+  "check": {
+    "ok": true,
+    "data": {
+      "ok": true,
+      "profile_id": 38,
+      "title": "(1) Facebook",
+      "url": "https://www.facebook.com/",
+      "account_name": "Oe",
+      "name_source": "composer",
+      "page_text_sample": null,
+      "screenshot": null,
+      "debugging_address": "127.0.0.1:46044"
+    }
+  },
+  "goto_home": {
+    "ok": true,
+    "data": {
+      "ok": true,
+      "title": "(1) Facebook",
+      "url": "https://www.facebook.com/",
+      "profile_id": 38
+    }
+  },
+  "identity": {
+    "ok": false
+  },
+  "goto_notif": {
+    "ok": true,
+    "data": {
+      "ok": true,
+      "title": "Notifications | Facebook",
+      "url": "https://www.facebook.com/notifications",
+      "profile_id": 38
+    }
+  },
+  "notif": {
+    "ok": true,
+    "data": " \nNotifications\nAll\nUnread\nNew\nUnread\nRhinoplasty in Turkey - real...: \"Does anyone have any experience with Dr. Cengiz Ertekin? I'm considering having a nose job done by…\"\n14m\nToday\nUnread\nSpeedyBee4753 mentioned you in a comment in Rhinoplasty in Turkey - real experiences, doctor suggestions.\n5h\nUnread\nBWØII WA ÇITY mentioned you and other followers in a comment.\n3h\nEarlier\nUnread\nYou approved a login.\n9h\nUnread\nNiftyHedgehog3318 likes your comment: \"Cynthia, planning it as a 'one and...\"\n22h·1 Reaction\nSee previous notifications"
+  },
+  "goto_friends": {
+    "ok": false
+  },
+  "friends": {
+    "ok": false
+  },
+  "friends_links": {
+    "ok": false
+  },
+  "goto_msgs": {
+    "ok": true,
+    "data": {
+      "ok": true,
+      "title": "Messenger | Facebook",
+      "url": "https://www.facebook.com/messages/",
+      "profile_id": 38
+    }
+  },
+  "msgs": {
+    "ok": true,
+    "data": " \nMessenger\nSkip to main content\nSkip to messages\nSkip to compose\nChats\nAll\nUnread\nGroups\nCommunities\nMore\nHuda Hammad\nMessages and calls are secured with end-to-end encryption.\n \n·\n8w\nObaydullah\nMessages and calls are secured with end-to-end encryption.\n \n·\n30w\nNo chats selected\nCreate a PIN to access your chats on any device\nPersonal chats are secured with end-to-end encryption, so only the people in them can read, listen to, or share messages.\nYou’ll need a PIN to access these chats if you use another browser or device.\nCreate PIN\nMessenger. Press Shift and question mark for keyboard shortcuts."
+  },
+  "msgs2": {
+    "ok": true,
+    "data": " \nMessenger\nSkip to main content\nSkip to messages\nSkip to compose\nChats\nAll\nUnread\nGroups\nCommunities\nMore\nHuda Hammad\nMessages and calls are secured with end-to-end encryption.\n \n·\n8w\nObaydullah\nMessages and calls are secured with end-to-end encryption.\n \n·\n30w\nNo chats selected\nCreate a PIN to access your chats on any device\nPersonal chats are secured with end-to-end encryption, so only the people in them can read, listen to, or share messages.\nYou’ll need a PIN to access these chats if you use another browser or device.\nCreate PIN\nMessenger. Press Shift and question mark for keyboard shortcuts."
+  }
+}

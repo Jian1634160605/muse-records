@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-21 14:50:15 UTC",
+  "ts": "2026-11-24 12:47:48 UTC",
   "steps": {
     "close65": {
       "ok": true,
@@ -13,15 +13,8 @@
       "ok": true,
       "r": {
         "ok": true,
-        "opened": [
-          {
-            "profile_id": 38,
-            "debugging_address": "127.0.0.1:6014",
-            "pid": 40416,
-            "open_time": "2026-11-21 22:49:35"
-          }
-        ],
-        "total": 1
+        "opened": [],
+        "total": 0
       }
     }
   }

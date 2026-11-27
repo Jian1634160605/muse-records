@@ -1,0 +1,31 @@
+{
+  "round": 66,
+  "ts": "2026-11-24 15:52:14 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "opened": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 18）：curl: (18) transfer closed with 695 bytes remaining to read\n"
+    },
+    "open65_attempts": [
+      {
+        "n": 1,
+        "result": "FAIL",
+        "err": "调用 POST /open 失败（curl 18）：curl: (18) transfer closed with 70 bytes remaining to read\n"
+      },
+      {
+        "n": 2,
+        "result": "OK",
+        "r": "{'ok': True, 'profile_id': 65, 'debugging_address': '127.0.0.1:59542'}"
+      }
+    ]
+  },
+  "was_open": false
+}

@@ -1,0 +1,122 @@
+{
+ "health": {
+  "ok": true,
+  "agent": "ixbrowser-agent",
+  "version": 10
+ },
+ "opened_start": {
+  "ok": true,
+  "opened": [
+   {
+    "profile_id": 5,
+    "debugging_address": "127.0.0.1:34907",
+    "pid": 10396,
+    "open_time": "2026-11-24 22:07:24"
+   },
+   {
+    "profile_id": 38,
+    "debugging_address": "127.0.0.1:46044",
+    "pid": 19712,
+    "open_time": "2026-11-24 22:10:03"
+   },
+   {
+    "profile_id": 44,
+    "debugging_address": "127.0.0.1:54490",
+    "pid": 42448,
+    "open_time": "2026-11-24 22:15:52"
+   },
+   {
+    "profile_id": 67,
+    "debugging_address": "127.0.0.1:34492",
+    "pid": 15312,
+    "open_time": "2026-11-24 22:12:54"
+   }
+  ],
+  "total": 4
+ },
+ "was_open": false,
+ "open": {
+  "ok": true,
+  "profile_id": 32,
+  "debugging_address": "127.0.0.1:46227"
+ },
+ "check": {
+  "ok": true,
+  "profile_id": 32,
+  "title": "Facebook",
+  "url": "https://www.facebook.com/",
+  "account_name": "Daisy",
+  "name_source": "composer",
+  "page_text_sample": null,
+  "screenshot": "shots/profile_32.png",
+  "debugging_address": "127.0.0.1:46227"
+ },
+ "profile": {
+  "title": "Facebook",
+  "url": "https://www.facebook.com/profile.php?id=61594843222285",
+  "len": 1301,
+  "checkpoint": false,
+  "dialogText": null,
+  "reelLinks": [],
+  "text": " \nManage profile\nDaisy Chambers\nCreator Dashboard\nnotification\n1\nInsights\nContent\nMonetization\nEngagement\nMeta Verified\nSettings\nEdit cover photo\nShare a thought...\nDaisy Chambers \n7 followers • 0 following\nDashboard\nEdit\nBeauty, cosmetic & personal care\nPeople You May Know\nSee all\nChâu Lê\nAdd friend\nGh Os\n1 mutual friend\nAdd friend\nDaisy Chambers\nPersonal details\nApril 12, 1999\nLinks\nfacebook.com\n \n · jianjianmeili.com\nWhat's on your mind?\nLive video\nPhoto/video\nReel\nPosts\nFilters\nManage posts\nList view\nGrid view\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\np\no\no\nn\ne\ns\nt\nr\nS\nd\nb\n3\nf\n1\n2\n0\n1\n:\nm\nN\n3\nu\ne\ne\n7\n2\nm\na\nm\no\nM\n7\ni\n2\n1\nm\n8\n3\n1\n0\n5\nv\n \nu\n9\n5\n \nr\nA\n4\na\n1\nt\n \n5\ni\n2\na\n \n7\nm\n8\n7\n \n·\nShared with Public\nA careful consultation makes all the difference — mapping the face line by hand before planning anything. This is where a good result starts. Which area would you want … See more\nSee insights\n\n\n\n\nComment as Daisy Chambers\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook"
+ },
+ "notifications": {
+  "title": "Notifications | Facebook",
+  "url": "https://www.facebook.com/notifications",
+  "len": 917,
+  "checkpoint": false,
+  "dialogText": null,
+  "reelLinks": [
+   "Unread Pahhip America added 6 new reels: \"Do you think she looks like Selena…\" 1 => https://www.facebook.com/reel/3029675074034534/?from_close_friend=1&notif_id=1795349641000000&notif_t=close_friend_activity&ref=notif",
+   "Unread Manjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: \"No on => https://www.facebook.com/reel/1687477096123764/?notif_id=1795517745000000&notif_t=feedback_reaction_generic&ref=notif",
+   "Unread Damaris Cabrera, Estefania Marquez and 2 other people like Dr.Qinhao22's  => https://www.facebook.com/reel/1181789784385422/?notif_id=1795465632000000&notif_t=feedback_reaction_generic&ref=notif"
+  ],
+  "text": " \nNotifications\nAll\nUnread\nYour push notifications are off\nTurn on notifications to stay connected\nTurn on\nNot now\nNew\nUnread\nNice job. Your reel reached 100 plays. You can watch it again or make a new reel.\n43m·Dr.Qinhao22\nUnread\nPahhip America added 6 new reels: \"Do you think she looks like Selena…\"\n1h·3 reactions · 1 comment\nToday\nUnread\nManjarrez Joanne and Sarah Springs Carter like Dr.Qinhao22's reel: \"No one-size-fits-all anti-aging...\"\n2h·Dr.Qinhao22\nUnread\nYour reel is published. You can also share to Stories, groups and other places.\n2h·Dr.Qinhao22\nUnread\nPahhip America published your scheduled posts for Dr.Qinhao22.\n2h\nEarlier\nUnread\nDamaris Cabrera, Estefania Marquez and 2 other people like Dr.Qinhao22's reel: \"Good consultation matters. Only the...\"\n16h·Dr.Qinhao22\nUnread\nSince you interacted with Victoria Maizie, you may be interested in these similar creators.\n21h\nSee previous notifications"
+ },
+ "tec_haleh": {
+  "error": "step failed"
+ },
+ "greenmango": {
+  "title": "Facelift Support Group | How young is too young to have surgery | Facebook",
+  "url": "https://www.facebook.com/groups/536390454675733/permalink/1334781871503250",
+  "len": 2816,
+  "checkpoint": false,
+  "dialogText": "GreenMango4476's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook",
+  "reelLinks": [
+   "Reels => https://www.facebook.com/reel/?s=tab"
+  ],
+  "text": "Home\nCreate a post\nWhat's on your mind, Daisy?\nCreate story\nShare a photo, video or write something\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\np\nd\ns\ne\no\nt\no\nn\nS\nr\n8\nP\ng\nb\n5\n6\n \ne\n8\n0\n6\nv\n3\nN\nu\n5\n \n1\n5\n6\nc\n1\n2\n8\n0\n \n3\na\nt\n6\nf\nh\n4\n1\nM\n9\n5\n1\n \nc\n0\ne\n5\no\nf\n:\nr\nm\n5\ni\nt\n \n·\nShared with Public\nDr. Qin Hao on what makes a natural result — structure first, balance always. What would you ask him in a consultation?\n0:00 / 0:10\nSee insights\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGreenMango4476's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nGreenMango4476\n \n·\nS\nr\ne\nn\nd\no\no\ns\np\nt\nf\na\nJ\n2\n3\nh\n6\ng\nu\n6\n6\nu\n1\nf\nn\n5\nl\n4\nh\n1\n3\nc\nc\n6\nf\n3\n \n8\n5\ng\nt\n3\n9\n0\n1\n6\n9\n4\nf\n0\n0\ne\n4\n2\n8\n6\n1\n0\n5\n7\n \n·\nHow young is too young to have surgery? One side of my face is heavy/bloated looking compared to the other. I dont know the best option for me but so insecure\n2\n5\nMost relevant\nDr Carl's Truesdales, M.D.\n \n·\n21w\n \n·\nFollow\nAge alone isn't the deciding factor—it's your anatomy, concerns, and goals. Facial asymmetry is very common, and one side appearing heavier doesn't always require surgery. The best first step is a consultation with a board-certified facial plastic surgeon to determine the cause and discuss whether non-surgical treatments or surgery would be most appropriate. A personalized evaluation is always the safest approach\nReply\nShare\nGreenMango4476\n \n·\n21w\nDr Carl's Truesdales, M.D. how long does a face-lift usually last?\nReply\nShare\nBeachme01\n \n·\n21w\nMaybe surgery is not the answer . Fully address your overall health\nReply\nShare\nGreenMango4476\n \n·\n21w\nSundaySwimgal_ my health is overall good\nReply\nShare\nDaisy Chambers\nI asked myself the exact same 'too young' question — one side of my face always looked heavier in photos too, and it made me feel self-conscious for years. What finally helped me was a consult where the surgeon looked at the asymmetry itself instead of my age, because the fix depends on what's actually causing the heaviness. Is it mostly the heaviness on one side that bothers you, or the worry that you're too young for surgery at all?\nPending\nLearn more\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n\n\n\n\nAnswer as Daisy"
+ },
+ "how_often": {
+  "title": "Facelift Support Group | How often does a facelift need to be redone | Facebook",
+  "url": "https://www.facebook.com/groups/536390454675733/permalink/1348280020153435/",
+  "len": 3936,
+  "checkpoint": false,
+  "dialogText": "Anonymous participant's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nF",
+  "reelLinks": [
+   "Reels => https://www.facebook.com/reel/?s=tab"
+  ],
+  "text": "Home\nCreate a post\nWhat's on your mind, Daisy?\nCreate story\nShare a photo, video or write something\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\nS\nd\ns\ne\nt\nn\no\nr\np\no\na\ne\ni\nf\nm\n:\ni\nb\nm\nm\n \n5\n5\n9\n5\n7\nr\ni\nl\n3\nc\nu\n \n9\nu\no\na\n5\n1\n0\na\n0\ng\ng\nt\n9\n3\nv\n \n \n7\ni\nu\nM\nN\nf\nu\nP\n7\ne\n \n·\nShared with Public\nmall tweak, huge confidence boost. I love how my nose fits my face from every angle.\n#SubtleRhinoplasty #NoseContouring #FacialAesthetics #RhinoplastyJourney #NaturalRe… See more\n0:00 / 0:13\nSee insights\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nAnonymous participant's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nAnonymous participant\n \n·\nS\nd\ns\ne\nt\nn\no\nr\np\no\n1\n6\ni\nf\nm\n5\ni\n0\nm\nh\nt\ny\n5\n9\n5\n2\n5\ni\nl\nm\nc\nu\ng\n9\nu\nu\na\n3\n1\n0\na\n0\ng\ng\nu\n9\n3\nl\n1\n \n7\ni\nu\n2\nJ\nf\nu\n9\n7\nh\n \n·\nHow often does a facelift need to be redone? If I were to get one in my early 40’s about how long would it last? TIA!\n4\n26\n1\nMost relevant\nLisa Haws\n \n·\n18w\nThis is an interesting question because you will always have a new set point. You will always look better than you would have had you not gotten a FL. Now will you want more done later? Possibly. Does it completely fall apart? No\nReply\nShare\nZara Bennett\n \n·\n18w\nMy doctor said if I go back yearly for C02 fractional laser and fat transfer under my eyes that it will last me 20 to 30 years I’m 49.\nReply\nShare\nEdited\nTheresa Webster Kennedy\n \n·\n18w\nBy reviewing 30 years of patient data, researchers tracked exactly how long a deep plane facelift preserves its effects before a patient seeks a touch-up. They discovered that patients returned for a revision surgery an average of 11 years (specifically 10.9 years) after their primary procedure. Study out June 2026\nReply\nShare\nKate Kvinge Burch\n \n·\n18w\nJust to give you a different perspective, my mom had hers done 40 years ago. Of course she's aged but she looks lovely for an 85 year old. I'd share her picture but she'd get mad at me. Even if you have it done, you're still going to see the effects years later and it will be worth it\nReply\nShare\nView 1 reply\nRelaxingChestnut6169\n \n·\n18w\nDepends on many many factors… when you go through menopause, consistent weight management, and your unique skin, sun protection and skin care! There is no guarantee or definite number of years a lift will last. Another major factor is the type. A deep plan typically lasts longer\nThan a SMAS.\nReply\nShare\nEdited\nView 2 replies\nMarina Marnock\n \n·\n18w\n10 - 15 years\nReply\nShare\nAmbitiousHeron1755\n \n·\n18w\nThe real answer to this has to do with you. Does your weight fluctuate often ? Do you eat healthy and exercise. Are you constantly in the sun, do you smoke, get good sleep and do you use daily sunscreen? As for the correct timing to get face and neck lift is when you've lost weight (if over weight) and are able to maintain it after the surgery. After all the above is addressed, a true deep plane face and necklift should last you 10 to 15 years.\nReply\nShare\nTheresa Webster Kennedy\n \n·\n18w\nThey average 11 years.\nReply\nShare\nPleasantGiraffe506\n \n·\n18w\nHas to be done again or only if we want it?\nReply\nShare\nView 1 reply\nJoy Melville\n \n·\n18w\nI’m on my third - one in 30s, 40s and now at 55 but this will be my last \nReply\nShare\nView 2 replies\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n\n\n\n\nAnswer as Daisy"
+ },
+ "group_feed": {
+  "title": "Facelift Support Group | Facebook",
+  "url": "https://www.facebook.com/groups/536390454675733",
+  "len": 2595,
+  "checkpoint": false,
+  "dialogText": null,
+  "reelLinks": [],
+  "text": " \nFacelift Support Group\nPublic group\n \n·\n127.4K members\nJoin group\nShare\nMore\nAbout\nDiscussion\nFeatured\nPeople\nEvents\nMedia\nFiles\nFacelift Support Group\nJoin group\nShare\nWrite something...\nAnonymous post\nFeeling/activity\nPoll\nFeatured\n1 new \nFeatured content badge\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGloria Rosado\ne\np\nS\nt\nd\no\no\ns\nn\nr\nt\n9\n1\n7\n9\nu\nc\n3\n1\n2\n0\n9\na\nt\nl\n7\nt\n6\n7\n0\n8\nh\n2\n2\n7\n4\nc\n2\na\nl\nc\nm\n2\n6\nl\n6\n1\n7\nf\nh\n9\n1\n0\n6\nh\n9\nc\n1\n9\n6\n \n·\nLadies, I want to look youthful again. What would you suggest? I am almost 50. I dont wanna wait too long. Saving now.\n34\n133\n2\nView more answers\nLori Anderson Zeitler\n \n·\n18h\nCo2 to rejuvenate skin, thats it\nReply\nShare\nView 2 replies\n\n\n\n\nAnswer as Daisy\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nJoy Pedrazzo\n \n·\nWhat doctors in Turkey did y’all use and like?\n3\n32\nView more comments\nVeronica Ten Eyck\n \n·\n2d\n \n·\nFollow\nIf you are tired of all the drama in these groups...and anonymous keyboard warriors posting hateful comments, I started a new … See more\nReply\nShare\nView 8 replies\n\n\n\n\nComment as Daisy\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nVictoria Litvinoff\n \n·\nI’m almost 62 years old. What do you guys recommend besides a deep plane facelift and neck lift for me? I had an upper and lower blepharoplasty already.\n30\n148\nView more answers\nBarbara Jaren\n \n·\n5d\nAlways ask this question of a surgeon that you respect. From my perspective, I would add an upper and lower bleph and possibly… See more\nReply\nShare\nView 3 replies\n\n\n\n\nAnswer as Daisy\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n2 days ago\n5 days ago\nLearn More"
+ },
+ "search_dpf": {
+  "error": "step failed"
+ },
+ "search_facelift": {
+  "error": "step failed"
+ },
+ "selena_reel": {
+  "skipped": "no link in notifications"
+ },
+ "loreida": {
+  "error": "step failed"
+ }
+}

@@ -1,0 +1,70 @@
+{
+  "ts": "2026-11-24 16:48:01 UTC",
+  "steps": {
+    "close65_#1": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "closed": true
+      }
+    },
+    "opened_after": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:34907",
+            "pid": 10396,
+            "open_time": "2026-11-24 22:07:24"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:46227",
+            "pid": 38892,
+            "open_time": "2026-11-24 22:21:24"
+          },
+          {
+            "profile_id": 35,
+            "debugging_address": "127.0.0.1:32508",
+            "pid": 23564,
+            "open_time": "2026-11-24 23:19:13"
+          },
+          {
+            "profile_id": 38,
+            "debugging_address": "127.0.0.1:46044",
+            "pid": 19712,
+            "open_time": "2026-11-24 22:10:03"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:17724",
+            "pid": 24052,
+            "open_time": "2026-11-24 23:13:27"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:34492",
+            "pid": 15312,
+            "open_time": "2026-11-24 22:12:54"
+          },
+          {
+            "profile_id": 102,
+            "debugging_address": "127.0.0.1:45750",
+            "pid": 13928,
+            "open_time": "2026-11-25 00:24:55"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:49007",
+            "pid": 41004,
+            "open_time": "2026-11-25 00:30:09"
+          }
+        ],
+        "total": 8
+      }
+    }
+  }
+}

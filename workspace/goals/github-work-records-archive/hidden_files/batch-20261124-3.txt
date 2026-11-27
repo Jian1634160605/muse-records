@@ -1,0 +1,12 @@
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261123-daytime.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261123.json
+workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build-cvm/manifest.json
+workspace/goals/goal/briefs/.artifacts/letter-3e128ce38ec2/.space-build-cvm/manifest.json
+workspace/goals/new-ig-account-content-operations/hidden_files/fb-warm_log.md
+workspace/goals/x/hidden_files/fb-friends-seen.json
+workspace/goals/x/hidden_files/fb-lead-scan-log.md
+workspace/goals/x/hidden_files/fb-reply-seen-part1.md
+workspace/system/system_prompt.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498733-o1129:research/run:proactive_notification:phase-498733-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498743-o1129:research/run:proactive_notification:phase-498743-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498744-o1129:research/run:proactive_notification:phase-498744-o1129:high:item:1.md

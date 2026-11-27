@@ -1,0 +1,33 @@
+{
+  "round": "2026-11-27 05:12 fb-hunt-p32",
+  "probes": [
+    {
+      "time": "~05:49",
+      "port": 8765,
+      "label": "initial",
+      "ok": false,
+      "error": "curl 52 Empty reply from server"
+    },
+    {
+      "time": "21:52:44",
+      "port": 8765,
+      "label": "retry-1",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "time": "21:54:23",
+      "port": 8765,
+      "label": "retry-2",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "time": "21:54:31",
+      "port": 8766,
+      "label": "v15-backup",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ]
+}

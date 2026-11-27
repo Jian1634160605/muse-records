@@ -1,0 +1,34 @@
+{
+  "round": "verify zhakie reply",
+  "steps": {
+    "click_comment": {
+      "ok": true,
+      "out": {
+        "found": 2,
+        "clicked": "评论，80条评论"
+      }
+    },
+    "expand1": {
+      "ok": true,
+      "out": {
+        "len": 2678,
+        "hasDraftStart": false,
+        "hasDraftEnd": false,
+        "zhakieIdx": 2000,
+        "draftCtx": "",
+        "zhakieCtx": "gkano\n回复\nLesner Resler\n \n·\n1周\nDol San pa kau ang surgery\n回复\nZhakie Yourk\n \n·\n1周\nSaang kpo nagpa rhinoplasty?\n回复\n查看1条回复\nErika Orofino\n \n·\n1周\nPart 2\n回复\n查看1条回复\nNancy Amor\n \n·\n2周\n它的费用是多少？\n回复\n查看原文（英语）\n查看1条回复\nElmalyn Perez Tejero\n \n·\n2周\n \n·\n关注\n更新您支付了多少钱，以及马尼拉的诊所在哪里？\n回复\n查看原文（菲律宾语）\nرينا منخفض\n \n·\n2周\n它的价格是多少，而且在哪里制造的\n回复\n查看原文（菲律宾语）\n查看1条回复\nDaisy Tandang Telebrico\n \n·\n2周\n多少钱？\n回复\n查看原文（英语）\n查看1条回复\nAko Ang Nagwagi\n \n·\n1周\nsan ka nagpa nose job mommy?\n回复\nJheyssa Eslava Ochoco\n \n·\n3周\n \n·\n作者留下了心情\n回复\nCutcat Leeyahoo\n \n·\n5小时\n几天前\n回复\n查看原文（菲律宾语）\nMichelle Ducay Dumagsa\n \n·\n2周\n \n·\n关注\n您花了多少钱，女士？\n回复\n查看原文（菲律宾语）\n查看1条回复\nAshleyHeart Rojas\n \n·\n2周\nKOSMED\n回复\nErika Orofino\n \n·\n1周\nPart 2\n回复\nNora Malibiran\n \n·\n2周\n你在哪里做的？多少钱？谢谢\n回复\n查看原文（菲律宾语）\n查看隐藏的评论\n40/43\n\n\n\n\n以 Bertie Harmony 的身份评论\nReels"
+      }
+    },
+    "expand2": {
+      "ok": true,
+      "out": {
+        "len": 2678,
+        "hasDraftStart": false,
+        "hasDraftEnd": false,
+        "zhakieIdx": 2000,
+        "draftCtx": "",
+        "zhakieCtx": "gkano\n回复\nLesner Resler\n \n·\n1周\nDol San pa kau ang surgery\n回复\nZhakie Yourk\n \n·\n1周\nSaang kpo nagpa rhinoplasty?\n回复\n查看1条回复\nErika Orofino\n \n·\n1周\nPart 2\n回复\n查看1条回复\nNancy Amor\n \n·\n2周\n它的费用是多少？\n回复\n查看原文（英语）\n查看1条回复\nElmalyn Perez Tejero\n \n·\n2周\n \n·\n关注\n更新您支付了多少钱，以及马尼拉的诊所在哪里？\n回复\n查看原文（菲律宾语）\nرينا منخفض\n \n·\n2周\n它的价格是多少，而且在哪里制造的\n回复\n查看原文（菲律宾语）\n查看1条回复\nDaisy Tandang Telebrico\n \n·\n2周\n多少钱？\n回复\n查看原文（英语）\n查看1条回复\nAko Ang Nagwagi\n \n·\n1周\nsan ka nagpa nose job mommy?\n回复\nJheyssa Eslava Ochoco\n \n·\n3周\n \n·\n作者留下了心情\n回复\nCutcat Leeyahoo\n \n·\n5小时\n几天前\n回复\n查看原文（菲律宾语）\nMichelle Ducay Dumagsa\n \n·\n2周\n \n·\n关注\n您花了多少钱，女士？\n回复\n查看原文（菲律宾语）\n查看1条回复\nAshleyHeart Rojas\n \n·\n2周\nKOSMED\n回复\nErika Orofino\n \n·\n1周\nPart 2\n回复\nNora Malibiran\n \n·\n2周\n你在哪里做的？多少钱？谢谢\n回复\n查看原文（菲律宾语）\n查看隐藏的评论\n40/43\n\n\n\n\n以 Bertie Harmony 的身份评论\nReels"
+      }
+    }
+  }
+}

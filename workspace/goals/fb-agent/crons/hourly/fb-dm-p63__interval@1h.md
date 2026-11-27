@@ -1,7 +1,7 @@
 ---
 id: fb-dm-p63
 title: IG 私信 elaina（profile 63）每 60 分钟
-enabled: true
+enabled: false
 owner: goal:fb-agent
 mode: task
 schedule:

@@ -1,0 +1,24 @@
+{
+  "round": "fb-hunt-p32 2026-11-27 02:12",
+  "probes": [
+    {
+      "n": 1,
+      "at": "18:35:50",
+      "call": "health",
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 2,
+      "at": "18:37:28",
+      "call": "health",
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 3,
+      "at": "18:39:06",
+      "call": "health",
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ],
+  "agent_ok": false
+}

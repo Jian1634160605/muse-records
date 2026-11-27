@@ -1,0 +1,557 @@
+{
+  "round": "2026-11-25 05:24 fb-hunt-p35 round 69",
+  "started_local": "2026-11-24 21:25:28 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "opened-before": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "raw": {
+          "ok": true,
+          "opened": [
+            {
+              "profile_id": 5,
+              "debugging_address": "127.0.0.1:34907",
+              "pid": 10396,
+              "open_time": "2026-11-24 22:07:24"
+            },
+            {
+              "profile_id": 32,
+              "debugging_address": "127.0.0.1:46227",
+              "pid": 38892,
+              "open_time": "2026-11-24 22:21:24"
+            },
+            {
+              "profile_id": 35,
+              "debugging_address": "127.0.0.1:32508",
+              "pid": 23564,
+              "open_time": "2026-11-24 23:19:13"
+            },
+            {
+              "profile_id": 38,
+              "debugging_address": "127.0.0.1:46044",
+              "pid": 19712,
+              "open_time": "2026-11-24 22:10:03"
+            },
+            {
+              "profile_id": 44,
+              "debugging_address": "127.0.0.1:17724",
+              "pid": 24052,
+              "open_time": "2026-11-24 23:13:27"
+            },
+            {
+              "profile_id": 67,
+              "debugging_address": "127.0.0.1:34492",
+              "pid": 15312,
+              "open_time": "2026-11-24 22:12:54"
+            },
+            {
+              "profile_id": 102,
+              "debugging_address": "127.0.0.1:45750",
+              "pid": 13928,
+              "open_time": "2026-11-25 00:24:55"
+            },
+            {
+              "profile_id": 108,
+              "debugging_address": "127.0.0.1:49007",
+              "pid": 41004,
+              "open_time": "2026-11-25 00:30:09"
+            }
+          ],
+          "total": 8
+        },
+        "pids": [
+          "5",
+          "32",
+          "35",
+          "38",
+          "44",
+          "67",
+          "102",
+          "108"
+        ],
+        "detail": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:34907",
+            "pid": 10396,
+            "open_time": "2026-11-24 22:07:24"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:46227",
+            "pid": 38892,
+            "open_time": "2026-11-24 22:21:24"
+          },
+          {
+            "profile_id": 35,
+            "debugging_address": "127.0.0.1:32508",
+            "pid": 23564,
+            "open_time": "2026-11-24 23:19:13"
+          },
+          {
+            "profile_id": 38,
+            "debugging_address": "127.0.0.1:46044",
+            "pid": 19712,
+            "open_time": "2026-11-24 22:10:03"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:17724",
+            "pid": 24052,
+            "open_time": "2026-11-24 23:13:27"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:34492",
+            "pid": 15312,
+            "open_time": "2026-11-24 22:12:54"
+          },
+          {
+            "profile_id": 102,
+            "debugging_address": "127.0.0.1:45750",
+            "pid": 13928,
+            "open_time": "2026-11-25 00:24:55"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:49007",
+            "pid": 41004,
+            "open_time": "2026-11-25 00:30:09"
+          }
+        ]
+      }
+    },
+    "check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "profile_id": 35,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\n在线状态指示标\n在线\nKelly Gowland\n3天前\n2026年11月21日周六13:14\n3天\n \n·\n5\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nHG Sports App",
+        "screenshot": "shots/profile_35.png",
+        "debugging_address": "127.0.0.1:32508"
+      }
+    },
+    "identity_home": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "hasBertie": true,
+        "profileLinks": 2,
+        "text": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\n在线状态指示标\n在线\nKelly Gowland\n3天前\n2026年11月21日周六13:14\n3天\n \n·\n5\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\n广告带来客户，SaleSmartly 帮你接住！\nhttps://www.salesmartly.com"
+      }
+    },
+    "notifications": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "通知 | Facebook",
+        "url": "https://www.facebook.com/notifications",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n通知\n全部\n未读\n更早的通知\n未读\n你的快拍现在将自动保存到私密文件夹中。你可以随时在设置中更改。\n1天\nDr. Qin Hao Eye Rejuvenation 回复了你给 TA 的 Reels 留下的评论。\n2天\n未读\n你获得了 Chen AnYun 的热衷粉丝徽章，立即接受徽章吧。\n2天\n未读\n你获得了 Mommy Ansel & Daddy Ambo 的热衷粉丝徽章，立即接受徽章吧。\n2天\n未读\n你有新的推荐好友：‎احمد شفیق یوسفی‎ 。\n3天\n未读\nPrincess Amore Otuiqram 在评论中提及你\n3天\n查看之前的通知"
+      }
+    },
+    "recheck_mommy_ansel": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/reel/28832179433075058",
+        "len": 81,
+        "countMatch": null,
+        "hasBertieComment": false,
+        "text": " \nMommy Ansel & Daddy Ambo\n \n·\n关注\n第1部分 | 我的鼻整形之旅… 展开\n隐藏翻译\n203\n82\n24\n231\n3\n7\nReels"
+      }
+    },
+    "recheck_mar_gie": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/reel/1597202242446026",
+        "len": 89,
+        "countMatch": null,
+        "hasBertieComment": false,
+        "text": " \nMar Gie\n \n·\n关注\n﻿Mar Gie · 原声\nRhinoplasty journey  #rhinoplasty\n494\n87\n18\n216\n42\n6\nReels"
+      }
+    },
+    "recheck_rus_ep1": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/reel/1810144673209710",
+        "len": 66,
+        "countMatch": null,
+        "hasBertieComment": false,
+        "text": " \nRus Recently\n \n·\n关注\n我一天的生活 🎬\n… 展开\n隐藏翻译\n514\n47\n39\n343\n27\n3\nReels"
+      }
+    },
+    "recheck_rus_ep4": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Facebook",
+        "url": "https://www.facebook.com/reel/1690241576109635",
+        "len": 69,
+        "countMatch": null,
+        "hasBertieComment": false,
+        "text": " \nRus Recently\n \n·\n关注\n我一天的生活 🎬\n… 展开\n隐藏翻译\n559\n32\n28\n2,379\n44\n25\nReels"
+      }
+    },
+    "recheck_lily": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "Something I’ve had a lot of thought about but... - Lily Ella Wrench | Facebook",
+        "url": "https://www.facebook.com/lily.wrench.37/posts/pfbid0gbN28zcDyX4Np23qds7EYNVmC4zSLHTXX85KZj4RUcAu18WH7qTMcuE6KpfxTxt9l",
+        "len": 2205,
+        "countMatch": null,
+        "hasBertieComment": true,
+        "text": "首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月16日周一12:00\n11月16日12:00\n \n·\n分享对象： 公开\nNatural facelift: people notice you look younger, without obvious surgical marks\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:00 / 0:11\n查看成效分析\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\n广告带来客户，SaleSmartly 帮你接住！\nhttps://www.salesmartly.com\nLily Ella Wrench 的帖子\nLily Ella Wrench\n6天前\n2026年11月18日周三12:55\n6天\n \n·\nSomething I’ve had a lot of thought about but recommendations for a surgery in turkey for rhinoplasty. And prices please\n bonus points for before and after pics. Or does anyone do liquid rhinoplasty\n查看翻译\n29\nBertie Harmony\n \n·\n2天\nLily, Turkey quotes can look miles apart for the same nose — mostly because they don't include the same things. What I look at first now is the support underneath, because that's what still looks natural a year later. Are you leaning toward the surgical route, or is the liquid option tempting you more?\n回复\nLeanne Watson\n \n·\n6天\n \n·\n作者留下了心情\nYou can get liquid non surgical rhinoplasty. Something I’m looking into getting Here is a photo. Not my work or me but I love the results and I’m considering booking after years of being so uncomfortable with my nose\n回复\n查看翻译\n查看4条回复\nRuby Jo Malcolm\n \n·\n6天\n \n·\n作者留下了心情\nDr Kerim Unal is insane at nose jobs and he is reasonably priced, I know loads of girls who have been to him xx\n回复\n查看翻译\nTia Maitland\n \n·\n6天\nThere’s nothing wrong with ur nose !!!! People pay for a nose like yours!\n回复\n查看翻译\n查看3条回复\nChloe J Brant\n \n·\n5天\n \n·\n作者留下了心情\nAesthetics by Amo does liquid rhinoplasties xx\n回复\n查看翻译\n查看3条回复\nAbbs Amanda\n \n·\n5天\n \n·\n作者留下了心情\nHoney Haggan dose them hunnie have a look on her page xx\n回复\n查看翻译\n已编辑\nCaroline Close\n \n·\n5天\nU av a lovely little nose lily. Lots ppl would be happy .\nU r not getting it done. Xxx\n回复\n查看翻译\nKirby Dowson\n \n·\n5天\n \n·\n作者留下了心情\nLily you definitely don’t need it there’s absolutely nothing wrong with your nose\n回复\n查看翻译\nHoney Haggan\n \n·\n5天\nI do liquid rhinoplasty babe if you have a look at the highlights on instagram you’ll see loads!xx\n回复\n查看翻译\nEl Court\n \n·\n6天\n \n·\n作者留下了心情\nLeave ur nose alone you’re nose is beautiful xx\n回复\n查看翻译\n\n\n\n\n以 Bertie Harmony 的身份评论"
+      }
+    },
+    "search_rhinoplasty": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\nIsabel Luche\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年8月5日周三05:34\n8月5日\n \n·\n7 months post-op\nT… 展开\n查看翻译\n0:09 / 0:14\n5,978\n74\n204\nDutch-Pinay in the Netherlands 和 Carlito Dimaano Jr., ENT - Facial Plastic Surgeon · 在 EPIC Aesthetics\n2026年7月29日周三18:15\n7月29日\n \n·\n菲律宾 · 中米沙鄢 · 宿雾市\n \n·\nBefore and after Rhinoplasty+ upper Blepharoplasty \n Forever greatful to my best surgeon\n #dimaanobaby #EpicAesthetics #twoweekspostop\n查看翻译\n335\n164\n17\nPhilippine Star\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n2026年7月15日周三01:53\n7月15日\n \n·\n'IT'S ABOUT FINALLY FEELING LIKE MYSELF' \n… 展开\n查看翻译\n+3\n5,914\n1,184\n127"
+      }
+    },
+    "search_nose_job": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "nose job - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=nose%20job",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nnose job\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n在线状态指示标\n在线\nCarl Truesdale, M.D.\n \n·\n关注\n2026年11月11日周三17:45\n11月11日17:45\n \n·\n美国 · 加利福尼亚 · 比佛利山\n \n·\nBlink and you’ll miss it \n Talk about side profile facial balancing!— 在 Los Angeles, California… 展开\n查看翻译\n0:09 / 0:15\n6,629\n383\n36\nHooked On The Look\n \n·\n关注\n2026年11月15日周日01:00\n11月15日01:00\n \n·\n\"My surgeon used cartilage from a cadaver during my nose job – I almost lost my nose\" \n #fblifestyle #reels\n查看翻译\n143\n53\n6\n在线状态指示标\n在线\nClara V Clinic\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年11月4日周三07:52\n11月4日07:52\n \n·\n1 month post rhinoplasty\n #goretexrhinoplastyrhinoplasty\n查看翻译\n2,874\n327\n107\nMakeup by Katie\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年7月4日周六17:13\n7月4日\n \n·\nand you know what jokes on me bc the first nose job did in fact ruin my face LMAO i’m so glad I went 2 for 2 bc my breathing has never been better… 展开\n查看翻译\n3.2 万\n591\n112"
+      }
+    },
+    "search_considering": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "considering rhinoplasty - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=considering%20rhinoplasty",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nconsidering rhinoplasty\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nRhinoplasty Doc Ruthlyn Babies\n公开 · 1,068 位成员\n加入\nPlastic Surgery Support Group Q&A\n公开 · 2,557 位成员 · 10+ 篇帖子/天\n加入\n查看全部\nRhinoplasty and Revision Rhinoplasty\nLivelyCaterpillar7323\n \n·\n2026年11月3日周二11:25\n11月3日11:25\n \n·\nRevision rhino in turkey went wrong- now finally fixed!\nI just wanted to share my story because there’s such a scare around filler.\nI had revision in turkey and caught an infection, this resulted in necrosis. Over the journey of a year my skin retracted and I actually ended up with a huge dent in the tip of my nose where I lost all fat.\nI had 3 options-\n展开\n查看翻译\n+3\n24\n36\n在线状态指示标\n在线\nRichard Enrique ENTMD\n \n·\n关注\n2026年11月10日周二16:54\n11月10日16:54\n \n·\n#rhinoplastyserye… 展开\n查看翻译\n170\n15\n8"
+      }
+    },
+    "search_journey": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty journey - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20journey",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty journey\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nRhinoplasty Doc Ruthlyn Babies\n公开 · 1,068 位成员\n加入\nRHINOPLASTY JOURNEY 👃\n公开 · 316 位成员\n加入\n查看全部\nKbeauty.projct\n赞助内容\n \n · \n忙碌的一天，也要留時間給自己的皮膚 \n今天的第一站，是 Re:Berry Clinic 리베리의원 永宗島店… 展开\n0:00 / 1:30\nTHEREBERRYCLINIC.COM\n永宗島皮膚管理｜中文室長一對一諮詢 \n详细了解\n18\nRus Recently\n \n·\n关注\n2026年11月15日周日22:37\n11月15日22:37\n \n·\nA DAY IN MY LIFE \nEP. 4 | My Rhinoplasty Journey \n (Suture Removal)… 展开\n查看翻译\n559\n32\n28\n在线状态指示标\n在线\nMommy Ansel & Daddy Ambo\n \n·\n关注\n2026年11月3日周二03:00\n11月3日03:00\n \n·\nPart 1 | My Rhinoplasty Journey… 展开\n查看翻译\n203\n82\n24"
+      }
+    },
+    "search_cost": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty cost - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20cost",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty cost\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nRhinoplasty Doc Ruthlyn Babies\n公开 · 1,068 位成员\n加入\nSurgiForm Rhinoplasty PH Support Group 🇵🇭 Innovation\n公开 · 7,594 位成员\n加入\n查看全部\nFacelift Support Group\nResilientSeal9294\n \n·\n2026年10月1日周四13:51\n10月1日\n \n·\nMy head is spinning! \n \nI’m looking to have a facelift and rhinoplasty at the same time…. Has anyone had this and could recommend good surgeon’s? Cost would be helpful too \n \nI’m UK \n based but thinking of Turkey \n or Lithuania \n for the procedure. \nThank you in advance \n— 在英格兰\n查看翻译\n地区\n英国英格兰\nKelly Gowland 来过\n2\n34\n公共主页\nBest Rhinoplasty India\n整形外科 · 100% 推荐 · $$ · 休息中 · 1,610 位粉丝\n关注\nRhinoplasty Society of India\n非营利组织 · 1,060 位粉丝\n关注\nRhinoplasty Dr Saadat Pakistan\n外科医生 · 98% 推荐 · 巴基斯坦旁遮普省巴哈瓦尔布尔 · 24 小时营业 · 2.4 万位粉丝\n关注\n查看全部\nReema Schonbeck\n \n·\n关注\n2026年11月3日周二04:35\n11月3日04:35\n \n·\nNight 1 Post-Op Update \nT… 展开\n查看翻译\n54\n18\n1"
+      }
+    },
+    "search_philippines": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty philippines - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20philippines",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty philippines\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Doc Ruthlyn Babies\n公开 · 1,068 位成员\n加入\nREVISION RHINOPLASTY PHILIPPINES\n公开 · 74 位成员\n加入\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\n查看全部\n公共主页\nDr. Leon Rhinoplasty Philippines\n整形外科 · Philippines, 菲律宾，宿霧市 · 24 小时营业 · 9,735 位粉丝\n关注\nDr.Bu Nose Rhinoplasty Philippines\n数字内容创作者 · 2,641 位粉丝\n关注\nRhinoplasty Diary Philippines\n数字内容创作者 · 1.1 万位粉丝\n关注\n查看全部\n在线状态指示标\n在线\nMagallona Plastic Surgery Clinic - MPSC\n \n·\n关注\n2026年10月15日周四15:38\n10月15日\n \n·\n IT’S ALL IN THE DETAILS! A LITTLE REFINEMENT, A WHOLE NEW PERSPECTIVE. \nD… 展开\n查看翻译\n28\n12\n2\nPatrick David Tan\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年10月29日周四18:39\n10月29日18:39\n \n·\n“Doc, make it look as natural as possible.” \n… 展开\n查看翻译\n4\n\n\n\n\n以 Bertie Harmony 的身份评论"
+      }
+    },
+    "search_turkey": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty turkey - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20turkey",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty turkey\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nRhinoplasty in Turkey\n公开 · 33 位成员\n加入\nRhinoplasty in Turkey - real experiences, doctor suggestions\n公开 · 5.9 万位成员 · 20+ 篇帖子/天\n加入\n查看全部\n公共主页\nPlastic Surgery Clinics Turkey\n医疗与健康 · 1.6 万位粉丝\n关注\nPlastic Surgery Turkey Group\n医疗与健康 · iTower Bomonti, Merkez, Akar Cd. No:3 Kat:4 Daire:26, 土耳其伊斯坦堡省伊斯坦堡 · 24 小时营业 · 5,004 位粉丝\n关注\nVip rhinoplasty 34\n保健/美容 · 1,284 位粉丝\n关注\n查看全部\nLily Ella Wrench\n6天前\n2026年11月18日周三12:55\n6天\n \n·\nSomething I’ve had a lot of thought about but recommendations for a surgery in turkey for rhinoplasty. And prices please\n bonus points for before and after pics. Or does anyone do liquid rhinoplasty\n查看翻译\n29\nFacelift Support Group\n匿名互动者\n \n·\n2026年10月3日周六02:06\n10月3日\n \n·\nHi everyone, I’m looking for recommendations for rhinoplasty in Turkey.\nWhich surgeon, doctor or clinic would you genuinely recommend for a good rhinoplasty? And are there any surgeons or clinics you would advise people to stay away from based on your own experience?\nI’d really appreciate hearing about your experiences, including the surgeon/clinic you went with and whether you were happy with your results. \n… 展开\n查看翻译\n1\n7\nOp.Dr.Muhammet Dilber\n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n · 在 Op.Dr.Muhammet Dilber\n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年10月15日周四12:26\n10月15日\n \n·\n土耳其 · 伊斯坦布尔\n \n·\n7 years post rhinoplasty surgery… 展开\n查看翻译\n93\n5\nDr. Oğuzhan Oğuz 在土耳其 · 伊斯坦布尔\n \n·\n关注\n2026年8月31日周一12:03\n8月31日\n \n·\nAlmost one year later through her own lens \n… 展开\n查看翻译\n304\n85\n14"
+      }
+    },
+    "search_want": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "want a nose job - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=want%20a%20nose%20job",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nwant a nose job\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Istanbul - FB Community who want to have a nose job in Istanbul\n公开 · 230 位成员\n加入\nDental Clinics Turkey - Experiences and Reviews Turkey\n公开 · 9.5 万位成员 · 20+ 篇帖子/天\n加入\nTurkey Teeth\n公开 · 1.1 万位成员 · 每天 10 篇帖子\n加入\n查看全部\nRhinoplasty and Revision Rhinoplasty\n匿名互动者\n \n·\n2026年10月17日周六04:01\n10月17日\n \n·\nHey guys! I'm planning to get my nose done by Dr. Başak Çaypınar. Has anyone here been operated on by her or knows a girl who has? Would love to hear your thoughts or experiences!\n查看翻译\n1\n3\nAlmost There\n \n·\n关注\n2026年7月16日周四11:31\n7月16日\n \n·\nA 22-year-old model went viral after saying she got a nose job for a reason that left the internet stunned.… 展开\n查看翻译\n423\n117\n17"
+      }
+    },
+    "search_before_after": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty before after - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20before%20after",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty before after\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Doc Ruthlyn Babies\n公开 · 1,068 位成员\n加入\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nSurgiForm Rhinoplasty PH Support Group 🇵🇭 Innovation\n公开 · 7,594 位成员\n加入\n查看全部\nLily Ella Wrench\n6天前\n2026年11月18日周三12:55\n6天\n \n·\nSomething I’ve had a lot of thought about but recommendations for a surgery in turkey for rhinoplasty. And prices please\n bonus points for before and after pics. Or does anyone do liquid rhinoplasty\n查看翻译\n29\nDr. Oğuzhan Oğuz 在土耳其 · 伊斯坦布尔\n \n·\n关注\n2026年8月31日周一12:03\n8月31日\n \n·\nAlmost one year later through her own lens \n… 展开\n查看翻译\n304\n85\n14\nSanaz Harirchian MD - Facial Plastic Surgery 在美国 · 休斯敦\n \n·\n关注\n2026年9月23日周三13:31\n9月23日\n \n·\n5 months post-rhinoplasty \n … 展开\n查看翻译\n62\n25\n4"
+      }
+    },
+    "search_recovery": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty recovery - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20recovery",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty recovery\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nRhinoplasty Story UK - Result UK\n公开 · 330 位成员\n加入\nRhinoplasty Support Group\n非公开 · 4.6 万位成员 · 10+ 篇帖子/天\n加入\n查看全部\nMy Munch Bug - Melanie Potock\n \n·\n关注\n约 1 小时前\n2026年11月24日周二12:12\n1小时\n \n·\n ONE WEEK after my AWAKE rhinoplasty, and today was the day I’ve been waiting for! THE SPLINT CAME OFF! \nI’… 展开\n查看翻译\n0:08 / 0:26\n7\n2\nFacelift Support Group\nForeverYoungWish\n \n·\n4天前\n2026年11月20日周五00:34\n4天\n \n·\nI just wish those doctors will post photos of the recovery days of their patients, in particular the first 5 days.  Photos posted is after a month,some two weeks which looks fine, maybe to encourage people to have face lifts.  Posting photos of recovery days when one looks like a chip munk and totally unrecognizable even by close families will help ease the emotional impact on the patient.  I am struggling right now on my day 4 post s… 展开\n查看翻译\n15\n84\nTamplen Plastic Surgery 在 Scottsdale, Arizona\n \n·\n关注\n2026年10月29日周四16:15\n10月29日16:15\n \n·\n8 Weeks Post-Op | Primary Rhinoplasty… 展开\n查看翻译\n55\n2\nTamplen Plastic Surgery 限制了谁能评论这篇帖子。"
+      }
+    },
+    "search_nose_surgery": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "nose surgery - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=nose%20surgery",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nnose surgery\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nNose Surgeries Group\n公开 · 930 位成员\n加入\nRhinoplasty Support Group\n非公开 · 4.6 万位成员 · 10+ 篇帖子/天\n加入\n查看全部\nRhinoplasty and Revision Rhinoplasty\n匿名互动者\n \n·\n3天前\n2026年11月20日周五14:15\n3天\n \n·\n*REVISION RHINOPLASTY WITH RIB CARTILAGE.* My bridge was shortened too much during my primary surgery, leaving my nose bulky from the front and lacking projection from the side. I also have thick skin.\nI’m considering Dr. Eray Bayindir and Dr. Selim Turan. Has anyone had experience with either, especially for revision rhinoplasty? Would love honest reviews and recommendations! \n查看翻译\n3\n7\nSanaz Harirchian MD - Facial Plastic Surgery 在美国 · 休斯敦\n \n·\n关注\n2026年9月23日周三13:31\n9月23日\n \n·\n5 months post-rhinoplasty \n … 展开\n查看翻译\n62\n25\n4\nDoctor's Harry Lou\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年11月3日周二22:02\n11月3日22:02\n \n·\n BEFORE vs. 1 MONTH AFTER RHINOPLASTY — LOOK AT THAT BEAUTIFUL SIDE PROFILE! \nJ… 展开\n查看翻译\n28\n14"
+      }
+    },
+    "search_advice": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "rhinoplasty advice - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=rhinoplasty%20advice",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nrhinoplasty advice\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nRhinoplasty Doc Ruthlyn Babies\n公开 · 1,068 位成员\n加入\nPlastic Surgery Support Group Q&A\n公开 · 2,557 位成员 · 10+ 篇帖子/天\n加入\n查看全部\nRhinoplasty and Revision Rhinoplasty\nIntelligentWallaby3812\n \n·\n6小时前\n2026年11月24日周二06:47\n6小时\n \n·\nLooking for advice did anyone actually notice a difference from 6 months post op to 1year on the look of their nose please?\n查看翻译\n1\n13\nFacelift Support Group\n匿名互动者\n \n·\n2天前\n2026年11月22日周日08:03\n2天\n \n·\nIs there a surgeon in Seoul who genuinely performs deep plane facelifts rather than traditional SMAS facelifts? I've read that some clinics advertise deep plane facelifts but actually perform SMAS techniques, so I'm hoping to find a surgeon who truly specializes in the deep plane technique.\nI’m also planning to have blepharoplasty and a rhinoplasty at one clinic. However, since that clinic does not offer facelifts, I would need to ha… 展开\n查看翻译\n2\nFacelift Support Group\n匿名互动者\n \n·\n2026年8月18日周二15:26\n8月18日\n \n·\nI’m looking for genuine recommendations from people who have actually had surgery please \nI’m in Brisbane and looking for a surgeon for a facelift and rhinoplasty. Id like a deep plane facelift but happy to take the surgeon’s advice but I definitely want noticeable results. If I’m spending that kind of money and going through surgery, I want to see my money well spent. Otherwise I’d rather not do it.\nThe same goes for my nose. I don’t want a surgeon who seems to give everyon… 展开\n查看翻译\n18\n90\nFacelift Support Group\n匿名互动者\n \n·\n2026年11月6日周五11:40\n11月6日11:40\n \n·\nWhat worked best for you?\nA- Rhinoplasty and then facelift\nB-Facelift first and then rhinoplasty \nC- Facelift and rhinoplasty at the same time… 展开\n查看翻译\n5\n6\nDoctor's Harry Lou\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年10月28日周三07:14\n10月28日07:14\n \n·\n She just needs a higher nasal bridge to make a noticeable difference in her appearance. \n… 展开\n查看翻译\n25\n9"
+      }
+    },
+    "search_thinking": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "thinking about getting rhinoplasty - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=thinking%20about%20getting%20rhinoplasty",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nthinking about getting rhinoplasty\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nPlastic Surgery Support Group Q&A\n公开 · 2,557 位成员 · 10+ 篇帖子/天\n加入\nSurgiForm Rhinoplasty PH Support Group 🇵🇭 Innovation\n公开 · 7,594 位成员\n加入\n查看全部\nDoctor's Harry Lou\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年10月28日周三07:14\n10月28日07:14\n \n·\n She just needs a higher nasal bridge to make a noticeable difference in her appearance. \n… 展开\n查看翻译\n25\n9\nDoctor's Harry Lou\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年11月7日周六02:33\n11月7日02:33\n \n·\n 3 MONTHS AFTER RHINOPLASTY — HAPPY PATIENT, BEAUTIFUL RESULTS! \n… 展开\n查看翻译\n58\n26"
+      }
+    },
+    "search_considering_nose_job": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "considering a nose job - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=considering%20a%20nose%20job",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\nconsidering a nose job\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nDental Clinics Turkey - Experiences and Reviews Turkey\n公开 · 9.5 万位成员 · 20+ 篇帖子/天\n加入\nRhinoplasty Research Group• Turkey\n非公开 · 1,885 位成员\n加入\nDental Clinics & Dentists in Turkey - Reviews\n公开 · 3.1 万位成员 · 10+ 篇帖子/天\n加入\n查看全部\nBlepharoplasty Support Group\n匿名互动者\n \n·\n3天前\n2026年11月20日周五18:44\n3天\n \n·\nIs anyone here Vietnamese? Is anyone planning to go back to Vietnam for a nose job or eyelid surgery? I’m looking for a reputable doctor, as I’m planning to have these procedures done when I return in December.\n查看翻译\n4\n37\nSorelise Aesthetics 和 Autumn Rose Babb 一起\n \n·\n关注\n2小时前\n2026年11月24日周二10:43\n2小时\n \n·\nConsidering a nose job? Discover non-surgical rhinoplasty.… 展开\n查看翻译\n\n\n\n\n以 Bertie Harmony 的身份评论\nRhinoplasty and Revision Rhinoplasty\nEvangelia Livanos\n \n·\n2026年10月11日周日11:50\n10月11日\n \n·\nHi! I have to get a revision. My tip has dropped and my columella is like up in my nose and much shorter than it was. I have cadaver cartilage that has most definitely failed along with my prev surgeon doing a very bad job. Everytime I think I found a doctor who can help I go online and see bad reviews or someone who has had a bad experience. I don’t know what to do or who to go to. I can’t breathe well, I don’t look like myself and I—  觉得很沮丧… 展开\n查看翻译\n2\n25"
+      }
+    },
+    "search_getting": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "getting a nose job - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=getting%20a%20nose%20job",
+        "checkpoint": false,
+        "dialog": false,
+        "dialogText": "",
+        "text": " \n以下内容的搜索结果：\ngetting a nose job\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nAlberta Oilfield Jobs - We'll get you hired!\n公开 · 4.9 万位成员 · 20+ 篇帖子/天\n加入\ngetting blocked noses at night but not day\n公开 · 1,807 位成员\n加入\nGet Me a Job in Mysore\n公开 · 1.1 万位成员 · 单日发 9 篇帖\n加入\n查看全部\nRhinoplasty and Revision Rhinoplasty\nEvangelia Livanos\n \n·\n2026年10月11日周日11:50\n10月11日\n \n·\nHi! I have to get a revision. My tip has dropped and my columella is like up in my nose and much shorter than it was. I have cadaver cartilage that has most definitely failed along with my prev surgeon doing a very bad job. Everytime I think I found a doctor who can help I go online and see bad reviews or someone who has had a bad experience. I don’t know what to do or who to go to. I can’t breathe well, I don’t look like myself and I—  觉得很沮丧… 展开\n查看翻译\n2\n25\nRhinoplasty and Revision Rhinoplasty\nWhiteShark639\n \n·\n2026年8月27日周四18:04\n8月27日\n \n·\nMost of you don’t need a nose job unless you have breathing issues . It’s not worth the healing process , the stiffness of the tip ; the runny nose , scars inside etc ; especially the ones who want minimal changes\nSide note :\nI’m mostly addressing those who want minimal changes . If someone is deeply insecure about their nose and it affects them to the point it influences their mental health - the surgery is worth it, but I’m speaking… 展开\n查看翻译\n16\n18\n1\nDoctor's Harry Lou\n \n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n \n·\n关注\n2026年10月28日周三07:14\n10月28日07:14\n \n·\n She just needs a higher nasal bridge to make a noticeable difference in her appearance. \n… 展开\n查看翻译\n25\n9"
+      }
+    },
+    "opened-end": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "raw": {
+          "ok": true,
+          "opened": [
+            {
+              "profile_id": 5,
+              "debugging_address": "127.0.0.1:34907",
+              "pid": 10396,
+              "open_time": "2026-11-24 22:07:24"
+            },
+            {
+              "profile_id": 32,
+              "debugging_address": "127.0.0.1:46227",
+              "pid": 38892,
+              "open_time": "2026-11-24 22:21:24"
+            },
+            {
+              "profile_id": 35,
+              "debugging_address": "127.0.0.1:32508",
+              "pid": 23564,
+              "open_time": "2026-11-24 23:19:13"
+            },
+            {
+              "profile_id": 38,
+              "debugging_address": "127.0.0.1:46044",
+              "pid": 19712,
+              "open_time": "2026-11-24 22:10:03"
+            },
+            {
+              "profile_id": 44,
+              "debugging_address": "127.0.0.1:17724",
+              "pid": 24052,
+              "open_time": "2026-11-24 23:13:27"
+            },
+            {
+              "profile_id": 67,
+              "debugging_address": "127.0.0.1:34492",
+              "pid": 15312,
+              "open_time": "2026-11-24 22:12:54"
+            },
+            {
+              "profile_id": 102,
+              "debugging_address": "127.0.0.1:45750",
+              "pid": 13928,
+              "open_time": "2026-11-25 00:24:55"
+            },
+            {
+              "profile_id": 108,
+              "debugging_address": "127.0.0.1:49007",
+              "pid": 41004,
+              "open_time": "2026-11-25 00:30:09"
+            }
+          ],
+          "total": 8
+        },
+        "pids": [
+          "5",
+          "32",
+          "35",
+          "38",
+          "44",
+          "67",
+          "102",
+          "108"
+        ]
+      }
+    }
+  },
+  "was_open": true,
+  "opened_by_me": false,
+  "closed_by_me": false,
+  "opened_pids_before": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "67",
+    "102",
+    "108"
+  ],
+  "opened_detail_before": [
+    {
+      "profile_id": 5,
+      "debugging_address": "127.0.0.1:34907",
+      "pid": 10396,
+      "open_time": "2026-11-24 22:07:24"
+    },
+    {
+      "profile_id": 32,
+      "debugging_address": "127.0.0.1:46227",
+      "pid": 38892,
+      "open_time": "2026-11-24 22:21:24"
+    },
+    {
+      "profile_id": 35,
+      "debugging_address": "127.0.0.1:32508",
+      "pid": 23564,
+      "open_time": "2026-11-24 23:19:13"
+    },
+    {
+      "profile_id": 38,
+      "debugging_address": "127.0.0.1:46044",
+      "pid": 19712,
+      "open_time": "2026-11-24 22:10:03"
+    },
+    {
+      "profile_id": 44,
+      "debugging_address": "127.0.0.1:17724",
+      "pid": 24052,
+      "open_time": "2026-11-24 23:13:27"
+    },
+    {
+      "profile_id": 67,
+      "debugging_address": "127.0.0.1:34492",
+      "pid": 15312,
+      "open_time": "2026-11-24 22:12:54"
+    },
+    {
+      "profile_id": 102,
+      "debugging_address": "127.0.0.1:45750",
+      "pid": 13928,
+      "open_time": "2026-11-25 00:24:55"
+    },
+    {
+      "profile_id": 108,
+      "debugging_address": "127.0.0.1:49007",
+      "pid": 41004,
+      "open_time": "2026-11-25 00:30:09"
+    }
+  ],
+  "opened_pids_end": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "67",
+    "102",
+    "108"
+  ],
+  "ended_local": "2026-11-24 21:33:32 UTC"
+}

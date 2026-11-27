@@ -1,0 +1,28 @@
+{
+  "round": 100,
+  "date": "2026-11-27",
+  "target": "100.78.166.12:8765/health",
+  "attempts": [
+    {
+      "attempt": 1,
+      "time": "21:43:48",
+      "ok": false,
+      "rc": 52,
+      "detail": "curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 2,
+      "time": "21:48:56",
+      "ok": false,
+      "rc": 52,
+      "detail": "curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 3,
+      "time": "21:54:04",
+      "ok": false,
+      "rc": 52,
+      "detail": "curl: (52) Empty reply from server\n"
+    }
+  ]
+}

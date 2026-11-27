@@ -1,0 +1,424 @@
+{
+  "round": "2026-11-25 01:24 fb-hunt-p35 round 65 continuation",
+  "started_local": "2026-11-24 17:33:54 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 10
+      }
+    },
+    "opened-before": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "raw": {
+          "ok": true,
+          "opened": [
+            {
+              "profile_id": 5,
+              "debugging_address": "127.0.0.1:34907",
+              "pid": 10396,
+              "open_time": "2026-11-24 22:07:24"
+            },
+            {
+              "profile_id": 32,
+              "debugging_address": "127.0.0.1:46227",
+              "pid": 38892,
+              "open_time": "2026-11-24 22:21:24"
+            },
+            {
+              "profile_id": 35,
+              "debugging_address": "127.0.0.1:32508",
+              "pid": 23564,
+              "open_time": "2026-11-24 23:19:13"
+            },
+            {
+              "profile_id": 38,
+              "debugging_address": "127.0.0.1:46044",
+              "pid": 19712,
+              "open_time": "2026-11-24 22:10:03"
+            },
+            {
+              "profile_id": 44,
+              "debugging_address": "127.0.0.1:17724",
+              "pid": 24052,
+              "open_time": "2026-11-24 23:13:27"
+            },
+            {
+              "profile_id": 67,
+              "debugging_address": "127.0.0.1:34492",
+              "pid": 15312,
+              "open_time": "2026-11-24 22:12:54"
+            },
+            {
+              "profile_id": 102,
+              "debugging_address": "127.0.0.1:45750",
+              "pid": 13928,
+              "open_time": "2026-11-25 00:24:55"
+            },
+            {
+              "profile_id": 108,
+              "debugging_address": "127.0.0.1:49007",
+              "pid": 41004,
+              "open_time": "2026-11-25 00:30:09"
+            }
+          ],
+          "total": 8
+        },
+        "pids": [
+          "5",
+          "32",
+          "35",
+          "38",
+          "44",
+          "67",
+          "102",
+          "108"
+        ],
+        "detail": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:34907",
+            "pid": 10396,
+            "open_time": "2026-11-24 22:07:24"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:46227",
+            "pid": 38892,
+            "open_time": "2026-11-24 22:21:24"
+          },
+          {
+            "profile_id": 35,
+            "debugging_address": "127.0.0.1:32508",
+            "pid": 23564,
+            "open_time": "2026-11-24 23:19:13"
+          },
+          {
+            "profile_id": 38,
+            "debugging_address": "127.0.0.1:46044",
+            "pid": 19712,
+            "open_time": "2026-11-24 22:10:03"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:17724",
+            "pid": 24052,
+            "open_time": "2026-11-24 23:13:27"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:34492",
+            "pid": 15312,
+            "open_time": "2026-11-24 22:12:54"
+          },
+          {
+            "profile_id": 102,
+            "debugging_address": "127.0.0.1:45750",
+            "pid": 13928,
+            "open_time": "2026-11-25 00:24:55"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:49007",
+            "pid": 41004,
+            "open_time": "2026-11-25 00:30:09"
+          }
+        ]
+      }
+    },
+    "check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "profile_id": 35,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n6天前\n2026年11月18日周三00:24\n6天\n \n·\n分享对象： 公开\nConfidence in anti-aging comes from stable, natural and subtle changes\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:11 / 0:11\n查看成效分",
+        "screenshot": "shots/profile_35.png",
+        "debugging_address": "127.0.0.1:32508"
+      }
+    },
+    "search_getting": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "title": "getting a nose job - 搜索结果 | Facebook",
+        "url": "https://www.facebook.com/search/top?q=getting%20a%20nose%20job",
+        "checkpoint": false,
+        "text": " \n以下内容的搜索结果：\ngetting a nose job\n筛选条件\n全部\n近期帖子\n你看过的帖子\n发布日期\n用户\nReels\nMarketplace\n公共主页\n小组\n活动\n小组\nGET A JOB, CHEF\n公开 · 2.1 万位成员\n加入\nGet Me a Job in Mysore\n公开 · 1.1 万位成员 · 单日发 9 篇帖\n加入\nPune Job (Get a Free Job)\n公开 · 4,521 位成员\n加入\n查看全部\nCarl Truesdale, M.D. · 在 Los Angeles, California\n \n·\n关注\n2026年11月11日周三17:45\n11月11日17:45\n \n·\n美国 · 加利福尼亚 · 比佛利山\n \n·\nBlink and you’ll miss it \n Talk about side profile facial balancing!… 展开\n查看翻译\n0:09 / 0:15\n6,615\n382\n36\nRhinoplasty and Revision Rhinoplasty\n匿名互动者\n \n·\n2026年10月17日周六04:01\n10月17日\n \n·\nHey guys! I'm planning to get my nose done by Dr. Başak Çaypınar. Has anyone here been operated on by her or knows a girl who has? Would love to hear your thoughts or experiences!\n查看翻译\n1\n3"
+      }
+    },
+    "mommy_ansel_comments": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "before_expand": {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/reel/28832179433075058",
+          "len": 81,
+          "countMatch": null,
+          "expandButtons": [],
+          "text": " \nMommy Ansel & Daddy Ambo\n \n·\n关注\n第1部分 | 我的鼻整形之旅… 展开\n隐藏翻译\n202\n78\n24\n221\n3\n5\nReels"
+        },
+        "after_expand": {
+          "title": "Facebook",
+          "url": "https://www.facebook.com/reel/28832179433075058",
+          "len": 81,
+          "countMatch": null,
+          "expandButtons": [],
+          "text": " \nMommy Ansel & Daddy Ambo\n \n·\n关注\n第1部分 | 我的鼻整形之旅… 展开\n隐藏翻译\n202\n78\n24\n221\n3\n5\nReels"
+        }
+      }
+    },
+    "opened-end": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "raw": {
+          "ok": true,
+          "opened": [
+            {
+              "profile_id": 5,
+              "debugging_address": "127.0.0.1:34907",
+              "pid": 10396,
+              "open_time": "2026-11-24 22:07:24"
+            },
+            {
+              "profile_id": 32,
+              "debugging_address": "127.0.0.1:46227",
+              "pid": 38892,
+              "open_time": "2026-11-24 22:21:24"
+            },
+            {
+              "profile_id": 35,
+              "debugging_address": "127.0.0.1:32508",
+              "pid": 23564,
+              "open_time": "2026-11-24 23:19:13"
+            },
+            {
+              "profile_id": 38,
+              "debugging_address": "127.0.0.1:46044",
+              "pid": 19712,
+              "open_time": "2026-11-24 22:10:03"
+            },
+            {
+              "profile_id": 44,
+              "debugging_address": "127.0.0.1:17724",
+              "pid": 24052,
+              "open_time": "2026-11-24 23:13:27"
+            },
+            {
+              "profile_id": 67,
+              "debugging_address": "127.0.0.1:34492",
+              "pid": 15312,
+              "open_time": "2026-11-24 22:12:54"
+            },
+            {
+              "profile_id": 102,
+              "debugging_address": "127.0.0.1:45750",
+              "pid": 13928,
+              "open_time": "2026-11-25 00:24:55"
+            },
+            {
+              "profile_id": 108,
+              "debugging_address": "127.0.0.1:49007",
+              "pid": 41004,
+              "open_time": "2026-11-25 00:30:09"
+            }
+          ],
+          "total": 8
+        },
+        "pids": [
+          "5",
+          "32",
+          "35",
+          "38",
+          "44",
+          "67",
+          "102",
+          "108"
+        ],
+        "detail": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:34907",
+            "pid": 10396,
+            "open_time": "2026-11-24 22:07:24"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:46227",
+            "pid": 38892,
+            "open_time": "2026-11-24 22:21:24"
+          },
+          {
+            "profile_id": 35,
+            "debugging_address": "127.0.0.1:32508",
+            "pid": 23564,
+            "open_time": "2026-11-24 23:19:13"
+          },
+          {
+            "profile_id": 38,
+            "debugging_address": "127.0.0.1:46044",
+            "pid": 19712,
+            "open_time": "2026-11-24 22:10:03"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:17724",
+            "pid": 24052,
+            "open_time": "2026-11-24 23:13:27"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:34492",
+            "pid": 15312,
+            "open_time": "2026-11-24 22:12:54"
+          },
+          {
+            "profile_id": 102,
+            "debugging_address": "127.0.0.1:45750",
+            "pid": 13928,
+            "open_time": "2026-11-25 00:24:55"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:49007",
+            "pid": 41004,
+            "open_time": "2026-11-25 00:30:09"
+          }
+        ]
+      }
+    }
+  },
+  "was_open": true,
+  "opened_pids_before": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "67",
+    "102",
+    "108"
+  ],
+  "opened_detail_before": [
+    {
+      "profile_id": 5,
+      "debugging_address": "127.0.0.1:34907",
+      "pid": 10396,
+      "open_time": "2026-11-24 22:07:24"
+    },
+    {
+      "profile_id": 32,
+      "debugging_address": "127.0.0.1:46227",
+      "pid": 38892,
+      "open_time": "2026-11-24 22:21:24"
+    },
+    {
+      "profile_id": 35,
+      "debugging_address": "127.0.0.1:32508",
+      "pid": 23564,
+      "open_time": "2026-11-24 23:19:13"
+    },
+    {
+      "profile_id": 38,
+      "debugging_address": "127.0.0.1:46044",
+      "pid": 19712,
+      "open_time": "2026-11-24 22:10:03"
+    },
+    {
+      "profile_id": 44,
+      "debugging_address": "127.0.0.1:17724",
+      "pid": 24052,
+      "open_time": "2026-11-24 23:13:27"
+    },
+    {
+      "profile_id": 67,
+      "debugging_address": "127.0.0.1:34492",
+      "pid": 15312,
+      "open_time": "2026-11-24 22:12:54"
+    },
+    {
+      "profile_id": 102,
+      "debugging_address": "127.0.0.1:45750",
+      "pid": 13928,
+      "open_time": "2026-11-25 00:24:55"
+    },
+    {
+      "profile_id": 108,
+      "debugging_address": "127.0.0.1:49007",
+      "pid": 41004,
+      "open_time": "2026-11-25 00:30:09"
+    }
+  ],
+  "opened_pids_end": [
+    "5",
+    "32",
+    "35",
+    "38",
+    "44",
+    "67",
+    "102",
+    "108"
+  ],
+  "opened_detail_end": [
+    {
+      "profile_id": 5,
+      "debugging_address": "127.0.0.1:34907",
+      "pid": 10396,
+      "open_time": "2026-11-24 22:07:24"
+    },
+    {
+      "profile_id": 32,
+      "debugging_address": "127.0.0.1:46227",
+      "pid": 38892,
+      "open_time": "2026-11-24 22:21:24"
+    },
+    {
+      "profile_id": 35,
+      "debugging_address": "127.0.0.1:32508",
+      "pid": 23564,
+      "open_time": "2026-11-24 23:19:13"
+    },
+    {
+      "profile_id": 38,
+      "debugging_address": "127.0.0.1:46044",
+      "pid": 19712,
+      "open_time": "2026-11-24 22:10:03"
+    },
+    {
+      "profile_id": 44,
+      "debugging_address": "127.0.0.1:17724",
+      "pid": 24052,
+      "open_time": "2026-11-24 23:13:27"
+    },
+    {
+      "profile_id": 67,
+      "debugging_address": "127.0.0.1:34492",
+      "pid": 15312,
+      "open_time": "2026-11-24 22:12:54"
+    },
+    {
+      "profile_id": 102,
+      "debugging_address": "127.0.0.1:45750",
+      "pid": 13928,
+      "open_time": "2026-11-25 00:24:55"
+    },
+    {
+      "profile_id": 108,
+      "debugging_address": "127.0.0.1:49007",
+      "pid": 41004,
+      "open_time": "2026-11-25 00:30:09"
+    }
+  ],
+  "ended_local": "2026-11-24 17:35:18 UTC"
+}

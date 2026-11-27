@@ -1,0 +1,21 @@
+{
+  "round": "2026-11-27 00:12",
+  "probes": [
+    {
+      "label": "health-8765-2",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "label": "health-8766",
+      "ok": false,
+      "error": "IxAgent._call() got an unexpected keyword argument 'port'"
+    },
+    {
+      "label": "opened-8765",
+      "ok": false,
+      "error": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ]
+}
+{"round": "2026-11-27 00:12", "probes": [{"label": "health-8765-3", "ok": false, "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"}, {"label": "health-8766-3", "ok": false, "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"}]}

@@ -1,0 +1,36 @@
+{
+  "round": 73,
+  "date": "2026-11-25",
+  "start": "22:24",
+  "agent": "100.78.166.12:8765",
+  "down_since": "19:24（第 70 轮首次发现）",
+  "attempts": [
+    {
+      "n": 1,
+      "time": "22:24",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server"
+    },
+    {
+      "n": 2,
+      "time": "14:30:26",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 3,
+      "time": "14:35:34",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "n": 4,
+      "time": "14:40:42",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ],
+  "ran": false,
+  "reason": "ixBrowser agent 持续失联（curl 52），未开浏览器、未发内容、未碰账号",
+  "next_target_deferred": "Nora Malibiran（Mommy Ansel Reel，问在哪做+多少钱，2 周）留给下轮 agent 恢复后接续"
+}

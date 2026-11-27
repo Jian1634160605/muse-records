@@ -1,0 +1,14 @@
+{
+  "round": "2026-11-26 01:12 fb-hunt-p32 read-only",
+  "started_local": "2026-11-26 01:28:23 CST",
+  "ended_local": "2026-11-26 01:33:26 CST",
+  "probes": [
+    {"at": "2026-11-26 01:29 CST", "health": "FAIL curl 52 Empty reply", "opened": "FAIL curl 52 Empty reply"},
+    {"at": "2026-11-26 01:31 CST", "health": "FAIL curl 52 Empty reply", "opened": "FAIL curl 52 Empty reply"},
+    {"at": "2026-11-26 01:33 CST", "health": "FAIL curl 52 Empty reply", "opened": "FAIL curl 52 Empty reply"}
+  ],
+  "outcome": "agent unreachable; round not started; no FB action taken",
+  "was_open": null,
+  "opened_by_me": false,
+  "closed_by_me": false
+}

@@ -707,3 +707,554 @@
 - 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：profile 5 不在列表中（32、35、44、63 号正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。
 ## 2026-11-23 06:06 跳过：已过夜里窗口（18:30–06:00），本轮未跑；未开浏览器、未发内容、未碰账号。
 - 2026-11-23 07:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-23 11:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-23 16:06 CST fb-hunt-p5：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-23 17:06 CST fb-hunt-p5：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-23 18:06 CST fb-hunt-p5：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-23 19:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：profile.php?id=61595765429611（与台账一致）；check 的 account_name 本轮返回 null，但首页文案“秦昊医生，您在考虑眼部年轻化吗？”+ 个人资料链接可确认是 Jusa 本号。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d 前、Reel 就绪×3、Reel 300 播放里程碑 3d 前、入群欢迎“Welcome to Rhinoplasty in...”3d 前）；无真人评论可回。Jusa Reel 已到 300 播放（此前 200）。
+- FB 搜索 rhinoplasty：Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；Providence Facial Plastic 医生页（不碰）；“7 days post op revision rhinoplasty”（术后，不碰）；滚动后：10.5 周 septorhinoplasty 术后分享（不碰）；Rex Banquito 个人宣布帖（已找到评价好的诊所、决定去做、无提问、228 评论，**已定诊所、无提问，不碰**）；Brianna Martinez 术后 2 个月晒成果 + 锚定 Dr. Sedat Rüzgar（术后+锚定，不碰）。
+- FB 搜索 looking for rhinoplasty surgeon：Kyle Sharameta 男士鼻求推荐（未点名医生，但经链接核实属新群 604041441428373 内帖，**群评论通道已证实封死，不重试**）；“3 months post-rhinoplasty”（术后，不碰）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；Scarless Nose 诊所帖（机构，不碰）；Houda BN 翻修求推荐（鼻孔不对称+鼻底问题、未点名医生，但属新群 604041441428373 内帖，不重试）；Anonymous 美国中西部高难度翻修求推荐（属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖 + 复杂个案，不碰）；EnthusiasticElk4979 翻修求推荐（“Price doesn't matter”，属新群 604041441428373 内帖，不重试）。
+- FB 搜索 nose job：Anonymous 问 Dr. Semih Karaketir（锚定，不碰）；Ben Bao《What makes a natural-looking nose?》（已评 E07 97，不重复）；男士 5 个月前 Dr. Dogan Pinar 术后分享（术后+锚定，不碰）；滚动后：CapableArugula8934 翻修求推荐（10 年前鼻不满意、骨移植 radix 问题，未点名医生，但属新群 604041441428373 内帖，不重试）；“narrowed it down to my top 4 revision surgeons”（列 4 位医生，锚定，不碰）；“Over a year update on my two nose jobs”（术后庆祝，不碰）；ThoughtfulLynx6009 去年 10 月土耳其术后吐槽（术后抱怨，不碰）。
+- FB 搜索 rhinoplasty before after：Anonymous 厚皮翻修帖（已评被拒，不重复）；“10 months post-op”（术后，不碰）；Chanelle Lopez Galloway 术后 16 天问变化（术后求助，不碰）；滚动后全为医生/术后帖（Dr. Iqbal Ahmed、Hanna El 术后 4 个月 + 锚定 Dr. Alican Çoktur、Ben Bao 已评）。
+- FB 搜索 rhinoplasty recovery：Jeraldine Jeronimo 术后 5 周分享（不碰）；“What is the recovery time for rhinoplasty?”经核实为 Op.Dr.Muhammet Dilber 医生页帖（不碰）；“Recovery after rhinoplasty is a gradual process”通用科普（疑似机构号，不碰）。
+- 已加群 1151025859914944 只读扫读：肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰）；Hakan Avci 复习资料提问（非手术，不碰）；已定 Selim Turan 帖（锚定，不碰）；Deniz Dilek 诊所验证帖（锚定，不碰）；“想找他预订”验证帖（锚定，不碰）；推荐侯赛因·巴利克奇医生帖（锚定，不碰）；鼻尖整形+肥大鼻甲问价帖（群内帖，评论通道已证实封死，不重试）。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮新发现的 4 个未锚定求助者（Kyle Sharameta、Houda BN、EnthusiasticElk4979、CapableArugula8934）全在新群 604041441428373 内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：2 次 eval 因选取器命中页面内嵌脚本返回脏数据（自查，已改 dir=auto 选取器纠正）；未撞 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-23 20:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：profile.php?id=61595765429611（与台账一致）；check 的 account_name 本轮返回 null，但首页文案“秦昊医生，您在考虑眼部年轻化吗？”+ 个人资料链接可确认是 Jusa 本号。本轮开始时 profile 5 未开（已开列表为空），本轮自开自关。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d 前、Reel 就绪×3（1d/1d/2d 前）、Reel 300 播放里程碑 3d 前、入群欢迎“Welcome to Rhinoplasty in...”3d 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 11-21/11-22/11-23 各轮一致）。
+- FB 搜索 rhinoplasty：Nicole Spriggs“365 DAYS AGO I FLEW TO TURKEY...”（术后 365 天 + 锚定 Dr. Dilber，不碰）；Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复；属新群 604041441428373 内帖）；“7 days post op revision rhinoplasty”（术后，不碰）；“Here's my new look”（术后 3 周分享，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Anonymous 厚皮翻修帖（已评被拒，不重复）；“重磅消息终于揭晓了！”医生/诊所揭晓帖（非求助者，不碰）；“I finally decided to get a nose job”（已决定、无提问，非求助者，不碰）；“16 days post op”前后对比（术后求助，不碰）；“Hi, I wanted to share my results with Dr. Mehmet Akif Yildirim”（术后 4 个月 + 锚定，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Scarless Nose 诊所帖（机构，不碰）；Dr. Mark Ginsburg / Providence Facial Plastic 医生页（不碰）；“Hi everyone! I'm looking for recommendations for a highly skilled rhinoplasty surgeon…”（Anonymous，00:06 轮已核实属新群 604041441428373 内帖，群评论通道已证实封死，不重试）；“cancelled my initial choice…fairly confident to go forward with Dr. Erdal Erkoc”（锚定，不碰）；正面视角翻修求推荐帖（Agata，01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；男士鼻求推荐帖（Kyle Sharameta，03:06/04:06 轮已核实属新群内帖，不重试）。无可评的非群组目标。
+- FB 搜索 nose job：Baris Celik 翻修术后第 2 天分享（术后+锚定，不碰）；Ben Bao《What makes a natural-looking nose?》（已评 E07 97，不重复）；“Over a year update on my two nose jobs”（术后庆祝，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：鼻部重建术后分享（术后，不碰）；Jeraldine Jeronimo 术后 5 周分享（不碰）；“Recovery after rhinoplasty is a gradual process”通用科普（疑似机构号，不碰）；“14 days since my rhinoplasty”（术后，不碰）；Dr. Burak Alhan 术后 2 周分享（术后+锚定，不碰）。无目标。
+- 已加群 1151025859914944 只读扫读：肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06 轮同帖）；“我两个月前在他那里做了手术”术后分享（不碰）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含滚动复读）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮可见的未定求助者（厚皮翻修 Anonymous、高技能医生求推荐 Anonymous、男士鼻 Kyle Sharameta）全在群内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-23 21:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"，profile.php?id=61595765429611（与台账一致）；发帖框署名 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"。本轮开始时已开列表为空，was_open5=False，本轮自开自关。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d 前、Reel 就绪×3（1d/1d/2d 前）、Reel 300 播放里程碑 3d 前、入群欢迎“Welcome to Rhinoplasty in...”3d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-21/11-22/11-23 各轮一致）。
+- FB 搜索 rhinoplasty：Elle Pol（11-19 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；Dr. Mark Ginsburg / Providence Facial Plastic 医生页（不碰）；Victoria Toria 术后 3 个月“鼻子像土豆”求助（术后求助，不碰）；“1 year post op”术后 1 年恢复分享（术后，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：通用恢复期科普帖（医生/创作者号，非求助者，不碰）；“16 days post op”前后对比（术后求助 + 新群 604041441428373 内帖，不碰）；“Opinions on dr harun Acipayam”（锚定特定医生验证帖，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Scarless Nose 诊所帖（机构，不碰）；Dr. Mark Ginsburg 医生页（不碰）；Anonymous“highly skilled rhinoplasty surgeon”求推荐（00:06 轮已核实属新群 604041441428373 内帖，群评论通道已证实封死，不重试）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；Kyle Sharameta 男士鼻求推荐（03:06/04:06 轮已核实属新群内帖，不重试）。无可评的非群组目标。
+- FB 搜索 nose job：Baris Celik 翻修术后第 2 天分享（术后+锚定，不碰）；“A new nose, but still unmistakably HER”（医生/机构号帖，不碰）；Ben Bao《What makes a natural-looking nose?》（已评 E07 97，不重复）；30 岁女性 septoplasty 后翻修分享（03:06 轮已判：术后 1 周 + 锚定 Dr. Dogukan Aydeniz Öz，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Dr. Samet Ağcayazı 术后 18 天分享（术后+锚定，不碰）；“1 year post op”恢复分享（术后，不碰）；Dr. Burak Alhan 术后 2 周分享（术后+锚定，不碰）；“14 days since my rhinoplasty”术后分享（不碰）；“Recovery after rhinoplasty is a gradual process”通用科普（疑似机构号，不碰）。无目标。
+- 已加群 1151025859914944 只读扫读：肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06 轮同帖）；“我两个月前在他那里做了手术”术后分享（不碰）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含滚动复读）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮可见的未定求助者（Elle Pol、高技能医生求推荐 Anonymous、男士鼻 Kyle Sharameta）全在群内或已评被拒，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-23 22:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"（发帖框署名来源），与台账一致；本轮开始时 profile 5 未开（仅 profile 2 正被其他轮次占用，未动），本轮自开自关。注意：开号后浏览器落在 /reels/create 页（发布轮次残留标签），Step B 的 identity eval 因此返回空链接/署名，但 check5 的 account_name 已确认身份，无碍。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d 前、Reel 就绪×3（1d/1d/2d 前）、Reel 300 播放里程碑 3d 前、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-21/11-22/11-23 各轮一致）。
+- FB 搜索 rhinoplasty：首轮 Step C 的读数落在通知页（eval 读了旧标签），Step C2 重跑后读到实页：Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复；属“Rhinoplasty in Turkey - real experiences, doctor suggestions”群内帖）；Dr. Mark Ginsburg / Providence Facial Plastic 医生页（不碰）；“7 days post op revision rhinoplasty”（术后，不碰）；“Over a year update on my two nose jobs”（术后庆祝，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：首轮读数落在 Jusa 自家 Reel 页（/reel/1153943683796947，面诊咨询 Reel，自家内容），Step C2 重跑后读到实页：Anonymous 厚皮翻修帖（已评被拒，不重复）；“16 days post op”前后对比（术后求助，不碰）；“Hello guys! I came to give my summary report, I had my surgery 15/01 with Dr. Serkan bariskan in Istanbul”（术后 4 个月 + 锚定，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Dr. Mark Ginsburg / Providence Facial Plastic 医生页（不碰）；Scarless Nose 诊所帖（机构，不碰）；Anonymous“which rhinoplasty surgeon in Turkey you would recommend as the best at the moment, with a good price-quality ratio”（**新候选：未点名医生、术前求助、问性价比**，但属群内帖“Rhinoplasty in Turkey - real experiences, doctor suggestions”，**群评论通道已证实封死，不重试**；Step D2 链接核查本轮 FIND 无命中——帖文不在锚点内、搜索页已轮换，但 Step C 滚动读数已明确显示其群归属；另：已加群 1151025859914944 本轮标题为“Rhinoplasty in Turkey 2026”，与该帖所在群名不同，属另一群）；“She researched surgeon after surgeon...”（诊所营销帖，不碰）；“One week after his Designer Rhinoplasty®, our 19 year old patient...”（诊所帖，不碰）。无可评的非群组目标。
+- FB 搜索 nose job：Dr. Semih Karaketir 锚定帖（锚定，不碰）；“Over a year update on my two nose jobs”（术后庆祝，不碰）；Ben Bao《What makes a natural-looking nose?》（已评 E07 97，不重复）。无目标。
+- FB 搜索 rhinoplasty recovery：“My Rhinoplasty Journey! @symd.clinic”（诊所/机构号，不碰）；“1 year post op”恢复时间线（术后分享，不碰）；“Recovery after rhinoplasty is a gradual process”通用科普（疑似机构号，不碰）；“14 days since my rhinoplasty”（术后分享，不碰）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06 轮同帖）；“Looking for photos of LONG TERM results from RIB GRAFT REVISION rhinoplasty”（术后人群求图 + 群内帖，不碰）；“Hi everyone has anyone been to Dr Mustafa Nuhut”（锚定验证帖，不碰）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含 Step C2 两次重跑补读 + Step D2 群归属核查）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮唯一未锚定求助者（土耳其性价比求推荐 Anonymous）在群内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：Step C 两次 GOTO 报 code=2012“此窗口正在云备份，请稍后打开”（ixBrowser 云备份中），20 秒后重试均成功，非 429/226/344；Step C 两次读数落在错误标签（通知页、自家 Reel 页），Step C2 以 10 秒等待重跑后读到实页，结论可信。agent 其余时间稳定，无 curl 52/18。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：profile 5 不在列表中（profile 32 正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-23 23:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 的 account_name 本轮返回 null，但首页 profile.php?id=61595765429611 链接 + 文案“秦昊医生，您在考虑眼部年轻化吗？”可确认是 Jusa 本号（与此前 account_name 返回 null 的轮次同法核验）。本轮开始时 profile 5 未开，本轮自开自关（open_time 23:09:16，debugging_address 127.0.0.1:20314）。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d/3d 前、Reel 就绪×3（1d/1d/2d 前）、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-21/11-22/11-23 各轮一致）。
+- FB 搜索 rhinoplasty：Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复；群内帖）；Meraki Esthetique 术后 1 年 10 个月晒鼻（术后+机构，不碰）；“7 days post op revision rhinoplasty”（术后，不碰）；“The toughest decision... found a clinic that has good reviews”（已找到诊所、已定方向，非未定求助者，不碰）；Elle Pol（11-19 轮已评 E07 94、评论被拒，不重复）。无目标。
+- FB 搜索 rhinoplasty before after：厚皮翻修帖（已评被拒，不重复）；“16 days post op”前后对比（术后求助，不碰）；Dr. Mehmet Akif Yildirim 术后 4 个月分享（术后+锚定，不碰）；Dr. Serkan Bariskan 15/01 手术总结（术后+锚定，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Nazanin Kavari（已锚定 Dr. Ashkan Ghavami，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，群内帖不评）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；Marcelo Ghersi 术后 2 周 UGC（术后+锚定，不碰）；诊所营销帖（不碰）。无目标。
+- FB 搜索 nose job：Dr. Baris Celik 翻修术后第 2 天分享（术后+锚定，不碰）；Meraki Esthetique 诊所帖（不碰）；“4.5 years out from revision septorhinoplasty”医生帖（术后，不碰）；男士 5 个月前 Dr. Dogan Pinar 隆鼻（术后+锚定，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Day 3 术后恢复艰难分享（术后，不碰）；术后 5 周肿胀分享（术后，不碰）；“share my rhinoplasty journey... only regret is not doing it sooner”（术后，不碰）；Dr. Burak Alhan 术后 2 周分享（术后+锚定，不碰）；术后 14 天分享（术后，不碰）；“Recovery after rhinoplasty is a gradual process”通用科普（疑似机构号，不碰）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：仅见 1 条实质帖——肋软骨翻修求推荐（考虑 Dr. Eray Bayindir vs Dr. Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06 轮同帖）。无可评目标。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内评论通道仍被证实封死（11-19 22:06 轮结论未变），本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：open 首次报 curl 52（重试成功）；搜索中多次 curl 18 传输截断（重试后恢复）；Step H 执行时服务重启一次（只读步骤，重跑完成）；/tmp 状态文件因重启丢失，关号改以 opened() 的 open_time + debugging_address 核对本轮实例后关闭。未撞 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：profile 5 不在列表中（32、35、38、65、67、109 正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 00:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 的 account_name 本轮返回 null，但首页 profile.php?id=61595765429611 链接 + 文案“秦昊医生，您在考虑眼部年轻化吗？”可确认是 Jusa 本号（与此前 account_name 返回 null 的轮次同法核验）。本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:57272）。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d/3d 前、Reel 就绪×3（1d/2d/2d 前）、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 11-21/11-22/11-23 各轮一致）。
+- FB 搜索 rhinoplasty：Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复；群内帖）；Dr Elizabeth 钩鼻 open rhinoplasty 帖（医生/锚定，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：厚皮翻修帖（已评被拒，不重复）；“16 days post op”前后对比（术后求助，不碰）；Dr Erkan Ozturk 术后 2 个月分享（术后+锚定，不碰）；垂鼻前后对比医生帖（医生/机构，不碰）；“Same face”医生营销帖（不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Scarless Nose 诊所帖（机构，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；Houda BN 鼻孔不对称翻修求推荐（本轮 probe3 上下文核查：属新群“Rhinoplasty in Turkey - real experiences, doctor suggestions”内帖，群评论通道已证实封死，不重试；与 19:06 轮所列 4 名新群未锚定求助者之一同人）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；EnthusiasticElk4979“very experienced revision rhinoplasty surgeon, Price doesn't matter”（本轮 probe3 上下文核查：同属新群内帖，不重试；亦为 19:06 轮所列 4 人之一）；ultra thick skin 医生科普帖（不碰）。无可评的非群组目标。
+- FB 搜索 nose job：CleverKiwi1812“土耳其住满 7 天吗”（本轮 probe5 上下文核查：属新群内帖，不重试）；CapableArugula8934 10 年前隆鼻 radix 骨移植翻修求助（本轮 probe5 上下文核查：同属新群内帖，不重试；为 19:06 轮所列 4 人之一）；男士 5 个月前 Dr Dogan Pinar 隆鼻（术后+锚定，不碰）；“Rhinoplasty is far more than just changing the shape”医生营销帖（不碰）；土耳其去年 10 月隆鼻失败抱怨帖（术后，不碰）。无可评的非群组目标。
+- FB 搜索 rhinoplasty recovery：14 天/5 周/4 周更新/3 周术后分享（术后，不碰；3 周帖锚定 Dr Baris İlke Çokay）；4 个月术后分享（术后，不碰）；“Recovery after rhinoplasty is a gradual process”通用科普（疑似机构号，不碰）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”，4.5K 成员）只读扫读：匿名肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06 轮同帖）；拉拉·玛丽肋骨移植修复长期效果求图（术后人群求图 + 群内帖，不碰）；JazzyTurtle9582“有人去过 Mustafa Nuhut 医生那里吗”（锚定验证帖，不碰）；TenderAlpaca2650“我两个月前在他那里做了手术”（术后分享，不碰）；Maxine Lymphatic Drainage Essex 广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含 probe3/probe5 群归属核查 + nose job 两次重跑）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮可见的未定求助者（Houda BN、EnthusiasticElk4979、CleverKiwi1812、CapableArugula8934）全在新群 604041441428373 内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：nose job 搜索两次读数落在错误标签（/reels/create 残留页、自家 Reel 页、首页、通知页），改用 search2.py（goto 后 6 秒即读 + 错页 in-page 重导航）后读到实页，结论可信；一次 goto 报 code=2012“此窗口正在云备份，请稍后打开”，20 秒后重试成功。未撞 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：profile 5 不在列表中（32、35、38、65、67 正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 01:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"，首页 profile.php?id=61595765429611 链接 + 发帖框署名 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"（与台账一致）。本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:48659）。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d 前、Reel 就绪×3（2d/2d/3d 前）、Reel 300 播放里程碑 3d 前、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 11-21/11-22/11-23 各轮一致）。
+- FB 搜索 rhinoplasty：Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；“7 days post op revision rhinoplasty”（术后，不碰）；“toughest decision…found a clinic that has good reviews”（已找到诊所、已定方向，非未定求助者，不碰）；“Here's my new look”（术后分享，不碰）；“5 months and 21 days post op…Dr Enis Yalcin in Antalya”（术后+锚定，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：厚皮翻修帖（已评被拒，不重复）；Surgiform 植入体医生帖（医生号，不碰）；“16 days post op”前后对比（术后求助，不碰）；Dr. Serkan Bariskan 15/01 手术总结（术后+锚定，不碰）；“10 months in”厚皮恢复分享（术后，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Scarless Nose 诊所帖（机构，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；Houda BN 鼻孔不对称翻修求推荐（00:06 轮已核实属新群 604041441428373 内帖，群评论通道已证实封死，不重试）；TurquoiseGoose7170 功能性鼻问题求医（03:06 轮已判新群内帖，不重试）；Kyle Sharameta 男士鼻求推荐（03:06/04:06 轮已核实属新群内帖，不重试）；“She researched surgeon after surgeon…”诊所营销帖（不碰）。无可评的非群组目标。
+- FB 搜索 nose job：CleverKiwi1812“土耳其住满 7 天吗”（00:06 轮已核实属新群内帖，不重试）；土耳其去年 10 月隆鼻失败抱怨帖（术后，不碰）；CapableArugula8934 10 年前隆鼻 radix 骨移植翻修求助（00:06 轮已核实属新群内帖，不重试）；Dr. Muhammed Fatih Evcimik 翻修求问（锚定特定医生+群内帖，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Elle Pol“considering getting a rhinoplasty and trying to decide between the surgeons”（11-19 轮已评 E07 94、评论被拒，不重复）；Dr. Selim Turan 术后 9 个月分享（术后+锚定，不碰）；“share my rhinoplasty journey”（术后分享，不碰）；术后 5 周肿胀分享（术后，不碰）；Dr Baris İlke Çokay 术后 3 周分享（术后+锚定，不碰）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：群页文章节点初读为空文本，滚动 + dir=auto 复读后仅见 2 条——肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06 轮同帖）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含滚动复读）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮可见的未定求助者（Houda BN、TurquoiseGoose7170、Kyle Sharameta、CleverKiwi1812、CapableArugula8934）全在新群 604041441428373 内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 02:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 的 account_name 本轮返回 null，但首页 profile.php?id=61595765429611 链接 + 文案“秦昊医生，您在考虑眼部年轻化吗？”可确认是 Jusa 本号（与此前 account_name 返回 null 的轮次同法核验）。本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:50057）。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d/3d 前、Reel 就绪×3（2d/2d/3d 前）、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-21/11-22/11-23/11-24 00:06/01:06 各轮一致）。
+- FB 搜索 rhinoplasty：Elle Pol（11-19 轮已评 E07 94、评论被拒，不重复）；“THE LOWER THE ORIGINAL NOSE BRIDGE...”（医生/机构营销帖，不碰）；“The toughest decision... found a clinic that has good reviews”（已定诊所，非未定求助者，不碰）；“7 days post op revision rhinoplasty”（术后，不碰）；CapableArugula8934 10 年前隆鼻 radix 骨移植翻修求助（00:06 轮已核实属新群 604041441428373 内帖，不重试）。无目标。
+- FB 搜索 rhinoplasty before after：全为术后分享（10 个月厚皮恢复分享、Dr. Serkan Bariskan 15/01 手术总结+锚定、16 天术后前后对比求助），无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Scarless Nose 诊所帖（机构，不碰）；Nazanin Kavari（已锚定 Dr. Ashkan Ghavami，不碰）；Anonymous“highly skilled rhinoplasty surgeon”（00:06 轮已核实属新群 604041441428373 内帖，群评论通道已证实封死，不重试）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；Kyle Sharameta 男士鼻求推荐（03:06/04:06 轮已核实属新群内帖，不重试）；**新候选 Em Leana 民族鼻求推荐**（半拉美裔、鼻子渐失型、要自然效果、不要 Barbie 鼻、未点名医生——本轮 probe 群归属核实：容器链接全部指向 /groups/604041441428373/，新群内帖，**群评论通道已证实封死，不重试**）。无可评的非群组目标。
+- FB 搜索 nose job：CleverKiwi1812“土耳其住满 7 天吗”（00:06 轮已核实属新群内帖，不重试）；土耳其去年 10 月隆鼻失败抱怨帖（术后，不碰）；CapableArugula8934（同上，不重试）；**新候选 Anonymous 鼻中隔术后 8 年求助**（8 年前 septoplasty、后又受伤、首次美容隆鼻、要正面拉直+保守去驼峰+微抬鼻尖、未点名医生——本轮 probe2 群归属核实：容器链接指向 /groups/604041441428373/，新群内帖，**群评论通道已证实封死，不重试**）；“narrowed it down to two surgeons: Dr. Veysel Sarraf / Dr. Aytekin Uzer”（锚定两名医生，不碰）；Dr. Muhammed Fatih Evcimik 翻修求问（锚定特定医生，不碰）。无可评的非群组目标。
+- FB 搜索 rhinoplasty recovery：全为术后分享（术后 5 周肿胀、Dr. Burak Alhan 术后 2 周+锚定、术后 10 天、通用恢复期科普、术后 14 天），无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06 轮同帖）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含 2 次目标帖群组核查）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮新发现的 2 名未锚定求助者（Em Leana 民族鼻、Anonymous 鼻中隔术后首次美容隆鼻）全在新群 604041441428373 内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信；群页初读 article 节点为空文本，滚动 + dir=auto 复读后可读。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：profile 5 不在列表中（仅 profile 65 正被另一轮次占用，未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 03:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 的 account_name 本轮返回 null，但首页 profile.php?id=61595765429611 链接 + 文案“秦昊医生，您在考虑眼部年轻化吗？”可确认是 Jusa 本号（与此前 account_name 返回 null 的轮次同法核验）。本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:6394）。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d/3d 前、Reel 就绪×3（2d/2d/3d 前）、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-21/11-22/11-23/11-24 00:06/01:06/02:06 各轮一致）。
+- FB 搜索 rhinoplasty：Elle Pol（11-19 轮已评 E07 94、评论被 Admin Assist 拒，不重复）；“The toughest decision... found a clinic that has good reviews”（已定诊所，非未定求助者，不碰）；“7 days post op revision rhinoplasty”（术后，不碰）；Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被拒，不重复）；“This might be the best rhinoplasty I've done yet”（医生号帖，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Ryan Scannell 医生晒患者成果（医生号，不碰）；“16 days post op”前后对比（术后求助，不碰）；Dr. Serkan Bariskan 15/01 手术总结（术后+锚定，不碰）；“10 months in”厚皮恢复分享（术后，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Scarless Nose 诊所帖（机构，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；Dr. Passaretti 患者推荐帖（医生营销，不碰）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；Anonymous“good rhinoplasty surgeon... natural-looking, feminine nose”（00:06 轮已核实属新群 604041441428373 内帖，群评论通道已证实封死，不重试）；TurquoiseGoose7170 功能性鼻问题求医（03:06 轮已判新群内帖，不重试）；EnthusiasticElk4979“very experienced revision rhinoplasty surgeon, Price doesn't matter”（00:06 轮已核实属新群内帖，不重试）；Kyle Sharameta 男士鼻求推荐（03:06/04:06 轮已核实属新群内帖，不重试）。无可评的非群组目标。
+- FB 搜索 nose job：CapableArugula8934 10 年前隆鼻 radix 骨移植翻修求助（00:06 轮已核实属新群内帖，不重试）；医生 4.5 年翻修术后晒患者帖（医生号，不碰）；CleverKiwi1812“土耳其住满 7 天吗”（00:06 轮已核实属新群内帖，不重试）；土耳其去年 10 月隆鼻失败抱怨帖（术后，不碰）；11 天术后分享（术后，不碰）；Dr. Muhammed Fatih Evcimik 翻修求问（锚定特定医生，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：全为术后分享（术后 5 周肿胀、Dr. Burak Alhan 术后 2 周+锚定、通用恢复期科普、术后 10 天、Dr. Baris İlke Çokay 术后 3 周+锚定），无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：群页初读 article 节点为空文本，滚动 + dir=auto 复读后仅见 2 条——肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06/02:06 轮同帖）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含滚动复读）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮可见的未定求助者（Elle Pol、高技能医生求推荐 Anonymous、功能性鼻问题 TurquoiseGoose7170、翻修求推荐 EnthusiasticElk4979、男士鼻 Kyle Sharameta、CapableArugula8934、CleverKiwi1812）全在群内或已评被拒，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信；群页初读 article 节点为空文本，滚动 + dir=auto 复读后可读。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 04:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 的 account_name 本轮返回 null，但首页 profile.php?id=61595765429611 链接 + 文案“秦昊医生，您在考虑眼部年轻化吗？”可确认是 Jusa 本号（与此前 account_name 返回 null 的轮次同法核验）。本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:38763）。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d/3d 前、Reel 就绪×3（2d/2d/3d 前）、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-21/11-22/11-23/11-24 00:06/01:06/02:06/03:06 各轮一致）。
+- FB 搜索 rhinoplasty：Elle Pol（11-19 轮已评 E07 94、评论被 Admin Assist 拒，不重复）；“7 days post op revision rhinoplasty”（术后，不碰）；CapableArugula8934 10 年前隆鼻 radix 骨移植翻修求助（00:06 轮已核实属新群 604041441428373 内帖，不重试）；“The toughest decision... found a clinic that has good reviews”（已定诊所，非未定求助者，不碰）；Dr. Weniger 营销帖（医生号，不碰）；Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被拒，不重复）。无目标。
+- FB 搜索 rhinoplasty before after：全为术后分享（医生营销帖、16 天术后前后对比、Dr. Serkan Bariskan 15/01 手术总结+锚定、10 个月厚皮恢复分享），无目标。
+- FB 搜索 looking for rhinoplasty surgeon：“The best rhinoplasty results don't scream nose job”（医生营销帖，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；**新候选 Houda BN 鼻孔不对称翻修求推荐**（翻修、纠正鼻孔不对称+鼻底问题、未点名医生——本轮 probe 群归属核实：容器链接全部指向 /groups/604041441428373/，新群内帖，**群评论通道已证实封死，不重试**）；EnthusiasticElk4979“very experienced revision rhinoplasty surgeon, Price doesn't matter”（00:06 轮已核实属新群内帖，不重试）；“She researched surgeon after surgeon...”（诊所营销帖，不碰）。无可评的非群组目标。
+- FB 搜索 nose job：CapableArugula8934（同上，不重试）；“To all of my lovely friends...”（通用帖，非求助者，不碰）；男士 5 个月前在土耳其找 Dr. Dogan Pinar 做隆鼻（术后+锚定，不碰）；CleverKiwi1812“土耳其住满 7 天吗”（00:06 轮已核实属新群内帖，不重试）；“dreaming of getting a nose job... Dr. Havva Duru”（锚定特定医生，不碰）；阿尔巴尼亚医生帖（锚定特定医生，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：35 岁计划找 Dr. Seckin Ulusoy 做隆鼻（锚定，不碰）；戴眼镜者两周后手术、问术后戴眼镜（已定手术，非未定求助者，不碰）；其余全为术后分享（10.5 周 septorhinoplasty、Dr. Baris İlke Çokay 术后 3 周+锚定、Dr. Burak Alhan 术后 2 周+锚定、术后 10 天）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：群页 article 节点初读为空文本，滚动 + dir=auto 复读后仅见 2 条——肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06/02:06/03:06 轮同帖）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含 1 次目标帖群组核查）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮新发现的未锚定求助者 Houda BN（鼻孔不对称翻修）在新群 604041441428373 内，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信；群页初读 article 节点为空文本，滚动 + dir=auto 复读后可读。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 05:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：profile.php?id=61595765429611（与台账一致）；check 的 account_name 本轮返回 null，但首页文案“秦昊医生，您在考虑眼部年轻化吗？”+ 个人资料链接可确认是 Jusa 本号。本轮开始时已开列表为空，was_open5=False，本轮自开自关。
+- 通知：仅系统通知（Reel 300 播放里程碑 1d/3d 前、Reel 就绪×3（2d/2d/3d 前）、入群欢迎“Welcome to Rhinoplasty in...”4d 前）；无真人评论可回。Jusa 02 Reel 仍为 300 播放（与 11-23/11-24 各轮一致）。
+- FB 搜索 rhinoplasty：Elle Pol（11-19 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；7 天术后翻修分享（术后，不碰）；Anonymous 厚皮翻修求推荐帖（11-17 轮已评、E07 94、评论被拒，不重复）；“The toughest decision I've ever made today…”（已找到评价好的诊所、已决定，非未定求助者，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：医生推广帖（非求助者，不碰）；16 天术后前后对比（术后，不碰）；Dr. Serkan Bariskan 术后 15/01 总结报告（术后+锚定，不碰）；10 个月术后恢复分享（术后，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：中文匿名厚皮求医帖（ClassyKoala4204，皮肤厚、鼻子歪、鼻子长——**本轮 probe 群归属核实：容器链接全部指向 /groups/604041441428373/，新群内帖，群评论通道已证实封死，不重试**）；医生术后随访科普帖（非求助者，不碰）；Dr. Berkay Caytemel 验证帖（锚定，不碰）；Agata 正面视角翻修求推荐（01:06 轮已核实属未加群“Rhinoplasty and Revision Rhinoplasty”573582492318097 内帖，不碰）；“Surprise RHINOPLASTY sale! 40% off”广告（广告号，不碰）；诊所营销帖“She researched surgeon after surgeon...”（机构，不碰）。无可评的非群组目标。
+- FB 搜索 nose job：男士 5 个月前在土耳其找 Dr. Dogan Pinar 做隆鼻（术后+锚定，不碰）；CleverKiwi1812“土耳其住满 7 天吗”（00:06 轮已核实属新群 604041441428373 内帖，不重试）；30 岁女性 septoplasty 后翻修分享（03:06 轮已判：术后 1 周 + 锚定 Dr. Dogukan Aydeniz Öz，不碰）；Dr. Muhammed Fatih Evcimik 翻修求问、要 Barbie 鼻（锚定特定医生，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：全为术后分享（TikTok 拆石膏吐槽、术后 3 个月诊所帖、术后 3 周分享、术后 5 周分享）与医生随访科普帖，无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：群页 article 节点初读为空文本，滚动 + dir=auto 复读后仅见 2 条——肋软骨翻修求推荐（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06/02:06/03:06/04:06 轮同帖）；Essex 淋巴引流广告（广告号，不碰）。无可评目标。
+- 结论：本轮 5 次主搜索（含 1 次目标帖群组核查）+ 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。本轮唯一未锚定求助者（中文厚皮匿名帖 ClassyKoala4204）经 probe 核实属新群 604041441428373 内帖，群评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。搜索页 div[role="article"] 读数为 0（虚拟化），改用 body 文本 + dir=auto 块扫读，内容可读、结论可信；群页初读 article 节点为空文本，滚动 + dir=auto 复读后可读。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：profile 5 不在列表中（32、65 正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 06:06 轮次（fb-hunt-p5）——窗口外跳过
+
+- 本轮定时触发于 06:06（CST），已过夜里窗口截止 06:00。按任务正文窗口规则直接结束：未开浏览器、未发任何内容、未碰 profile 5 账号。0 条评论、0 客资、无异常。
+
+## 2026-11-24 07:06 轮次（fb-hunt-p5）——窗口外跳过
+
+- 本轮定时触发于 07:06（CST），已过夜里窗口截止 06:00。按任务正文窗口规则直接结束：未开浏览器、未发任何内容、未碰 profile 5 账号。0 条评论、0 客资、无异常。
+
+## 2026-11-24 09:06 轮次（fb-hunt-p5）——窗口外跳过
+
+- 本轮定时触发于 09:06（CST），在夜里窗口（18:30–次日 06:00）之外。按任务正文窗口规则直接结束：未开浏览器、未发任何内容、未碰 profile 5 账号。0 条评论、0 客资、无异常。
+
+## 2026-11-24 10:06 轮次（fb-hunt-p5）——窗口外跳过
+
+- 本轮定时触发于 10:06（CST），在夜里窗口（18:30–次日 06:00）之外。按任务正文窗口规则直接结束：未开浏览器、未发任何内容、未碰 profile 5 账号。0 条评论、0 客资、无异常。
+- 2026-11-24 13:06 CST 窗口外跳过：夜里窗口为 18:30–次日 06:00，本轮未跑，未开浏览器、未发内容、未碰账号（Jusa p5）。
+- 2026-11-24 14:06 CST 窗口外跳过：夜里窗口为 18:30–次日 06:00，本轮未跑，未开浏览器、未发内容、未碰账号（Jusa p5）。
+
+## 2026-11-24 15:06 轮次（fb-hunt-p5）——窗口外跳过
+
+- 本轮定时触发于 15:06（CST），在夜里窗口（18:30–次日 06:00）之外。按任务正文窗口规则直接结束：未开浏览器、未发任何内容、未碰 profile 5 账号。0 条评论、0 客资、无异常。
+- 2026-11-24 17:06 CST 窗口外跳过：夜里窗口为 18:30–次日 06:00，本轮未跑，未开浏览器、未发内容、未碰账号（Jusa p5）。
+- 2026-11-24 18:06 CST 窗口外跳过：夜里窗口为 18:30–次日 06:00，本轮未跑，未开浏览器、未发内容、未碰账号（Jusa p5）。
+
+## 2026-11-24 19:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:44290）。check 的 account_name 本轮返回 null，但首页发帖框署名 "What's on your mind, Jusa?" + 通知页多条署名 "Dr. Qin Hao Eye Rejuvenation"（Reel 发布通知、14 次新浏览）可确认是 Jusa 本号（与此前 account_name 返回 null 的轮次同法核验；本次 home identity 探针 profile.php 链接返回 false，未单独作为核验依据）。
+- 通知：无本号帖子下的真人评论可回。系统通知：Reel 发布通知×多条（2d–5d 前）、Reel 达 1K 播放里程碑（1w 前）、Insights 就绪（2d 前）、"Dr. Qin Hao Eye Rejuvenation has 14 new views"（1w 前）。**新浮现 3 条 6d 前的好友请求**（此前多轮通知读数未见）：Haridas Roy（关注者 5.5K）、Alia Molla、বলরাম মন্দির（1 位共同好友）。无医美意向信号，本轮猎手（评论）不处理好友请求、未通过未私信，记入台账供 fb-dm-p5 筛查。
+- FB 搜索 rhinoplasty：Randal Haworth MD（洛杉矶医生页，同行不碰）；Giulio Cercato（医生晒五次翻修病例，同行不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Beverly Hills Rhinoplasty Center（Deepak Dugar, MD 医生页，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Dr. Gary Motykie（医生页，二诊病例分享，同行不碰）。无目标。
+- FB 搜索 nose job：dr.resitburakkayan（医生页，不碰）；"A new nose, but still unmistakably HER"（医生/创作者营销分享帖，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Charlotte Knight（术后揭晓分享，术后不碰）；Daddies to Three（术后揭晓分享，术后不碰）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”）只读扫读：肋软骨翻修求推荐帖（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06/02:06/03:06/04:06/05:06 轮同帖）。无可评目标。群页顶栏仍显示 "Join Group" 按钮（22:06 轮已证实为 UI 假象，joins 列表确认仍是成员；本轮未重复核 joins）。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读（1200 字窗口内），可读部分全为医生页/术后分享，结论以可读范围为准。群内评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试；猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 20:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:31399）。check 返回 account_name "Jusa"（name_source composer）；首页发帖框署名 "What's on your mind, Jusa?"；通知页多条署名 "Dr. Qin Hao Eye Rejuvenation"（Reel 发布通知、14 次新浏览、1K 播放里程碑），可确认是 Jusa 本号（与 19:06 轮同法核验；本次 home identity 探针 profile.php 链接返回 false，未单独作为核验依据）。
+- 通知：无本号帖子下的真人评论可回。系统通知：Reel 发布通知×多条（2d–5d 前）、"Dr. Qin Hao Eye Rejuvenation has 14 new views"（1w 前）、Insights 就绪（2d 前）、Reel 达 1K 播放里程碑（1w 前）。**3 条 6d 前的好友请求仍在**（Haridas Roy 关注者 5.5K、Alia Molla、বলরাম মন্দির 1 位共同好友；19:06 轮已首次浮现），无医美意向信号，本轮猎手（评论）不处理好友请求、未通过未私信，供 fb-dm-p5 筛查。
+- FB 搜索 rhinoplasty：Win Heart Mej... 视频帖 "How rhinoplasty spoke to me"（内容未读全，非求助者）；Selena Philipos 术后 15 个月分享（新群 604041441428373 内帖，术后不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Surgery Turkey Forum（机构号，不碰）；Chanelle Lopez Galloway（新群内帖，术前术后对比、术后 16 天，术后求助，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Dr. Gary Motykie 医生页（比佛利山庄，同行不碰）；Matt May / Parker and Rebo 整形外科诊所医生页（同行，不碰）。无目标。
+- FB 搜索 nose job：Carl Truesdale, M.D.（洛杉矶医生页，不碰）；dr.resitburakkayan（医生页，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Charlotte Knight（术后揭晓分享，术后不碰）；Kristin Kurtz（认证账号帖，非求助者，不碰）。无目标。
+- 已加群 1151025859914944（“Rhinoplasty in Turkey 2026”，4.5K 成员）只读扫读：仅见肋软骨翻修求推荐帖（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06/02:06/03:06/04:06/05:06 轮同帖）。无可评目标。群页顶栏仍显示 "加入群组" 按钮（22:06 轮已证实为 UI 假象，joins 列表确认仍是成员；本轮未重复核 joins）。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读（1200 字窗口内），可读部分全为医生页/术后分享，结论以可读范围为准。群内评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试；猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 21:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（composer）；profile.php?id=61595765429611 打开为 "Dr. Qin Hao Eye Rejuvenation" Page，评论署名 "Comment as Jusa Khan"（与台账一致）。本轮开始时 profile 5 未开，本轮自开自关（debugging_address 127.0.0.1:43200）。
+- 通知：新增 2 条好友请求（6d 前）：বলরাম মন্দির（1 位共同好友）、Alia Molla——猎手轮不处理好友请求（属私信轮筛查范围），已记下供 fb-dm-p5 筛查，不擅自通过/删除；其余仅系统通知（Insights 就绪 2d 前、Reel 已发布×2，2d 前）；无本号帖子下的真人评论可回。
+- FB 搜索 rhinoplasty：Dr. Blake Raggio 术后 6 个月（医生号，不碰）、Doctor's Harry Lou（医生号，不碰）、Carl Truesdale（医生号，不碰）、Matt May 诊所帖（机构，不碰）。滚动后无新内容。无目标。
+- FB 搜索 rhinoplasty before after：Dr. Mohamed Dilber（医生号，不碰）、@sachacali 术后 4 个月（术后分享，不碰）、Dr. Blake Raggio（医生号，不碰）、Jusa 本号帖、Carl Truesdale（医生号，不碰）、Beverly Hills 隆鼻中心（医生号，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Dr. Blake Raggio（医生号，不碰）、Dr. Gary Motykie 第二意见帖（医生号，不碰）、Matt May 诊所帖（机构，不碰）、Carl Truesdale（医生号，不碰）、Providence 面部整形（机构，不碰）。无目标。
+- FB 搜索 nose job：Carl Truesdale（医生号，不碰）、dr.resitburakkayan（医生号，不碰）、Matt May 诊所帖（机构，不碰）、Bryce Witmer Claude 广告（不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Dr. Mohamed Dilber（医生号，不碰）、@sachacali 术后 4 个月（术后，不碰）、Dr. Lisse Momani AI 内容（医生号，不碰）、Daddies to Three 术后揭晓（术后，不碰）、Charlotte Knight（非求助者，不碰）、上海聚益机构帖（机构，不碰）。无目标。
+- 新群 604041441428373 动态扫读（只看不评）：Saffie3001 术后 4 周闻腐肉味求助（术后，不碰）；其余可见均为评论回复——GratefulLizard3408 已选 Ellen Bordaz 医生术后 5 个月（锚定，不碰）、勇敢的蜂鸟 37 选 Mustafa Bagli（锚定，不碰）、Boy Smith 伦敦土耳其医生免费咨询（已咨询/锚定，不碰）、Monica Ross 术后分享（术后，不碰）。无可评目标。群页顶栏仍显示“加入群组”按钮（与 22:06 轮记录的 UI 假象一致，成员身份以 joins 列表为准，本轮未重复核对）。
+- 结论：本轮 5 次主搜索 + 新群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内评论通道三轮三拒已证实账号级拦截，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok，closed:true）。关后用 opened() 复核：已开列表为空。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 22:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应）
+
+- 身份核验通过：check 返回 account_name "Jusa"（composer）；首页发帖框署名 "What's on your mind, Jusa?"；通知页多条署名 "Dr. Qin Hao Eye Rejuvenation"（Reel 发布通知、14 次新浏览、1K 播放里程碑），可确认是 Jusa 本号。本轮开始时 profile 5 已开（22:07:24 由另一轮次打开，pid 10396，URL 停在 /reels/create，两次核查 30 秒内无变动，判定为空闲、谨慎共用；本轮自始至终未关 profile 5——轮开始时已开，属别轮所有，绝不能关）。
+- 通知：无本号帖子下的真人评论可回。系统通知：Insights 就绪（2d 前）、Reel 已发布×2（2d 前）。可见 2 条 6d 前的好友请求（বলরাম মন্দির 1 位共同好友、Alia Molla）——猎手轮不处理好友请求，未通过未私信，供 fb-dm-p5 筛查。注：19:06/20:06 轮见过的 Haridas Roy 请求本轮读数中未出现，读数窗口有限，不作“已消失”定论。
+- FB 搜索 rhinoplasty（可读窗口 0–1200 字）：drnima_md（比佛利山庄医生号，同行不碰）、Matt May / The Park & Rebowe Clinic（医生/诊所，不碰）。无可评目标。
+- FB 搜索 rhinoplasty before after（可读窗口 0–1200 字）：Devyn Slowik 转 Providence Facial Plastic and Cosmetic Surgery 诊所帖（机构，不碰）、Giulio Cercato "Stunning results, amazing patient"（医生营销，不碰）。无可评目标。
+- FB 搜索 looking for rhinoplasty surgeon（只读到 [0:800]，[800:1200] 读数时 agent 崩了）：Providence 诊所帖 + Giulio Cercato 医生帖（与上一搜索重复出现的结果），无可评目标。
+- 未完成：FB 搜索 nose job、rhinoplasty recovery、已加群 1151025859914944 只读扫读均未跑成。
+- **异常：agent 持续无响应（环境侧故障，非 Jusa 账号问题）**：约 22:14 起 /eval 连报 curl 52（空回复）/curl 18（传输截断），第一脚本在 rhinoplasty 搜索首个读数处 3 次重试耗尽后崩溃；等待后 /health 一度恢复（22:24，v10），续跑脚本完成 rhinoplasty / rhinoplasty before after / looking-for（部分）三组搜索，又在 looking-for [800:1200] 处 3 次 curl 52 崩溃；第二续跑脚本（5 次重试×30 秒）连首个 /eval 都失败；约 22:42 最终探针 /health、/eval、/opened 三路全部 curl 52。累计近 30 分钟 agent 无法提供服务，三次脚本均死于传输层，期间未撞 429/226/344。故障形态与 11-19 22:06 轮（agent 抖动约 1 小时后自愈）相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。
+- 结论：本轮**未完成**，可读范围内无符合标准的可评目标（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未关（轮开始时已开、属别轮所有；且结束时 /opened 本身也已不通，无法复核已开列表）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-24 23:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应）
+
+- 本轮开始时 profile 5 已开（/opened：pid 10396，open_time 2026-11-24 22:07:24，与 22:06 轮记录的别轮会话一致；本轮未开、未关，属别轮所有）。
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：23:06 首跑脚本 /health 连报 3 次 curl 52；等待 5 分钟后探针 /health 恢复（v10），续跑 23:06 脚本：/health 2 次重试后恢复，/opened 正常返回（5、32、38、44、67 在列），但 `is_open(5)` 因传输抖动误报 False，随后 `open(5)` 3 次均 curl 52 失败——因 /opened 已证实 5 在开着，未强行重复 open；随后探针 /health 与 /opened 恢复、/eval(5) 连报 curl 52/18（3 次）；再等 4 分钟后重探仍是 /health、/opened 通、/eval(5) 3 次全败（curl 18 一次、curl 52 两次）。另有一次运行环境重启打断了中间探针（proc_c282517695d6，日志文件为空；该探针只做只读 health/opened/eval，无外部影响，重启后已重新探针确认状态）。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（/eval 不通，无法读页面）。**0 条评论发出，无草稿产生、故无 E07 打分**。
+- 结论：本轮**未完成**。故障形态与 22:06 轮（22:14 起 agent 无响应约 30 分钟）及 11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未关（轮开始时已开、属别轮所有；且 /eval 不通，无法核验会话状态）。未调 check()（会拉起已关 profile）。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+
+## 2026-11-25 00:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（composer）；通知页多条署名 "Dr. Qin Hao Eye Rejuvenation"（Reel 已发布通知、2d/3d 前），可确认是 Jusa 本号。搜索页评论框署名 "Comment as Jusa Khan" / "以 Jusa Khan 的身份评论"，与台账一致。本轮开始时 profile 5 已开（/opened：pid 10396，open_time 2026-11-24 22:07:24，debugging_address 127.0.0.1:34907；is_open(5) 误报 False，以 /opened 为准，与 23:06 轮记录的误报一致，属别轮所有，本轮未开、未关）。
+- 通知：无本号帖子下的真人评论可回。系统通知：Insights 就绪（2d 前）、Reel 已发布×2（2d/3d 前）。可见 2 条 6d 前的好友请求（বলরাম মন্দির 1 位共同好友、Alia Molla）——猎手轮不处理好友请求，未通过未私信，供 fb-dm-p5 筛查。
+- FB 搜索 rhinoplasty：Rhinoplasty Pages、Dr Nayan Rhinoplasty Center（尼泊尔医生页，不碰）、Rhinoplasty Plastic Surgery Manila（诊所，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Devyn Slowik 转 Providence Facial Plastic and Cosmetic Surgery 诊所帖（机构，不碰）、Giulio Cercato "Stunning results, amazing patient"（医生营销，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Aaron Kosins MD（Newport Beach 医生号，不碰）、#AsianRhinoplasty 分享帖。无目标。
+- FB 搜索 nose job：Carl Truesdale（洛杉矶医生号，不碰）、新加坡摩莎美容医疗中心黑五肉毒广告（广告，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Op.Dr.Muhammet Dilber（医生号，不碰）、@sachacali 术后 4 个月（术后分享，不碰）。无目标。
+- 已加群 1151025859914944（"Rhinoplasty in Turkey 2026"，4.5K 成员）只读扫读：仅见肋软骨翻修求推荐帖（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06 轮同帖）。无可评目标。群页顶栏仍显示 "加入群组" 按钮（22:06 轮已证实为 UI 假象，joins 列表确认仍是成员；本轮未重复核 joins）。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读（1200 字窗口内），可读部分全为医生页/术后分享，结论以可读范围为准。群内评论通道三轮三拒已证实账号级拦截，本轮按既定决定未重试；猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：agent 传输层间歇故障（环境侧故障，非 Jusa 账号问题）：00:06 首跑 /check、/goto、/eval 全报 curl 52；等 4 分钟后 /health 恢复（v10），续跑完成身份+通知；搜索阶段 /eval 又多次 curl 52/18（looking-for 首读 3 次全败、后 2 次重试 1 次 curl 18 后恢复）；群扫读一次通过。全程未撞 429/226/344。故障形态与 11-19/11-24 22:06/23:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断。
+- 动作：发 0 条；0 客资。轮次结束 profile 5 未关（轮开始时已开、属别轮所有；结束时 /opened 复核仍在开，pid 10396）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-25 01:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（name_source=composer），发帖框署名 "What's on your mind, Jusa?"；通知里本号 Reel 署名 "Dr. Qin Hao Eye Rejuvenation"，与往轮同一 profile 5（pid 10396，11-24 22:07 打开）。本轮 profile.php?id= 链接查询返回空（DOM 未取到），未单独以此核验，已按 check + 发帖框 + 通知署名三重确认是 Jusa 本号。
+- 通知：**新好友请求 1 条：Haridas Roy（6d 前，"Followed by 5.5K"）**——待 DM 轮次筛查（本轮猎手轮不擅自通过）；其余仅系统通知（Insights 就绪 2d 前、Reel 已发布 3d/4d 前）。无真人评论可回。
+- FB 搜索 rhinoplasty：Dr. Ahmet Alp 医生页（不碰）；"Your post from France — 6 months after rhinoplasty" 术后分享（不碰）。无目标。
+- FB 搜索 rhinoplasty before after：dominique.baker "6 weeks since my ethnic rhinoplasty… Thank you Op. Dr. Sedat Rüzgar"（术后 + 锚定医生，不碰）；Natural Glow Organic Skin Care & Med Spa 机构号（不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Kian Karimi 医生页（洛杉矶，不碰）；Providence Facial Plastic 医生页（不碰）。无目标。
+- FB 搜索 nose job：Carl Truesdale, M.D. 医生页、Dr. Gary Motykie 医生页（均不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Nicole Spriggs（365 天前在 Op.Dr.Muhammet Dilber 处手术，术后 + 锚定，不碰）。无目标。
+- 新群 604041441428373 动态扫读（只看不评）：Saffie3001（术后 4 周闻到腐肉味求助，术后不碰）；Anonymous 959 / SharpBeet1017 均为该帖回复。无可评目标。群页顶栏仍显示 "Join Group" 按钮（往轮已确认为 UI 假象，未重验 joins 列表）。
+- 结论：本轮 5 次主搜索 + 新群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次开始时 profile 5 已被另一轮次打开（URL 稳定在 messenger.com，无人驾驶，本轮谨慎共用），按规矩**未关 profile**，轮末 opened() 复核确认 profile 5 仍在已开列表中（pid 10396）。未调 check() 关后复核（会拉起已关 profile）。
+
+## 2026-11-25 02:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（name_source=composer）；发帖框署名 "What's on your mind, Jusa?"；通知里本号 Reel 署名 "Dr. Qin Hao Eye Rejuvenation"，与往轮同一 profile 5（pid 10396，11-24 22:07 打开）。本轮开始时 profile 5 已开（URL 稳定在 messenger.com，30 秒内无变动，判定为空闲、谨慎共用；本轮未开、未关，属别轮所有）。profile.php?id= 链接查询本轮返回空（DOM 未取到），已按 check + 发帖框 + 通知署名三重确认是 Jusa 本号。
+- 通知：无本号帖子下的真人评论可回。可见 Haridas Roy 好友请求（6d 前，"Followed by 5.5K"，01:06 轮已见过）——猎手轮不处理好友请求，未通过未私信，供 fb-dm-p5 筛查。其余仅系统通知（Insights 就绪 2d 前、Reel 已发布 3d/4d 前）。
+- FB 搜索 rhinoplasty：仅见 1 条医生营销帖（闭合隆鼻+面部脂肪移植，医生号，不碰）；其余窗口虚拟化未读到内容。
+- FB 搜索 rhinoplasty before after：Daddies to Three 术后分享（不碰）；Dr. Chen 医生号前后对比帖（不碰）。
+- FB 搜索 looking for rhinoplasty surgeon：Providence Facial Plastic and Cosmetic Surgery 诊所帖（机构，不碰）、Giulio Cercato 医生营销帖（不碰）、Kian Karimi 医生页（不碰）。
+- FB 搜索 nose job：Carl Truesdale, M.D. 医生页（不碰）；侧面轮廓平衡 Reel（医生营销，不碰）。
+- FB 搜索 rhinoplasty recovery：Op.Dr.Muhammet Dilber 术后分享（术后+锚定，不碰）；[400:800] 窗口为虚拟化乱码单字，未读到有效帖子。
+- 新群 604041441428373 动态扫读（只看不评）：Saffie3001（术后 4 周闻到腐肉味求助，术后不碰；与 01:06 轮同帖）。无可评目标。
+- 结论：本轮 5 次主搜索 + 新群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读，可读部分全为医生页/术后分享，结论以可读范围为准。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无重试、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次开始时 profile 5 已被另一轮次打开（pid 10396），按规矩**未关 profile**，轮末 opened() 复核确认 profile 5 仍在已开列表中（32、35、38、44、67、102 等正被其他轮次占用，未动）。未调 check() 关后复核（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261125_0206.log。
+
+## 2026-11-25 03:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（name_source=composer）；发帖框署名 "What's on your mind, Jusa?"；通知里本号 Reel 署名 "Dr. Qin Hao Eye Rejuvenation"，与往轮同一 profile 5（pid 10396，11-24 22:07 打开）。本轮开始时 profile 5 已开（URL 稳定在 messenger.com，30 秒内无变动，判定为空闲、谨慎共用；本轮未开、未关，属别轮所有）。profile.php?id= 链接查询本轮返回空（DOM 未取到），已按 check + 发帖框 + 通知署名三重确认是 Jusa 本号。
+- 通知：无本号帖子下的真人评论可回。可见 Haridas Roy 好友请求（6d 前，"Followed by 5.5K"，01:06/02:06 轮已见过）——猎手轮不处理好友请求，未通过未私信，供 fb-dm-p5 筛查。其余仅系统通知（Insights 就绪 2d 前、Reel 已发布 3d/4d 前）。
+- FB 搜索 rhinoplasty：Dr. Ahmet Alp 医生页（不碰）；"Your post from France — 6 months after rhinoplasty" 术后分享（不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Chanelle Lopez Galloway 转 "Rhinoplasty in Turkey 2026" 群帖，16 天术后前后对比（术后 + 群组帖，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Kian Karimi 医生页（洛杉矶，不碰）；Nazanin Kavari（Beverly Hills，非求助者，不碰）。无目标。
+- FB 搜索 nose job：Dr. Gary Motykie 医生页（不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Jessica Parizek（认证号，"Recovery is such a weird rollercoaster" 术后分享，不碰）。无目标。
+- 已加群 1151025859914944（"Rhinoplasty in Turkey 2026"，4.5K 成员）只读扫读：仅见肋软骨翻修求推荐帖（考虑 Eray Bayindir vs Selim Turan，锚定，不碰；与 19:06/20:06/21:06/22:06/23:06/00:06/01:06/02:06 轮同帖）。无可评目标。群页顶栏仍显示 "Join Group" 按钮（往轮已确认为 UI 假象，未重验 joins 列表）。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读（1200 字窗口内），可读部分全为医生页/术后分享，结论以可读范围为准。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无重试、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次开始时 profile 5 已被另一轮次打开（pid 10396），按规矩**未关 profile**，轮末 opened() 复核确认 profile 5 仍在已开列表中。未调 check() 关后复核（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261125_0306.log。
+
+## 2026-11-25 04:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（name_source=composer）；发帖框署名 "What's on your mind, Jusa?"；通知里本号 Reel 署名 "Dr. Qin Hao Eye Rejuvenation"，与往轮同一 profile 5（pid 10396，11-24 22:07 打开）。本轮开始时 profile 5 已开（URL 停在已加群页 https://www.facebook.com/groups/1151025859914944，30 秒内无变动，判定为空闲、谨慎共用；本轮未开、未关，属别轮所有）。profile.php?id= 链接查询本轮返回空（DOM 未取到），已按 check + 发帖框 + 通知署名三重确认是 Jusa 本号。
+- 通知：无本号帖子下的真人评论可回。可见 Haridas Roy 好友请求（6d 前，"Followed by 5.5K"，01:06/02:06/03:06 轮已见过）——猎手轮不处理好友请求，未通过未私信，供 fb-dm-p5 筛查。其余仅系统通知（Insights 就绪 2d 前、Reel 已发布 3d/4d 前）。
+- FB 搜索 rhinoplasty：Dr. Blake Raggio（Birmingham, AL，6 个月术后分享，医生号，不碰）；Doctor's Harry Lou（认证医生号，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Dr. Ahmet Alp（伊斯坦布尔医生页，不碰）；"Your post from France — 6 months after rhinoplasty"（术后分享，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Devyn Slowik 转 Providence Facial Plastic and Cosmetic Surgery 诊所帖（机构，不碰）；Giulio Cercato "Stunning results, amazing patient"（医生营销，不碰）。无目标。
+- FB 搜索 nose job：dr.resitburakkay "A new nose, but still unmistakably HER"（医生营销帖，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Op.Dr.Muhammet Dilber 术后分享（术后+锚定，不碰）；@sachacali 4 个月术后（术后分享，不碰）。无目标。
+- 已加群 1151025859914944（"Rhinoplasty in Turkey 2026"，4.5K 成员）只读扫读：PlayfulAsparagus5561 在伊斯坦布尔找医生、问 Doç. Dr. Mustafa Sağıt 的手术反馈（已锚定特定医生，不碰；与往轮肋软骨翻修帖不同，是群内新帖）。无可评目标。群页顶栏仍显示 "Join Group" 按钮（往轮已确认为 UI 假象，未重验 joins 列表）。
+- 结论：本轮 5 次主搜索 + 已加群只读扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读（1200 字窗口内），可读部分全为医生页/术后分享，结论以可读范围为准。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次开始时 profile 5 已被另一轮次打开（pid 10396），按规矩**未关 profile**，轮末 opened() 复核确认 profile 5 仍在已开列表中。未调 check() 关后复核（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261125_0406.log。
+
+## 2026-11-25 05:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Jusa"（name_source=composer）；发帖框署名 "What's on your mind, Jusa?"；通知里本号 Reel 署名 "Dr. Qin Hao Eye Rejuvenation"，与往轮同一 profile 5（pid 10396，11-24 22:07 打开）。本轮开始时 profile 5 已开（URL 稳定在 messenger.com，30 秒内无变动，判定为空闲、谨慎共用；本轮未开、未关，属别轮所有）。profile.php?id= 链接查询本轮返回空（DOM 未取到），已按 check + 发帖框 + 通知署名三重确认是 Jusa 本号。
+- 通知：无本号帖子下的真人评论可回。可见 Haridas Roy 好友请求（6d 前，"Followed by 5.5K"，01:06/02:06/03:06/04:06 轮已见过）——猎手轮不处理好友请求，未通过未私信，供 fb-dm-p5 筛查。其余仅系统通知（Insights 就绪 2d 前、Reel 已发布 3d/4d 前）。
+- FB 搜索 rhinoplasty：Dr. Blake Raggio（Birmingham, AL，6 个月术后分享，医生号，不碰）；Doctor Sena "EXCLUSIVE RHINOPLASTY OFFER for NOVEMBER! 1,999"（医生营销/广告，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Dr. Blake Raggio（同上，6 个月术后分享，医生号，不碰）；Dr. Ahmet Alp（伊斯坦布尔医生页，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Dr. Gary Motykie（比佛利山庄医生页，第二意见帖，不碰）。无目标。
+- FB 搜索 nose job：dr.resitburakkayan "A new nose, but still unmistakably HER"（医生营销帖，不碰）。无目标。
+- FB 搜索 rhinoplasty recovery：Op.Dr.Muhammet Dilber（医生号，不碰）；@sachacali 4 个月术后（术后分享，不碰）。无目标。
+- 新群 604041441428373 动态扫读（只看不评）：Saffie3001（术后 4 周闻到腐肉味求助，术后不碰；与 01:06/02:06 轮同帖，回复 Anonymous 959 / SharpBeet1017）。无可评目标。群页顶栏仍显示 "Join Group" 按钮（往轮已确认为 UI 假象，未重验 joins 列表）。
+- 结论：本轮 5 次主搜索 + 新群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。搜索页虚拟化严重，每查询仅前 1–2 条帖子可读，可读部分全为医生页/术后分享/广告，结论以可读范围为准。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无重试、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次开始时 profile 5 已被另一轮次打开（pid 10396），按规矩**未关 profile**，轮末 opened() 复核确认 profile 5 仍在已开列表中。未调 check() 关后复核（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261125_0506.log。
+- 2026-11-25 06:06 窗口外跳过：本轮定时 06:06，已过夜里窗口截止 06:00，按规矩直接结束，未开浏览器、未发内容、未碰账号。
+- 2026-11-25 08:06 窗口外跳过：本轮定时 08:06，已过夜里窗口截止 06:00，按规矩直接结束，未开浏览器、未发内容、未碰账号。
+- 2026-11-25 09:06 窗口外跳过：本轮定时 09:06，夜里窗口为 18:30–次日 06:00，按规矩直接结束，未开浏览器、未发内容、未碰账号。
+- 2026-11-25 11:06 窗口外跳过：本轮定时 11:06，夜里窗口为 18:30–次日 06:00，按规矩直接结束，未开浏览器、未发内容、未碰账号。
+- 2026-11-25 12:06 窗口外跳过：本轮定时 12:06，夜里窗口为 18:30–次日 06:00，按规矩直接结束，未开浏览器、未发内容、未碰账号。
+- 2026-11-25 14:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-25 15:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+- 2026-11-25 16:06 窗口外跳过：当前未到夜里窗口 18:30–次日 06:00，本轮直接结束，未开浏览器、未发评论、未碰账号。
+- 2026-11-25 17:06 窗口外跳过：当前未到夜里窗口 18:30–次日 06:00，本轮直接结束，未开浏览器、未发评论、未碰账号。
+- 2026-11-25 18:06 窗口外跳过：当前未到夜里窗口 18:30–次日 06:00，本轮直接结束，未开浏览器、未发评论、未碰账号。
+
+## 2026-11-25 19:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：19:07 首跑 /health 连报 3 次 curl 52（空回复）；等 4 分钟后重探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 19:07–19:25，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-24 22:06/23:06 轮及 11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。
+
+
+## 2026-11-25 20:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第二轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：20:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后重探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 20:07–20:17，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 19:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第二轮因 agent 不通未完成（19:06 + 20:06），此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261125_2006.log。
+
+## 2026-11-25 21:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第三轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：21:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后重探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 21:07–21:17，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 19:06、20:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第三轮因 agent 不通未完成（19:06 + 20:06 + 21:06），此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-25 22:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第四轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：22:07 首探 /health 报 curl 52（空回复）；等 4 分钟后第二探 3 次 curl 52 全败；再等 5 分钟后第三探 3 次 curl 52 全败；再等 4 分钟后第四探 3 次 curl 52 全败。累计约 22:07–22:22，10 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 19:06、20:06、21:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第四轮因 agent 不通未完成（19:06 + 20:06 + 21:06 + 22:06），此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-25 23:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第五轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：23:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后第二探 3 次 curl 52 全败；再等 5 分钟后第三探 3 次 curl 52 全败。累计约 23:07–23:18，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 19:06、20:06、21:06、22:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第五轮因 agent 不通未完成（19:06 + 20:06 + 21:06 + 22:06 + 23:06），此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261125_2306.log。
+
+## 2026-11-26 00:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第六轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：00:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后第二探 3 次 curl 52 全败；再等 5 分钟后第三探 3 次 curl 52 全败。累计约 00:07–00:25，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第六轮因 agent 不通未完成（11-25 19:06 + 20:06 + 21:06 + 22:06 + 23:06 + 11-26 00:06），此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_0006_probe1.log、hunt_p5_20261126_0006_probe2.log、hunt_p5_20261126_0006_probe3.log。
+
+## 2026-11-26 01:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第七轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：01:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后第二探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 01:07–01:26，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第七轮因 agent 不通未完成（11-25 19:06 + 20:06 + 21:06 + 22:06 + 23:06 + 11-26 00:06 + 01:06），故障已持续约 6 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_0106_probe1.log、hunt_p5_20261126_0106_probe2.log、hunt_p5_20261126_0106_probe3.log。
+
+## 2026-11-26 02:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第八轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：02:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后第二探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 02:07–02:27，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06、01:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第八轮因 agent 不通未完成（11-25 19:06 + 20:06 + 21:06 + 22:06 + 23:06 + 11-26 00:06 + 01:06 + 02:06），故障已持续约 7 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（该脚本依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_0206_probe1.log、hunt_p5_20261126_0206_probe2.log、hunt_p5_20261126_0206_probe3.log。
+
+## 2026-11-26 03:06 轮次（fb-hunt-p5）
+
+- 时间在夜里窗口内（03:06，窗口 18:30–次日 06:00），按流程跑。
+- **ixBrowser agent 全程无响应，本轮未跑成**：03:06 首次 `health` 即报 curl 52（Empty reply from server）；随后 03:07、03:10、03:13、03:17 四次重试，`/health`、`/opened`、`/profiles` 全部 curl 52 空回复，累计约 12 分钟未自愈。未触达任何账号、未打开 profile 5、未读通知、未发任何评论。
+- 未撞 429/226/344（根本连不上 agent，无从判断）；也未验证 profile 5 登录态。
+- 按手册：记日志、不编结果、不谎报已发。阻塞原因与 11-19/11-20/11-24 夜里多次掉线相同，属 agent 端故障；以往恢复方式是等其自愈或用户在电脑上重启 D:\ixbrowser-agent。**未擅自切到 v15（8766）备用 agent**——切换与否待成安/工程师定。
+- 动作：发 0 条；0 客资。本轮未开 profile，故无须 close；未调 check()。
+
+## 2026-11-26 04:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：04:07 首探 /health 连报 3 次 curl 52（空回复）；等约 4.5 分钟后第二探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 04:07–04:17，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06、01:06、02:06、03:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第十轮因 agent 不通未完成（11-25 19:06 + 20:06 + 21:06 + 22:06 + 23:06 + 11-26 00:06 + 01:06 + 02:06 + 03:06 + 04:06），故障已持续约 9 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_0406_probe1.log、hunt_p5_20261126_0406_probe2.log、hunt_p5_20261126_0406_probe3.log。
+
+## 2026-11-26 05:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十一轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：05:07 首探 /health 连报 3 次 curl 52（空回复）；等约 5 分钟后第二探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 05:07–05:18，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06、01:06、02:06、03:06、04:06 轮及 11-24 22:06/23:06 轮、11-19 22:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第十一轮因 agent 不通未完成（11-25 19:06 + 20:06 + 21:06 + 22:06 + 23:06 + 11-26 00:06 + 01:06 + 02:06 + 03:06 + 04:06 + 05:06），故障已持续约 10 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_0506_probe1.log、hunt_p5_20261126_0506_probe2.log、hunt_p5_20261126_0506_probe3.log。
+
+## 2026-11-26 06:06 轮（窗口外跳过）
+- 北京时间 06:19 核查，已过夜里窗口（18:30–次日 06:00），本轮直接跳过：未开浏览器、未发任何内容、未碰 profile 5。0 条评论发出，0 客资。
+2026-11-26 07:06 窗口外跳过：北京时间 07:06 已过 06:00 窗口，本轮 fb-hunt-p5 未跑，未开浏览器、未发内容、未碰账号。
+2026-11-26 08:06 窗口外跳过：北京时间 08:06 已过 06:00 窗口，本轮 fb-hunt-p5 未跑，未开浏览器、未发内容、未碰账号。
+- 2026-11-26 09:06 CST fb-hunt-p5：窗口外（18:30–次日06:00）跳过，未开浏览器、未发内容、未碰账号。
+## 2026-11-26 10:06 窗口外跳过：当前 10:06 不在 18:30–次日 06:00 窗口内，本轮未跑，未开浏览器、未发评论、未碰账号。
+- 2026-11-26 11:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 12:06 fb-hunt-p5 跳过
+- 窗口外（北京时间 12:06，不在 18:30–次日 06:00 夜里窗口），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-26 13:06 fb-hunt-p5 跳过
+- 窗口外（北京时间 13:06，不在 18:30–次日 06:00 夜里窗口），本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-26 14:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-26 15:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+- 2026-11-26 17:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-26 18:06 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-26 19:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十一轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：19:07 首探 /health 连报 3 次 curl 52（空回复）；等 4 分钟后第二探仍 3 次 curl 52 全败；再等 5 分钟后第三探仍 3 次 curl 52 全败。累计约 19:07–19:27，9 次 /health 尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06、01:06、02:06、03:06、04:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是连续第十一轮因 agent 不通未完成，故障自 11-25 13:47 起已持续约 29 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（该脚本依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、5 次搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_1906_probe1.log、hunt_p5_20261126_1906_probe2.log、hunt_p5_20261126_1906_probe3.log。
+
+## 2026-11-26 20:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十三轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：20:07 首探 /health 1 次 curl 52（空回复）；约 1 分钟后第二探 /health + /opened 各 1 次 curl 52 全败；再等约 4 分钟后第三探 /health 连报 3 次 curl 52 全败。累计约 20:07–20:12，6 次尝试全部 curl 52，/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06、01:06、02:06、03:06、04:06、05:06、19:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是自 11-25 19:06 起连续第十三轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 今晚 19:06、20:06 两轮），故障自 11-25 13:47 起已持续约 30.5 小时（注：19:06 轮日志写“第十一轮”，按轮次枚举应为第十二轮，计数以此为准）；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261126_2006_probe1.log、hunt_p5_20261126_2006_probe2.log、hunt_p5_20261126_2006_probe3.log。
+
+## 2026-11-26 21:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十四轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：21:07 首探 /health + /opened（8765）各 1 次 curl 52（空回复）；随后 8766（v15 备用口）/health + /opened 各 1 次 curl 52 全败；约 1 分钟后复探 8765/8766 /health 各 1 次仍 curl 52；再等 5 分钟后第三探 8765/8766 /health + /opened 各 1 次仍全部 curl 52。累计约 21:07–21:14，10 次尝试全部 curl 52，/eval、/open 均未触及。故障形态与 11-25 19:06、20:06、21:06、22:06、23:06、11-26 00:06、01:06、02:06、03:06、04:06、05:06、19:06、20:06 轮相同，疑似 agent/ixBrowser Local API 侧负载或闪断；本轮不再盲目重试，下一轮次自行验证 agent 是否恢复。**这是自 11-25 19:06 起连续第十四轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 今晚 19:06、20:06、21:06 三轮），故障自 11-25 13:47 起已持续约 31.5 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅用 8766 做 /health、/opened 只读探查，同样无响应），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。agent 断线已向成安汇报过（等他回复是否重启过 D:\ixbrowser-agent），本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-26 22:06 轮次（fb-hunt-p5）
+
+- 窗口内（22:06，北京时间 18:30–次日 06:00），按流程开跑。
+- **ixBrowser agent 不通，本轮未开始即阻塞**：IxAgent `is_open(5)` 返回 False 后，`opened()` 连续 4 次调用均报 `调用 GET /opened 失败（curl 52）：Empty reply from server`（22:06–22:08 间，含 20 秒等待后 3 次重试，每次间隔 10 秒）。客户端经 tunnel proxy 连用户电脑 100.78.166.12:8765；本机直连 127.0.0.1:8765/8766 均 connection refused（预期，agent 在用户电脑上）。
+- 与已知状态一致：agent 自 2026-11-25 13:47 断线，11-26 上午 10:24 再探仍不通，本次是又一次未恢复的确认。未尝试切换 v15 备用 agent（8766）——按既定决定，切不切换由成安/工程师定，本轮不擅自改道。
+- 未开 profile 5，未核身份，未看通知，未搜索，未起草、无 E07 打分，未发评论。未撞 429/226/344（未触及平台）。
+- 动作：发 0 条；0 客资。例行轮次只写日志，不报用户；agent 断线为已知待决事项（已问成安是否重启过 D:\ixbrowser-agent，等他回话），本轮不另行上报。
+
+## 2026-11-26 23:06 轮次（fb-hunt-p5）
+
+- **本轮未执行：ixBrowser agent 断线，轮次空跑。** 23:09 起 4 次探测 `IxAgent().health()`（/health，经 tunnel proxy 连用户电脑 100.78.166.12:8765）全部失败：curl 52 Empty reply from server；23:09–23:11 间隔 20 秒重试 3 次仍全败。直连本机 127.0.0.1:8765/8766 均为 connection refused（agent 在用户电脑上，非本机，属预期）。
+- 与 2026-11-25 13:47 起的断线为同一故障，至本轮已断超过 33 小时、期间无自愈（上次探测 2026-11-26 10:24 同样不通）。8766 v15 备用服务本轮只做了只读连通性探测、未切换、未操作（切换须成安/工程师定）。
+- 影响：无法 open profile 5，身份核验、通知、搜索、起草、E07、发评论、读回核验全部无法执行；**0 条评论发出，0 客资**。未开浏览器、未碰任何账号、未发任何内容。
+- 处置：按手册“读不到/点不动记日志、报总管，不编结果、不谎报已发”——本轮只写日志；**agent 断线属致命问题（全部轮次无法跑），报总管**，等成安重启 D:\ixbrowser-agent 或工程师处理。Jusa 群评论通道三轮三拒的账号级拦截结论不变，本轮未重试。
+- 动作：发 0 条；0 客资。未调 close（agent 不通，无法确认 profile 5 状态；未调 check()，避免拉起已关 profile）。
+
+## 2026-11-27 00:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十七轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：00:13 首探 IxAgent /health（8765，经 tunnel proxy 连用户电脑 100.78.166.12:8765）报 curl 52（空回复）；间隔 20 秒第二探仍 curl 52；再间隔 20 秒第三探仍 curl 52；8766（v15 备用口）/health 只读探测 1 次亦 curl 52。累计 00:13–00:14，4 次尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06 起的各轮相同。**这是自 11-25 19:06 起连续第十七轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 11-26 晚 19:06、20:06、21:06、22:06、23:06 五轮 + 本轮），故障自 11-25 13:47 起已持续约 34.5 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复，本次至今无自愈。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅只读 /health 探测），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。agent 断线为已知致命问题、已报总管并问成安是否重启过 D:\ixbrowser-agent，等他回话；本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_0006_probe.log。
+
+## 2026-11-27 01:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十八轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：01:17 首探 IxAgent /health（8765，经 tunnel proxy 连用户电脑 100.78.166.12:8765）报 curl 52（空回复）；间隔约 20 秒第二探仍 curl 52；再间隔约 20 秒第三探仍 curl 52；8766（v15 备用口）/health 只读探测 1 次亦 curl 52。累计 01:17–01:19，4 次尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06 起的各轮相同。**这是自 11-25 19:06 起连续第十八轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 11-26 晚 19:06、20:06、21:06、22:06、23:06 五轮 + 11-27 00:06、01:06 两轮），故障自 11-25 13:47 起已持续约 35.5 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复，本次至今无自愈。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅只读 /health 探测），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。agent 断线为已知致命问题、已报总管并问成安是否重启过 D:\ixbrowser-agent，等他回话；本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_0106_probe.log。
+
+## 2026-11-27 02:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第十九轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：02:21 首探 IxAgent /health（8765，经 tunnel proxy 连用户电脑 100.78.166.12:8765）报 curl 52（空回复）；间隔 20 秒第二探仍 curl 52；再间隔 20 秒第三探仍 curl 52；8766（v15 备用口）/health 只读探测 1 次亦 curl 52。累计 02:21–02:22，4 次尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06 起的各轮相同。**这是自 11-25 19:06 起连续第十九轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 11-26 晚 19:06、20:06、21:06、22:06、23:06 五轮 + 11-27 00:06、01:06、02:06 三轮），故障自 11-25 13:47 起已持续约 36.5 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复，本次至今无自愈。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅只读 /health 探测），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。agent 断线为已知致命问题、已报总管并问成安是否重启过 D:\ixbrowser-agent，等他回话；本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_0206_probe.log。
+
+## 2026-11-27 03:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第二十轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：03:23 首探 IxAgent /health（8765，经 tunnel proxy 连用户电脑 100.78.166.12:8765）报 curl 52（空回复）；间隔约 20 秒第二探仍 curl 52；再间隔约 20 秒第三探仍 curl 52；8766（v15 备用口）/health 只读探测 1 次亦 curl 52。累计 03:23–03:24，4 次尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06 起的各轮相同。**这是自 11-25 19:06 起连续第二十轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 11-26 晚 19:06、20:06、21:06、22:06、23:06 五轮 + 11-27 00:06、01:06、02:06、03:06 四轮），故障自 11-25 13:47 起已持续约 37.5 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复，本次至今无自愈。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅只读 /health 探测），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。agent 断线为已知致命问题、已报总管并问成安是否重启过 D:\ixbrowser-agent，等他回话；本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_0306_probe.log。
+
+## 2026-11-27 04:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第二十一轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：04:25 首探 IxAgent /health（8765，经 tunnel proxy 连用户电脑 100.78.166.12:8765）报 curl 52（空回复）；间隔 20 秒第二探仍 curl 52；再间隔 20 秒第三探仍 curl 52；8766（v15 备用口）/health 只读探测 1 次亦 curl 52。累计 04:25–04:27，4 次尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06 起的各轮相同。**这是自 11-25 19:06 起连续第二十一轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 11-26 晚 19:06、20:06、21:06、22:06、23:06 五轮 + 11-27 00:06、01:06、02:06、03:06、04:06 五轮），故障自 11-25 13:47 起已持续约 38.5 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复，本次至今无自愈。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅只读 /health 探测），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。agent 断线为已知致命问题、已报总管并问成安是否重启过 D:\ixbrowser-agent，等他回话；本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_0406_probe.log。
+
+## 2026-11-27 05:06 轮次（fb-hunt-p5）——未完成（agent 持续无响应，连续第二十二轮）
+
+- **异常：agent 传输层持续故障（环境侧故障，非 Jusa 账号问题）**：05:29 首探 IxAgent /health（8765，经 tunnel proxy 连用户电脑 100.78.166.12:8765）报 curl 52（空回复）；间隔 20 秒第二探仍 curl 52；再间隔 20 秒第三探仍 curl 52；8766（v15 备用口）/health 只读探测 1 次亦 curl 52。累计 05:29–05:30，4 次尝试全部 curl 52，/opened、/eval、/open 均未触及。故障形态与 11-25 19:06 起的各轮相同。**这是自 11-25 19:06 起连续第二十二轮因 agent 不通未完成（11-25 晚 5 轮 + 11-26 凌晨 6 轮 + 11-26 晚 19:06、20:06、21:06、22:06、23:06 五轮 + 11-27 00:06、01:06、02:06、03:06、04:06、05:06 六轮），故障自 11-25 13:47 起已持续约 39.7 小时；此前 11-24 夜里同类故障由用户重启 D:\ixbrowser-agent 恢复、11-25 07:28 也曾自行恢复，本次至今无自愈。**未擅自切到 v15 备用 agent（8766）执行操作（本轮仅只读 /health 探测），切不切换等成安/工程师定；未跑 recover_agent_20261124.py（依赖 v15 且会在用户电脑上杀进程重启 agent，属需总管/成安定的操作，本轮不擅自执行）。
+- 身份未核验、通知未读、搜索与已加群扫读均未跑成（agent 不通，无法打开/读取 profile 5）。**0 条评论发出，无草稿产生、故无 E07 打分**。未撞 429/226/344（未触及账号层信号，故障在 agent 侧）。
+- 结论：本轮**未完成**。群内评论通道三轮三拒已证实账号级拦截的结论未变，本轮未在群里重试。agent 断线为已知致命问题、已报总管并问成安是否重启过 D:\ixbrowser-agent，等他回话；本轮为例行轮次，不重复报用户。
+- 动作：发 0 条；0 客资。profile 5 未开未关（agent 不通，无法确认其当前状态；往轮记录其自 11-24 22:07 起由别轮打开，pid 10396，本轮未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_0506_probe.log。
+- 2026-11-27 09:06：窗口外跳过（09:06 不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰 profile 5；0 客资。
+- 2026-11-27 10:06：窗口外跳过（10:06 不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰 profile 5；0 客资。
+- 2026-11-27 12:06：窗口外跳过（12:06 不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰 profile 5；0 客资。
+- 2026-11-27 14:06：窗口外跳过（14:06 不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰 profile 5；0 客资。
+- 2026-11-27 15:06：窗口外跳过（15:06 不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰 profile 5；0 客资。
+- 2026-11-27 18:06：窗口外跳过（18:06 不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰 profile 5；0 客资。
+
+## 2026-11-27 19:06 轮次（fb-hunt-p5）
+
+- **agent 已恢复**：/health 首探即通（v15），终结自 11-25 13:47 起的断线——本轮是断线后首个完整跑通的猎手轮（此前连续 22 轮因 agent 不通未完成）。本轮全程稳定，无 curl 52/18、无 429/226/344。
+- **身份核验——发现并纠正一个台账错误**：open(5) 后 check 返回 account_name "Jusa"；facebook.com/me/ 跳转到 profile.php?id=61576748891565（Jusa Khan，5 粉丝），**不是台账写的 61595765429611**。核查确认：61595765429611 是 Jusa 个人号名下的 **Page“秦昊博士眼部年轻化”**（0 粉丝，Manage Page），此前多轮把它误记为“个人号 id”。本轮会话默认以个人号 Jusa 身份活动，发帖框为 "What's on your mind, Jusa?"，与任务要求的显示名“秦昊博士眼部年轻化”不符。
+- **纠正过程**：帐户菜单“快速切换配置文件”里的秦昊博士眼部年轻化行多次点选（JS 点击 + 真实点击）均未切换；Page 页的“Switch”（转变）按钮也未生效。最终点 Page 页的 **"Switch Now"** 按钮切换成功：左栏变为“秦昊博士眼部年轻化时间线”，首页文案变为“秦昊医生，您在考虑眼部年轻化吗？”（与 11-20 前各轮一致）。**以后各轮若开号后发帖框仍是 Jusa，直接走 Page 页 "Switch Now" 切换，不必再试菜单行。** 台账更正：个人号 id 应为 61576748891565（Jusa Khan），Page id 61595765429611（秦昊博士眼部年轻化）；猎手评论身份一直是 Page。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 已到 300 播放（前轮 200）。
+- FB 搜索 rhinoplasty：Tamplen 诊所术后 3 个月帖、Providence（Dr. Mark Ginsburg）医生号帖、CapableArugula8934（604041441428373 群内帖，10 年前隆鼻失败求翻修——术后求助+群内帖，不碰）、Fanny Simon（新群内帖，6 年前法国隆鼻失败求翻修，不碰）、"RHINOPLASTY ISN'T ALWAYS ABOUT APPEARANCE"医生号帖、Dr Erkan Soylu 差评帖（术后+锚定，不碰）、"Revision rhinoplasty – I need your help"（术后 9 个月求翻修，不碰）。无可评目标。
+- FB 搜索 looking for rhinoplasty surgeon：第三次隆鼻求越南/泰国翻修（术后求助，不碰）、男性翻修求土耳其医生（术后求助，不碰）、Dr. Mark Ginsburg 医生号帖（不碰）、DynamicLizard9457 求推荐（宽/圆鼻尖收窄+驼峰修低、要自然——未点名医生，但经链接核实属未加群 "Rhinoplasty and Revision Rhinoplasty" 573582492318097 内帖，**群内帖不评**，只记下来）。
+- FB 搜索 rhinoplasty before after：全为术后分享/医生号帖（术后 1 周全脸+隆鼻、Beatriz Esp 术后报告 Dr. Serkan Bariskan、Doctor Sean、Hanna El 术后 4 个月 Dr. Alican Çoktur、Op Dr Baver M. Şimşek）。无目标。
+- FB 搜索 nose job："下个月找她做隆鼻，求评价"（已定医生、锚定，不碰）、术后 4 天焦虑帖（术后求助，不碰）、霸凌故事帖（术后分享/引流帖，不碰）。无目标。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）：仍是成员（Joined），本轮动态未读出可读新帖（虚拟化+混淆字符）；只看不评——群评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 已加群扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：无 429/226/344；agent 全程稳定。身份切换多花约 15 分钟（多次点选无效后才找到 Switch Now）。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。关后用 opened() 复核：profile 5 不在列表中（32 号正被另一轮次占用，未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_1906_*.log。
+
+## 2026-11-27 20:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 首探即通（v15），全程无 curl 52/18、无 429/226/344。轮开始时已开列表仅有 profile 32（Lark，另一轮次占用，未动）；profile 5 由本轮打开、轮末关闭。
+- 身份核验通过：open(5) 后 check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（Page 秦昊博士眼部年轻化，与 19:06 轮纠正后的台账一致）。本轮直接落在 Page 身份，无需走 "Switch Now" 切换。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 19:06 轮一致）。
+- FB 搜索 looking for rhinoplasty surgeon：法国 6 年前隆鼻失败求翻修（Fanny Simon，19:06 轮已判：术后求助+群内帖，不碰）；"Revision rhinoplasty – I need your help"（术后 9 个月求翻修，术后求助，不碰）；"looking for a very experienced revision rhinoplasty surgeon, price doesn't matter"（术后翻修求助，不碰）；Florida 翻修病例医生号帖（不碰）；Instagram reel 链接（不碰）。无可评目标。
+- FB 搜索 rhinoplasty before after：morph 图问能否实现自然效果（DazzlingFlower5943，新群 604041441428373 内帖，群评论通道已证实封死，不重试）；术后 16 天分享（术后，不碰）；术后 1 周全脸+隆鼻医生号帖（不碰）；厚皮翻修求推荐 Anonymous 帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；自拍鼻宽前后对比分享（术后分享，不碰）。无目标。
+- FB 搜索 nose job：男士 5 个月前土耳其 Dr. Dogan Pinar 术后分享（术后+锚定，不碰）；"primary nose job with Dr Arda Pelen"（锚定特定医生验证帖，不碰）；10 年前隆鼻骨移植失败求翻修（术后求助，不碰）；术后 1 个月 #goretex 分享（术后，不碰）；"I'm going to have a revision and I'm looking for the best option"（翻修求助，术后，不碰）。无目标。
+- FB 搜索 rhinoplasty：已定诊所帖（"found a clinic that has good reviews... No doubt to push for it"，已定，不碰）；"RHINOPLASTY JOURNEY – DAY 1, DAY 4 & DAY 10" 医生号术后帖（不碰）；术后 9 个月翻修求助帖（同上，不碰）；术后 3 个月分享（术后，不碰）；"Stunning results, amazing patient" 医生号帖（不碰）；"Alar plasty is the key" 医生号帖（不碰）。无目标。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）动态扫读（只看不评）：耳鼻喉科临床病例手册（不碰）；伊斯坦布尔找医生、问 Dr. Mustafa Sağıt 经历（锚定特定医生验证帖，不碰）；肋软骨翻修、Eray Bayindir / Selim Turan 二选一（锚定+术后翻修，不碰）；求肋软骨翻修长期效果图（术后翻修求助，不碰）；问 Dr. Mustafa Nuhut（锚定，不碰）。群评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 已加群扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。关后用 opened() 复核：profile 5 不在列表中（32 号正被另一轮次占用，未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_2006_*.log。

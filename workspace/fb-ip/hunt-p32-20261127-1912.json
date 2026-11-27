@@ -1,0 +1,87 @@
+{
+  "round": "2026-11-27 19:12",
+  "profile": 32,
+  "health_8765": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "opened": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:27317",
+        "pid": 17632,
+        "open_time": "2026-11-27 19:07:56"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55973",
+        "pid": 12804,
+        "open_time": "2026-11-27 18:43:23"
+      }
+    ],
+    "total": 2
+  },
+  "p32_open": true,
+  "was_open": true,
+  "check": {
+    "ok": true,
+    "profile_id": 32,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": "Dr.Qinhao22",
+    "name_source": "composer",
+    "page_text_sample": null,
+    "screenshot": null,
+    "debugging_address": "127.0.0.1:55973"
+  },
+  "current_tab": {
+    "url": "https://www.facebook.com/",
+    "title": "Facebook"
+  },
+  "identity": {
+    "url": "https://www.facebook.com/profile.php?id=61594843222285",
+    "title": "Facebook",
+    "h1s": [],
+    "hasDaisy": true,
+    "flags": [],
+    "bodyHead": " \nDaisy Chambers \n7 followers • 0 following\nFollow\nSearch\nBeauty, cosmetic & personal care\nMore\nAll\nAbout\nReels\nPhotos\nFriends\nMore\nLinks\nfacebook.com\n \n · jianjianmeili.com\nPhotos\nSee all photos\nPrivacy\n \n · Consumer Health Privacy\n \n · Terms\n \n · Advertising\n \n · Ad Choices \n \n · Cookies\n \n · More\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\nn͏\nd͏\np͏\ns͏\no͏\nS͏\nr͏\no͏\ne͏\nt͏\n ͏\nv͏\nf͏\nr͏\n1͏\nN͏\nf͏\n ͏\n0͏\n0͏\n1͏\n6͏\n6͏\n9͏\na͏\n ͏\n1͏\n5͏\nu͏\nm͏\n2͏\nu͏\nt͏\n3͏\nt͏\na͏\n3͏\nl͏\ne͏\n6͏\ng͏\nb͏\n6͏\n2͏\n ͏\ne͏\nh͏\n2͏\nm͏\n5͏\nA͏\nc͏\n1͏\n2͏\ni͏\n3͏\no͏\nt͏"
+  },
+  "notifications": {
+    "url": "https://www.facebook.com/notifications",
+    "title": "Notifications | Facebook",
+    "flags": [],
+    "bodyLen": 406,
+    "bodyHead": " \nNotifications\nAll\nUnread\nNew\nUnread\nYour reel hit 100 plays! Make another to keep up the momentum.\n2h\nEarlier\nUnread\nPahhip America published your scheduled posts for Dr.Qinhao22.\n4h\nUnread\nYour reel is ready to view. Share with your followers.\n4h\nUnread\nYour reel is ready to view. Share with your followers.\n9h\nUnread\nYour reel is ready to view. Share with your followers.\n2d\nSee previous notifications"
+  },
+  "loreida": {
+    "url": "https://www.facebook.com/profile.php?id=61585274344631",
+    "title": "Facebook",
+    "seg": " \nLoreida Martin \n319 friends\nMessage\nMonroe, MI\nMore\nAll\nAbout\nFriends\nPhotos\nReels\nMore\nPersonal details\nLives in Monroe, Michigan\nFrom Monroe, Michigan\nMarried\nHighlights\nFeatured Section\nCollection\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\nS͏\ne͏\no͏\nt͏\nd͏\ns͏\nr͏\no͏\nn͏\np͏\na͏\ni͏\n9͏\ni͏\n ͏\nc͏\n0͏\n9͏\ni͏\nh͏\nl͏\nt͏\n ͏\n3͏\nf͏\n ͏\ne͏\n3͏\na͏\n9͏\n7͏\ni͏\nh͏\nm͏\ne͏\nr͏\nl͏\na͏\n1͏\n1͏\nM͏\nf͏\n8͏\ns͏\n:͏\na͏\nc͏\nt͏\nA͏\nY͏\n5͏\nh͏\n0͏\n6͏\n7͏\na͏\n1͏\ny͏\nd͏\nt͏\n \n·\nPineapple balls first time making Pineapple is my favorite ,but my homemade dressing may be the most talked about lol,Stay tuned til tomorrow\n13\n4\nView more comments\nWendie Duvall\n \n·\n21h\nThey look so good\nReply\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook",
+    "commentCounts": [],
+    "reactionCounts": [],
+    "hasOurComment": false
+  },
+  "loreida_scroll": {
+    "scroll_step": 3,
+    "seg": "book\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nI'm gonna have to get use to this ,now I want a facelift\n22\n19\nView more comments\nJuanita Jackson\n \n·\n5d\nHow long does the fillers last?\nMeaning ...when or how often do you have to go back\nReply\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n6 days ago\nLearn More\n6 days ago\n6 days ago\nNovember 20 at 4:03 AM\nLearn More"
+  },
+  "selena_reel": {
+    "found": false
+  },
+  "selena_reels_tab": {
+    "found": false
+  },
+  "redo_post": {
+    "url": "https://www.facebook.com/groups/536390454675733/permalink/1348280020153435/",
+    "title": "Facelift Support Group | How often does a facelift need to be redone | Facebook",
+    "bodyLen": 4508,
+    "bodyHead": "Home\nCreate a post\nWhat's on your mind, Dr.Qinhao22?\nTips for your Page\nRecommended post\nYou could reach up to 6 more Account Center accounts daily when you spend $14 to boost this post.\nFull facelift process in Shanghai revealed. You can trust us with your journey. #DrQinHao #facelift #shanghaiplasticsurgery #medicalaesthetics #facialrejuvenation #antiaging #plasticsurgery #deepplanefacelift #faceliftrecovery #youthfulglow\nYesterday at 10:30 PM\n \n · ﻿\nBoost reel\nSee insights\nStories\nPhotos and videos\nReels\nShort videos\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGq Zhang\n \nAccounts with a verified badge have been authenticated and can be Meta Verified subscribers or notable persons or brands.\no͏\ns͏\nr͏\nt͏\no͏\ne͏\nS͏\nd͏\nn͏\np͏\n1͏\ne͏\nm͏\ns͏\n ͏\n ͏\n2͏\nY͏\nu͏\nt͏\n0͏\na͏\n2͏\nd͏\n5͏\n1͏\nt͏\n5͏\nh͏\ny͏\ni͏\n:͏\ne͏\nt͏\na͏\nf͏\nf͏\nr͏\n2͏\n4͏\n1͏\nm͏\na͏\n ͏\nc͏\n1͏\na͏\n0͏\nl͏\n3͏\nc͏\nh͏\nM͏\n8͏\n2͏\nh͏\nl͏\nA͏\nl͏\nu͏\n \n·\nShe flew 14 hours from the USA to Shanghai, China, to see Dr. Zhang — our 53-year-old patient.… See more\n0:00 / 0:10\n83\n5\n2\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nAnonymous participant's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nAnonymous participant\n \n·\no͏\ns͏\nr͏\nt͏\no͏\ne͏\nS͏\nd͏\nn͏\np͏\n4͏\nJ͏\nm͏\nc͏\ny͏\n5͏\n7͏\nm͏\nu͏\n4͏\n0͏\nu͏\n2͏\n0͏\n5͏\n1͏\nl͏\n5͏\nh͏\nu͏\ni͏\n ͏\n7͏\nt͏\na͏\nf͏\nf͏\n6͏\n2͏\n4͏\n1͏\nm͏\ni͏\n3͏\nc͏\n1͏\na͏\n1͏\nl͏\n3͏\nc͏\nh͏\ng͏\n8͏\nt͏\nh͏\nl͏\nl͏\nl͏\nu͏\n \n·\nHow often does a facelift need to be redone? If I were to get one in my early 40’s about how long would it last? TIA!\n4\n26\n1\nMost relevant﻿\nLisa Haws\n \n·\n19w\nThis is an interesting question because you will always have a new set point. You will always look better than you would have had you not gotten a FL. Now will you want more done later? Possibly. Does it completely fall apart? No\nReply\nShare\nZara Bennett\n \n·\n19w\nMy doctor said if I go back yearly for C02 fractional laser and fat transfer under my eyes that it will last me 20 to 30 years I’m 49.\nReply\nShare\nEdited\nTheresa Webster Kennedy\n \n·\n19w\nBy reviewing 30 years of patient data, researchers tracked exactly how long a deep plane facelift preserves its effects before a patient seeks a touch-up. They discovered that patients returned for a revision surgery an average of 11 years (specifically 10.9 years) after their primary procedure. Study out June 2026\nReply\nShare\nKate Kvinge Burch\n \n·\n19w\nJust to give you a different perspective, my mom had hers done 40 years ago. Of course she's aged but she looks lovely for an 85 year old. I'd share her picture but she'd get mad at me. Even if you have it done, you're still going to see the effects years later and it will be worth it\nReply\nShare\nView 1 reply\nRelaxingChestnut6169\n \n·\n19w\nDepends on many many factors… when you go through menopause, consistent weight management, and your unique skin, sun protection and skin care! There is no guarantee or definite number of years a lift will last. Another major factor is the type. A deep plan typically lasts longer\nThan a SMAS.\nReply\nShare\nEdited\nView 2 replies\nMarina Marnock\n \n·\n19w\n10 - 15 years\nReply\nShare\nAmbitiousHeron1755\n \n·\n19w\nThe real answer to this has to do with you. Does your weight fluctuate often ? Do you eat healthy and exercise. Are you constantly in the sun, do you smoke, get good sleep and do you use daily sunscreen? As for the correct timing to get face and neck lift is when you've lost weight (if over weight) and are able to maintain it after the surgery. After all the a"
+  },
+  "search_deep_plane": {
+    "bodyLen": 2269,
+    "head": " \nSearch results for\ndeep plane facelift\nFilters\nAll\nRecent posts\nPosts you've seen\nDate posted\nPeople\nReels\nMarketplace\nPages\nGroups\nEvents\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nSue Sully\n \n·\no\ns\ne\nS\nn\no\np\nt\nr\nd\n \n3\n6\no\n \nP\n \n3\ng\n9\n4\nl\nm\n1\na\n5\n1\n5\nM\n1\n3\na\n6\n0\nc\nm\n7\nb\n1\n:\ne\nh\n0\nh\ng\ni\nh\ne\n1\nh\nr\nm\nv\nt\n1\n4\n6\n7\nh\n \nN\n \n·\nImaging waking up to your new face and seeing this !!!!!\nHaha it is only temporary and will produce amazing results … See more\n+3\n579\n198\n14\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nThe Brain Maze\n \nAccounts with a verified badge have been authenticated and can be Meta Verified subscribers or notable persons or brands.\nAI content\n \n·\n \n·\nHow a Deep Plane Facelift Works\n- How does a deep plane facelift work? Discover how surgeons lift the skin and deeper facial tissues together, release supporting ligame… See more\n3K\n92\n225\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDr Liam\n \n·\nMany overseas women want to take advantage of their vacation in Vietnam to refresh their beauty, but worry that a long recovery time will affect their flight schedule. … See more\nDr Liam\nPlastic Surgeon\nSend message\n9\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n5 days ago\nLearn More\n2 days ago"
+  }
+}

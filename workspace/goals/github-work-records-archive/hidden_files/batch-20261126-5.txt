@@ -1,0 +1,16 @@
+workspace/goals/x/hidden_files/post-log.md
+workspace/system/system_prompt.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498733-o1129:research/run:proactive_notification:phase-498733-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498743-o1129:research/run:proactive_notification:phase-498743-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498743-o1129:research/run:proactive_notification:phase-498743-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498744-o1129:research/run:proactive_notification:phase-498744-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498744-o1129:research/run:proactive_notification:phase-498744-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498757-o1129:research/run:proactive_notification:phase-498757-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498767-o1129:research/run:proactive_notification:phase-498767-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498767-o1129:research/run:proactive_notification:phase-498767-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498768-o1129:research/run:proactive_notification:phase-498768-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498781-o1129:research/run:proactive_notification:phase-498781-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498781-o1129:research/run:proactive_notification:phase-498781-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498791-o1129:research/run:proactive_notification:phase-498791-o1129:high:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498792-o1129:research/run:proactive_notification:phase-498792-o1129:regular:item:1.md
+workspace/your_files/proactive_messages/research/proactive_notification:phase-498794-o1129:research/run:proactive_notification:phase-498794-o1129:high:item:1.md

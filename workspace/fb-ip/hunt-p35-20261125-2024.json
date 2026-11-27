@@ -1,0 +1,26 @@
+[
+  {
+    "try": 1,
+    "time": "12:25:11",
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  },
+  {
+    "try": 2,
+    "time": "12:30:19",
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  },
+  {
+    "try": 3,
+    "time": "12:35:27",
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  },
+  {
+    "try": 4,
+    "time": "12:40:36",
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  }
+]

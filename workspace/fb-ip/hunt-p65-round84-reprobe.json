@@ -1,0 +1,22 @@
+{
+  "round": 84,
+  "ts": "2026-11-26 15:44:53 UTC",
+  "steps": {
+    "curl_health_8765": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "curl_health_8766": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "health": {
+      "ok": false,
+      "err": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    "opened": {
+      "ok": false,
+      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  }
+}

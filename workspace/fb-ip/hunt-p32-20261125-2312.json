@@ -1,0 +1,16 @@
+{
+  "round": "2026-11-25 23:12 fb-hunt-p32 read-only",
+  "started_local": "2026-11-25 15:17:44 UTC",
+  "steps": {
+    "health": {
+      "ok": false,
+      "attempt": 2,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  },
+  "was_open": null,
+  "opened_by_me": false,
+  "closed_by_me": false,
+  "ended_local": "2026-11-25 15:19:31 UTC",
+  "blocked": "ixBrowser agent 持续断线（health 两次失败），未能开始"
+}

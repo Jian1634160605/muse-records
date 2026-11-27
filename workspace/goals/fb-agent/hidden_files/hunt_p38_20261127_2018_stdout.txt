@@ -1,0 +1,23 @@
+[ok] health 第1次
+health: {"ok": true, "agent": "ixbrowser-agent", "version": 15}
+[ok] opened 第1次
+opened: {"ok": true, "opened": [{"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}], "total": 1}
+was_open(38): False
+[ok] open(38) 第1次
+open: {"ok": true, "profile_id": 38, "debugging_address": "127.0.0.1:23328"}
+[ok] check(38) 第1次
+check: {"ok": true, "profile_id": 38, "title": "Facebook", "url": "https://www.facebook.com/", "account_name": "Oe", "name_source": "composer", "page_text_sample": null, "screenshot": "shots/profile_38.png", "debugging_address": "127.0.0.1:23328"}
+[ok] goto notifications 第1次
+[ok] eval notifications 第1次
+NOTIF: {"url":"https://www.facebook.com/notifications","title":"Notifications | Facebook","text":" \nNotifications\nAll\nUnread\nNew\nUnread\nRhinoplasty in Turkey - real...: \"Extreme crooked nose, I’m 3 month post op and it has already gone crooked again. Is there any point…\"\n17m\nUnread\nAaron Jarsey mentioned you and other followers in a comment.\n1h\nToday\nUnread\nBWØII WA ÇITY mentioned you and other followers in a comment.\n2h\nEarlier\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n4h\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n4h\nSee previous notifications"}
+[ok] goto facelift group 第1次
+[ok] eval facelift feed 第1次
+FACELIFT: {"url":"https://www.facebook.com/groups/536390454675733/","count":4,"posts":{"1463208891993880":"Susan McNair\n \n·\n3d\nJaw line is SNATCHED!!!\nReply\nShare\n35","1465994251715344":"Aysh Too\n \n·\n20h\nWho is the doctor?\nReply\nShare\n1","1466644554983647":"Alina Olinic\n \n·\n3h\n \n·\nFollow\nIt.s an amazing work! The puffiness will redraw and you'll look like a 30 years old beautiful lady! Don't worry, get used with… See more\nReply\nShare","1466122588369177":"Kathy Appel\n \n·\n18h\n39 is not young for a facelift if you have the anatomy for it. All you can do is some well done filler from the looks of it.\nReply\nShare"}}
+[ok] goto rhino group 第1次
+[ok] eval rhino feed 第1次
+RHINO: {"url":"https://www.facebook.com/groups/604041441428373/","count":3,"posts":{"1721929456306227":"Anonymous participant 531\n \n·\n3h\nOmg yes! I want to slap everyone that posts “Omg this doesn’t look how I wanted it”.. meanwhile it’s 3 days post op.\nYeah bab… See more\nReply\nShare\n4","1722014909631015":"MemorableRadish6881\n \n·\n3h\nPut it in ur carry on bag so it stays with you at all times that’s what I did\nReply\nShare\n1","1722057186293454":"ExhilaratingEagle7523\n \n·\n3h\nHonestly you are 12 days post op…..\nReply\nShare\n8"}}
+[ok] close(38) 第1次
+close: {"ok": true, "profile_id": 38, "closed": true}
+[ok] opened-after-close 第1次
+opened-after-close: {"ok": true, "opened": [{"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 67, "debugging_address": "127.0.0.1:28431", "pid": 30956, "open_time": "2026-11-27 20:19:07"}], "total": 2}
+DONE

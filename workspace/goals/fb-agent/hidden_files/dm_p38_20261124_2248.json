@@ -1,0 +1,98 @@
+{
+ "health": {
+  "ok": true,
+  "agent": "ixbrowser-agent",
+  "version": 10
+ },
+ "opened": {
+  "ok": true,
+  "opened": [
+   {
+    "profile_id": 5,
+    "debugging_address": "127.0.0.1:34907",
+    "pid": 10396,
+    "open_time": "2026-11-24 22:07:24"
+   },
+   {
+    "profile_id": 32,
+    "debugging_address": "127.0.0.1:46227",
+    "pid": 38892,
+    "open_time": "2026-11-24 22:21:24"
+   },
+   {
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:32508",
+    "pid": 23564,
+    "open_time": "2026-11-24 23:19:13"
+   },
+   {
+    "profile_id": 38,
+    "debugging_address": "127.0.0.1:46044",
+    "pid": 19712,
+    "open_time": "2026-11-24 22:10:03"
+   },
+   {
+    "profile_id": 44,
+    "debugging_address": "127.0.0.1:17724",
+    "pid": 24052,
+    "open_time": "2026-11-24 23:13:27"
+   },
+   {
+    "profile_id": 67,
+    "debugging_address": "127.0.0.1:34492",
+    "pid": 15312,
+    "open_time": "2026-11-24 22:12:54"
+   }
+  ],
+  "total": 6
+ },
+ "p38": [
+  {
+   "profile_id": 38,
+   "debugging_address": "127.0.0.1:46044",
+   "pid": 19712,
+   "open_time": "2026-11-24 22:10:03"
+  }
+ ],
+ "check": {
+  "ok": true,
+  "profile_id": 38,
+  "title": "Facebook",
+  "url": "https://www.facebook.com/",
+  "account_name": "Oe",
+  "name_source": "composer",
+  "page_text_sample": null,
+  "screenshot": "shots/profile_38.png",
+  "debugging_address": "127.0.0.1:46044"
+ },
+ "notif": " \nFacelift Support Group\nPublic group\n \n·\n127.4K members\nJoin group\nShare\nMore\nAbout\nDiscussion\nFeatured\nPeople\nEvents\nMedia\nFiles\nWrite something...\nAnonymous post\nFeeling/activity\nPoll\nFeatured\n1 new \nFeatured content badge\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nJody Corneyea Carson\nd͏\nr͏\ns͏\nS͏\nt͏\no͏\ne͏\np͏\nn͏\no͏\n3͏\n1͏\na͏\nf͏\nu͏\n6͏\nu͏\nh͏\n9͏\n7͏\n1͏\n4͏\nt͏\n9͏\nm͏\ng͏\n7͏\nl͏\nm͏\nf͏\n3͏\nc͏\n1͏\nf͏\na͏\n0͏\n6͏\n7͏\n2͏\nt͏\ng͏\n4͏\n0͏\nf͏\nm͏\na͏\nu͏\n0͏\na͏\nm͏\n1͏\n1͏\n1͏\n7͏\n1͏\nu͏\n4͏\n3͏\n9͏\n8͏\n \n·\nDid everyone’s stitches come out day 7 or 10?\n1\n3\nView more comments\nVioletCelery2108\n \n·\n3m\nDay 7 for some, day 14 for the rest.\nReply\nShare\n1\nRebecca Massey\n \n·\n7m\nMine are coming out on day 7\nReply\nShare\n1\n\n\n\n\nWrite a public comment…\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook",
+ "friend_req": {
+  "text": " \nFriends\nFriend requests\n1 Friend request\nView sent requests\nAndrea Nadel\n30w\nConfirm\nDelete\nSelect people's names to preview their profile.",
+  "links": [
+   "https://www.facebook.com/profile.php?id=61563149105060&__tn__=%3C",
+   "https://www.facebook.com/profile.php?id=61563149105060"
+  ]
+ },
+ "msg_list": {
+  "text": " \nMessenger\nSkip to main content\nSkip to messages\nSkip to compose\nChats\nAll\nUnread\nGroups\nCommunities\nMore\nHuda Hammad\nMessages and calls are secured with end-to-end encryption.\n \n·\n8w\nObaydullah\nMessages and calls are secured with end-to-end encryption.\n \n·\n30w\nNo chats selected\nCreate a PIN to access your chats on any device\nPersonal chats are secured with end-to-end encryption, so only the people in them can read, listen to, or share messages.\nYou’ll need a PIN to access these chats if you use another browser or device.\nCreate PIN\nMessenger. Press Shift and question mark for keyboard shortcuts.",
+  "links": [
+   {
+    "href": "https://www.facebook.com/messages/t/",
+    "label": "Chats"
+   },
+   {
+    "href": "https://www.facebook.com/messages/new/",
+    "label": "New message"
+   },
+   {
+    "href": "https://www.facebook.com/messages/e2ee/t/1638182934314877/",
+    "label": "Huda Hammad\nMessages and calls are secured with end-to-end encryption.\n \n·\n8w"
+   },
+   {
+    "href": "https://www.facebook.com/messages/e2ee/t/933877332971096/",
+    "label": "Obaydullah\nMessages and calls are secured with end-to-end encryption.\n \n·\n30w"
+   }
+  ],
+  "unread": []
+ }
+}

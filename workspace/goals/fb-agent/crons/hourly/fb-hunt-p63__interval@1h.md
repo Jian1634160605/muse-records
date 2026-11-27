@@ -1,7 +1,7 @@
 ---
 id: fb-hunt-p63
 title: IG 猎手 elaina（profile 63）每 60 分钟
-enabled: true
+enabled: false
 owner: goal:fb-agent
 mode: task
 schedule:

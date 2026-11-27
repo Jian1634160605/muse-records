@@ -1,0 +1,103 @@
+{
+  "round": "2026-11-25 02:24 fb-hunt-p35 round 66 post Zhakie retry",
+  "started_local": "2026-11-24 18:44:18 UTC",
+  "steps": {
+    "check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "profile_id": 35,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": null,
+        "name_source": null,
+        "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月16日周一12:00\n11月16日12:00\n \n·\n分享对象： 公开\nNatural facelift: people notice you look younger, without obvious surgical marks\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:09 / 0:11\n",
+        "screenshot": "shots/profile_35.png",
+        "debugging_address": "127.0.0.1:32508"
+      }
+    },
+    "open_reel_expand": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "found": 2,
+        "clicked": "评论，79条评论"
+      }
+    },
+    "click_reply_zhakie": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "hasTarget": true,
+        "found": true,
+        "containerLen": 51,
+        "replyBtns": 1,
+        "clicked": "回复"
+      }
+    },
+    "reply_box_check": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "editors": [
+          {
+            "aria": "回复 Zhakie Yourk",
+            "text": "Zhakie Yourk "
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    },
+    "insert_draft": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "ok": true,
+        "aria": "回复 Zhakie Yourk",
+        "editorText": "Zhakie Yourk Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing about your nose that bothers you most — the bridge, or the tip?"
+      }
+    },
+    "editor_after_insert": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "editors": [
+          {
+            "aria": "回复 Zhakie Yourk",
+            "text": "Zhakie Yourk Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing about your nose that bothers you most — the bridge, or the tip?"
+          },
+          {
+            "aria": "以 Bertie Harmony 的身份评论",
+            "text": "\n"
+          }
+        ]
+      }
+    },
+    "submit": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "submitted_via": "div[contenteditable=\"true\"][aria-label=\"回复 Zhakie Yourk\"]",
+        "aria": "回复 Zhakie Yourk"
+      }
+    },
+    "verify_readback": {
+      "ok": true,
+      "attempt": 1,
+      "out": {
+        "hasBertie": true,
+        "hasDraftStart": false,
+        "hasDraftEnd": false,
+        "bertieCtx": "\nMommy Ansel & Daddy Ambo\n \n·\n关注\n第1部分 | 我的鼻整形之旅… 展开\n隐藏翻译\n评论\nBertie Harmony\n \n·\n1小时\nCutcat, 'saan banda at magkano' — totally fair, that's where everyone starts. It really comes down to your nose now and what y… 展开\n回复\nHazel Sobremonte\n \n·\n2周\n \n·\n作者留下了心情\n你现在看起来更加美丽！\n回复\n查看原文（菲律宾语）\n查看1条回复\nJonalyn Balubar Barceta\n \n·\n3周\n \n·\n作者留下了心情\nGalingggg \n so proud of you madam \n回复\n查看1条回复\nElvie Maro\n \n·\n2周\n \n·\n作者留下了心情\nCongrats bie deserve mo\n回复\n查看1条回复\nAnne Rufern\n \n·\n3周\n \n·\n超级粉丝\n \n·\n作者留下了心情\n你不允许进入那里，\n当事情变得混乱时，你的鼻子会真的被搞砸 hah..\n回复\n查看原文（菲律宾语）\n查看1条回复\nPJ Valenzuela Josol\n \n·\n3周\n \n·\n作者留下了心情\nDasurvvvv!!! \n回复\n查看1条回复\nFrances Marie Cajipe\n \n·\n3周\n \n·\n作者留下了心情\n恭喜你！！！\n回复\n查看原文（英语）\n查看2条回复\nAlonica Morales Barrientos\n \n·\n3周\n \n·\n超级粉丝\n \n·\n作者留下了心情\nCongrats tee \n回复\n查看1条回复\nJiesan Gonzales\n "
+      }
+    }
+  },
+  "draft": "Zhakie, 'saang ka nagpa rhinoplasty' — that's the question everyone starts with, and it's a fair one. The tricky part is the place alone doesn't tell you how it'll look on your nose a year later — that comes down to how the surgeon builds the support underneath. What's the one thing about your nose that bothers you most — the bridge, or the tip?",
+  "e07": 91,
+  "aborted": false,
+  "ended_local": "2026-11-24 18:46:39 UTC"
+}

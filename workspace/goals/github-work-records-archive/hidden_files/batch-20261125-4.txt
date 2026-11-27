@@ -1,0 +1,9 @@
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261124.json
+workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build-cvm/manifest.json
+workspace/goals/goal/briefs/.artifacts/letter-3e128ce38ec2/.space-build-cvm/manifest.json
+workspace/goals/muse-app/GOAL.md
+workspace/goals/new-ig-account-content-operations/hidden_files/fb-warm_log.md
+workspace/goals/shaggy-berry-facebook-account-recovery/GOAL.md
+workspace/goals/x/hidden_files/fb-friends-seen.json
+workspace/goals/x/hidden_files/fb-lead-scan-log.md
+workspace/goals/x/hidden_files/fb-reply-seen-part1.md

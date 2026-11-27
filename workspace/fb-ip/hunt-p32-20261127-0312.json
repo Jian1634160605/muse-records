@@ -1,0 +1,30 @@
+{
+  "round": "fb-hunt-p32 2026-11-27 03:12",
+  "probes": [
+    {
+      "n": 2,
+      "at": "19:42:07",
+      "port": 8765,
+      "call": "health",
+      "ok": false,
+      "error": "AgentError('调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\\n')"
+    },
+    {
+      "n": 3,
+      "at": "19:43:45",
+      "port": 8765,
+      "call": "health",
+      "ok": false,
+      "error": "AgentError('调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\\n')"
+    },
+    {
+      "n": 4,
+      "at": "19:43:53",
+      "port": 8766,
+      "call": "health",
+      "ok": false,
+      "error": "AgentError('调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\\n')"
+    }
+  ],
+  "agent_ok": false
+}

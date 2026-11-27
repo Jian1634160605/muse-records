@@ -1,0 +1,36 @@
+{
+  "round": 76,
+  "profile": 35,
+  "account": "Bertie Harmony",
+  "scheduled_for": "2026-11-26 01:24 CST",
+  "agent": "100.78.166.12:8765",
+  "recovered": false,
+  "attempts": [
+    {
+      "attempt": 1,
+      "time_cst": "2026-11-26 02:18:57",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 2,
+      "time_cst": "2026-11-26 02:24:05",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 3,
+      "time_cst": "2026-11-26 02:29:13",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    },
+    {
+      "attempt": 4,
+      "time_cst": "2026-11-26 02:34:21",
+      "ok": false,
+      "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+    }
+  ],
+  "ran": false,
+  "qualified_leads": 0
+}
