@@ -1,0 +1,7 @@
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261123-daytime.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261123.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261124.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261125.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261126.json
+workspace/goals/goal-3/GOAL.md
+workspace/goals/goal/briefs/.artifacts/letter-135212c5fa67/.space-build-cvm/manifest.json

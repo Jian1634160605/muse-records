@@ -1,0 +1,37 @@
+{
+  "round": 112,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:38160"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月16日周一12:00\n11月16日12:00\n \n·\n分享对象： 公开\nNatural facelift: people notice you look younger, without obvious surgical marks\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:10 / 0:11\n",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:38160"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZiYZkMeVAtFMTqrCv_7Bc-uPktxc44PoVZsqAyD3p36knPh9a9Hwgwy-Mx_NYnVsw9CENHVzYjJRdekE8_KIglwjw7z1VjbTnbVGviF3DV_-JA9fi4oo2NjFp4HSV_zf8C-J6NrD02W5IN3-qrJqHdBHCqdHnes1baULEeHtaSWUS6-Ka5P4RBYECd5-5S7iZwZLJYXjVEg9Q&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZiYZkMeVAtFMTqrCv_7Bc-uPktxc44PoVZsqAyD3p36knPh9a9Hwgwy-Mx_NYnVsw9CENHVzYjJRdekE8_KIglwjw7z1VjbTnbVGviF3DV_-JA9fi4oo2NjFp4HSV_zf8C-J6NrD02W5IN3-qrJqHdBHCqdHnes1baULEeHtaSWUS6-Ka5P4RBYECd5-5S7iZwZLJYXjVEg9Q&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月17日周二00:46\n11月17日00:46\n \n·\n分享对象： 公开\nSay goodbye to saggy face. Clear facial contour brings great temperament upgrade\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:02 / 0:11\n查看成效分析\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nHG Sports App"
+  }
+}

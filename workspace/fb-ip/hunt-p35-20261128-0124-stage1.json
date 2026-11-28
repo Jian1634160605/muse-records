@@ -1,0 +1,37 @@
+{
+  "round": 109,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:54616"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nJonas Bico Plastic Surgery\n拥有认证徽章的账户已通过身份验证，它们属于 Meta Verified 订户，或是知名人士或品牌。\n · 在 Aesthetic Institute Of The Philippines\n \n·\n关注\n4天前\n2026年11月23日周一06:28\n4天\n \n·\n菲律宾 · 卡拉巴松 · San Juan\n \n·\nSeeing the before and immediate after side by side after a f",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:54616"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZgziPZkWeo4MR5jAyXTYy5g46cZ-tPPyRVXTaQgL7op_tXfRIAfT-oEyH0VNeHDwKXAhzyO6f3QpTeN153OqmV5MQ_MrdER1ay-ENLQO2_hwZvUP8sQD61J6YM1DPOT4T4Z3iAavgYV2FKrlvrwqo2VlNbAEA19J51BjyxCAU34r1qSPFqM7J6yXlrHTEo4ohxjfvYJs_8XyQ&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZgziPZkWeo4MR5jAyXTYy5g46cZ-tPPyRVXTaQgL7op_tXfRIAfT-oEyH0VNeHDwKXAhzyO6f3QpTeN153OqmV5MQ_MrdER1ay-ENLQO2_hwZvUP8sQD61J6YM1DPOT4T4Z3iAavgYV2FKrlvrwqo2VlNbAEA19J51BjyxCAU34r1qSPFqM7J6yXlrHTEo4ohxjfvYJs_8XyQ&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月17日周二04:00\n11月17日04:00\n \n·\n分享对象： 公开\nYouthful look relies on tissue repositioning, not just pulling skin tight\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFaceli… 展开\n0:03 / 0:11\n查看成效分析\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nHG Sports App"
+  }
+}

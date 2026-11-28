@@ -1,0 +1,37 @@
+{
+  "round": 107,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:3548"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月17日周二00:46\n11月17日00:46\n \n·\n分享对象： 公开\nSay goodbye to saggy face. Clear facial contour brings great temperament upgrade\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:09 / 0:11\n",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:3548"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=100092618667742&__cft__[0]=AZjNRD_EjyKoNPST7XMZobnsXbmGfMvnZPk1xMDK4OEFda6yjfR48qDgPvnzq_QYepFOxF1wOOZEyB7zlZxXuIPmzUPfexpJPJgRRJMts2bbQctoR9sR-rQNiZqGFrPP8cmjLgz9GM25k4XUH45sOaYp292FCcDDSStmWyEvfXZWU3PGxl8vAx_WDRKEN4s&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=100092618667742&__cft__[0]=AZjNRD_EjyKoNPST7XMZobnsXbmGfMvnZPk1xMDK4OEFda6yjfR48qDgPvnzq_QYepFOxF1wOOZEyB7zlZxXuIPmzUPfexpJPJgRRJMts2bbQctoR9sR-rQNiZqGFrPP8cmjLgz9GM25k4XUH45sOaYp292FCcDDSStmWyEvfXZWU3PGxl8vAx_WDRKEN4s&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\n在线状态指示标\n在线\nKelly Gowland\n2026年10月25日周日09:35\n10月25日\n \n·\n3\n2\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\n【宝藏游戏推荐】\nyabo-99.com"
+  }
+}

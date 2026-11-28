@@ -1,0 +1,23 @@
+[ok] health 第1次
+health: {"ok": true, "agent": "ixbrowser-agent", "version": 15}
+[ok] opened 第1次
+opened: {"ok": true, "opened": [{"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 67, "debugging_address": "127.0.0.1:5167", "pid": 41088, "open_time": "2026-11-27 21:19:25"}], "total": 2}
+was_open(38): False
+[ok] open(38) 第1次
+open: {"ok": true, "profile_id": 38, "debugging_address": "127.0.0.1:40818"}
+[ok] check(38) 第1次
+check: {"ok": true, "profile_id": 38, "title": "(1) Facebook", "url": "https://www.facebook.com/", "account_name": "Oe", "name_source": "composer", "page_text_sample": null, "screenshot": "shots/profile_38.png", "debugging_address": "127.0.0.1:40818"}
+[ok] goto notifications 第1次
+[ok] eval notifications 第1次
+NOTIF: {"url":"https://www.facebook.com/notifications","title":"Notifications | Facebook","text":" \nNotifications\nAll\nUnread\nNew\nUnread\nRhinoplasty in Turkey - real...: \"Has anyone had surgery with Dr. Sercan Gode?\"\n19m\nToday\nUnread\nAaron Jarsey mentioned you and other followers in a comment.\n2h\nUnread\nBWØII WA ÇITY mentioned you and other followers in a comment.\n3h\nEarlier\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n5h\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n5h\nSee previous notifications"}
+[ok] goto facelift group 第1次
+[ok] eval facelift feed 第1次
+FACELIFT: {"url":"https://www.facebook.com/groups/536390454675733/","count":5,"posts":{"1466945781620191":"Angela Jean\n \n·\n23m\n \n·\nFollow\nWhat should we use instead?\nReply\nShare","1465980538383382":"Kathleen Lisson\n \n·\n22h\n \n·\nFollow\nI also wonder if it has to do with what people are doing / not doing for skin health and overall health. It’s more than just e… See more\nReply\nShare\n4","1466353788346057":"Deanna Fernandez\n \n·\n13h\nXERF is only recommended for MILD to MODERATE laxity. It is not a facelift. I have this machine and use it all the time and ha… See more\nReply\nShare\nEdited\n4","1466272901687479":"Pam Mercer Knost\n \n·\n16h\nA great result.\nReply\nShare\n7","1466664741648295":"Barbara Maria\n \n·\n3h\nI am a bit older than you.\nMy first was many years ago, did second a few years ago. Needed a revision. It worked perfectly, z… See more\nReply\nShare\n3"}}
+[ok] goto rhino group 第1次
+[ok] eval rhino feed 第1次
+RHINO: {"url":"https://www.facebook.com/groups/604041441428373/","count":3,"posts":{"1721929456306227":"TrustworthyBison3553\n \n·\n4h\nNo. All life changing. Mine is crooked after 15\nReply\nShare","1722014909631015":"MemorableRadish6881\n \n·\n5h\nPut it in ur carry on bag so it stays with you at all times that’s what I did\nReply\nShare\n1","1722057186293454":"ExhilaratingEagle7523\n \n·\n4h\nHonestly you are 12 days post op…..\nReply\nShare\n11"}}
+[ok] close(38) 第1次
+close: {"ok": true, "profile_id": 38, "closed": true}
+[ok] opened-after-close 第1次
+opened-after-close: {"ok": true, "opened": [{"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 67, "debugging_address": "127.0.0.1:5167", "pid": 41088, "open_time": "2026-11-27 21:19:25"}], "total": 2}
+DONE

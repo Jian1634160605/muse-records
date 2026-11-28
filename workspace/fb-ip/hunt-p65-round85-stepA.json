@@ -1,6 +1,6 @@
 {
-  "round": 85,
-  "ts": "2026-11-26 17:42:58 UTC",
+  "round": 83,
+  "ts": "2026-11-27 13:43:08 UTC",
   "steps": {
     "curl_health_8765": {
       "ok": false,
@@ -11,12 +11,35 @@
       "err": "<urlopen error [Errno 111] Connection refused>"
     },
     "health": {
-      "ok": false,
-      "err": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
     },
     "opened": {
-      "ok": false,
-      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
-    }
-  }
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          }
+        ],
+        "total": 1
+      }
+    },
+    "open65_attempts": [
+      {
+        "n": 1,
+        "result": "OK",
+        "r": "{'ok': True, 'profile_id': 65, 'debugging_address': '127.0.0.1:27228'}"
+      }
+    ]
+  },
+  "was_open": false
 }

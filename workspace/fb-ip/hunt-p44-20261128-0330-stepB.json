@@ -1,0 +1,30 @@
+{
+  "ts": "2026-11-27 19:28:11 UTC",
+  "steps": {
+    "goto_ig": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/",
+        "profile_id": 44
+      }
+    },
+    "title": {
+      "ok": true,
+      "r": "Instagram"
+    },
+    "og_title": {
+      "ok": true,
+      "r": ""
+    },
+    "url": {
+      "ok": true,
+      "r": "https://www.instagram.com/"
+    },
+    "body_snippet": {
+      "ok": true,
+      "r": "boldandco\nchameleon.951509\nlabellabeauty.naples\namandacarmo.pmu\nlannalashes\npeakbeautystudio\nskinmetics.clinic\nlabellabeauty.naples\n•\n27m\nBayfront Salon Suites\n5\nlabellabeauty.naples\nGive me on hour to cook 🫡#naplesflorida #explorepage✨ #swfl #facials #bonita\nYou're all caught up\nYou've seen all new posts from the past 3 days.\nSuggested Posts\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ts": "2026-11-28 10:41:00 UTC",
+  "steps": {
+    "close44": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 44,
+        "closed": true
+      }
+    },
+    "opened_after": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [],
+        "total": 0
+      }
+    },
+    "opened_after_20s": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [],
+        "total": 0
+      }
+    }
+  }
+}

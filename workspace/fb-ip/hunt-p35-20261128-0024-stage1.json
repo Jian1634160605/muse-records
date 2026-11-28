@@ -1,0 +1,22 @@
+{
+  "round": 108,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": true,
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nHealthy Harbor\n \n·\n关注\n1 天前\n2026年11月26日周四07:30\n1天\n \n·\nA case report published in the Journal of Emergency Medicine documented a 28-year-old woman who became pregnant three years after undergoing a hysterectomy. … 展开\n查看翻译\n2,264\n857\n456\n赞助内容\n开始投放 ",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:6593"
+  },
+  "identity_error": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 1170 bytes remaining to read\n"
+}

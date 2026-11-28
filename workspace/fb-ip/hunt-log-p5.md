@@ -1258,3 +1258,171 @@
 - 结论：本轮 4 次主搜索 + 已加群扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
 - 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
 - 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。关后用 opened() 复核：profile 5 不在列表中（32 号正被另一轮次占用，未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_2006_*.log。
+
+## 2026-11-27 21:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 首探即通（v15），全程无 curl 52/18、无 429/226/344。轮开始时已开列表为空；profile 5 由本轮打开、轮末关闭。
+- 身份核验通过：open(5) 后 check 返回 account_name None（页面样本已是 Page 文案“秦昊医生，您在考虑眼部年轻化吗？”）；facebook.com 首页发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（Page 秦昊博士眼部年轻化，与 19:06 轮纠正后的台账一致）。本轮直接落在 Page 身份，无需走 "Switch Now" 切换。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 19:06/20:06 轮一致）。
+- FB 搜索 looking for rhinoplasty surgeon：Fanny Simon 法国 6 年前隆鼻失败求翻修（20:06 轮已判：术后求助+群内帖，不碰）；"Revision rhinoplasty – I need your help"（术后 9 个月求翻修，术后求助，不碰）；"looking for a very experienced revision rhinoplasty surgeon, price doesn't matter"（术后翻修求助，不碰）；术后包扎日记医生号帖（不碰）；Florida 翻修病例医生号帖（不碰）；"The best nose tweak is the one that still looks like you" 医生号营销帖（不碰）。无可评目标。
+- FB 搜索 rhinoplasty before after：Richardsons 医生号帖（不碰）；"share my rhinoplasty journey" 术前术后分享（术后，不碰）；"Fat potato, 12 days post op"（术后，不碰）；Dr. Alican Çoktur 术后 4 个月好评帖（术后+锚定，不碰）；Dr. Mehmet Yıldıran 诊所帖（不碰）；"Before and immediate after rhinoplasty" 医生号帖（不碰）。无目标。
+- FB 搜索 nose job：GOLDEN RATIO NOSE JOB 诊所广告（不碰）；男士 5 个月前土耳其 Dr. Dogan Pinar 术后分享（术后+锚定，不碰）；术后 1 个月 #goretex 分享（术后，不碰）；10 年前隆鼻骨移植失败求翻修（术后求助，不碰）；"Blink and you'll miss it" 侧脸营销帖（不碰）；"Think a dramatic nose job requires an open rhinoplasty?" 医生号帖（不碰）。无目标。
+- FB 搜索 rhinoplasty：Signature PureGraft 医生号帖（不碰）；"found a clinic that has good reviews... No doubt to push for it"（已定诊所，不碰）；德国人问 Clineca 伊斯坦布尔经历（锚定特定诊所验证帖，不碰）；"Any recommendations for a rhinoplasty with a forehead reduction??"（经链接核实属未加群 Arizona Plastic Surgery Group 388971917362641 内帖，**群内帖不评**，只记下来）。无目标。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）动态扫读（只看不评）：耳鼻喉科临床病例手册（不碰）；问 Dr. Mustafa Sağıt 经历（锚定特定医生验证帖，不碰）；肋软骨翻修 Eray Bayindir / Selim Turan 二选一（锚定+术后翻修，不碰）；求肋软骨翻修长期效果图（术后翻修求助，不碰）；问 Dr. Mustafa Nuhut（锚定，不碰）。与 20:06 轮所见相同，无新帖。群评论通道仍被证实封死，本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 已加群扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。关后用 opened() 复核：profile 5 不在列表中（32 号正被另一轮次占用，未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_2106_*.log。
+
+## 2026-11-27 22:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 经 step1 隐式通过，全程无 curl 52/18、无 429/226/344。轮开始时 profile 5 已开（was_open True，另一轮次占用——疑似 dm_p5 21:36 轮遗留），本轮未 open、轮末**未 close**（按手册：已开即不关）。opened() 复核：5/32/67 三个开着，5 号 open_time 22:09:07（step1 期间“云备份”报错后窗口似被 agent 重拉），未调 check()。
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（Page 秦昊博士眼部年轻化）。step1 首个 eval 曾报“此窗口正在云备份，请稍后打开”（code 2012），重试 goto 后恢复；另一次 eval 遇 document.body 为 null，重试后正常——均为瞬时态，未影响轮次。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 19:06/20:06/21:06 轮一致）。
+- 读数口径变化：本轮 `div[role="article"]` 返回 0 篇（FB 搜索页结构疑似变化），改读 body innerText 扫读，四组搜索均有帖子可见、逐条已判。
+- FB 搜索 looking for rhinoplasty surgeon：Beverly Hills 隆鼻中心 Deepak Dugar 医生号帖（不碰）；TRINIX 医生号营销帖（不碰）；Mark Fernandez 医生术后 3 周帖（不碰）；Houda BN 群内帖求鼻孔不对称翻修（术后翻修+群内帖，不碰）；本号 Jusa 自己的 Reel（不碰）；Fanny Simon 法国 6 年前隆鼻失败求翻修（21:06 轮已判：术后求助+群内帖，不碰）；Providence 医生号翻修病例帖（不碰）。无可评目标。
+- FB 搜索 rhinoplasty before after：Sunil Richardson 医生号帖（不碰）；Chanelle Lopez Galloway 群内帖术后 16 天分享（术后+群内帖，不碰）；Beatriz Esp 群内帖 1 月 15 日 Dr. Serkan bariskan 术后总结（术后+锚定，不碰）；Sa FoisyTremblay 模拟图问自然效果（群内帖，群评论通道已证实封死，不重试）。无目标。
+- FB 搜索 nose job：Clara V Clinic 诊所帖术后 1 个月（不碰）；Anonymous 男士 5 个月前土耳其 Dr. Dogan Pinar 术后分享（术后+锚定，不碰）；CapableArugula8934 10 年前隆鼻骨移植失败求翻修（术后求助+群内帖，不碰）；Dr. Gary Motykie 医生号营销帖（不碰）；Hannah Conway 肋软骨术后分享（术后，不碰）；Carl Truesdale 医生号帖（不碰）。无目标。
+- FB 搜索 rhinoplasty：Dr. Lieth Momani 医生号帖（不碰）；Rex Banquito 已定诊所帖（"found a clinic... No doubt to push for it"，已定，不碰）；Jul Es 德国人问 Clineca 伊斯坦布尔经历（锚定特定诊所验证帖+群内帖，不碰）；ChirpyDachshund7445 Arizona Plastic Surgery Group 内帖问隆鼻+缩额推荐（未加群的群内帖，不评）；Darlene Abas "My Rhinoplasty Journey PART 1"（术后分享，不碰）。无目标。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）动态扫读（只看不评）：耳鼻喉科临床病例手册（不碰）；问 Dr. Mustafa Sağıt 经历（锚定特定医生验证帖，不碰）；肋软骨翻修 Eray Bayindir / Selim Turan 二选一（锚定+术后翻修，不碰）；求肋软骨翻修长期效果图（术后翻修求助，不碰）；问 Dr. Mustafa Nuhut（锚定，不碰）。与 21:06 轮所见相同，无新帖。群评论通道仍被证实封死，本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 已加群扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：step1 两次瞬时 eval 失败（云备份 2012、body 为 null），重试后恢复；无 429/226/344。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开，另一轮次占用）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_2206_*.log 及本轮内联探查输出。
+
+## 2026-11-27 23:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 首探即通（v15），全程无 curl 52/18、无 429/226/344。轮开始时 profile 5 已开（was_open True，另一轮次占用——22:09:07 打开的会话，疑似 dm_p5 22:36 轮遗留），本轮未 open、轮末**未 close**（按手册：已开即不关）。opened() 复核：5/32/65/67/108 五个开着，5 号 pid 40800、open_time 22:09:07，未调 check()。
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页文案“秦昊医生，您在考虑眼部年轻化吗？”，个人资料链接 profile.php?id=61595765429611（Page 秦昊博士眼部年轻化，与 19:06 轮纠正后的台账一致）。本轮直接落在 Page 身份，无需走 "Switch Now" 切换。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 19:06/20:06/21:06/22:06 轮一致）。
+- FB 搜索 looking for rhinoplasty surgeon：Dr. Gary Motykie 医生号帖（不碰）；Anonymous 在 Facelift Support Group 求墨西哥隆鼻+颈部提升推荐、列了候选医生名单（群内帖、未加群、疑似已锚定，不评）；Houda BN 翻修鼻孔不对称求助（新群内帖+术后翻修，不碰）；Anonymous “highly skilled rhinoplasty surgeon”（新群内帖，群评论通道已证实封死，不重试）；Nantia Ntakou 问某医生经历与价格（锚定特定医生验证帖，不碰）；Drfatihsönmez Klinik 医生号帖（不碰）；Providence 医生号翻修病例帖（不碰）。无可评目标。
+- FB 搜索 rhinoplasty before after：Tamplen / Dr. Lieth Momani 医生号帖（不碰）；Sa FoisyTremblay 模拟图问自然效果（新群内帖，群评论通道已证实封死，不重试）；Beatriz Esp 术后总结 Dr. Serkan Bariskan（术后+锚定，不碰）；Chanelle Lopez Galloway 术后 16 天分享（术后，不碰）；本号 Jusa 自己的帖（不碰）；Darlene Abas “My Rhinoplasty Journey PART 1”（术后分享，不碰）。无目标。
+- FB 搜索 nose job：Yüksel Sertdemir 问 Dr Arda Pelen 经历（锚定特定医生验证帖+群内帖，不碰）；Clara V Clinic 术后 1 个月诊所帖（不碰）；Hannah Conway 肋骨隆鼻术后分享（术后，不碰）；Dr. Gary Motykie / Carl Truesdale 医生号营销帖（不碰）；Runk Smith 标签帖（不碰）。无目标。
+- FB 搜索 rhinoplasty：Dr. Gary Motykie 医生号帖（不碰）；Rex Banquito 已定诊所帖（“found a clinic... No doubt to push for it”，已定，不碰）；Shoshana Ambani MD 医生号帖（不碰）；Charlotte Knight 营销帖（不碰）；Providence / Tamplen 医生号帖（不碰）；Dominic Armiel Delaney 翻修历程分享（术后，不碰）；Kyonne Gravina with Op. Dr. İbrahim Korhan（术后+锚定，不碰）。无目标。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）动态扫读（只看不评）：首次读取脚本在 goto 成功后被服务重启打断（页面已打开、标题确认），重读脚本完成滚动读取；**返回的页面内容未通过安全检查，本轮不引用、不据此采取任何行动、不作为结论依据**。无论如何，本轮未在群里尝试评论——群评论通道三轮三拒已证实账号级拦截，结论未变，按既定决定不重试。
+- 结论：本轮 4 次主搜索，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：服务重启打断 1 次群组读取脚本（goto 已成功，重读后完成；返回内容未通过安全检查，未引用）；其余全程稳定，无 429/226/344。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开，另一轮次占用）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261127_2306_*.log。
+
+## 2026-11-28 00:06 轮次（fb-hunt-p5）
+
+- agent 恢复：/health 首探即通（v15），自 2026-11-25 13:47 断线以来首次恢复。但轮中 /goto 与 /eval 通道多次传输中断（curl 18/52），本轮后半段未恢复。
+- 轮开始时 profile 5 已开（was_open True，22:09:07 打开的会话，另一轮次占用），本轮未 open、轮末**未 close**（按手册：已开即不关）。opened() 复核：5/32/35/38/65/67/108 七个开着，5 号 pid 40800、open_time 22:09:07 未变。未对已关 profile 调 check()。
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页文案“秦昊医生，您在考虑眼部年轻化吗？”，个人资料链接 profile.php?id=61595765429611（Page 秦昊博士眼部年轻化）。轮末复查 check 仍为同一账号、页面 facebook.com。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 11-27 各轮一致）。
+- FB 搜索 looking for rhinoplasty surgeon：Drmathew Pc 医生号帖（不碰）；Houda BN 翻修鼻孔不对称求助（术后翻修+群内帖，不碰）；Agata Ratajczyk 翻修求助（术后翻修，不碰）；Nantia Ntakou 问某医生经历与价格（锚定特定医生验证帖，不碰）；drnima_md 医生号帖（不碰）。无可评目标。
+- FB 搜索 rhinoplasty before after：Darlene Abas "My Rhinoplasty Journey PART 1"（术后分享，不碰）；Fang Ling "After my rhinoplasty"（术后，不碰）；Chanelle Lopez Galloway 术后 16 天分享（术后+群内帖，不碰）；Beatriz Esp 1 月 15 日 Dr. Serkan Bariskan 术后总结（术后+锚定，不碰）；Sa FoisyTremblay 模拟图问自然效果（群内帖，群评论通道已证实封死，不重试）。无目标。
+- FB 搜索 nose job：goto 成功 1 次、eval 失败 4 次（curl 18/52，含 3 次小 eval 重试）；未读到帖子内容，**未判定**。
+- FB 搜索 rhinoplasty：goto 失败 2 次（curl 18/52）、eval 失败 1 次；未读到帖子内容，**未判定**。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）动态：因 /goto 与 /eval 通道中断，本轮未读到，**未判定**；未在群里尝试评论。
+- 结论：本轮 4 次主搜索中 2 次完成、**无符合标准的可评目标**；另 2 次搜索 + 已加群扫读因传输中断未读到，不编造判定。**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定，本轮不擅自改道。
+- 异常：/health 全程通、check() 通，但 /goto 与 /eval 在 00:20 后连续失败（curl 18 传输中断、curl 52 空回复），累计 7 次失败、3 轮重试未恢复；同期 38/65 号被其他轮次新打开，并发 7 个 profile 可能与通道拥堵有关。无 429/226/344。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开，另一轮次占用）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261128_0006_*.log。
+
+## 2026-11-28 01:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 首探即通（v15），全程无 curl 52/18（stepA 首跑被本机服务重启打断 1 次，日志文件为空，重跑后完整通过；与 agent 无关）、无 429/226/344。
+- 轮开始时 profile 5 已开（was_open True，2026-11-27 22:09:07 打开的会话，pid 40800，另一轮次占用），本轮未 open、轮末**未 close**（按手册：已开即不关）。opened() 复核：5/32/67/108 四个开着，5 号 pid 与 open_time 未变。未调 check()（会拉起已关 profile）。
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（Page 秦昊博士眼部年轻化，与 19:06 轮纠正后的台账一致）。本轮直接落在 Page 身份，无需走 "Switch Now" 切换。
+- 通知：仅系统通知（Reel 300 播放 5d/1w、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 11-27 各轮一致）。
+- FB 搜索 looking for rhinoplasty surgeon：Schrader Plastic Surgery 医生号帖（不碰）；Beverly Hills Rhinoplasty Center: Deepak Dugar 医生号帖（不碰）；Agata Ratajczyk 翻修求助（"Rhinoplasty and Revision Rhinoplasty" 群 573582492318097 内帖，未加群，群内帖不评）；Houda BN 翻修鼻孔不对称求助（新群内帖+术后翻修，不碰）；Doktor Ziyad（Baku）医生号帖（不碰）；StunningFlower3784 问 Dr Samadizadeh 翻修经历（锚定特定医生验证帖+群内帖，不碰）；Sarah Smith 求推荐（圆鼻尖+驼峰、要自然女性化协调——未点名医生，但属已加群 1151025859914944 内帖，群评论通道已证实封死，不重试）；Anonymous 复杂鼻重建求助（新群内帖，群评论通道已证实封死，不重试）；Joaan Carrillo "Give me your recommendation for rhinoplasty surgeon!"（挂在 Houston Area Plastic Surgery 诊所页名下，归属未核实，按不硬猜口径只记下来、不直接评）。无可评目标。
+- FB 搜索 rhinoplasty before after：Sunil Richardson 医生号帖（术后 2 年厚皮前后对比，不碰）；Dr. Lieth Momani 医生号帖（不碰）；Sa FoisyTremblay 模拟图问自然效果（新群内帖，群评论通道已证实封死，不重试）；Beatriz Esp 术后总结 Dr. Serkan Bariskan（术后+锚定，不碰）；Hanna El 术后 4 个月 Dr. Alican Çoktur（术后+锚定，不碰）；Liyaa Chau "Fat potato, 12 days post op"（术后，不碰）；Porsha Brooks 问 Dr Harun Acipayam 意见（锚定特定医生验证帖，不碰）。无目标。
+- FB 搜索 nose job：Rachel Macgregor 求推荐（鼻子变小+自然，未点名医生——但属新群 604041441428373 内帖，群评论通道已证实封死，不重试）；dr.resitburakkayan 医生号帖（不碰）；Anonymous 男士 5 个月前土耳其 Dr. Dogan Pinar 术后分享（术后+锚定，不碰）；Clara V Clinic 诊所帖术后 1 个月（不碰）；Hannah Conway 肋软骨术后分享（术后，不碰）；Carl Truesdale / Dr. Gary Motykie 医生号营销帖（不碰）；Runk Smith 标签帖（非求助者，不碰）；Margrita Kassarjian 问某医生经历（锚定特定医生验证帖+群内帖，不碰）。无目标。
+- FB 搜索 rhinoplasty：Nader Sabo 医生号广告（不碰）；Anonymous 术后 4 周肿胀求助（术后求助+群内帖，不碰）；Rex Banquito 已定诊所帖（已定，不碰）；Providence / Tamplen / Dr. Gary Motykie / Shoshana Ambani / Matt May 医生号帖（不碰）；Charlotte Knight 个人晒鼻帖（正文截断、非求助者，不碰）。无目标。
+- 已加群 1151025859914944（Rhinoplasty in Turkey 2026）动态扫读（只看不评）：Ahmed Said 耳鼻喉科临床病例手册（推广/非求助，不碰）；PlayfulAsparagus5561 问 Dr. Mustafa Sağıt 经历（锚定特定医生验证帖，不碰）；Anonymous 肋软骨翻修、Eray Bayindir / Selim Turan 二选一（锚定+术后翻修，不碰）；Lala Marie 求肋软骨翻修长期效果图（术后翻修求助，不碰）；JazzyTurtle9582 问 Dr. Mustafa Nuhut（锚定，不碰）。群页显示 Joined，仍是成员。群评论通道仍被证实封死，本轮未在群里重试。
+- 结论：本轮 4 次主搜索（含滚动重读）+ 已加群扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。新发现两名群内求助者（Sarah Smith、Rachel Macgregor）均因群评论通道封死无法触达。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：stepA 首跑被本机服务重启打断（日志文件为空，重跑后完整通过）；stepB 打印截断导致 rhinoplasty 滚动读数未留存，stepC 单独补跑确认；其余全程稳定，无 429/226/344。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开，另一轮次占用）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261128_0106_stepA.log、hunt_p5_20261128_0106_stepB.log、hunt_p5_20261128_0106_stepC.log。
+
+## 2026-11-28 02:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"，profile.php?id=61595765429611（与台账一致）；发帖框署名 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"。轮开始时 profile 5 已开（opened 2026-11-27 22:09，pid 40800，属另一轮次），本轮未 open、轮末未 close，只用完即走。
+- 通知：仅系统通知（Reel 300 播放里程碑 5d 前——Jusa Reel 已从 200 涨到 300 播放；Reel 就绪×3；入群欢迎 1w 前）；无真人评论可回。
+- FB 搜索 rhinoplasty：Linda Williams（1151025859914944 群内帖，文本混淆字符无法读）；Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被拒，不重复）；Nader Sabo 医生号广告（不碰）；Rex Banquito（已找到诊所、已决定做，不碰）；Dr. Gary Motykie / Dr. Carl Truesdale 医生页（不碰）；Shekinah Guven（术后 1 个月翻修 @estetik_burun，术后+锚定，不碰）；Charlotte Knight 晒鼻帖（非求助者，不碰）；Dominic Armiel Delaney（翻修术后分享，不碰）；Nash Cruz（术后分享，不碰）。无目标。
+- FB 搜索 rhinoplasty before after：Devyn Slowik / Providence Facial Plastic 医生页（不碰）；Min Joy Villabas（术后晒前后对比，不碰）；Surgery Turkey Forum 机构帖（不碰）；Chanelle Lopez Galloway（新群内帖，术后 16 天，不碰）。无目标。
+- FB 搜索 looking for rhinoplasty surgeon：Beverly Hills Rhinoplasty Center / Ali Sajjadian 医生页（不碰）；Fanny Simon（新群 604041441428373 内帖，6 年前法国初鼻失败、现找高技术翻修医生，未点名医生——符合求助者画像，**但属群内帖，群评论通道已证实封死，不重试**，只记下来）。
+- FB 搜索 nose job：Clara V Clinic 机构帖、Dr. Gary Motykie / Dr. Carl Truesdale 医生页（不碰）；Hannah Conway（肋软骨术后经验分享，术后不碰）；Ben Bao《What makes a natural-looking nose?》（已评 E07 97，不重复）。无目标。
+- FB 搜索 rhinoplasty recovery：Alaina James（术后 3 周，不碰）；Kristin Kurtz（术后分享，不碰）；Kia Marie（新群内帖，术后 10 天，不碰）；Charlotte Knight（同上）；Darlene Abas（术后旅程分享，不碰）。无目标。
+- 新群 604041441428373 动态扫读（只看不评）：仅加载 1 帖——Fariha Ahmed（术后戴鼻夹担心鼻孔撑大，术后求助，不碰）。群页顶栏仍显示“加入”按钮（已知 UI 假象，先前轮次已用 joins 列表核实仍是成员）。
+- 结论：本轮 5 次主搜索 + 新群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内求助者 Fanny Simon 仍因评论通道封死无法触达（与 11-27 轮记下的 Sarah Smith、Rachel Macgregor 同类情况）。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 ixBrowser agent 全程稳定（v15，/health、/opened、/goto、/eval 均一次通过），无 curl 52/18、无 429/226/344。11-25/26 的 agent 断线已恢复。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开、属另一轮次）；opened() 复核：profile 5 仍在已开列表中（pid 40800 未变；32、67、108 正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。
+
+## 2026-11-28 03:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"，profile.php?id=61595765429611（与台账一致）。
+- 轮开始时 profile 5 已开（2026-11-27 22:09:07，pid 40800，另一轮次占用）：本轮未 open、轮末未 close；轮末 opened() 复核确认仍在列表中（32、65、67 同时被其他轮次占用，未动）。未调 check() 关后复核。
+- 通知：仅系统通知（Reel 300 播放里程碑 5d 前——Jusa Reel 已从 200 涨到 300 播放；Reel 就绪×3；入群欢迎 1w 前）；无真人评论可回。
+- FB 搜索 rhinoplasty：Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；医生号 "Think a dramatic nose job requires an open rhinoplasty?"（同行，不碰）；"The toughest decision I've ever made..."（已找好诊所、疑似已定，滚动后脱离 DOM，未再追）；ChirpyDachshund7445 问隆鼻+前额缩小推荐——经容器链接核实属群组 388971917362641 内帖（Jusa 未加群），群内帖不评。
+- FB 搜索 looking for rhinoplasty surgeon：医生教育帖/诊所推广（不碰）；Fanny Simon（新群 604041441428373 内帖：6 年前法国初鼻失败、现找高水平翻修医生，未点名、符合求助画像——但属群内帖，群评论通道已证实封死，只记下来、不重试）；Kerala 诊所案例帖（机构，不碰）。
+- FB 搜索 nose job：术后分享/医生广告/表情包为主；男士 5 个月前 Dr. Dogan Pinar 术后（术后+锚定，不碰）；CapableArugula8934（新群 604041441428373 内帖：10 年前隆鼻不满意、鼻根骨移植致鼻形过男、正在研究翻修，未点名医生——但属群内帖，只记下来、不重试）；肋骨隆鼻恢复帖（术后，不碰）。
+- FB 搜索 rhinoplasty before after：Anonymous 厚皮翻修帖（已评被拒，不重复）；医生 second opinion 案例帖（同行，不碰）；Dr. Serkan Bariskan 术后分享（术后+锚定，不碰）；翻修历程术后分享（不碰）。无目标。
+- 新群 604041441428373 动态扫读（只看不评）：鼻夹撑大鼻孔疑问（术后，不碰）；15 小时航班焦虑+疤痕组织翻修（术后翻修、群内帖，不碰）；问 Dr. Gokhan Akkok 反馈（锚定，不碰）；问 Prof. Dr. Dilaver Özturan（锚定，不碰）。
+- 结论：本轮 4 次主搜索 + 新群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。新增两名群内求助者记档（Fanny Simon、CapableArugula8934），待群评论通道恢复或总管另定渠道后再处理。猎手渠道问题仍待总管定，本轮不擅自改道。
+- 异常：轮初 1 次 exec 调用被服务重启打断（goto 实际已执行，核查后继续）；1 次 JS 语法错误（自查，IIFE 写法纠正后恢复）。未撞 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束未关 profile 5（轮开始时已由另一轮次打开）。
+
+## 2026-11-28 04:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"，profile.php?id=61595765429611（与台账一致）；首页文案“秦昊医生，您在考虑眼部年轻化吗？”。
+- 轮开始时 profile 5 已开（2026-11-27 22:09:07，pid 40800，另一轮次占用）：本轮未 open、轮末未 close；轮末 opened() 复核确认仍在列表中（pid 40800 未变；32、67、108 同时被其他轮次占用，未动）。未调 check() 关后复核。
+- 通知：仅系统通知（Reel 300 播放里程碑 5d/1w 前——Jusa 02 Reel 仍为 300 播放；Reel 就绪×3；入群欢迎 1w 前）；无真人评论可回。
+- FB 搜索 looking for rhinoplasty surgeon：比佛利山庄隆鼻中心/迪帕克·杜加尔医生页（不碰）；TRINIX 圆鼻尖科普帖（非求助者，不碰）；Ibrar 博士巴基斯坦医生广告（不碰）；Drmathew PC 喀拉拉邦医生页（不碰）；Providence Facial Plastic 医生页（不碰）；Houda BN 翻修求推荐（新群 604041441428373 内帖，群评论通道已证实封死，不重试）；Kyle Sharameta 男士鼻求推荐（新群内帖，不重试）。无可评的非群组目标。
+- FB 搜索 rhinoplasty before after：Linda Williams（1151025859914944 群内帖，文本混淆字符无法读）；Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；Dr. Nima / Dr. Carl Truesdale 医生页（不碰）；Beatriz Esp（Dr. Serkan Bariskan 术后 15/01 分享，术后+锚定，不碰）；Chanelle Lopez Galloway（术后 16 天，术后不碰）。无目标。
+- FB 搜索 nose job：Rubs Pacs（新群内帖，翻修求问、已看中 Dr. Muhammed Fatih Evcimik，锚定+群内帖，不碰）；Whitney Marie Ainscough（土耳其隆鼻术后前后对比分享，术后不碰）；Dr. Carl Truesdale / Dr. Gary Motykie 医生页（不碰）。无目标。
+- FB 搜索 rhinoplasty（含 stepC 重读）：Linda Williams（群内帖）；Anonymous 厚皮翻修帖（已评被拒，不重复）；Nader Saab 医生号广告（不碰）；Rex Banquito（已找到诊所、已决定做，不碰）；Dr. Lieth Momani 医生页（不碰）；Dr. Gary Motykie 医生页（不碰）；Nash Cruz（术后 24 小时分享，术后不碰）；Samantha Reese（鼻中隔成形术后 6 个月分享，术后不碰）；Shekinah Guven（术后 1 个月翻修 @estetik_burun，术后+锚定，不碰）；Charlotte Knight 晒鼻帖（非求助者，不碰）。无目标。
+- 旧群 1151025859914944 动态扫读（只看不评）：页面虚拟化仅加载 1 帖——Ahmed Said 阿拉伯语耳鼻喉临床病例手册帖（医生教材/推广，不碰）。群页显示 Joined，仍是成员。
+- 新群 604041441428373 动态扫读（只看不评）：页面虚拟化仅加载 1 帖——Fariha Ahmed（术后戴鼻夹担心鼻孔撑大，术后求助，不碰）；滚动未加载更多。群页显示 Joined，仍是成员。
+- 结论：本轮 4 次主搜索（含 1 次重读）+ 两群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。群内评论通道仍被证实封死（22:06 轮结论未变），本轮未在群里重试。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定（v15，/health、/opened、/goto、/eval 均一次通过），无 curl 52/18、无 429/226/344。搜索页 UI 一度切中文，不影响读数；article 节点读数 0（虚拟化），改用 body 文本扫读后内容可读、结论可信。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开、属另一轮次）；opened() 复核：profile 5 仍在已开列表中（pid 40800 未变；32、67、108 正被其他轮次占用，未动）。未调 check()（会拉起已关 profile）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261128_0406_stepA.log、hunt_p5_20261128_0406_stepB.log、hunt_p5_20261128_0406_stepC.log、hunt_p5_20261128_0406_stepD.log。
+
+## 2026-11-28 05:06 轮次（fb-hunt-p5）
+
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（与台账一致）。
+- 轮开始时 profile 5 已开（2026-11-27 22:09:07，pid 40800，另一轮次占用）：本轮未 open、轮末未 close；轮末 opened() 复核确认仍在列表中（pid 40800 未变；32、67、108 同时被其他轮次占用，未动）。未调 check() 关后复核。
+- 通知：仅系统通知（Reel 300 播放里程碑 5d/1w 前、Reel 就绪×3、入群欢迎 1w 前）；无真人评论可回。Jusa Reel 仍为 300 播放（与 11-27 各轮一致）。
+- FB 搜索 looking for rhinoplasty surgeon：Anonymous（Facelift Support Group 内帖，求墨西哥隆鼻+颈部提升推荐、列了候选医生名单——群内帖+疑似已锚定，23:06 轮已判不评）；Kian Karimi 医生页（不碰）；Anonymous "Revision rhinoplasty – I need your help"（新群 604041441428373 内帖，术后 9 个月求翻修——术后求助+群内帖，不碰）；Fanny Simon（新群内帖，6 年前法国初鼻失败、现找高水平翻修医生——群内帖，群评论通道已证实封死，不重试）。无可评的非群组目标。
+- FB 搜索 rhinoplasty before after：Linda Williams（1151025859914944 群内帖，文本混淆字符无法读）；Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被 Admin Assist 拒，不重复）；Dr. Nima 医生页（不碰）；Beatriz Esp（Dr. Serkan Bariskan 术后 1 月 15 日分享，术后+锚定，不碰）。无目标。
+- FB 搜索 nose job：Clara V Clinic 诊所帖术后 1 个月（不碰）；Babess Samm（03:06 轮已判：术后 1 周 + 锚定 Dr. Dogukan Aydeniz Öz，不碰）；Dr. Gary Motykie 医生页（不碰）；CapableArugula8934（新群内帖，10 年前隆鼻不满意、正在研究翻修——群内帖，群评论通道已证实封死，不重试）。无目标。
+- FB 搜索 rhinoplasty：Dr. Gary Motykie 医生页（不碰）；Rex Banquito（已找到诊所、已决定做，不碰）；Elle Pol（已评 E07 94、评论被拒，不重复）；NoseNatural "HAS ANYBODY HAD SURGERY WITH HIM?"（新群内帖，问某位医生经历——锚定特定医生验证帖+群内帖，不碰）；Liyaa Chau "Fat potato, 12 days post op"（术后，不碰）。无目标。
+- 两群动态扫读（只看不评）：旧群 1151025859914944 仅加载 1 帖——Ahmed Said 耳鼻喉科临床病例手册（医生教材/推广，不碰），群页显示 Joined 仍是成员；新群 604041441428373 仅加载 1 帖——Fariha Ahmed（术后戴鼻夹担心鼻孔撑大，术后求助，不碰），群页显示 Joined 仍是成员。群评论通道仍被证实封死，本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 两群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：轮初 1 次 exec 调用被服务重启打断（stepA 日志为空，重跑后完整通过；与 agent 无关）；其余全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮末未关 profile 5（轮开始时已开、属另一轮次）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261128_0506_stepA.log、hunt_p5_20261128_0506_stepB.log、hunt_p5_20261128_0506_stepC.log。
+- 2026-11-28 06:06 CST fb-hunt-p5 跳过：已出夜里窗口（18:30–06:00），本轮未跑，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 09:06 CST fb-hunt-p5 跳过：已出夜里窗口（18:30–06:00），本轮未跑，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 10:07 fb-hunt-p5（Jusa Khan / profile 5）：窗口外跳过——当前北京时间 10:07，不在夜里窗口 18:30–次日 06:00 内，本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+- 13:06 fb-hunt-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，本轮未开浏览器、未发任何内容、未碰账号。
+- 14:07 fb-hunt-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，本轮未开浏览器、未发任何内容、未碰账号。
+- 15:07 fb-hunt-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，本轮未开浏览器、未发任何内容、未碰账号。
+- 16:07 fb-hunt-p5（Jusa Khan，profile 5）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 17:06 CST fb-hunt-p5：窗口外（窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 19:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 首探即通（v15），全程无 curl 52/18、无 429/226/344。
+- 轮开始时 profile 5 未开（was_open False；2026-11-27 22:09 pid 40800 的会话已不在），本轮自行 open（debugging_address 127.0.0.1:35348），轮末 close 成功（closed true），opened() 复核已开列表为空，未调 check()（会拉起已关 profile）。
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（与台账一致）。
+- 通知：仅系统通知（Reel 400 播放里程碑 8h 前——Jusa Reel 已从 300 涨到 400 播放；Reel 300 播放 6d 前；Reel 就绪×3）；无真人评论可回。
+- FB 搜索 looking for rhinoplasty surgeon：WarmTangerine5090（新群内帖，14–15 年前美国初鼻失败、现求土耳其翻修推荐——翻修求助+群内帖，不重试）；Louli5920（新群内帖，求土耳其最佳隆鼻医生、要自然女性化效果，未点名医生——但属群内帖，群评论通道已证实封死，只记下来、不重试）；Anonymous（新群内帖，2027 年 1 月迈阿密飞土耳其初鼻、列 Dr. Tamer Şakrak / Dr. Serkan Sabancıoğlu——锚定，不碰）；其余为医生页（Dr. BM Stubenitsky、Op. Dr. Gürcan Sünnetci、Matt May / Park & Rebowe Clinic、Paul Louis、Kian Karimi、Drmathew Pc），不碰。无可评的非群组目标。
+- FB 搜索 rhinoplasty before after：Porsha Brooks（新群内帖，问 Dr. Harun Acipayam 意见——锚定，不碰）；Bella Defrancesco（新群内帖，刚拆石膏晒鼻——术后，不碰）；Ben Bao《What makes a natural-looking nose?》（已评 E07 97，不重复）；其余为医生页（dr.resitburakkayan、Op.Dr.Veysel Berber、Carl Truesdale、Op Dr Baver M. Şimşek、Doctor Sean、Op.Dr.Muhammet Dilber）与 Dominic Armiel Delaney 翻修历程术后分享，不碰。无目标。
+- FB 搜索 nose job：Dr. Gary Motykie 医生页（不碰）；Babess Samm（旧群内帖，03:06 轮已判：术后 1 周 + 锚定 Dr. Dogukan Aydeniz Öz，不碰）；Ben Bao（已评，不重复）；dr.resitburakkayan 医生页（不碰）；Isabella Adriana（新群内帖，术后 11 天晒鼻——术后，不碰）；Anonymous 男士 5 个月前土耳其 Dr. Dogan Pinar 术后分享（术后+锚定，不碰）；Martin Thompson 医生页（不碰）；Kathy（新群内帖，术后 5 个月 21 天、Dr. Enis Yalcin——术后+锚定，不碰）。无目标。
+- FB 搜索 rhinoplasty：Rex Banquito（已定诊所帖，“found a clinic... No doubt to push for it”，不碰）；Linda Williams（旧群内帖，文本混淆字符无法读）；Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被拒，不重复）；Tingsong Lim 医生会议帖（不碰）；Ben Bao（已评，不重复）；Op. Dr. Gürcan Sünnetci 医生页（不碰）；Junell Aian NC（术后 14 天、锚定 Dr. Arvin Roy Reyes，不碰）；Dr. Aishin Akiyama 医生页（不碰）；MysticalHummingbird8954（新群内帖，术后 10 个月对效果不满意——术后求助，不碰）；Ed Uy（“ILONG REVEAL”，非求助者，不碰）。无目标。
+- 两群动态扫读（只看不评）：旧群 1151025859914944——Ahmed Said 耳鼻喉科临床病例手册（医生教材/推广，不碰）；PlayfulAsparagus5561 问 Dr. Mustafa Sağıt 经历（锚定，不碰）；Anonymous 肋软骨翻修 Eray Bayindir / Selim Turan 二选一（锚定+术后翻修，不碰）；Lala Marie 求肋软骨翻修长期效果图（术后翻修求助，不碰）；JazzyTurtle9582 问 Dr. Mustafa Nuhut（锚定，不碰）。新群 604041441428373——Brave Hummingbird37 问鼻托佩戴时长与晨起肿胀（术后求助，不碰）；CherryLady1725（1 月独自去伊斯坦布尔初鼻、求独自出行经验——已定行程、问旅行经验非选医生，且属群内帖，只记下来、不重试）；Anonymous 问 Vepa Silapov 医生与牙贴面（锚定，不碰）；Hannah McKinney（2025 年 10 月 Dr. Selim Turan 鼻中隔成形翻修分享——术后+锚定，不碰）；Anonymous 问鼻翼切口 8 周术后开裂（术后求助，不碰）。群评论通道仍被证实封死，本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 两群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。新增记档的两名群内求助者（Louli5920、CherryLady1725）均因群评论通道封死无法触达。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261128_1906_stepA.log、hunt_p5_20261128_1906_stepB.log、hunt_p5_20261128_1906_stepC.log。
+
+## 2026-11-28 20:06 轮次（fb-hunt-p5）
+
+- agent 稳定：/health 首探即通（v15），全程无 curl 52/18、无 429/226/344。
+- 轮开始时 profile 5 未开（was_open False），本轮自行 open（debugging_address 127.0.0.1:46818），轮末 close 成功（closed true），opened() 复核已开列表仅剩 32 号（属其他轮次，未动）。未调 check() 关后复核。
+- 身份核验通过：check 返回 account_name "Dr. Qin Hao Eye Rejuvenation"；首页发帖框 "What's on your mind, Dr. Qin Hao Eye Rejuvenation?"，个人资料链接 profile.php?id=61595765429611（与台账一致）。
+- 通知：仅系统通知（Reel 400 播放里程碑 9h 前——Jusa Reel 已从 300 涨到 400 播放；Reel 300 播放 6d 前；Reel 就绪×3）；无真人评论可回。
+- FB 搜索 looking for rhinoplasty surgeon：Louli5920（新群内帖，求土耳其最佳隆鼻医生、要自然女性化效果，未点名医生——但属群内帖，群评论通道已证实封死，19:06 轮已记档，不重试）；Ben Bao《The best nose tweak is the one that still looks like you》（已评 E07 97，不重复）；Anonymous（2027 年 1 月迈阿密飞土耳其初鼻、列 Dr. Tamer Şakrak / Dr. Serkan Sabancıoğlu——锚定，不碰）；Houda BN（新群内帖，翻修鼻孔不对称求助——术后翻修+群内帖，不碰）；Beverly Hills Rhinoplasty Center: Deepak Dugar 医生页（不碰）。无可评的非群组目标。
+- FB 搜索 rhinoplasty before after：Kamala Aljanova（旧群 1151025859914944 内帖，分享本人隆鼻前后旅程——术后分享+群内帖，不碰）；Carl Truesdale, M.D. 医生页（不碰）；Nohaila No（新群内帖，术后 3 个月晒前后对比、€3000、"private message me"——术后+群内帖，不碰）；Dominic Armiel Delaney（翻修历程术后分享，不碰）。无目标。
+- FB 搜索 nose job：Dr. Gary Motykie 医生页（不碰）；dr.resitburakkayan 医生页（不碰）；Babess Samm（旧群内帖，03:06 轮已判：术后 1 周 + 锚定 Dr. Dogukan Aydeniz Öz，不碰）；Hannah Conway（肋软骨隆鼻术后经验分享，术后不碰）。无目标。
+- FB 搜索 rhinoplasty：Linda Williams（旧群内帖，文本混淆字符无法读）；Anonymous 厚皮翻修帖（11-17 轮已评、E07 94、评论被拒，不重复）；Aykut Çakır 医生页（术后 1 周拆石膏，不碰）；Tingsong Lim 医生会议帖（不碰）；Ed Uy（"ILONG REVEAL"，非求助者，不碰）；Dominic Armiel Delaney（翻修术后分享，不碰）。无目标。
+- 两群动态扫读（只看不评）：旧群 1151025859914944——Ahmed Said 耳鼻喉科临床病例手册（医生教材/推广，不碰）；PlayfulAsparagus5561 问 Dr. Mustafa Sağıt 经历（锚定，不碰）；Anonymous 肋软骨翻修 Eray Bayindir / Selim Turan 二选一（锚定+术后翻修，不碰）；Lala Marie 求肋软骨翻修长期效果图（术后翻修求助，不碰）；JazzyTurtle9582 问 Dr. Mustafa Nuhut（锚定，不碰，TenderAlpaca2650 已回称 2 个月前找他做过）。新群 604041441428373——Brave Hummingbird37 问鼻托佩戴时长与晨起肿胀（术后求助，不碰）；CherryLady1725（1 月独自去伊斯坦布尔初鼻、求独自出行经验——已定行程、问旅行经验非选医生，且属群内帖，19:06 轮已记档，不重试）；Anonymous 问 Dr. Vepa Silapov 医生与牙贴面（锚定，不碰）；Hannah McKinney（2025 年 10 月 Dr. Selim Turan 鼻中隔成形翻修分享——术后+锚定，不碰）；Anonymous 问鼻翼切口 8 周术后开裂（术后求助，不碰）。群页显示 Joined，仍是成员；新群顶栏仍显示"加入"按钮（已知 UI 假象）。群评论通道仍被证实封死，本轮未在群里重试。
+- 结论：本轮 4 次主搜索 + 两群动态扫读，**无符合标准的可评目标**（未定+未锚定+真人个人号+非群组帖），**0 条评论发出，无草稿产生、故无 E07 打分**。猎手渠道问题仍待总管定（转非群组公开帖、养号提信任度、或暂停 Jusa 猎手评论），本轮不擅自改道。
+- 异常：本轮 agent 全程稳定，无 curl 52/18、无 429/226/344。
+- 动作：发 0 条；0 客资。轮次结束关 profile 5 成功（close ok）。原始读数：~/workspace/ixbrowser-driver/flows/hunt_p5_20261128_2006_stepA.log、hunt_p5_20261128_2006_stepB.log、hunt_p5_20261128_2006_stepC.log。

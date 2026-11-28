@@ -1,0 +1,37 @@
+{
+  "round": 113,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:38105"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月18日周三00:24\n11月18日00:24\n \n·\n分享对象： 公开\nConfidence in anti-aging comes from stable, natural and subtle changes\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:09 / 0:11\n",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:38105"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZh3y0q4efffYfU2BT8essg-GYlw8fPmtMSVeia1VBx1p32Rh9VitqS2Froam3Ee80k2jV__2pF0yMgmlnX_NNfpy192z0Z8I_-WDMbJevXztqrTjLwMtSIjBE-yQ_9vmIHvHqrznmwwXKTND2kIxDG5DBdBOzu8PuNkSJc0Tiw8VUxWOeeG8njiQ_1zrtAW9KF1DNlLfegRJQ&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZh3y0q4efffYfU2BT8essg-GYlw8fPmtMSVeia1VBx1p32Rh9VitqS2Froam3Ee80k2jV__2pF0yMgmlnX_NNfpy192z0Z8I_-WDMbJevXztqrTjLwMtSIjBE-yQ_9vmIHvHqrznmwwXKTND2kIxDG5DBdBOzu8PuNkSJc0Tiw8VUxWOeeG8njiQ_1zrtAW9KF1DNlLfegRJQ&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月18日周三11:54\n11月18日11:54\n \n·\n分享对象： 公开\nNo need to envy others. You can also get your firm facial contour back\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:01 / 0:11\n查看成效分析\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\n【中国区】- 红果\n2027lt.com"
+  }
+}

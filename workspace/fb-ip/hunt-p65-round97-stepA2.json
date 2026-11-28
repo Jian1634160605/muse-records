@@ -1,0 +1,18 @@
+{
+  "round": 97,
+  "ts": "2026-11-28 12:43:25 UTC",
+  "steps": {
+    "open65_1": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:11971"
+      }
+    },
+    "is_open_65": {
+      "ok": true,
+      "r": "True"
+    }
+  }
+}

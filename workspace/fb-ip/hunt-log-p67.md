@@ -1936,3 +1936,275 @@
 - **收尾：** close(67) 返回 closed:true；随后 /opened 复核仅剩 p32，**67 已确认不在列表中**（p38、p65 在本轮期间由其他轮次关闭，非本轮操作）。
 - **下一步建议（留总管）：** 同 18:48/19:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
 - 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261127_2048.py；日志：~/workspace/fb-ip/hunt-p67-20261127-2048.log；关闭脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261127_2048_close.py
+
+## 2026-11-27 21:48 轮次 — 完成：0 条评论（无可评目标）；首跑代理选错致 curl 56，纠正后全程正常
+
+- **窗口：** 北京时间 21:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 正常（agent v15，2026-11-27 10:26 恢复后仍在线）；全程调用无 curl 18/52 传输故障、无重试；无 429/226/344。
+- **首跑故障（已纠正，未影响轮次结果）：** 首跑脚本误用 `~/.agent-reach/proxy-acct2.txt` 做 HTTPS_PROXY，/health 8 次全部 curl 56（Connection reset by peer）。核查确认正确做法是 shell 默认 HTTPS_PROXY（3128 口）改端口为 3130（ixb_client.py 注释所写）；改回后 /health 一次通过。proxy-acct2 不是通往用户电脑的隧道代理，今后轮次勿再用它。首跑脚本在 health 阶段即停手，未开浏览器、未碰账号；随后 kill 掉重跑。
+- **占用检查：** 轮次开始时 /opened 只有 p32（18:43 开）、p35（21:54 开），**67 号未开、无占用**；open(67) 成功（调试口 127.0.0.1:7707）。全程 tabs 仅 1 个标签页，URL 始终跟随本轮导航，无其他进程抢浏览器，无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（4d 前）——18:48/19:48/20:48 轮次已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）；singapore friends 群组多人发帖（2d 前）。
+  - 本轮通知前 800 字符未再出现 Nayan Nayan reel 评论、pokes、reel 已发布等旧通知（已沉到更早通知），无新增可回评论。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：Pageantry Connexion "Beautiful Awra. Before and After."（选美主页前后对比展示，无求医信号）——不碰；Warunya Satantong "DAY 14 POST-RHINOPLASTY — WHO DIS?!"（术后 14 天在日本跳舞展示）——已术后，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase（"At first, she couldn't quite explain what she wanted to change…"）——同行/机构，不碰；JB "Superform Rhinoplasty – Reshaping the nose for a refined, slender look"（诊所号）——不碰。
+  - facelift：AsiaOne "Maybe it's time to squeeze a facelift"（新闻）——无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关。
+  - nose job：Alden Huang "From a nose that made me self-conscious to one that feels like me…"（已术后展示）——术后，不碰；AsiaOne 台湾医生移居新加坡新闻——无关。
+  - deep plane facelift：Facelift Support Group 匿名帖问 Dr. Gabriele Miotto（亚特兰大）"seriously considering her"——已锚定特定医生的验证型帖，不碰；同群另一匿名帖 "I had deep plane facelift, neck lift, forehead l…"——已术后，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** close(67) 返回 closed:true；随后 /opened 复核仅剩 p32、p44，**67 已确认不在列表中**（p35、p44 在本轮期间由其他轮次开/关，非本轮操作）。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261127_2148.py；日志：~/workspace/fb-ip/hunt-p67-20261127-2148.log
+
+## 2026-11-27 22:48 轮次 — 完成：0 条评论（无可评目标）；agent v15 已恢复，67 号为别轮打开、本轮未关
+
+- **Agent 状态：** /health 正常（agent v15）——11-25 起的失联已恢复；全程调用无 curl 18/52 传输故障；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、65、67、108，**67 号自 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，系别轮打开；dm-p67 22:18 轮次同样未关）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 Messenger E2EE 线程 messages/e2ee/t/1129317986685112/，45 秒内 URL 未动；随后 check 与导航均跟随本轮操作，全程无其他进程抢浏览器、无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 与前几轮一致（61581899105351），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。** 仅 2 条已知好友请求通知（Aftab Khan、Houssenia Sarotra，均为 4d，dm 轮次已筛查、无医美意向信号）；其余为非医美群帖（Expats in Singapore、The Biggest FaceBook Group、singapore friends，2d）。无新评论通知、无新发布通知。
+- **目标搜索：4 个关键词，唯一可读的评论区无目标。**
+  - rhinoplasty：首条 Bryant Rabia（新加坡）reel facebook.com/reel/1235353675424462/（"At first, she couldn't quite explain what she wanted to change…"，1.2K 赞、38 评论、18 分享）。点评论按钮进 reel 页读到 7 条可见评论：ณธษา รัตนจรัสกุล "W O W !"（纯赞美）、سلين محمد（空）、Raquel Torras "Fake"、Scott Pointing "Mother and daughter"、Hardev Singh "Not possible"、Anna Vítová "Super filter"、مريم ماجدي "Impossible"——均为 10w 前的质疑/赞美，无人问价/问地点/问怎么约，**无可评目标**。另有同条 Bryant Rabia 男版 reel（474 赞、6 评论）与 Heaven Beauty aesthetic 诊所帖（"second rhinoplasty procedure of the day at AI Heaven Beauty Clinic"）、Nassim Plastic Surgery - Dr Janna Joethy 诊所广告——同行/机构，不碰。
+  - nose job：首条 Alden Huang 鼻子术后自述 reel（142 赞、仅 1 评论），其余为 PIONEER 澳大利亚女狙击手新闻、Patrick Tay 帖——无目标。
+  - facelift：首条 AsiaOne Balestier Market "facelift"（市场翻新）——无关。
+  - deep plane facelift：首条 Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号 "1months post-facelift" reel——同行，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），11-19 轮次已评估该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/评论区两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；/opened 复核 67 仍在列表中（pid 41224，未变）。
+- **教训（已实测）：** 本轮首个搜索脚本因 `| head -80` 截断输出、SIGPIPE 把脚本杀在半路（goto 已执行、日志行没写进去）；今后轮次脚本输出一律重定向到文件再读文件，不再经 head 管道。
+- **下一步建议（留总管）：** 同 11-19/11-20 各轮建议：Ejje 号 FB 搜索连续多轮返回空/无关/无目标评论，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区。
+
+## 2026-11-27 23:48 轮次 — 完成：0 条评论（无可评目标）；agent 传输抖动加重，2 个关键词读数不全
+
+- **窗口：** 北京时间 23:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；但本轮 /goto 与 /eval 频繁撞 curl 18/52（传输中断/空回复），多处 3 次重试后仍失败，明显比 21:48 轮次抖。无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 含 5、32、44、65、67、108，**67 号自 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。轮首 tabs 仅 1 个标签页。
+- **通知：已读，无新增可回评论。** 仅 2 条已知好友请求通知（Aftab Khan、Houssenia Sarotra，均为 4d，dm 轮次已筛查、无医美意向信号，猎手轮不处理好友请求）；其余为非医美群帖（Expats in Singapore 跨年派对、The Biggest FaceBook Group COE 新闻、singapore friends 群组多人发帖，均为 2d）。无新评论通知、无新发布通知。
+- **目标搜索：5 个关键词，2 个读数不全，无可用目标。**
+  - rhinoplasty before after：Pageantry Connexion "Beautiful Awra. Before and After."（选美主页前后对比展示，无求医信号）——不碰；Warunya Satantong "DAY 14 POST-RHINOPLASTY — WHO DIS?!"（术后 14 天在日本跳舞展示）——已术后，不碰。
+  - rhinoplasty：首条仍为 Bryant Rabia 新加坡诊所 reel（同行/机构，不碰）；@400 段 3 次重试全失败（curl 18/52），该词后段内容未读到。
+  - facelift：@0 段 3 次重试全失败（curl 52/18），本轮未读到内容；此前多轮该词均为新闻/汽车等无关内容。
+  - nose job：goto 3 次重试全失败（curl 52），本轮未读到。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号 "1months post-facelift" reel——同行，不碰；Facelift Support Group 匿名帖 "I had deep plane facelift, neck lift, forehead lift…" 术后 11 天求助——已术后求助，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子；其中 rhinoplasty 后段、facelift、nose job 三处因 agent 传输故障未读全，存在漏看可能。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；/opened 复核 67 仍在列表中（pid 41224，未变）。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。另：本轮 agent 传输抖动（curl 18/52）比 21:48 轮次明显加重，若下一轮仍多处 3 次重试失败，需报总管留意 agent/隧道稳定性。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261127_2348.py；日志：~/workspace/fb-ip/hunt-p67-20261127-2348.log
+
+## 2026-11-28 00:48 轮次 — 完成：0 条评论（无可评目标）；67 号为别轮打开、本轮未关
+
+- **窗口：** 北京时间 00:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；本轮 /eval 6 次撞 curl 18/52（传输中断/空回复），均在 3 次重试内自愈，未丢读数。无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、35、44、65、67，**67 号自 2026-11-27 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48/23:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 facebook.com 首页；全程 URL 始终跟随本轮导航，无其他进程抢浏览器、无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（4d 前）——18:48/19:48/20:48/21:48/22:48/23:48 轮次已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）；singapore friends 群组多人发帖（2d 前）。
+  - 本轮通知前 800 字符未再出现 Nayan Nayan reel 评论、pokes、reel 已发布等旧通知（已沉到更早通知），无新增可回评论。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：Pageantry Connexion "Beautiful Awra. Before and After."（选美主页前后对比展示，无求医信号）——不碰；The Art Thailand 诊所号 "Only 5 days but the result is terrific! Thank you for trusting The art clinic"——同行/机构，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase reel "At first, she couldn't quite explain what she wanted to change…"（1.2K 赞、38 评论）——同行/机构，不碰；EyeCharlene 在首尔江南区 vlog "I WAS SOOO NERVOUS right before surgery"——已定手术、已锚定首尔，不碰。
+  - facelift：AsiaOne Balestier Market "facelift"（市场翻新新闻）——无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关。
+  - nose job：The Straits Times Seatrium 裁员新闻（"job" 误匹配）——无关；FastJobs 招聘广告——无关。
+  - deep plane facelift：Facelift Support Group 匿名帖 "I had deep plane facelift, neck lift, forehead lift, subnasal lift, lower bleph. I look unrecognizable. 11 days post op. Will this improve?"——已术后求助，不碰；同群 Allie Turner "The day I've been waitting for is finally here the swelling is officially down, Im 54 had a deep p…"——已术后，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；本轮未做轮末 /opened 复核（脚本收尾未含该步），67 仍在轮首 /opened 列表中、且本轮未执行任何关闭操作。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48/23:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。另：agent 传输抖动（curl 18/52）自 23:48 轮次起持续存在，本轮 6 次重试均自愈、未丢读数，若下一轮重试失败增多，需报总管留意 agent/隧道稳定性。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_0048.py；日志：~/workspace/fb-ip/hunt-p67-20261128-0048.log
+
+## 2026-11-28 01:48 轮次 — 完成：0 条评论（无可评目标）；67 号为别轮打开、本轮未关
+
+- **窗口：** 北京时间 01:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；全程调用无 curl 18/52 传输故障、无重试；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、38、67、108，**67 号自 2026-11-27 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48/23:48/00:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 facebook.com 首页；全程 URL 始终跟随本轮导航，无其他进程抢浏览器、无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（5d 前）——18:48/19:48/20:48/21:48/22:48/23:48/00:48 轮次已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）；singapore friends 群组多人发帖（2d 前）。
+  - 本轮通知前 800 字符未再出现 Nayan Nayan reel 评论、pokes、reel 已发布等旧通知（已沉到更早通知），无新增可回评论。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：The Art Thailand 诊所号 "Only 5 days but the result is terrific! Thank you for trusting The art clinic"——同行/机构，不碰；Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号（孟加拉网红赴泰国隆鼻 showcase）——同行，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase reel "At first, she couldn't quite explain what she wanted to change…"（1.2K 赞、38 评论）——同行/机构，不碰；EyeCharlene 在首尔江南区手术前 vlog "I WAS SOOO NERVOUS right before surgery"——已定手术、已锚定首尔，不碰。
+  - facelift：Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关；Song Seng Wun 美食帖——无关。
+  - nose job：Alden Huang "From a nose that made me self-conscious to one that feels like me…"（已术后展示）——术后，不碰；SMRT Depot 4.0 新闻——无关。
+  - deep plane facelift：Facelift Support Group 匿名帖 "I had deep plane facelift, neck lift, forehead lift… 11 days post op. Will this improve?"——已术后求助，不碰；同群 Allie Turner "The day I've been waitting for is finally here the swelling is officially down, Im 54 had a deep p…"——已术后，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；/opened 未做轮末复核，67 仍在轮首 /opened 列表中、且本轮未执行任何关闭操作。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48/23:48/00:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_0148.py；日志：~/workspace/fb-ip/hunt-p67-20261128-0148.log
+
+## 2026-11-28 02:48 轮次 — 完成：0 条评论（无可评目标）；67 号为别轮打开、本轮未关
+
+- **窗口：** 北京时间 02:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；全程调用无 curl 传输故障、无重试；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、38、67、108，**67 号自 2026-11-27 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48/23:48/00:48/01:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 facebook.com 首页；全程 URL 始终跟随本轮导航，无其他进程抢浏览器、无撞号。（38 号 02:48:59 新开，为另一轮次，与本轮无关。）
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（5d 前）——18:48/19:48/20:48/21:48/22:48/23:48/00:48/01:48 轮次已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查（dm 台账：两人均为锁主页，已筛查过，不通过、不私信）。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）；singapore friends 群组多人发帖（2d 前）。
+  - 本轮通知前 800 字符无新增可回评论（无本号帖子下真人评论、无新发布通知）。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：The Art Thailand 诊所号 "Only 5 days but the result is terrific! Thank you for trusting The art clinic"——同行/机构，不碰；Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号（孟加拉网红赴泰国隆鼻 showcase）——同行，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase reel "At first, she couldn't quite explain what she wanted to change…"（1.2K 赞、38 评论）——同行/机构，不碰；EyeCharlene 在首尔江南区手术前 vlog "I WAS SOOO NERVOUS right before surgery"——已定手术、已锚定首尔，不碰。
+  - facelift：AsiaOne 巴莱斯蒂市场 "facelift" 新闻帖——无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关。
+  - nose job：The Straits Times Seatrium 裁员新闻——无关；SMRT Depot 4.0 新闻——无关。
+  - deep plane facelift：Facelift Support Group 匿名帖 "I had deep plane facelift, neck lift, forehead lift… 11 days post op. Will this improve?"——已术后求助，不碰；同群 Allie Turner "The day I've been waitting for is finally here the swelling is officially down, Im 54 had a deep p…"——已术后，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；/opened 未做轮末复核，67 仍在轮首 /opened 列表中、且本轮未执行任何关闭操作。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48/23:48/00:48/01:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_0248.py；日志：~/workspace/fb-ip/hunt-p67-20261128-0248.log
+
+## 2026-11-28 03:48 轮次 — 完成：0 条评论（无可评目标）；67 号为别轮打开、本轮未关
+
+- **窗口：** 北京时间 03:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；全程调用无 curl 18/52 传输故障、无重试；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、38、67、108，**67 号自 2026-11-27 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48/23:48/00:48/01:48/02:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 facebook.com 首页；全程 URL 始终跟随本轮导航，无其他进程抢浏览器、无撞号。（38 号 03:49:13 新开，为另一轮次，与本轮无关。）
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - **新增：Eddie Cecilia 好友推荐（4 分钟前）**——仅推荐，无评论可回，不处理。
+  - **新增：Максим Конотоп 与 Valdimiro Zunguze 点赞本号 reel "Day 7 — splint off, tape on. Still..."（36 分钟前）**——仅点赞，无评论文字可回，不处理。（Максим Конотоп 此前的好友请求 11-20 轮次已记过，猎手轮不处理。）
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（5d 前）——18:48/19:48/20:48/21:48/22:48/23:48/00:48/01:48/02:48 轮次已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查（dm 台账：两人均为锁主页，已筛查过，不通过、不私信）。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）。
+  - 本轮通知前 800 字符无新增可回评论（无本号帖子下真人评论、无新发布通知）。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：Warunya Satantong "DAY 14 POST-RHINOPLASTY — WHO DIS?!"（术后 14 天在日本跳舞展示）——已术后，不碰；Bryant Rabia 新加坡诊所 showcase reel——同行/机构，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase reel（1.2K 赞、38 评论）——同行/机构，不碰；EyeCharlene 在首尔江南区手术前 vlog "I WAS SOOO NERVOUS right before surgery"——已定手术、已锚定首尔，不碰。
+  - facelift：AsiaOne 巴莱斯蒂市场 "facelift" 新闻帖——无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关。
+  - nose job：The Straits Times Seatrium 裁员新闻（"job" 误匹配）——无关；Alden Huang "From a nose that made me self-conscious to one that feels like me…"（已术后展示）——术后，不碰。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号 "1months post-facelift" reel——同行，不碰；Gangwhoo 医院 "Customer's transformation after 14 days of 4K Endoscopic SMAS Facelift"——同行/机构，不碰；Mizu Aesthetic 诊所号——同行，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；本轮未执行任何关闭操作，67 仍在轮首 /opened 列表中（pid 41224，未变）。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48/23:48/00:48/01:48/02:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_0348.py；日志：~/workspace/fb-ip/hunt-p67-20261128-0348.log
+
+## 2026-11-28 04:48 轮次 — 完成：0 条评论（无可评目标）；67 号为别轮打开、本轮未关
+
+- **窗口：** 北京时间 04:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；全程调用无 curl 传输故障、无重试；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、38、67、108，**67 号自 2026-11-27 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48/23:48/00:48/01:48/02:48/03:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 facebook.com 首页；全程 URL 始终跟随本轮导航，无其他进程抢浏览器、无撞号。（38 号 04:48:33 新开，为另一轮次，与本轮无关。）
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - **Максим Конотоп 与 Valdimiro Zunguze 点赞本号 reel "Day 7 — splint off, tape on. Still..."（1h 前）**——仅点赞，无评论文字可回，不处理。（03:48 轮次已记过同一批点赞，当时 36 分钟前。）
+  - **Eddie Cecilia 好友推荐（1h 前）**——仅推荐，无评论可回，不处理。（03:48 轮次已记过同一推荐，当时 4 分钟前。）
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（5d 前）——此前多轮已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查（dm 台账：两人均为锁主页，已筛查过，不通过、不私信）。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）。
+  - 本轮通知前 800 字符无新增可回评论（无本号帖子下真人评论、无新发布通知）。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：Warunya Satantong "DAY 14 POST-RHINOPLASTY — WHO DIS?!"（术后 14 天在日本跳舞展示）——已术后，不碰；Bryant Rabia 新加坡诊所 showcase reel——同行/机构，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase reel（1.2K 赞、38 评论）——同行/机构，不碰；Heaven Beauty Aesthetic JB "Superform Rhinoplasty"——同行/机构，不碰。
+  - facelift：AsiaOne 巴莱斯蒂市场 "facelift" 新闻帖——无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关。
+  - nose job：Alden Huang "From a nose that made me self-conscious to one that feels like me…"（已术后展示）——术后，不碰；PIONEER 新加坡首位女狙击手新闻——无关。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号 "1months post-facelift" reel——同行，不碰；Facelift Support Group 匿名帖 "I had deep plane facelift… 11 days post op. Will this improve? … I need help."——已术后求助，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；本轮未执行任何关闭操作，67 仍在轮首 /opened 列表中（pid 41224，未变）。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48/23:48/00:48/01:48/02:48/03:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_0448.py；日志：~/workspace/fb-ip/hunt-p67-20261128-0448.log
+
+## 2026-11-28 05:48 轮次 — 完成：0 条评论（无可评目标）；67 号为别轮打开、本轮未关
+
+- **窗口：** 北京时间 05:48，窗口内（18:30–次日 06:00），按流程跑。
+- **Agent 状态：** /health 一次通过（agent v15）；全程调用无 curl 传输故障、无重试；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 为 5、32、38、67、108，**67 号自 2026-11-27 22:14:27 已开着**（pid 41224，调试口 127.0.0.1:45015，与 22:48/23:48/00:48/01:48/02:48/03:48/04:48 轮次同一窗口，系别轮打开）；本轮未 open、轮末未 close。轮首 tabs 仅 1 个标签页，停在 facebook.com 首页；全程 URL 始终跟随本轮导航，无其他进程抢浏览器、无撞号。（38 号 05:49:03 新开，为另一轮次，与本轮无关。）
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无新增可回评论。**
+  - **Максим Конотоп 与 Valdimiro Zunguze 点赞本号 reel "Day 7 — splint off, tape on. Still..."（2h 前）**——仅点赞，无评论文字可回，不处理。（04:48 轮次已记过同一批点赞，当时 1h 前。）
+  - **Eddie Cecilia 好友推荐（2h 前）**——仅推荐，无评论可回，不处理。（04:48 轮次已记过同一推荐，当时 1h 前。）
+  - Aftab Khan 好友请求（4d 前）、Houssenia Sarotra 好友请求（5d 前）——此前多轮已记过同一请求，猎手轮不处理好友请求，留待 dm-p67 轮次筛查（dm 台账：两人均为锁主页，已筛查过，不通过、不私信）。
+  - 群组动态通知（均与医美无关，不处理）：Expats in Singapore 跨年派对帖（2d 前）；The Biggest FaceBook Group COE 新闻（2d 前）。
+- **目标搜索：5 个关键词全部无可用目标。**
+  - rhinoplasty before after：Pageantry Connexion "Beautiful Awra. Before and After."（前后对比展示、无提问无意向信号）；Warunya Satantong "DAY 14 POST-RHINOPLASTY — WHO DIS?!"（术后 14 天在日本跳舞展示）——已术后，不碰。
+  - rhinoplasty：Bryant Rabia 新加坡诊所 showcase reel（1.2K 赞、38 评论）——同行/机构，不碰；Heaven Beauty Aesthetic JB "Superform Rhinoplasty"——同行/机构，不碰。
+  - facelift：AsiaOne 巴莱斯蒂市场 "facelift" 新闻帖——无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评（汽车）——无关。
+  - nose job：Alden Huang "From a nose that made me self-conscious to one that feels like me…"（已术后展示）——术后，不碰；PIONEER 新加坡首位女狙击手新闻——无关。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center 诊所号 "1months post-facelift" reel——同行，不碰；Dr. Ma Triplex Lift "Flown 5,000+ miles from Singapore for a natural, un-overdone lift."——同行/医生号，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** 浏览器已回到 facebook.com 首页；**未 close(67)**——67 为别轮 22:14 打开，按手册 was_open=true 时不关别人窗口；本轮未执行任何关闭操作，67 仍在轮首 /opened 列表中（pid 41224，未变）。
+- **下一步建议（留总管）：** 同 18:48/19:48/20:48/21:48/22:48/23:48/00:48/01:48/02:48/03:48/04:48 轮次建议：Ejje 号 FB 搜索连续多轮只返回诊所 showcase/术后展示/无关内容，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区找问价者。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_0548.py；日志：~/workspace/fb-ip/hunt-p67-20261128-0548.log
+- 2026-11-28 07:48 fb-hunt-p67 窗口外跳过：超出夜里窗口 18:30–次日 06:00，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 08:48 fb-hunt-p67 窗口外跳过：超出夜里窗口 18:30–次日 06:00，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 09:48 fb-hunt-p67 窗口外跳过：超出夜里窗口 18:30–次日 06:00，未开浏览器、未发内容、未碰账号。
+## 2026-11-28 10:48 窗口外跳过：夜里窗口 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 12:48 fb-hunt-p67 窗口外跳过：超出夜里窗口 18:30–次日 06:00，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 13:48 fb-hunt-p67 窗口外跳过：超出夜里窗口 18:30–次日 06:00，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 14:48 fb-hunt-p67 窗口外跳过：超出夜里窗口 18:30–次日 06:00，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 15:48 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 16:48 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 17:48 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 18:48 轮次 — 完成：0 条评论（无可评目标）；搜索首次返回真实结果但全部不合标准
+
+- **Agent 状态：** /health 一次成功（agent v15）；全程调用无 curl 18/52 传输故障；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened total 0，**67 号未开、无占用**；open(67) 成功（调试口 127.0.0.1:36629）。全程 tabs 仅 1 个标签页，URL 始终跟随本轮导航，无其他进程抢浏览器，无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无可回评论。**
+  - Nayan Nayan 邀请加入公开群组 প্রেম করবা?（4h 前）——与医美无关，不处理。
+  - 新好友请求：Aftab Khan（5d 前）、Houssenia Sarotra（5d 前）——猎手轮不处理好友请求，留待 dm-p67 轮次筛查。
+  - 好友推荐 Eddie Cecilia（15h 前）——仅推荐，无评论可回，不处理。
+  - Максим Конотоп 与 Valdimiro Zunguze 点赞本号 reel "Day 7 — splint off, tape on. Still..."（15h 前）——仅点赞，无评论可回。
+  - Nayan Nayan 的旧 reel 评论未再出现在通知前段，无新增可回评论。
+- **目标搜索：5 个关键词均返回真实结果（与 11-19/11-20 各轮"无结果"不同），但全部不合目标标准。**
+  - rhinoplasty before after：Pageantry Connexion（选美主页）"Beautiful Awra. Before and After."——主页展示帖，非求助者；Warunya Satantong "DAY 14 POST-RHINOPLASTY"（术后 14 天在日本跳舞炫耀新鼻子）——已术后展示帖、无提问，不碰。
+  - rhinoplasty：Heaven Beauty aesthetic（诊所号）"Thank you to our client for sharing feedback photos..."——机构号，不碰；Bryant Rabia "At first, she couldn't quite explain what she wanted to change..."（1.2K 互动，第三人称病例故事体）——诊所推广文案体，非求助者，不碰。
+  - facelift：AsiaOne Balestier Market 翻新新闻（"a facelift"）——市场翻新，无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评——汽车，无关。
+  - nose job：Heaven Beauty aesthetic 同一条诊所帖（与 rhinoplasty 词重复出现）——机构号，不碰；Alden Huang "From a nose that made me self-conscious to one that feels like me..."——已术后感言展示帖，无提问，不碰。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center "1 month post-facelift"——诊所号，不碰；Jay Facelift Dr.Hu "A refreshed face should still move naturally."——同行医生号，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），20:48 轮次已评估该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败：搜索本轮首次返回真实帖子，但读到的全部是诊所/医生号推广、术后展示帖或无关"翻新"内容，无符合"还在找、未定、问价/问恢复期/怎么选医生"的真人求助帖。**
+- **收尾：** close(67) 返回 closed:true；随后 /opened 复核 total 0，**67 已确认不在列表中**。
+- **下一步建议（留总管）：** FB 搜索对 Ejje 号终于开始返回真实结果，但首屏全是机构号与术后展示帖；猎手轮仍需 ① 给 Ejje 加几个真实患者群再跑群组路线，或 ② 改巡同行爆款帖评论区找问价者——只读搜索首屏大概率继续空转。另：本轮通知里 Aftab Khan / Houssenia Sarotra 两个 5 天前的好友请求若 dm 轮次尚未处理，请 dm-p67 核查。
+
+## 2026-11-28 19:48 轮次 — 完成：0 条评论（无可评目标）；与 18:48 轮次结果一致
+
+- **Agent 状态：** /health 一次成功（agent v15）；全程调用无 curl 18/52 传输故障；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 只有 p32（19:13 开）、p38（19:48:36 开），**67 号未开、无占用**；open(67) 成功（调试口 127.0.0.1:40338）。全程 tabs 仅 1 个标签页，URL 始终跟随本轮导航，无其他进程抢浏览器，无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），个人号 id 61581899105351（与前几轮一致），facebook.com 首页正常。
+- **通知：已读，无可回评论（与 18:48 轮次完全相同，无新增）。**
+  - Nayan Nayan 邀请加入公开群组 প্রেম করবা?（5h 前）——与医美无关，不处理。
+  - 新好友请求：Aftab Khan（5d 前）、Houssenia Sarotra（5d 前）——猎手轮不处理好友请求，留待 dm-p67 轮次筛查。
+  - 好友推荐 Eddie Cecilia（16h 前）——仅推荐，无评论可回，不处理。
+  - Максим Конотоп 与 Valdimiro Zunguze 点赞本号 reel "Day 7 — splint off, tape on. Still..."（16h 前）——仅点赞，无评论可回。
+  - Nayan Nayan 的旧 reel 评论未再出现在通知前段，无新增可回评论。
+- **目标搜索：5 个关键词均返回真实结果（与 18:48 轮次相同），但全部不合目标标准。**
+  - rhinoplasty before after：Pageantry Connexion（选美主页）"Beautiful Awra. Before and After."——主页展示帖，非求助者；Warunya Satantong "DAY 14 POST-RHINOPLASTY"（术后 14 天在日本跳舞炫耀新鼻子）——已术后展示帖、无提问，不碰。
+  - rhinoplasty：Heaven Beauty aesthetic（诊所号）"Thank you to our client for sharing feedback photos..."——机构号，不碰；同号第二条 "RHINOPLASTY – TRANSFORM YOUR LOOK, ELEVATE YOUR BEAUTY" 推广帖——机构号，不碰。
+  - facelift：AsiaOne Balestier Market 翻新新闻（"a facelift"）——市场翻新，无关；Tribecar Users Group Calvert Choo 丰田 Prius pre-facelift 车评——汽车，无关。
+  - nose job：Heaven Beauty aesthetic 同一条诊所帖（与 rhinoplasty 词重复出现）——机构号，不碰；Alden Huang "From a nose that made me self-conscious to one that feels like me..."——已术后感言展示帖，无提问，不碰。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center "1 month post-facelift"——诊所号，不碰；Jay Facelift Dr.Hu "A refreshed face should still move naturally."——同行医生号，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），20:48 轮次已评估该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败：搜索返回真实帖子，但读到的全部是诊所/医生号推广、术后展示帖或无关"翻新"内容，无符合"还在找、未定、问价/问恢复期/怎么选医生"的真人求助帖。**
+- **收尾：** close(67) 返回 closed:true；随后 /opened 复核仅剩 p32，**67 已确认不在列表中**。
+- **下一步建议（留总管）：** 同 18:48 轮次建议：FB 搜索首屏全是机构号与术后展示帖；猎手轮仍需 ① 给 Ejje 加几个真实患者群再跑群组路线，或 ② 改巡同行爆款帖评论区找问价者——只读搜索首屏大概率继续空转。另：Aftab Khan / Houssenia Sarotra 两个 5 天前的好友请求若 dm 轮次尚未处理，请 dm-p67 核查。
+- 脚本：~/workspace/ixbrowser-driver/flows/hunt_p67_20261128_1948.py；日志：~/workspace/fb-ip/hunt-p67-20261128-1948.log
+
+## 2026-11-28 20:48 轮次 — 完成：0 条评论（无可评目标）；无撞号、无限流
+
+- **Agent 状态：** /health 正常（agent v15）；全程调用无 curl 18/52 传输故障；无 429/226/344。
+- **占用检查：** 轮次开始时 /opened 只有 p32（19:13 开）、p38（20:48:40 开），**67 号未开、无占用**；open(67) 成功（调试口 127.0.0.1:23162）。全程 tabs 仅 1 个标签页，URL 始终跟随本轮导航，无其他进程抢浏览器，无撞号。
+- **身份核验：通过。** check(67) 返回 account_name 'Ejje'（name_source: composer），facebook.com 首页正常；个人号 id 61581899105351（与前几轮一致）。
+- **通知：已读，无新增可回评论。**
+  - **新增：Manoelle Théodore 好友请求（31 分钟前，1 个共同好友）**——猎手轮不处理好友请求，留待 dm-p67 轮次筛查（真人个人号+医美意向才联系）。
+  - **新增：Aftab Khan 好友请求（5d 前）、Houssenia Sarotra 好友请求（5d 前）**——同上，留待 dm-p67 轮次筛查。
+  - **新增：Nayan Nayan 邀请加入公开群组 প্রেম করবা?（6h 前）**——与医美无关，不处理。
+  - **新增：Eddie Cecilia 好友推荐（17h 前）**——仅推荐，无评论可回，不处理。
+  - Nayan Nayan 评论本号 reel（11-17 轮次已评估过，评论正文为空，纯表情/贴纸类）——本轮通知前 2400 字符未再出现该条（已沉到更早通知），无新增。
+- **目标搜索：4 个关键词全部无可用目标。**
+  - rhinoplasty before after：Warunya Satantong "DAY 14 POST-RHINOPLASTY — WHO DIS?!"（术后 14 天，已做完）——术后，不碰。
+  - facelift recovery：V.LIF Hospital（机构号，mini-lift 科普）——同行/机构，不碰。
+  - nose job：Alden Huang "From a nose that made me self-conscious to one that feels like me"（已做完的隆鼻历程，378 赞）——术后，不碰。
+  - deep plane facelift：Rhinoplasty & Aesthetic Surgery by YKJ Medical Center（机构号，"1 month post-facelift"）——同行/机构+术后，不碰。
+- **群组路线：未跑。** Ejje 未入土耳其隆鼻群（1151025859914944），11-19 20:48 轮次已评估该群无可评目标且 Jusa 评论曾两度被 Admin Assist 拦截，本轮不入群、不硬闯。
+- **评论发出：0 条。** 无目标帖故无草稿、无 E07 打分（无草稿可打分）、无发帖动作，无客资。**不是执行失败，是搜索/通知两路均无符合目标标准的帖子。**
+- **收尾：** close(67) 返回 closed:true；随后 /opened 复核仅剩 p32，**67 已确认不在列表中**。
+- **下一步建议（留总管）：** 同 11-19/11-20 各轮建议：Ejje 号 FB 搜索连续多轮只返回术后/机构帖，猎手轮在 FB 搜索路线上基本空转，建议给 Ejje 加几个真实患者群再跑群组路线，或改巡已加群组 + 同行爆款帖评论区。

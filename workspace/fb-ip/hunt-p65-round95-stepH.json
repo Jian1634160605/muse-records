@@ -1,0 +1,26 @@
+{
+  "round": 95,
+  "ts": "2026-11-28 10:46:04 UTC",
+  "steps": {
+    "close65": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "profile_id": 65,
+        "closed": true
+      }
+    },
+    "opened_after": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [],
+        "total": 0
+      }
+    },
+    "is_open_65_after": {
+      "ok": true,
+      "r": "False"
+    }
+  }
+}

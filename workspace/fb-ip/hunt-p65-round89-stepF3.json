@@ -1,0 +1,19 @@
+{
+  "round": 89,
+  "ts": "2026-11-27 16:51:12 UTC",
+  "steps": {
+    "goto_reel": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/gaga5456/reel/Df-LlOOsrk-/",
+        "profile_id": 65
+      }
+    },
+    "reel_DfLlOOsrk_retry": {
+      "ok": true,
+      "r": "gaga5456\nAI-generated profile\nOriginal audio\ngaga5456\n \ngaga5456\n \n6d\nCurious about rhinoplasty? Tap the WhatsApp link in my bio — happy to answer your questions.\nReply\n1\n6 days ago\n"
+    }
+  }
+}

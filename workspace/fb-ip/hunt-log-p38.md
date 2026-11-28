@@ -1,3 +1,146 @@
+## 2026-11-28 20:18–约 20:22 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知 1 条新求医生帖待恢复后核对，两群无新候选）
+
+- 窗口内（20:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第十三轮跑通**（19:18 轮计第十二轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_2018.log（探针脚本 hunt_p38_20261128_2018.py）。
+- 38 轮开始时未开（opened 列表为 32、67），opened 列表与 is_open(38) 一致为 False；本轮自己 open（127.0.0.1:39058），轮末已 close；关后复核 opened 为 32、67，无 38。**未动他轮次窗口。**（67 于 20:18:52 由他轮次打开，未碰。）
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(2) Facebook"（2 条未读通知）。
+- 通知：无可回的本号帖下真人评论。新增未读：**土耳其隆鼻群帖提醒 "Good evening I'm looking for and I'm still looking for a surgeon who knows how to make fine…"（32m）——疑似仍在找医生、未锚定特定医生，属潜在候选，但通知未给出帖子链接/发帖人，停发期间不发评论，记为恢复发帖后待核对候选**；DA Will @ 提及 ×2（12m，群内 @，不回）；SV SAVVANY @ 提及（3h，群内 @，不回）；Didi Nyamut @ 提及（3h，群内 @，不回）；Abdullah Al Montahin 加帖提醒（16h，孟加拉语帖子，非本号帖下评论，不回）；Kabineh M Sheriff @ 提及（17h，群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 19:18 轮次“原定”计数口径，本轮原定第七十二轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 5 条链接。1467801958201240——Juliet Sanders（3h），"No you do not. Put it off as long as possible."（回复片段，非求医生，不碰）；1467866601528109——Cassandra Mason（44m），"AI can give you a list"（回复片段，不碰）；1456090306039072——Christina Santrucek（14h），利物浦医生 Dr Tomasz Starega（已锚定特定医生，不碰）；1467823778199058——Lou2025（2h），荷兰语问发帖人是哪个医生做的、花了多少钱（问价信号，但指向发帖人已定医生，弱候选：恢复发帖后待核对是否术前在找医生）；1467694724878630——WhiteDeer3950（3h），"LOOK ON YELP!!! Click on 1 star reviews."（回复片段，不碰）。无新候选。
+  - 鼻子群 feed：采到 3 条链接。1722930549539451——DaringGoldfish9914（4h），"Your nose is absolutely stunning. Most people would wish for a result like this"（纯赞美，不碰）；1722948029537703——MemorableRadish6881（52m），"I went with dr Mehmet akif yildrim, had the best experience and love my nose 1 month post septoplasty"（术后分享、已定特定医生，不碰）；1723091519523354——Anonymous participant 789（4h），"My smile took 3 months to be back to normale"（术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：土耳其隆鼻群求医生帖（通知 32m，"I'm looking for and I'm still looking for a surgeon who knows how to make fine…"，未读到帖子 ID/发帖人，恢复后进群核对）、Lou2025（1467823778199058 帖下问价，荷兰语）；Gabyta Za Ro 仍在待核对清单；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续十三轮跑通，下轮按常跑**。
+
+## 2026-11-28 19:18–约 19:21 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（19:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第十二轮跑通**（05:18 轮计第十一轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_1918.log（探针脚本 hunt_p38_20261128_1918.py）。
+- 38 轮开始时未开（opened 列表为 32、67），opened 列表与 is_open(38) 一致为 False；本轮自己 open（127.0.0.1:53884），轮末已 close；关后复核 opened 为 32、67，无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "Facebook"（本轮无未读数显示）。
+- 通知：无可回的本号帖下真人评论。新增未读：SV SAVVANY @ 提及（2h，群内 @，不回）；Didi Nyamut @ 提及（2h，群内 @，不回）；土耳其隆鼻群帖提醒 "Hi everyone pleasee, im 9 days post operation on the cast removal the dr find out i have infection…"（14h，已术后求助——术后感染，不碰）；Abdullah Al Montahin 加帖提醒（15h，孟加拉语帖子，非本号帖下评论，不回）；Kabineh M Sheriff @ 提及（16h，群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 05:18 轮次“原定”计数口径，本轮原定第七十一轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 4 条链接。1465994251715344——Laura Hastings（1d），"Never go to a third world county for medical care."（观点帖，非求医生，不碰）；1467888651525904——AuthenticPomegranate4971（21m），"Great post and sounds like a great surgeon…. Speedy healing"（赞美回复，不碰）；1449691096678993——Malissa Thorson（2w），"Eden Plastic Surgery. The EveLift by Dr Charafeddine."（已锚定特定医生，不碰）；1467798264868276——Emma Fiddimore（1h），"Stay away from mirrors and social media and do some charity work. You look lovely"（安抚回复，非求医生，不碰）。无新候选。
+  - 鼻子群 feed：采到 4 条链接。1722686729563833——LavenderRaccoon7298（1h），德语：两周后找 Dr. Niyazi 做翻修（已定特定医生，不碰）；1722731132892726——UnderstandingAlpaca5378（5m），"They stay around for like six months"（回复片段，非求医生，不碰）；1722930549539451——DaringGoldfish9914（3h），"Your nose is absolutely stunning. Most people would wish for a result like this"（纯赞美，不碰）；1723091519523354——Anonymous participant 789（3h），"My smile took 3 months to be back to normale"（术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：Gabyta Za Ro（1465994251715344 帖下问价，西语）；土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m，01:18 轮记，未读到帖子 ID/发帖人，恢复后进群核对，本轮通知与群 feed 中仍未出现）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续十二轮跑通，下轮按常跑**。
+
+## 2026-11-28 05:18–约 05:21 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（05:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第十一轮跑通**（04:18 轮计第十轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_0518.log（探针脚本 hunt_p38_20261128_0518.py）。
+- 38 轮开始时未开（opened 列表为 5、32、67、108），opened 列表与 is_open(38) 一致为 False；本轮自己 open（127.0.0.1:7441），轮末已 close；关后复核 opened 为 5、32、67、108，无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回的本号帖下真人评论。新增未读：土耳其隆鼻群帖提醒 "Hi everyone pleasee, im 9 days post operation on the cast removal the dr find out i have infection…"（20m，已术后求助——术后感染，不碰）；Kabineh M Sheriff @ 提及（2h，群内 @，不回）；Abdullah Al Montahin 加帖提醒（1h，孟加拉语帖子，非本号帖下评论，不回）；"Your reel is ready to view"（7h，Reel 就绪提醒，不回）；Bol Nqor Bol 更新头像（3h，不回）；Blaq Nera @ 提及（2h）、সা দ বা বূ @ 提及（5h）、Aaron Jarsey @ 提及（10h）、BWØII WA ÇITY @ 提及（11h）、Õg Lîkê @ 提及 ×2（13h，均为群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 04:18 轮次“原定”计数口径，本轮原定第七十轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 4 条链接。1467252938256142——SkilledGoldfish4665（27m），术后睡枕/平躺恢复讨论（术后帖，不碰）；1467325188248917——SkilledGoldfish4665（11m），术后第二天听音乐（术后帖下回复，不碰）；1466963108285125——Crystal Brown（4h），赞美对方外貌“fabulous and total goals”（纯赞美，不碰）；1465994251715344——Gabyta Za Ro（1d），西语问发帖人手术费用“Puedes compartir costo de tu cirugia?”（问价信号，但为帖下回复片段、且停发期间不发评论，记为恢复发帖后待核对弱候选：需核实其是否术前在找医生）。无新候选。
+  - 鼻子群 feed：采到 1 条链接。1721929456306227——Anonymous participant 433（13h），"Rhinoplasty and Septorhinoplasty are not worth it at all."（否定观点帖，非求医生，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：Gabyta Za Ro（1465994251715344 帖下问价，西语）、土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m，01:18 轮记，未读到帖子 ID/发帖人，恢复后进群核对）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续十一轮跑通，下轮按常跑**。
+
+## 2026-11-28 04:18–约 04:21 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（04:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第十轮跑通**（03:18 轮计第九轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_0418.log（探针脚本 hunt_p38_20261128_0418.py）。
+- 38 轮开始时未开（opened 列表为 5、32、67、108），opened 列表与 is_open(38) 一致为 False；本轮自己 open（127.0.0.1:19016），轮末已 close；关后复核 opened 为 5、32、67、108，无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回的本号帖下真人评论。新增未读：Abdullah Al Montahin 加帖提醒（21m，孟加拉语帖子，非本号帖下评论，不回）；Kabineh M Sheriff @ 提及（1h，群内 @，不回）；土耳其隆鼻群动态提醒 "Fanny Simon, Makennah Dunn and 15 others posted in Rhinoplasty in Turkey - real experiences, doctor suggestions."（2h，群动态汇总、无帖子链接/发帖人，不可直接定位，不回）；Blaq Nera @ 提及（1h，群内 @，不回）；"Your reel is ready to view"（6h，Reel 就绪提醒，不回）；Bol Nqor Bol 更新头像（2h，不回）；সা দ বা বূ @ 提及（4h）、Aaron Jarsey @ 提及（9h）、BWØII WA ÇITY @ 提及（10h）、Õg Lîkê @ 提及 ×2（12h，均为群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。01:18 轮记的土耳其隆鼻群 front profile rhino 求推荐帖本轮仍未出现在可见通知与群 feed 中，仍记为恢复发帖后待核对候选。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 03:18 轮次“原定”计数口径，本轮原定第六十九轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 4 条链接。1466963108285125——Angela Bustamante（6h），赞美对方外貌（纯赞美，不碰）；1467032488278187——Nicole J. Gulledge（3h），医生说不用戴头套、术后恢复讨论片段（非求医生，不碰）；1467152978266138——Chinchilla De（2h），感谢分享经历的回复片段（不碰）；1467076214940481——Anonymous participant 470（3h），术后 14 天抑郁、脸肿不敢出门（术后求助，不碰）。无新候选。
+  - 鼻子群 feed：采到 3 条链接，与上一轮同一批、时间老化。1721929456306227——Anonymous participant 433（12h），"Rhinoplasty and Septorhinoplasty are not worth it at all."（否定观点帖，非求医生，不碰）；1721933579639148——Cindy Maria Upton（4h），"Mines still swollen after nearly 10 weeks"（术后求助，不碰）；1722014909631015——Anonymous participant 945（12h），机场带现金建议回复（不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m，01:18 轮记，未读到帖子 ID/发帖人，恢复后进群核对）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续十轮跑通，下轮按常跑**。
+
+## 2026-11-28 03:18–约 03:21 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（03:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第九轮跑通**（02:18 轮计第八轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_0318.log（探针脚本 hunt_p38_20261128_0318.py）。
+- 38 轮开始时未开（opened 列表为 5、32、67、108），opened 列表与 is_open(38) 一致为 False；本轮自己 open（127.0.0.1:36661），轮末已 close；关后复核 opened 为 5、32、67、108，无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回的本号帖下真人评论。新增未读：Kabineh M Sheriff @ 提及（25m，群内 @，不回）；Bol Nqor Bol 更新头像（1h，不回）；土耳其隆鼻群动态提醒 "Fanny Simon, Makennah Dunn and 15 others posted in Rhinoplasty in Turkey - real experiences, doctor suggestions."（1h，群动态汇总、无帖子链接/发帖人，不可直接定位，不回）；Blaq Nera @ 提及（54m，群内 @，不回）；"Your reel is ready to view"（5h，Reel 就绪提醒，不回）；সা দ বা বূ @ 提及（3h）、Aaron Jarsey @ 提及（8h）、BWØII WA ÇITY @ 提及（9h）、Õg Lîkê @ 提及 ×2（11h，均为群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。01:18 轮记的土耳其隆鼻群 front profile rhino 求推荐帖本轮仍未出现在可见通知与群 feed 中，仍记为恢复发帖后待核对候选。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 02:18 轮次“原定”计数口径，本轮原定第六十八轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 3 条链接。1466272901687479——Pam Mercer Knost（22h），"A great result."（纯赞美，不碰）；1467032488278187——Nicole J. Gulledge（2h），医生说不用戴头套、术后恢复讨论片段（非求医生，不碰）；1467207521594017——Anonymous participant 155（1h），溶脂后凹陷问题（术后/填充问题帖，非术前求医生，不碰）。无新候选。
+  - 鼻子群 feed：采到 4 条链接。1721929456306227——Anonymous participant 433（11h），"Rhinoplasty and Septorhinoplasty are not worth it at all."（否定观点帖，非求医生，不碰）；1721933579639148——Cindy Maria Upton（3h），"Mines still swollen after nearly 10 weeks"（术后求助，不碰）；1722014909631015——Anonymous participant 945（11h），机场带现金建议回复（不碰）；1722057186293454——Joy43（9h），术后 2 周安抚回复（术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m，01:18 轮记，未读到帖子 ID/发帖人，恢复后进群核对）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续九轮跑通，下轮按常跑**。
+
+## 2026-11-28 02:18–约 02:21 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（02:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第八轮跑通**（01:18 轮计第七轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_0218.log（探针脚本 hunt_p38_20261128_0218.py）。
+- 38 轮开始时未开（opened 列表为 5、32、67、108），opened 列表与 is_open(38) 一致为 False（00:18 轮的矛盾本轮未重现）；本轮自己 open（127.0.0.1:36918），轮末已 close；关后复核 opened 为 5、32、67、108，无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回的本号帖下真人评论。新增未读：土耳其隆鼻群动态提醒 "Fanny Simon, Makennah Dunn and 15 others posted in Rhinoplasty in Turkey - real experiences, doctor suggestions."（22m，群动态汇总、无帖子链接/发帖人，不可直接定位，不回）；"Bol Nqor Bol updated his profile picture."（52m，头像更新，不回）；"Your reel is ready to view"（4h，Reel 就绪提醒，不回）；সা দ বা বূ @ 提及（2h）、Aaron Jarsey @ 提及（7h）、BWØII WA ÇITY @ 提及（8h）、Õg Lîkê @ 提及 ×2（10h，均为群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。01:18 轮记的土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m）本轮未再出现在可见通知中，仍记为恢复发帖后待核对候选。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 01:18 轮次“原定”计数口径，本轮原定第六十七轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 3 条链接。1439064074408362——Sandra Johnston（3w），身体畸形恐惧症观点帖（非求医生，不碰）；1466580754990027——ArticulatePineapple6178（13h），下周一去泰国合艾做深层平面面提+颈提+去眼袋（已定行程，不碰）；1466664741648295——Linda Joseph（10h），"As a medical consultant…" 同行/咨询顾问发帖（非求医生，不碰）。无新候选。
+  - 鼻子群 feed：采到 1 条链接。1721929456306227——Anonymous participant 531（9h），术后 3 天吐槽他人抱怨（术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m，01:18 轮记，未读到帖子 ID/发帖人，恢复后进群核对）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续八轮跑通，下轮按常跑**。
+
+## 2026-11-28 01:18–约 01:21 轮次 — agent 全程一次成功，暂停延续轮：评论 0 条（只读不发；身份通过，通知 1 条新求推荐帖待恢复后核对，两群无新候选）
+
+- 窗口内（01:18 触发，18:30–06:00）。agent：**稳**，health/opened/open/check/通知/两群 feed/close/opened-after-close 全部第 1 次成功（ixbrowser-agent v15），全程零重试、零 curl 52/18；全程无 429/226/344。**agent 连续第七轮跑通**（00:18 轮计第六轮；本轮为恢复后最干净的一轮）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_0118.log（探针脚本 hunt_p38_20261128_0118.py）。
+- 38 轮开始时未开（opened 列表为 5、32、67、108），opened 列表与 is_open(38) 一致为 False（00:18 轮的矛盾本轮未重现）；本轮自己 open（127.0.0.1:28320），轮末已 close；关后复核 opened 为 5、32、67、108，无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回的本号帖下真人评论。新增 1 条未读：土耳其隆鼻群帖提醒 "Do yall have any recommendations for front profile rhinos in turkey?"（24m）——求推荐帖、未锚定特定医生，属潜在候选，但通知未给出帖子链接/发帖人，停发期间不发评论，记为恢复发帖后待核对候选；其余未读均为群内 @ 提及（সা দ বা বূ 1h、Aaron Jarsey 6h、BWØII WA ÇITY 7h、Õg Lîkê ×2 9h，不回）与 "Your reel is ready to view"（3h，Reel 就绪提醒，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 00:18 轮次“原定”计数口径，本轮原定第六十六轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 6 条链接。1467152978266138——Anonymous participant 364（41m），感谢 Karla 分享恢复经历（术后帖下回复，不碰）；1467017401613029——greeneyedgal64（2h），"I sent you a PM."（回复片段，不碰）；1466963108285125——Elodie Quinn（2h），"I HATE when women say Oh just age Gracefully!"（观点帖、非求医生，不碰）；1467076214940481——WholesomeSalamander8366（2h），安抚术后焦虑回复（术后帖下回复，不碰）；1466899788291457——Molly Snow（4h），术后恢复正常化回复（术后帖下回复，不碰）；1465994251715344——Cindy Brosnan（15h），RN 玩笑回复（不碰）。无新候选。
+  - 鼻子群 feed：采到 3 条链接。1721929456306227——Anonymous participant 922（34m），群内讨论回复（不碰）；1721933579639148——Cindy Maria Upton（1h），"Mines still swollen after nearly 10 weeks"（术后求助，不碰）；1722014909631015——Anonymous participant 945（9h），带现金出境建议回复（不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；新增待核对：土耳其隆鼻群 front profile rhino 求推荐帖（通知 24m，未读到帖子 ID/发帖人，恢复后进群核对）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续七轮跑通，下轮按常跑**。
+
+## 2026-11-28 00:18–约 00:25 轮次 — agent 抖动但跑通，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（00:18 触发，18:30–06:00）。agent：**抖动、已恢复**，health 第 1 次即通（ixbrowser-agent v15）；轮中 open(38) 撞 2 次 curl 52 后成功、goto 通知撞 2 次 curl 18 后成功、eval 面提 feed 撞 1 次 curl 18 后成功，其余一次成功；全程无 429/226/344。**agent 连续第六轮跑通**（23:18 轮计第五轮稳；本轮含重试恢复）。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261128_0018.log（探针脚本 hunt_p38_20261128_0018.py）。
+- **本轮异常（需总管注意）：38 在轮开始时已开、但 is_open 误判为未开。** opened 列表显示 38 已开（open_time 2026-11-28 00:16:41，调试地址 127.0.0.1:38000，pid 32844），但紧接着 `is_open(38)` 返回 False；随后 open(38) 前 2 次 curl 52、第 3 次成功，返回同一调试地址 38000（应是接上已开实例）；轮末按 was_open=False 执行了 close(38)，opened 复核已无 38。**00:16:41 的开窗者未查明**：不是 23:48 DM 轮（其进程 23:59 已退出，日志 /tmp/dm-p38-20261127-2348.log 止于 opened_after 3 次 curl 52 失败；它开 38 用的是 27645 端口）；也不是 check_default_group（该脚本明确不开浏览器窗口）。最可能解释：is_open 内部的 opened() 调用撞上同期 agent 抖动（curl 52/18），异常被吞后返回 False——runbook 的 is_open 在 agent 抖动时不可靠，was_open=False 时关窗可能关掉他人窗口。**关窗时（约 00:24）及复核时（00:28–00:29）均无 p38 进程在跑**（ps 仅见 dm_p67、hunt_p32、check_default_group），23:48 DM 轮早已结束，未见有轮次被打断的证据；但 00:16:41 开窗者身份仍是未解项，记在此处待总管追查。建议：is_open 失败时（或 opened 列表与 is_open 矛盾时）本轮应以 opened 列表为准、不执行 close，或先复核一次再定。
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回。新增未读：土耳其隆鼻群帖提醒 "DR. KADRI ILA @ vanity clinic in Istanbul When I was searching for surgeons in Turkey, I was only…"（9m，已锚定特定医生，不碰）；সা দ বা বূ @ 提及（52m，群内 @，不回）；"Your reel is ready to view. Share with your friends."（2h，Reel 就绪提醒，非评论、不回）；Aaron Jarsey @ 提及（5h，群内 @，不回）；BWØII WA ÇITY @ 提及（6h，群内 @，不回）；Õg Lîkê @ 提及 ×2（8h，群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 23:18 轮次“原定”计数口径，本轮原定第六十五轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 5 条链接。1465994251715344——Michelle Visconte（16h），"They almost killed me"（回复片段，意向不明，不碰）；1463208891993880——Susan McNair（3d），"Jaw line is SNATCHED!!!"（纯赞美，不碰）；1466644554983647——Ovsanna Harutyunyan（1h），"Your surgeon did an awsome job! Great 11 days post op result. You look 20 years younger"（术后帖下赞美回复，不碰）；1465361275111975——Tiffani Pirok（1d），"I have one on January 25th."（已定手术，回复片段，不碰）；1457005495947553——PassionateStrawberry84（1w），"Anyone guessing over 45, full stop. Get your eyes fixed before even thinking of fixing your face. She didn’t ask how old do yo…"（回复片段，非求医生，不碰）。无新候选。
+  - 鼻子群 feed：采到 4 条链接。1721929456306227——匿名 531（7h），术后 3 天吐槽他人抱怨（术后帖下回复，不碰）；1721933579639148——Cindy Maria Upton（37m），"Mines still swollen after nearly 10 weeks"（术后求助，不碰）；1722014909631015——MemorableRadish6881（8h），随身行李建议回复（不碰）；1722057186293454——ExhilaratingEagle7523（7h），"Honestly you are 12 days post op….."（术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续六轮跑通，下轮按常跑**。
+
+## 2026-11-27 23:18–约 23:21 轮次 — agent 稳，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（23:18 触发，18:30–06:00）。agent：**稳**，health/opened/check/通知/两群 feed/close 全部一次成功（ixbrowser-agent v15），无重试、无 curl 52/18；全程无 429/226/344。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261127_2318.log（探针脚本 hunt_p38_20261127_2318.py）。
+- 38 轮开始时未开（opened 列表为 5、32、65、67、108），本轮自己 open（127.0.0.1:4928），轮末已 close；关后复核 opened 无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "Facebook"（本轮无未读数显示）。
+- 通知：无可回。新增 2 条未读："Your reel is ready to view. Share with your friends."（1h，Reel 就绪提醒，非评论、不回）；鼻子群帖提醒 "Dr Sahil Aydin….. has anyone had experience with him and rhinoplasty please ? I am booked to go in…"（1h，已锚定特定医生，不碰）；Aaron Jarsey @ 提及（4h，群内 @，不回）；BWØII WA ÇITY @ 提及（5h，群内 @，不回）；Õg Lîkê @ 提及 ×2（7h，群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 22:18 轮次“原定”计数口径，本轮原定第六十四轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 5 条链接。1465994251715344——Aysh Too（23h），"Who is the doctor?"（回复片段，非求医生，不碰）；1466272901687479——Pam Mercer Knost（18h），"A great result."（纯赞美，不碰）；1466580754990027——ArticulatePineapple6178（10h），"Im going to thailand hatyai on next mon and surgery on tue for deep-plane facelift,neck lift and remove eyebag"（已定行程去泰国做手术，不碰）；1465176875130415——VibrantGiraffe7293（1d），"Very personable and very well respected I had a consult with him…"（已面诊特定医生，锚定，不碰）；1466353788346057——Deanna Fernandez（15h），XERF 机器讨论（非求医生，不碰）。无新候选。
+  - 鼻子群 feed：采到 2 条链接。1722057186293454——ExhilaratingEagle7523（6h），"Honestly you are 12 days post op…"（术后帖下回复，不碰）；1722088726290300——Femmefatale Melody（5h），"From the side profile, it looks very pretty"（术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续五轮稳，下轮按常跑**。
+
+## 2026-11-27 22:18–约 22:23 轮次 — agent 稳，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（22:18 触发，18:30–06:00）。agent：**稳**，health/opened/check/通知/两群 feed/close 全部一次成功（ixbrowser-agent v15），无重试、无 curl 52/18；全程无 429/226/344。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261127_2218.log（探针脚本 hunt_p38_20261127_2218.py）。
+- 38 轮开始时未开（opened 列表为 5、32、65、67、102），本轮自己 open（127.0.0.1:36884），轮末已 close；关后复核 opened 无 38。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "Facebook"（本轮无未读数显示）。
+- 通知：无可回。新增 2 条未读："Your reel is ready to view. Share with your friends."（9m，Reel 就绪提醒，非评论、不回）；鼻子群帖提醒 "Dr Sahil Aydin….. has anyone had experience with him and rhinoplasty please ? I am booked to go in…"（17m，已锚定特定医生，不碰）；Aaron Jarsey @ 提及（3h，群内 @，不回）；BWØII WA ÇITY @ 提及（4h，群内 @，不回）；Õg Lîkê @ 提及 ×2（6h，群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 21:18 轮次“原定”计数口径，本轮原定第六十三轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 4 条链接。1465994251715344——Aysh Too（22h），"Who is the doctor?"（回复片段，非求医生，不碰）；1466906298290806——Felicia MacGregor（6m），"Beautiful"（纯赞美，不碰）；1466899788291457——Molly Snow（1h），"This is normal ….the people who look normal a few weeks after surgery didn’t have as much work done."（术后帖下回复片段，不碰）；1460465468934889——SereneSalamander4090（6d），"He is awesome surgeon ( Kaderi)"（已锚定特定医生，不碰）。无新候选。
+  - 鼻子群 feed：采到 2 条链接。1721717696327403——Emma Maria（5h），"i‘m having my revision at him next week. he seems very kind and professional"（已定医生做翻修，锚定特定医生，不碰；她此前为边缘候选，本轮起移出候选清单）；1721611426338030——Leash Aleash（4h），"I am the same way..ativan does help its not perfect but it helps alot"（回复片段，非求医生，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Sarah Schayes 弱候选等；Emma Maria 已移出）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续四轮稳，下轮按常跑**。
+
+## 2026-11-27 21:18–约 21:23 轮次 — agent 稳，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
+
+- 窗口内（21:18 触发，18:30–06:00）。agent：**稳**，health/opened/check/通知/两群 feed/close 全部一次成功（ixbrowser-agent v15），无重试、无 curl 52/18；全程无 429/226/344。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261127_2118.log（探针脚本 hunt_p38_20261127_2118.py）。
+- 38 轮开始时未开（opened 列表仅 32、67），本轮自己 open（127.0.0.1:40818），轮末已 close；关后复核 opened 为 32、67。**未动他轮次窗口。**
+- 身份核对：通过。`check(38)` 返回 account_name "Oe"，name_source "composer"，URL facebook.com，标题 "(1) Facebook"（1 条未读通知）。
+- 通知：无可回。新增 1 条未读：鼻子群帖提醒 "Has anyone had surgery with Dr. Sercan Gode?"（19m，已锚定特定医生，不碰）；Aaron Jarsey @ 提及（2h，群内 @，不回）；BWØII WA ÇITY @ 提及（3h，群内 @，不回）；Õg Lîkê @ 提及 ×2（5h，群内 @，不回）。Nina Blk @ 提及未出现在可见通知中（仍滑入 "See previous notifications"），她自 11-23 05:18 轮次后无新回话，恢复发帖后优先跟进的口径不变（下一步：顺着她选的“看愈合后面观效果”问她鼻子现状/想要的前面观感觉，再推面诊钩子/留号）；不是合格客资（无 WhatsApp），不报用户。可见通知中无新增删帖/限制通知（删帖通知仍是 11-20 21:18 Kengy 那一条）。
+- **本轮继续停发**：总管关于是否恢复发帖/是否申诉的决定仍未到（按 20:18 轮次“原定”计数口径，本轮原定第六十二轮暂停；与“agent 不通轮次不计入暂停轮次”的口径不同，两种计数并存、待总管统一）；两条已过 E07 草稿继续挂起：CheerfulSquirrel146（鼻子，1714382507060922，E07 91 分）、ForeverYoungWish（面提，1459489992365770，E07 94 分）。本轮未起草新评论、未派 E07。记忆检索亦无成安关于 Oe 恢复发帖的新决定。
+- 轻量只读扫群（未发帖）：
+  - 面提群 feed：采到 5 条链接。1466945781620191——Angela Jean（23m），"What should we use instead?"（回复片段，意向不明，不碰）；1465980538383382——Kathleen Lisson（22h），皮肤健康讨论（非求医生，不碰）；1466353788346057——Deanna Fernandez（13h），XERF 机器讨论（非求医生，不碰）；1466272901687479——Pam Mercer Knost（16h），"A great result."（纯赞美，不碰）；1466664741648295——Barbara Maria（3h），翻修面提术后经验分享（已术后分享，不碰）。无新候选。
+  - 鼻子群 feed：采到 3 条链接，均为术后帖下短回复（与上一轮同一批、时间老化）。1721929456306227——TrustworthyBison3553（4h），术后 15 天鼻子歪了；1722014909631015——MemorableRadish6881（5h），随身行李建议回复；1722057186293454——ExhilaratingEagle7523（4h），"Honestly you are 12 days post op…"（均为术后帖下回复，不碰）。无新候选。
+  - 恢复发帖后候选沿用上一轮清单（TrustworthyBison5196 1462869932027776、Karyn Dennison Elliott 1462927142022055、Анжела Лопатникова 1462480398733396、guacamolepicante86 1461882885459814、ProductiveDragon2265 1461784655469637、匿名 1461894335458669、Zo Jan Nasimi 1715071320325374、Emma Maria 1715551623610677 边缘、Sarah Schayes 弱候选等）；待复核：匿名 1463891611925608（Winter Garden 的 Vado 面诊）、Boy Smith 1719011263264713、匿名 1717323993433440（医生名疑似在图里）、ClassyKoala4204（厚皮歪鼻长鼻复杂案例）。
+- 无合格客资；账号风险状态无恶化（无新删帖、无 226/344），但垃圾信息暂停仍在、待总管定是否恢复发帖、是否申诉；**agent 已连续三轮稳，下轮按常跑**。
+
 ## 2026-11-27 20:18–约 20:23 轮次 — agent 稳，暂停延续轮：评论 0 条（只读不发；身份通过，通知无可回，两群无新候选）
 
 - 窗口内（20:18 触发，18:30–06:00）。agent：**稳**，health/opened/check/通知/两群 feed/close 全部一次成功（ixbrowser-agent v15），无重试、无 curl 52/18；全程无 429/226/344。详细过程落持久日志 ~/workspace/goals/fb-agent/hidden_files/hunt_p38_20261127_2018.log（探针脚本 hunt_p38_20261127_2018.py）。
@@ -1468,3 +1611,20 @@
 - 2026-11-27 16:18 CST fb-hunt-p38（Oe，profile 38）：窗口外跳过——本轮仅在北京时间 18:30–次日 06:00 跑，当前 16:18 不在窗口内，未开浏览器、未发内容、未碰账号。
 - 2026-11-27 17:18 CST fb-hunt-p38（Oe，profile 38）：窗口外跳过——本轮仅在北京时间 18:30–次日 06:00 跑，当前 17:18 不在窗口内，未开浏览器、未发内容、未碰账号。
 2026-11-27 18:18 CST — 本轮在窗口外（夜里窗口 18:30–次日 06:00），按规则直接跳过，未开浏览器、未发任何内容、未碰账号（Oe，profile 38）。
+- 2026-11-28 06:18 CST：本轮跳过，超出夜里窗口（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 07:18 CST：本轮跳过，超出夜里窗口（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 08:18 窗口外跳过：不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 09:18 CST：本轮跳过，超出夜里窗口（18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 10:18 窗口外跳过（夜里窗口 18:30–06:00），未开浏览器、未发内容、未碰账号。
+
+- 2026-11-28 12:18 CST：窗口外跳过（窗口 18:30–次日 06:00），本轮未执行，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 13:18（窗口外跳过）
+- 北京时间 13:18 不在 18:30–次日 06:00 夜里窗口内，本轮直接结束；未开浏览器、未发任何内容、未碰账号。
+--- 2026-11-28 14:18 fb-hunt-p38 (Oe, profile 38) 窗口外跳过：北京时间 14:18 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+--- 2026-11-28 15:18 fb-hunt-p38 (Oe, profile 38) 窗口外跳过：北京时间 15:18 不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 16:18 CST fb-hunt-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 17:18（窗口外跳过）
+- 本轮在夜里窗口（18:30–次日 06:00）之外，直接结束；未开浏览器、未发评论、未碰账号。
+
+- 2026-11-28 18:18 CST fb-hunt-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。

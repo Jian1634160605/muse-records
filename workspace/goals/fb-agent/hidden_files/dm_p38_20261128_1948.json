@@ -1,0 +1,147 @@
+{
+  "profile": 38,
+  "steps": {
+    "health": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
+    },
+    "open": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "profile_id": 38,
+        "debugging_address": "127.0.0.1:55641"
+      }
+    },
+    "check": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "profile_id": 38,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/",
+        "account_name": "Oe",
+        "name_source": "composer",
+        "page_text_sample": null,
+        "screenshot": null,
+        "debugging_address": "127.0.0.1:55641"
+      }
+    },
+    "goto_home": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "title": "(1) Facebook",
+        "url": "https://www.facebook.com/",
+        "profile_id": 38
+      }
+    },
+    "home_text": {
+      "ok": true,
+      "try": 1,
+      "data": " \nNumber of unread notifications\n1\nHome\nCreate a post\nWhat's on your mind, Oe?\nStories\nCreate story\nMOMENT Il\nMOURKUAU FAME\nSecønd-Bwøy Røcky\nAbdullah AL Mamun\nŠåvìňhø Màkér Øbf\nBigg Gunn\nDennis Madrid\nDän Çèwälïs\nAkuei Dengdit Mawien\nBlaq Nera\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDennis Madrid\nd͏\ne͏\no͏\nt͏\no͏\ns͏\nS͏\np͏\nr͏\nn͏\nc͏\nc͏\n9͏\n3͏\nh͏\nu͏\nc͏\n5͏\n7͏\n8͏\n1͏\nf͏\n4͏\n2͏\n9͏\n6͏\n5͏\ni͏\nh͏\n9͏\n0͏\n3͏\nu͏\nt͏\n7͏\nu͏\nl͏\n1͏\nu͏\ng͏\n6͏\nm͏\n8͏\nf͏\ng͏\n4͏\n6͏\n4͏\nf͏\n9͏\nt͏\n8͏\n4͏\nf͏\n4͏\n3͏\n5͏\n2͏\n7͏\n7͏\n \n·\nGuess the star player\n151\n9\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nSponsored​\nUp to $125 Off MaxBP ⚾️🔥\nmaxbp.com\nAce Hardware\nacehardware.com"
+    },
+    "goto_notif": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "title": "Notifications | Facebook",
+        "url": "https://www.facebook.com/notifications",
+        "profile_id": 38
+      }
+    },
+    "notif_text": {
+      "ok": true,
+      "try": 1,
+      "data": " \nNotifications\nAll\nUnread\nNew\nUnread\nRhinoplasty in Turkey - real...: \"Good evening \n I'm looking for and I'm still looking for a surgeon who knows how to make fine…\"\n2m\nUnread\nSV SAVVANY mentioned you and other followers in his comments.\n3h\nUnread\nDidi Nyamut mentioned you and other followers in a comment.\n3h\nEarlier\nUnread\nAbdullah Al Montahin added a post: \"কিছু স্মৃতি সময়ের সাথে ঝাপসা হয় না, বরং আরও বেশি…\"\n15h\nUnread\nKabineh M Sheriff mentioned you and other followers in a comment.\n16h\nSee previous notifications"
+    },
+    "goto_friends": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "title": "Friend requests | Facebook",
+        "url": "https://www.facebook.com/friends/requests",
+        "profile_id": 38
+      }
+    },
+    "friends_text": {
+      "ok": true,
+      "try": 1,
+      "data": " \nFriends\nFriend requests\n1 Friend request\nView sent requests\nAndrea Nadel\n31w\nConfirm\nDelete\nSelect people's names to preview their profile."
+    },
+    "goto_messages": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "title": "Messenger | Facebook",
+        "url": "https://www.facebook.com/messages/",
+        "profile_id": 38
+      }
+    },
+    "msg_text": {
+      "ok": true,
+      "try": 1,
+      "data": " \nMessenger\nSkip to main content\nSkip to messages\nSkip to compose\nChats\nAll\nUnread\nGroups\nCommunities\nMore\nHuda Hammad\nMessages and calls are secured with end-to-end encryption.\n \n·\n8w\nObaydullah\nMessages and calls are secured with end-to-end encryption.\n \n·\n31w\nNo chats selected\nMessenger. Press Shift and question mark for keyboard shortcuts."
+    },
+    "msg_links": {
+      "ok": true,
+      "try": 1,
+      "data": "[\"/messages/t/ | Chats\",\"/messages/new/ | New message\",\"/messages/e2ee/t/1638182934314877/ | Huda Hammad\\nMessages and calls are secured with end-to-end encryption.\\n \\n·\\n8w\",\"/messages/e2ee/t/933877332971096/ | Obaydullah\\nMessages and calls are secured with end-to-end encryption.\\n \\n·\\n31w\"]"
+    },
+    "close": {
+      "ok": true,
+      "try": 1,
+      "data": {
+        "ok": true,
+        "profile_id": 38,
+        "closed": true
+      }
+    }
+  },
+  "was_open": false,
+  "check": {
+    "ok": true,
+    "profile_id": 38,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": "Oe",
+    "name_source": "composer",
+    "page_text_sample": null,
+    "screenshot": null,
+    "debugging_address": "127.0.0.1:55641"
+  },
+  "home_text": " \nNumber of unread notifications\n1\nHome\nCreate a post\nWhat's on your mind, Oe?\nStories\nCreate story\nMOMENT Il\nMOURKUAU FAME\nSecønd-Bwøy Røcky\nAbdullah AL Mamun\nŠåvìňhø Màkér Øbf\nBigg Gunn\nDennis Madrid\nDän Çèwälïs\nAkuei Dengdit Mawien\nBlaq Nera\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDennis Madrid\nd͏\ne͏\no͏\nt͏\no͏\ns͏\nS͏\np͏\nr͏\nn͏\nc͏\nc͏\n9͏\n3͏\nh͏\nu͏\nc͏\n5͏\n7͏\n8͏\n1͏\nf͏\n4͏\n2͏\n9͏\n6͏\n5͏\ni͏\nh͏\n9͏\n0͏\n3͏\nu͏\nt͏\n7͏\nu͏\nl͏\n1͏\nu͏\ng͏\n6͏\nm͏\n8͏\nf͏\ng͏\n4͏\n6͏\n4͏\nf͏\n9͏\nt͏\n8͏\n4͏\nf͏\n4͏\n3͏\n5͏\n2͏\n7͏\n7͏\n \n·\nGuess the star player\n151\n9\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nSponsored​\nUp to $125 Off MaxBP ⚾️🔥\nmaxbp.com\nAce Hardware\nacehardware.com",
+  "notif_text": " \nNotifications\nAll\nUnread\nNew\nUnread\nRhinoplasty in Turkey - real...: \"Good evening \n I'm looking for and I'm still looking for a surgeon who knows how to make fine…\"\n2m\nUnread\nSV SAVVANY mentioned you and other followers in his comments.\n3h\nUnread\nDidi Nyamut mentioned you and other followers in a comment.\n3h\nEarlier\nUnread\nAbdullah Al Montahin added a post: \"কিছু স্মৃতি সময়ের সাথে ঝাপসা হয় না, বরং আরও বেশি…\"\n15h\nUnread\nKabineh M Sheriff mentioned you and other followers in a comment.\n16h\nSee previous notifications",
+  "friends_text": " \nFriends\nFriend requests\n1 Friend request\nView sent requests\nAndrea Nadel\n31w\nConfirm\nDelete\nSelect people's names to preview their profile.",
+  "msg_text": " \nMessenger\nSkip to main content\nSkip to messages\nSkip to compose\nChats\nAll\nUnread\nGroups\nCommunities\nMore\nHuda Hammad\nMessages and calls are secured with end-to-end encryption.\n \n·\n8w\nObaydullah\nMessages and calls are secured with end-to-end encryption.\n \n·\n31w\nNo chats selected\nMessenger. Press Shift and question mark for keyboard shortcuts.",
+  "msg_links": "[\"/messages/t/ | Chats\",\"/messages/new/ | New message\",\"/messages/e2ee/t/1638182934314877/ | Huda Hammad\\nMessages and calls are secured with end-to-end encryption.\\n \\n·\\n8w\",\"/messages/e2ee/t/933877332971096/ | Obaydullah\\nMessages and calls are secured with end-to-end encryption.\\n \\n·\\n31w\"]",
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55206",
+        "pid": 17956,
+        "open_time": "2026-11-28 19:13:35"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:40338",
+        "pid": 23616,
+        "open_time": "2026-11-28 19:48:58"
+      }
+    ],
+    "total": 2
+  }
+}

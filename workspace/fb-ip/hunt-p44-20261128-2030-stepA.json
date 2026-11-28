@@ -1,0 +1,54 @@
+{
+ "ts": "2026-11-28 12:27:20 UTC",
+ "health": {
+  "ok": true,
+  "r": {
+   "ok": true,
+   "agent": "ixbrowser-agent",
+   "version": 15
+  }
+ },
+ "opened": {
+  "ok": true,
+  "r": {
+   "ok": true,
+   "opened": [
+    {
+     "profile_id": 32,
+     "debugging_address": "127.0.0.1:55206",
+     "pid": 17956,
+     "open_time": "2026-11-28 19:13:35"
+    },
+    {
+     "profile_id": 35,
+     "debugging_address": "127.0.0.1:3932",
+     "pid": 17596,
+     "open_time": "2026-11-28 20:24:45"
+    }
+   ],
+   "total": 2
+  }
+ },
+ "was_open": false,
+ "open44": {
+  "ok": true,
+  "r": {
+   "ok": true,
+   "profile_id": 44,
+   "debugging_address": "127.0.0.1:1885"
+  }
+ },
+ "goto_profile": {
+  "ok": true,
+  "r": {
+   "ok": true,
+   "title": "Instagram",
+   "url": "https://www.instagram.com/sarahcook6809/",
+   "profile_id": 44
+  }
+ },
+ "identity_eval": {
+  "ok": true,
+  "r": "{\"h1\":null,\"h2\":\"sarahcook6809\",\"og\":\"Dr. Qin Hao (@sarahcook6809) • Instagram photos and videos\",\"title\":\"Instagram\",\"url\":\"https://www.instagram.com/sarahcook6809/\"}"
+ }
+}

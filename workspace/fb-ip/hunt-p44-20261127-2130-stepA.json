@@ -1,0 +1,51 @@
+{
+  "round": "2026-11-27 21:30",
+  "ts": "2026-11-27 13:27:23 UTC",
+  "steps": {
+    "curl_health_8765": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "curl_health_8766": {
+      "ok": false,
+      "err": "<urlopen error [Errno 111] Connection refused>"
+    },
+    "health": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
+    },
+    "opened": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 35,
+            "debugging_address": "127.0.0.1:53652",
+            "pid": 27348,
+            "open_time": "2026-11-27 21:25:33"
+          }
+        ],
+        "total": 2
+      }
+    },
+    "open44_attempts": [
+      {
+        "n": 1,
+        "result": "OK",
+        "r": "{'ok': True, 'profile_id': 44, 'debugging_address': '127.0.0.1:43371'}"
+      }
+    ]
+  },
+  "was_open": false
+}

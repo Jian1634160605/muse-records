@@ -1,3 +1,169 @@
+## 2026-11-28 19:30 本轮（fb-hunt-p44）— 完成：读三话题 21 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/D/E/F/G/H 全部 try 1 成功；未见 429/226/344。本轮 19:26 开跑、约 19:38 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 18:30 轮持平）。opened() 初始为 32、35（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:52570），轮末已 close（closed:true），20 秒后复核 opened() 为 32，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，5 号 19:36 由其轮次自行打开又关闭，均未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（5d）、moger4123（6d）仍待 dm 轮筛查；ahmed.wakib.79（Nov 20，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 Nov 20“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）Nov 20 回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 Nov 20 那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接，对台账全文子串去重后新出 22 条（唯一 21 条，DZnwaKUkgUR 跨 #facelift 与 #deepplanefacelift 重复），全部读成（均 attempt 1），0 目标：
+  - #faceliftrecovery（7 条新）：DUj0zcgFP_8（facelift_48 41w 术后自帖：评论全赞美/已术后求助，锚定其本人旅程与 Dr. Jacob）；DfHpN9RoXLP（samirghoraba 4w 深颈面提恢复科普：全赞美）；DgLVj9YDn3a（dr_spenser_souza_md 2d 面诊五问科普：切片内无可见提问，锚定 Dr. Souza）；DgLxx9_yx3R（eunice_line 2d 韩国 46 岁编舞家面提故事转发：0 评论）；Df4Zycjm7vc（dr.yexiuyu.lift 1w Dr. Ye 面提案例：0 评论）；Df_RUg9tam6（facialrecoverynurse 1w 术后蛋白饮科普：0 评论）；DVzYJbzjYPo（strongstillme 37w 术后 42 天吐线自帖：评论者全已术后分享，锚定其旅程）。
+  - #facelift（10 条新）：DgJfvyWGwMs（dryeaesthetics 3d Dr. Ye 47 岁男士案例：西语玩笑/赞美，锚定 Dr. Ye）；DTd19bHCSpg（quatelacenter 28w Dr. Quatela 深平面案例：birutemw 8w 前问价并想住 Rochester，锚定 Dr. Quatela）；DeTzK_-m3HJ（dr.fulukasi 7w Dr. Zhu ARC 德国 37 岁案例：仅赞美与问产品，锚定 Dr. Zhu）；DOBlc23jrMj（beautybrokerofficial 64w 转帖：评论问主刀是谁/“down south”指哪，均锚定该帖医生）；DewQBvAIA4m（crossmedicalgroup 5w “几岁做面提”科普：全赞美/“Ready!!”，锚定该诊所）；DeMD5Q8G6xe（dr.fulukasi 7w Dr. Zhu ARC 德国主妇案例：vangovic 问价锚定 Dr. Zhu）；DCW5KYWufyK（drarielrad 106w 旧帖：“Info”/问价均为 46–53w 前旧评，锚定 Dr. Rad）；C8U4sMvRsuq（drmascaro 127w 旧帖：猜术式/赞美，无求诊）；DZnwaKUkgUR（drmarclevin 23w 脂肪移植案例：评论全“FINESSE”CTA 回复与同行赞美，锚定 Dr. Levin）；CvLLdnwLSKi（quatelacenter 174w 旧帖：问患者年龄为 102w 前旧评，锚定 Dr. Quatela）。
+  - #deepplanefacelift（5 条新，唯一 4 条）：DXkUsdHkmbb（drmarclevin 30w 培训旅程帖：全祝贺/同行）；C5mBhWNqGkF（drmirzafirat 137w 伊斯坦布尔 Firatlift 术式帖：radisic_anita 79w 前问澳洲价、emlibrada123 107w 前问视频报价与停留天数，均锚定 Dr. Firat 且过旧）；DadfGCoiPBD（mayclinik 20w 土耳其诊所深平面案例：仅赞美/挑刺）；Dd6sEZTpxyb（john0118910 8w DVR 营销帖：didilombardo 1w 前“Prezzo?”、odyluz 1w 前问地点，均锚定该发帖方）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 32，is_open(44)=False。
+- 下轮注意：本轮新帖 21 条 0 目标、问价/提问仍全锚定发帖医生/诊所；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案未渲染、04 鼻子文案请发帖轮次核对。
+
+## 2026-11-28 18:30 本轮（fb-hunt-p44）— 完成：读三话题 22 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/B2/D/E/F/G/H 全部 try 1 成功；未见 429/226/344。本轮 18:30 开跑、约 18:41 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 05:30 轮持平）。opened() 初始为空（无其他轮次在跑）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:58146），轮末已 close（closed:true），20 秒后复核 opened() 为空，is_open(44)=False**。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（5d）、moger4123（6d）仍待 dm 轮筛查；ahmed.wakib.79（Nov 20，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 Nov 20“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）Nov 20 回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 Nov 20 那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（#deepplanefacelift 只取到 27 条），对台账全文子串去重后新出 22 条，全部读成（均 attempt 1），0 目标：
+  - #faceliftrecovery（8 条新）：DfprpyIRso8（drjasonchampagne 2w Champagne 全面部年轻化：切片内无可见提问，锚定 Dr. Champagne）；DdHtu0TFaKW（dr.brittany_cosmeticsurgery 11w 恢复期科普：切片内无可见提问）；DWXReebFE40（strongstillme 35w 术后 56 天自帖：已术后，锚定其本人旅程）；DQc5BTqEoja（thedanaliz 56w 下颌面提+颈提自帖：已术后，问“看得出区别吗”锚定其本人旅程）；DdewCSIv46o（drmarclevin 9w 隐形疤痕科普：全赞美/同行，锚定 Dr. Levin）；DfsCBlUl_o3（officialmilaface 2w MILA 推广：诊所帖，锚定 Dr. Spero Theodorou）；DgH7JF3Gy24（dryeaesthetics 3d Dr. Ye 68 岁案例：锚定 Dr. Ye）；DgExUubkYxh（gsc.surgery 5d 韩国面提推广：0 评论）。
+  - #facelift（12 条新）：DgJIZxJPPw-（annoyingsiblingz 3d 转 Dr. Levin 61 岁理发师 Helen 案例：锚定 Dr. Levin）；DfJl6Avm9T3（dr.miles99 4w Tri-Plane 推广：切片内无可见评论，锚定 Dr. Miles）；DdeXLk0k1Vd（lshanghai.facelift 9w Dr. Li Feng 9D 面提：锚定 Dr. Li Feng）；DgKQ5kym3oX（dryefacial 3d Dr. Ye 40 岁案例：锚定 Dr. Ye）；DXw6mP1jDyW（dr.mehmetgencer 30w 伊斯坦布尔 Tri-Plane：仅赞美 + 问切口标记的技术提问，锚定 Dr. Gencer）；DgKgSn_myxL（dr.fulukasi 2d Dr. Zhu ARC 56 岁法国女士：锚定 Dr. Zhu）；DdpY1uuRntQ（tzikasmd 9w 深平面+鼻子案例：全赞美）；DfqndzfjJAX（dr.rodman 2w 面部女性化+年轻化：切片内无可见评论，锚定 Dr. Rodman）；DgH8z30m6JU（dr.fulukasi 3d Dr. Zhu ARC 39 岁纽约女士：锚定 Dr. Zhu）；Dfo1VJyGwsx（dr.fulukasi 2w Dr. Zhu ARC 39 岁比弗利山企业顾问：锚定 Dr. Zhu）；DdEkGXzG3_j（drxiaozhongye 11w Dr. Xiao 模特面提：锚定 Dr. Xiao）；DSc7OfBDn8k（richkaomd 49w Dr. Kao 深平面：仅赞美）。
+  - #deepplanefacelift（2 条新）：DFYTd95PGV-（drsamadizadeh 95w 美国患者旧帖：切片内无可见评论，锚定 Dr. Samadizadeh）；DfsFOXoGtxF（drpeng.3u 2w Dr. Peng 3U 深平面推广：“是否微创/眼睛为何变化”均为锚定 Dr. Peng 的技术提问，不碰）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为空，is_open(44)=False。
+- 下轮注意：本轮新帖 22 条 0 目标、问价/提问仍全锚定发帖医生/诊所；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案未渲染、04 鼻子文案请发帖轮次核对。
+
+## 2026-11-28 05:30 本轮（fb-hunt-p44）— 完成：读三话题 13 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/C/F/G/G2/H 全部 try 1 成功；未见 429/226/344。本轮 05:31 开跑、约 05:39 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 04:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动；35 于 05:26 由其轮次自行打开、本轮期间自行关闭，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:50207），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重），对台账全文子串去重后新出 13 条，全部读成（Step G 首跑因 head 截断管道致 SIGPIPE 只读了 7 条，Step G2 补读剩余 6 条，均 attempt 1），0 目标：
+  - #faceliftrecovery（3 条新）：DbrIuy_ElfQ（drs_liebermanparikh 16w 帕洛阿尔托诊所 75 岁面部年轻化：全赞美/同行问技术）；DfuGnX-G3nq（yefacialdesign 1w Dr. Ye Tri-Vector：仅 1 条 FB 评论，无可见提问）；DeADkwlR_WI（postoprecoveryspecialist 8w 术后护理：cecilialberry 问开衫品牌、nancyfeeney 想买指南、campolizzy 问是否帮 Dr. Chance 的客户均锚定发帖方/医生，artistryviaruthie 术后 3 天已术后，lturbow 问主刀医生是谁锚定帖主医生）。
+  - #facelift（3 条新）：DgAVqnFOm4-（dr_miles_2233 6d Dr. Miles Tri-Plane：仅 1 条同行赞美）；DgG5AltkeZi（dr.miles99 3d 28 岁俄罗斯女士：0 可见评论）；DgJ5mpFm1em（yefacialdesign 2d Dr. Ye：zahra_103252_keshvari 波斯语“真好、希望我也能去”仅赞美、无提问，锚定 Dr. Ye）。
+  - #deepplanefacelift（7 条新）：DfzF-ltm8FL（dr.fulukasi 1w Dr. Zhu ARC：评论多为“ARC”CTA 回复/赞美/验证型，均锚定 Dr. Zhu）；DS5_vJoDRCe（shapiroplasticsurgery 47w Dr. Shapiro：genovevadavalos 16w 前“can I make appointment”锚定 Dr. Shapiro，gunnablack“我需要一个”无提问、锚定该帖）；DeNYp3Jxx_5（dr_spenser_souza_md 7w：kellie_herbert1“想多了解”无提问、iamtheoneiamthat 与 april.vanessa__ 技术提问均锚定 Dr. Souza）；DdDthe8m-zM（draldenzhu 11w：多为西语赞美/“Z32”CTA 回复，karensu_22 问价锚定 Dr. Alden Zhu，melikedkilic 问鼻子怎么变小为验证型）；DY-EC-uhu0q（sassyandthecity 25w 患者术前倒计时自帖：全亲友支持，已定手术，ronnie.s.deal 问药瓶为已术后/术前求助、锚定其旅程）；DU8fDo2jFMU（drmuhsinyilmaz 40w Dr. Yilmaz：joolsee42 35w 前称担心疤痕可见是唯一顾虑、锚定 Dr. Yilmaz，medicineinstyle“等我的手术”已约）；DeZn6-XgCip（opdrsonerkaraali 6w Dr. Karaali：carolineheadington 问价锚定 Dr. Karaali，margrietagram 质疑打光）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+- 下轮注意：本轮新帖 13 条（较 04:30 轮 9 条略多），问价仍全锚定发帖医生/诊所；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案未渲染、04 鼻子文案请发帖轮次核对；Step G 长输出勿再经 head 管道（会 SIGPIPE 截断），直接重定向到日志文件再读。
+
+## 2026-11-28 04:30 本轮（fb-hunt-p44）— 完成：读三话题 9 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/B2/D/E/F/G/H 全部 try 1 成功；未见 429/226/344。本轮 04:26 开跑、约 04:47 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 03:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:31211），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（#faceliftrecovery 与 #facelift 各只取到 27 条），对台账全文子串去重后新出 9 条，全部读成（均 attempt 1），0 目标：
+  - #faceliftrecovery（3 条新）：DfVghTHigb1（rohanjoshimd/originsplasticsurgery 休斯顿诊所淋巴引流推广：仅赞美）；DgF_ivOl2Tq（drvalaiemd 4d 泪沟填充推广：仅赞美）；DeP9ilimMzR（kassissalamehplasticsurgery 7w 术后第 8 天 Gerri：仅朋友赞美，已术后）。
+  - #facelift（1 条新）：Dd7WL1JzWzl（dr.dvr01 8w DVR 深层提升营销帖：切片内无可见评论）。
+  - #deepplanefacelift（5 条新）：DA0bJN-SjnB（minhee_ryu_md 111w 首尔旧案例：切片内无可见提问）；DbQVb15I1Ze（internationalplasticsurgery916 17w Dr. Lanlan：theamericanindianproject 问价锚定 Dr. Lanlan，不碰；其余赞美）；Dfk1ZYFG-k2（drmarceloolivan 2w 葡语 Microlift 科普：切片内无可见评论）；C-IRqOAslR9（drfaycalelkouhen 121w 卡萨布兰卡旧帖：赞美/锚定该医生）；DfYa__cSun9（doctor.truesdale 3w 给父亲做面提：玩笑与赞美，无求诊）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+- 下轮注意：本轮新帖仅 9 条（话题页刷新放缓，#faceliftrecovery/#facelift 各只取到 27 条链接）；问价仍全锚定发帖医生/诊所；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案未渲染、04 鼻子文案请发帖轮次核对。
+
+## 2026-11-28 03:30 本轮（fb-hunt-p44）— 完成：读三话题 16 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/B2/D/E/F/G/H 全部 try 1 成功，隧道全程稳定；未见 429/226/344。本轮 03:28 开跑、03:39 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 02:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:46599），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重；去重基准=台账 + 02:30 轮新帖），对台账全文子串去重后新出 16 条，全部读成（均 attempt 1），0 目标：
+  - #faceliftrecovery（3 条新）：DZnzwcbFEhp（glengirlxo 23w 术后第 2 周自帖：april.dawn2 10w 前称正向 Dr. Arturo Valdez 提交照片、锚定该医生）；Df9Aar_m5Hg（yefacialdesign 1w Dr. Ye Tri-Vector 科普：仅 1 条 🔥 赞美）；DeJu_rMtifG（thetarnaround 7w 曼谷术后第 6 天日记：评论者全赞美或问帖主本人恢复体验、锚定帖主旅程）。
+  - #facelift（7 条新）：DWjs8izEdxN（corigoldfarb 34w 选医生科普：全赞美；courtesq “I'm ready!!!”无提问、stephybellis 称攒钱等几年、无提问，均 34w 前）；Dc21A67G0wO（dr.alden66 12w：AI 质疑 + “Lift” CTA 回复，锚定 Dr. Alden）；Dd_KYv8Gz8y（ekip.kang3 8w：全 AI/fake 质疑）；DgBetc1icWO（dr.miles99 5d：kangjaclyn 问地点、其余 “voodoo magic”/“Lift” CTA/AI 质疑，均锚定 Dr. Miles）；DgDCcyQKXIM（madisonharris.diesel 5d：仅 AI 质疑）；DfBk1ZvFB75（draldenzhu 4w：0 评论）；Dc1bOlhx2rS（goalsplasticsurgery 12w 诊所 CTA 帖：“info” 回复均按诊所 CTA、锚定该诊所）。
+  - #deepplanefacelift（6 条新）：DQwhb3FDLWn（drvarsak 24w 土耳其案例：问价/验证型提问均锚定 Dr. Varsak）；DekDRk0o2pD（drpierrequinodoz 6w 日内瓦：评论者为患者本人致谢 + 赞美）；DJqbVX_sdZ3（beclinic_brussels 80w：问价/索信息/可否清醒手术均锚定该诊所，另 2 条为投诉该诊所未回消息、不碰）；CT7VbHera5k（drjacono 271w 旧帖：sil1389 198w 前称 6 年后才做、stephaniieenicole 212w 前称想找他做，均锚定 Dr. Jacono 且过旧）；DfVJUjdMlhD（mrjagchana 3w 教学帖：评论者均为同行外科医生）；Dbf1Yz_oHWP（internationalplasticsurgery916 16w Dr. Lanlan：tiinaa_b 问诊所地点、chynaalexa1969 索信息、neusa_amaro_ 问价，均锚定 Dr. Lanlan）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+- 下轮注意：本轮 16 条新帖 0 目标、问价仍全锚定发帖医生/诊所；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案未渲染、04 鼻子文案请发帖轮次核对。
+
+## 2026-11-28 02:30 本轮（fb-hunt-p44）— 完成：读三话题 18 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/B2/D/E/F/G/H 全部 try 1 成功，**隧道本轮全程稳定**（与 00:30 轮多次 curl 18/52 相比明显好转）；未见 429/226/344。本轮 02:29 开跑、约 02:40 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 01:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:37014），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重；**去重基准=台账 + 01:30 轮新帖，因 01:30 轮条目漏记**），对台账全文子串去重后新出 18 条，全部读成（均 attempt 1），0 目标：
+  - #faceliftrecovery（7 条新）：DdMdtA9xyIc（thedianneedit 10w 术后日记：评论者均为已术后患者分享恢复经历）；DZdiFwsBZyT（savannahfacialplasticsurgery 24w 恢复科普：全赞美）；DfGD3PvSVpC（dramirkaram 4w 术后 2 天案例：切片内无可见提问）；DdzmP7IyvP9（haus.of.cate 8w 术后 9 天自帖：仅赞美/恢复机构致谢）；Df5pNlgtip0（dianasspace 1w 恢复吐槽：仅一句“Don't do it!”）；DfGJnicOk71（facialrecoverynurse 4w 恢复期科普：切片内无可见提问）；DdHZh4xINst（rachellugo1 11w 术后第 1 天自帖：切片内无可见提问）。
+  - #facelift（4 条新）：Deg-uvgm3wI（dr.fulukasi 6w 巴黎策展人 ARC 案例：切片内无可见提问）；Den9Zy2m5Uj（dr.guo99 5w 华盛顿男士 ARC 案例：切片内无可见提问）；DTL11oKkjJc（beiamed 46w 迈阿密非手术面提推广：问价/索信息者均锚定该诊所，另 1 条 AI 推广留言不碰）；Df1xASSBeN5（john0118910 1w DVR 深层结构营销：切片内无可见评论）。
+  - #deepplanefacelift（7 条新）：Df-kgwUD-gq（drborisackerman 6d 理念帖：切片内无可见提问）；DceKH5zHKY0（bolithomd 13w 80 岁患者案例：切片内无可见提问）；Dd3deHtFe_e（drsamrizk 8w Elle 访谈：全赞美）；DfFlBWBidey（drjacono 4w 62 岁患者 8 年随访：儿子 + 赞美）；DfsDZYaCGwd（docteurorenmarco 2w 法语深平面：赞美，aurelie_boldrin 称几年后才来、锚定该医生）；DZAKb1GO4HX（nayakplasticsurgery 25w 术式对比科普：问价者均锚定 Dr. Nayak）；DCgKU89T8uT（dr.dongmanpark 105w 韩国诊所案例：切片内无可见提问）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+- 下轮注意：本轮 18 条新帖 0 目标、问价仍全锚定发帖医生/诊所；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案未渲染、04 鼻子文案请发帖轮次核对；01:30 轮条目已补记（见下条），其 24 条新帖已纳入本轮去重基准，下轮去重照常只对台账即可。
+
+## 2026-11-28 01:30 本轮（fb-hunt-p44）— 完成（补记）：读三话题 24 条新帖（唯一 23 条），0 新目标，未发评论
+
+- **补记说明**：本条为 02:30 轮据 01:30 轮 JSON 证据补记——该轮 Step A/B/B2/D/E/F/G/H 的脚本与 JSON 齐全、Step H 已关号，但条目未写入台账；02:30 轮去重时已把该轮 24 条新帖计入基准。
+- agent 健康（v15），Step A/B/B2/D/E/F/G/H 全部 try 1 成功；未见 429/226/344。本轮 01:26 开跑、约 01:43 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 00:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:9779），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga（计数 3）、02（Df64sepuB6e）自评 1 条、03（Df95QHiNj48）自评 1 条、04（Df-KjQRSqwD）自评 1 条、05（DgAg1u7Be09）自评 1 条、06（DgAtFuBMEvR）自评 1 条，全是自家（自评引流 + gaga）。无真人客户评论。02 帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；05 帖子文案已渲染出，确为鼻子内容；03 帖子文案仍未渲染出；04 自评仍是鼻子文案、06 自评仍是顾客口吻提问且帖子文案仍未渲染出，请发帖轮次核对；猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重），对台账全文子串去重后新出 24 条（唯一 23 条，C1sAZ4bulKK 跨 #facelift 与 #deepplanefacelift 重复），全部读成，0 目标：
+  - #faceliftrecovery（9 条新）：DgIlIj1qg-c（dr.haworth 2d 术后 8 天深平面：仅玩笑/赞美）；DgC5Y98Fmi7（nayakplasticsurgery 5d 术后 1 年 8 个月随访：切片内无可见提问）；DfQ0R_jyHiv（vipps.kr 3w 氧舱科普：切片内无可见提问）；DchLH20gf64（ana_primeskinspa 13w 深平面+眼睑：西语问价锚定帖主）；DW_uFQWiAzj（drdustinportela 32w 术后第 2 天：提问均锚定该医生/验证型）；DfuLufjhot3（drmarclevin 1w 恢复禁忌清单：切片内无可见提问）；DfkcrOBommi（big_girls_journey_to_lean 2w 伊斯坦布尔术后 16 天自帖：切片内无可见提问）；ClcB8OppUIi（drsamrizk 208w 男性面提旧帖：切片内无可见提问）；DgDeGRPiVno（visagewinnipeg 4d 恢复科普：切片内无可见提问）。
+  - #facelift（10 条新）：DeknNYPj4k8（drsarmelasunder 5w 患者 5 年随访：切片内无可见提问）；DPJI8V9EpPB（dr.xiao9d 60w 9D 面提推广：切片内无可见提问）；Dft3d1em-Zu（dr.alden.facelift8 1w 58 岁英国男士：切片内无可见提问）；DUgMCXyEXT_（nayakplasticsurgery 41w 59 岁患者：问价走“comment cost”CTA、锚定 Dr. Nayak）；DfSuFrVk78c（thetarnaround 3w 赴曼谷术后自帖：仅问感受、锚定帖主旅程）；De_yGv6G51-（dr.guo99 4w 加拿大 49 岁 ARC 案例：切片内无可见提问）；DRiUImUCf8i（nayakplasticsurgery 52w 52 岁患者：问价走 CTA、锚定 Dr. Nayak）；C1sAZ4bulKK（drchanceplasticsurgery 151w 恢复科普旧帖：切片内无可见提问）；Df_w-jhmxl1（dr_miles77 6d 下颌线：AI 质疑/玩笑，锚定 Dr. Miles）；DJcPg5VR1cb（aeris.plasticsurgery 81w 术后 2 天：切片内无可见提问）。
+  - #deepplanefacelift（5 条新）：C_bcJ8eSBQp（drhedyz 116w 术后 6 周：切片内无可见提问）；DfkO8HJFa1k（weilerplasticsurgery 2w 深平面推广：切片内无可见提问）；DeBuFZbGo4e（dr.xiaohusu 7w 男性深平面：切片内无可见提问）；DSvddx2kdft（facesbydrt 47w 47 岁 Kendall 案例：切片内无可见提问）；C1sAZ4bulKK（同上，跨话题重复）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+
+## 2026-11-28 00:30 本轮（fb-hunt-p44）— 完成：读三话题 27 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/B2/D/E 全部 try 1 成功；但**隧道全程抖动**（Step B body_snippet、Step F 前两话题、Step G 多条 eval 均撞 curl 18/52，重试后读成；并行 health 复测亦有一次 curl 52 后恢复），未见 429/226/344。本轮 00:30 开跑、约 01:16 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 23:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:42208），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/04/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重），对台账全文子串去重后新出 27 条（含上轮未读到的 DZzGSZyBdEt、Df6RtR_EiPg，本轮均已读成），全部读成，0 目标：
+  - #faceliftrecovery（5 条新）：Dbp2F7FgQMY（my40s_unfiltered 16w 韩国术后 10 天日记：锚定 Dr. Youngjin Lee，已术后）；DgHbs60hJwV（beautiquemandurah 3d 术后淋巴引流推广：0 评论）；DUZBsPdEtEL（thevikkidowney 42w 术后唇部干裂分享：已术后）；Cf3w4_ZLmx0（drlindaleemd 228w 迷你拉皮恢复科普：旧帖）；DdmCIRWhopW（glengirlxo 9w 术后恢复自帖：评论者均为已术后患者）。
+  - #facelift（12 条新）：Db8vN1BCl_n（estecityistanbul 15w Monica 术后 1 年：诊所帖，全赞美）；DVbHrdAhXCm（dr.xiaobao 34w 上海 9d 面提：全赞美/验证型，锚定 Dr. Xiaobao）；DX4IDqGMuJv（drharrisonlee 29w 内窥镜中面部：技术提问均锚定 Dr. Lee）；DgHp-9okR7C（naturallift.drye 3d Dr. Ye 面提：仅 1 条赞美）；Dd59yIYm7tL（dr.fulukasi 8w 巴黎造型师 Dr. Zhu 案例：切片内无可见提问）；DgEQmwiiar4（dr.miles99 4d Tri-Plane：0 评论）；DbaJFV8lCfp（dr.miles99 17w：“I would like to know more please”等均锚定 Dr. Miles）；DforXezJOzY（dr_miles77 2w 男士面提：切片内无可见提问）；DdmDLhTE3tp（lshanghai.facelift 9w 纽约患者 Dr. Li Feng 定制面提：切片内无可见提问）；DeRMQwCFgy_（oasis.aesthetics.wellness 6w 母亲节推广：非求诊）；Dc5WH8NlIHi（dr.zhe666666 11w：表情 + 俄语问价，锚定 Dr. Zhe）；DfgNl4ZFJ3T（dr.miles99 2w：“Do u do lips too?”锚定 Dr. Miles）。
+  - #deepplanefacelift（10 条新）：DL3Yn14yjNV（drpaulnassif 72w 深平面风险问答：旧帖）；DdQpGpHNMrH（sebas_tianyoung 10w：问价/印度询价均锚定帖主）；DfTnFLKCBd2（to_istanbul_and_back 3w 患者 30/36/42/56 岁对比：已术后）；DZxcOCtsmNk（drasaria 23w 全面部年轻化：切片内无可见提问）；DNj7R1tzn_K（seoulcosmeticsurgery 66w 首尔深平面推广：切片内无可见提问）；Dbsnf-Dti9c（valentina.klar 16w 51 岁术后自述：已术后）；C0aiZEwLAig（facialsurgeons 155w Dr. Truesdale 案例：全赞美）；CMaGUo2D94L（cosmetic.insider 297w 恢复期时间线转发：旧帖）；DZzGSZyBdEt（drparkdongman 22w 韩国双深平面：切片内无可见提问）；Df6RtR_EiPg（angelflood76 1w 赴韩 VIP 手术：仅 1 条赞美）。
+  - **4 条首读被 IG 跳转到私信收件箱**（DNj7R1tzn_K、Dbsnf-Dti9c、C0aiZEwLAig、CMaGUo2D94L）：Step G2 各重试 1 次即读成，属 IG 路由偶发抖动，非帖子已删。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+- 下轮注意：隧道抖动仍在（本轮 Step F/G 多次 curl 18/52，重试均读成）；三话题新帖 27 条里 0 目标、问价几乎全锚定发帖医生；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03 文案未渲染、04、06 自评口吻与文案未核实，请发帖轮次核对。
+
+## 2026-11-27 23:30 本轮（fb-hunt-p44）— 完成：读三话题 18 条新帖（2 条未读到），0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/C 全部 try 1 成功；但 **Step E 全程隧道抖动**（curl 18/52 多次重试，20 条读了约 18 分钟；Step E2 重试亦然），未见 429/226/344。本轮 23:30 开跑、约 00:05 收尾（跨 11-28 00:00）。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 22:30 轮持平）。opened() 初始为 5、32、35、65、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:35543）**。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga（计数 3）、02（Df64sepuB6e）自评 1 条、03（Df95QHiNj48）自评 1 条、04（Df-KjQRSqwD）自评 1 条、05（DgAg1u7Be09）自评 1 条、06（DgAtFuBMEvR）自评 1 条，全是自家（自评引流 + gaga）。无真人客户评论。02 帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；05 帖子文案已渲染出，确为鼻子内容（“Dr. Qin Hao explains what actually changes after rhinoplasty…”）；03 帖子文案仍未渲染出；04 自评仍是鼻子文案、06 自评仍是顾客口吻提问且帖子文案仍未渲染出，请发帖轮次核对；猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重），对台账全文子串去重后新出 20 条，其中 18 条读成、0 目标；**2 条未读到**：DZzGSZyBdEt、Df6RtR_EiPg（Step E 各 3 次 + Step E2 各 4 次 eval 均 curl 18/52 失败，goto 本身通）——不是“无内容”，是“未读到”，**下轮须重读（台账去重时勿因本条出现该 code 就跳过）**：
+  - #faceliftrecovery（4 条新）：DfE83i-oGZX（big_girls_journey_to_lean，MCAN 术后 5 天日记：评论全支持/赞美，已术后）；DTBgDspibFS（drozansozer 46w 前后对比：赞美/质疑，nanwray 想看 2–3 个月后、锚定 Dr. Sozer）；DXog_c9jgkt（nayakplasticsurgery 30w “comment cost” CTA 帖：可见问价全锚定 Dr. Nayak，janewlecerf 英国 57 岁想 60 岁做全套亦锚定该医生）；DaB4KzEGK9s（faceologymd/dr.raymondlee 恢复期科普：aeli.ze 问下巴吸脂价、锚定 Dr. Lee）。
+  - #facelift（8 条新）：DbD-y4_xvLD（ciplasticsurgery Dr. Patel 内窥镜中面部：debbie_stark_fahy 服薄血药能否做、锚定 Dr. Patel；其余赞美）；Df1jsaQugK_（dr_miles_2233 Tri-Plane：全 AI 质疑/赞美）；DcCHD5Ekrjy（drmarclevin 14w 退休旅行患者：⏰ CTA 回复与赞美，全锚定 Dr. Levin）；DcvNB_Lm5jc（dr.miles_aesthetic：仅 2 条葡语赞美/AI 质疑）；DgCqhepG0sd（dr.fulukasi Dr. Zhu ARC 5d 德国 43 岁：diamond__408 问在哪、roseleniprim 问医生在哪，均锚定 Dr. Zhu）；DfJ_VeJGy0I（dryeaesthetics Dr. Ye Tri-Vector Lift 32 岁：切片内可见评论均为赞美）；CRkiqn_LQgq（drjacono 279w 旧帖：全赞美）；DSD6W-ikjNC（lplasticsurgery Dr. Charles Lee 50w：abc7177 问价/在洛杉矶吗、ellenlgoode 问技术麻醉，均锚定 Dr. Lee）。
+  - #deepplanefacelift（8 条新，6 条读成）：DgAiZSrFLWU（marcusmedicalspa/sharmaplasticsurgery 6d 54 岁 6 个月随访：文案很长占满切片，评论未读出、不盲猜）；DfGvDQhCHzD（to_istanbul_and_back 伊斯坦布尔患者肿胀恢复长文：ever_elusive99 术后 9 天、sharzi1954 术后唇部问题，均为已术后求助）；DWRk3XqjnGT（drdemetri 35w 64 岁 5 周随访：angelawaters.msn 想约颈部眼下咨询、锚定 Dr. Demetri；其余赞美）；DfVFb_hoxvy（vegaesthetic 伊斯坦布尔诊所科普：0 评论）；DfbZ6S0yjcj（apr.illittle 2w 前后对比：0 评论）；DS5YK8Rglt6（drfaycalelkouhen 47w 摩洛哥：bea_dsg 法语问价、锚定 Dr. Elkouhen；其余赞美）。DZzGSZyBdEt、Df6RtR_EiPg 未读到（见上）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 两次均 curl 18（响应截断），但 opened() 复核显示本轮窗口（127.0.0.1:35543）已不在列表——服务端已执行关闭，仅回包被截断；随后 dm-p44 00:00 轮（进程 12622，23:57 启动）于 00:04:48 重新打开 44（127.0.0.1:1437），属他轮在用，未动。复核时 opened() 为 5、32、35、44、65、67、108（44 为 dm 轮新开）。
+- 下轮注意：隧道本轮抖动明显（Step E 约 18 分钟、多次 curl 18/52 重试），若下轮继续抖动先测 health 再跑；DZzGSZyBdEt、Df6RtR_EiPg 下轮重读；三话题新帖 20 条里 0 目标、问价几乎全锚定发帖医生；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03 文案未渲染、04、06 自评口吻与文案未核实，请发帖轮次核对。
+
+## 2026-11-27 22:30 本轮（fb-hunt-p44）— 完成：读三话题 24 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），全程 try 1 成功，未见 429/226/344。Step F 直接用滚动版（每话题滚动 4 次，各取 48 条 /p/ 链接）。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 21:30 轮持平）。opened() 初始为 5、32、35、65、67、106（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:11589），轮末已 close（closed:true），opened() 复核为 5、32、65、67、108**（35、106 在本轮期间由其轮次自行结束，108 由其轮次自行打开，均未动）。
+- 通知：无新增。最新仍是 hair.bycmisha（1d，发型师，无医美意向信号）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）2 条可见（自评 + gaga，计数 3）、02（Df64sepuB6e）1 条、03（Df95QHiNj48）1 条、04（Df-KjQRSqwD）1 条、05（DgAg1u7Be09）1 条、06（DgAtFuBMEvR）1 条，全是自家（自评引流 + gaga）。无真人客户评论。02 帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；05 帖子文案已渲染出，确为鼻子内容（“Dr. Qin Hao explains what actually changes after rhinoplasty…”）；03 帖子文案仍未渲染出；04 自评仍是鼻子文案、06 自评仍是顾客口吻提问且帖子文案仍未渲染出，请发帖轮次核对；猎手轮不改文案。sarah 03、04、05 的 gaga/elaina 互刷评论仍未落地。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（本次为 /p/ 链接，前 40 条参与去重），对台账全文子串去重后新出 24 条，全部读成，0 目标：
+  - #faceliftrecovery（8 条新）：Df_vGIhzK28（dr.alden66 5d：0 评论）；DX-p09dtITz（dr_nhan_aesthetic 岘港 Dr. Harvard 术后 8 天：评论全是对该医生效果的负面质疑，无目标）；De0cTP1T2g2（dr.jingangwang 5w EDP 术后 9 天：0 评论）；DdxGFmvB5_1（postoprecoveryspecialist 8w 比弗利山庄术后护理：itrina777 术后 12 天后悔/抑郁为已术后求助不碰，purelight_purelight 已约 12 月手术，其余赞美）；DgF5WZXK5C5（shellysoulxo 3d 术后 11 天自帖：仅赞美）；DckBenYNtMv（drdavidguirguis 13w 恢复期科普：thelexifamily 问海外旅行活动量、11w 前，锚定 Dr. Guirguis）；DgC6ugTBbKn（drxiao.deep9d 5d 上海 Deep9D 术后 1 天：0 评论）；DYmsKFgSaSZ（destinationbeautyclinic 27w 泰国 Dr. NJ：全是“Lesley”关键词回复，clarescott99 问官网锚定该诊所）。
+  - #facelift（11 条新）：DYkXs3XiqM-（estecityistanbul 27w 伊斯坦布尔 Daniella 8 个月：tuvers69“很快就去”无提问、27w 前锚定该诊所，其余质疑/赞美）；DeqgaL3DBUm（dr.alden.facelift8 5w：maryannluv_“我需要这个”无提问、锚定 Dr. Alden，其余验证型/AI 质疑）；DgIHHhJGzUn（dr_miles77 3d 墨西哥 42 岁男士：drewginsburg“是真的吗、我想要”为验证型、youssifkhaled.photography 阿语问价均锚定 Dr. Miles，其余 AI 质疑）；DfjE-X_loSX（destinationbeautyclinic 2w：全是“Melissa”关键词回复）；DZq97b5yxeP（destinationbeautyclinic 23w：全是“RENEW”关键词回复）；DbXgpJrFAys（dr.chen8801 17w PTG Lift：全 AI/滤镜质疑与赞美）；DM8a1ROJ7pz（drberryfairchild 68w 面提类型科普：问价/选哪种/诊所在哪均为 34–46w 前旧评、锚定 Dr. Berry）；DgDLT2IOyrm（naturallift.drye 4d 奥斯汀 49 岁赴上海 Dr. Ye：全 AI/假质疑）；DgCWq0TCUN0（dryeaesthetics 5d Dr. Ye 74 岁 Tri-Vector Lift：全 AI 质疑与赞美）；DUv003QgeYh（catchangmd 40w 比弗利山庄无疤/内窥镜科普：marcos_mom、bobbybettyjean、nail_byrose_vegas 问价、zh.ostrov 问联系方式均为 39–40w 前旧评、锚定 Dr. Chang）；DfxDagHMef-（dr.jingbeauty 1w Dr. Wangjing 内窥镜面提：全 AI 质疑，yo.sol.luna 想找该患者问经历、jessyca.evelyn 问在哪做均锚定该医生/患者）。
+  - #deepplanefacelift（5 条新）：DYu6qAOjd0f（drnicolasfroget 26w 法语 65 岁患者 14 个月随访：全赞美）；DedsunRGthd（thetarnaround 6w 澳洲 50 岁、曼谷 Dr. NJ 术后 14 天自帖：全赞美，lisa.curmi76 问下巴切口为已术后求助、锚定其旅程）；DXAMJMakxC5（medimakeovers 32w 曼谷 Dr. Teerapat：sherry_thomas04 30w 前“对深平面面提感兴趣”锚定该诊所）；Deb415Wlj8p（doctorlisandrovergara 2d 西语深平面+深层颈提：十余条“Valor?”问价全锚定 Dr. Vergara）；DboX8rLPJVp（drdemetri 16w 坦帕新娘母亲婚礼前深平面：全医生同行/亲友赞美）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；opened() 复核为 5、32、65、67、108。
+- 下轮注意：三话题本轮新出 24 条（较 21:30 轮 22 条略多，话题页持续刷新）；本轮新帖里 Dr. Ye 上海线出现 2 条（DgDLT2IOyrm、DgCWq0TCUN0），评论区 AI 质疑集中、无可接话目标；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03 文案未渲染、04、05 鼻子文案 + 06 自评口吻与文案未核实，请发帖轮次核对。
+
+## 2026-11-27 21:30 本轮（fb-hunt-p44）— 完成：读三话题 22 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），全程 try 1 成功，未见 429/226/344。**Step F 首跑 0 链接**：话题页跳转至 /explore/search/keyword/ 后首屏无 /reel/ 链接；改用滚动 4 次 + 取 /p/ 链接后每话题 30 条取满（**下轮 Step F 直接用滚动版**）。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、**11 粉丝（与 20:30 轮持平）**。opened() 初始仅 32、35（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:43371），轮末已 close（closed:true）；close 后立即复核 opened() 仍列 44（列表滞后），20 秒后再查仅剩 32、is_open(44)=False，确认已关**（35 在本轮期间由其轮次自行结束，未动）。
+- 通知：无新增。最新仍是 hair.bycmisha（1d，发型师，无医美意向信号）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）2 条可见（自评 + gaga，计数 3）、02（Df64sepuB6e）1 条、03（Df95QHiNj48）1 条、04（Df-KjQRSqwD）1 条、05（DgAg1u7Be09）1 条、06（DgAtFuBMEvR）1 条，全是自家（自评引流 + gaga）。无真人客户评论。02 帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；05 帖子文案已渲染出，确为鼻子内容（“Dr. Qin Hao explains what actually changes after rhinoplasty…”）；03 帖子文案仍未渲染出；04 自评仍是鼻子文案、06 自评仍是顾客口吻提问且帖子文案仍未渲染出，请发帖轮次核对；猎手轮不改文案。sarah 03、04、05 的 gaga/elaina 互刷评论仍未落地。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 30 条链接（本次为 /p/ 链接），对台账全文子串去重后新出 22 条，全部读成，0 目标：
+  - #faceliftrecovery（6 条新）：DaxKOOMADSD（dr.pietrodimauro 19w 马贝拉深平面恢复科普：切片内无可见提问）；Dc1Td8og4YK（midwest_mimi_lisa67 12w 患者术后 2 天自帖：仅支持/同情，已术后）；Dfg_WOWyZeV（apr.illittle 2w 前后对比：matreoska.berioska“I want”无提问、akuakofa 要看全程均为锚定帖主/验证型）；DHcEufPPO1S（drjuanfuentes 88w：verdesitadet、makeup_hairbyyola 问价、titadenogean 索信息均锚定 Dr. Fuentes）；DeaUDjuBdxm（hey_its_cheri_ 6w 患者术后自帖：评论均为围观其本人旅程，已术后）；DcQAGhCtBa4（dr._carlos_vergara 14w 恢复期科普：切片内无可见评论）。
+  - #facelift（8 条新）：DfNCwGVB12s（mialiu_clinic 3w 英国深平面：nillo_mt、natalia_aja_yah 问去哪做的、salinagalligan 问“$4k？”、acj9874、andra_ulian、twinkle_the_shining_star_29（自述印度）、lilliandlparra 索信息均锚定该诊所）；DfJV4qFpLEE（dr_miles77 3w Dr. Miles 科普：无可见评论）；DetYuxgxI_C（dr.zhangrunrun 5w 术后即刻：全表情）；DRr-Pw4kVMM（nayakplasticsurgery 51w 术后 6 周：仅文案）；DfEqA_FzL64（dr.zhangyuan 4w 科普：无可见评论）；CbDl32LPdPV（garthfishermd 245w 疤痕：仅赞美/质疑真实性）；DSJmd2bkoqO（destinationbeautyclinic 50w 泰国面提：demetdalgic 问价、michaelajevic 问医生与价格、ms.v.nyman“Dr and price”均锚定该诊所）；DZNZmGXFCeJ（newskinbellevue/drbrianscott 24w 40 多岁患者深平面：仅文案）。
+  - #deepplanefacelift（8 条新）：DgDzWnAGPa0（drkarolak 4d Brandee 10 个月随访：无可见评论）；DRuiEYqj8gq（palmbeachfacialplastic 51w：仅赞美）；Df8f-OYM8kB（elaine_manthei 1w 患者红光面罩推广帖：无可见求诊评论）；DbOKeI2FHhr（dr_espino 17w 前后对比：全赞美，ylianaacosta“Quiero”无提问、锚定）；Df44bBYO3H8（fayfortuna3 1w 德语患者术后 30 天自帖：constanze.pott 同为术后患者分享自己旅程）；DdYyzxKgeb1（jangji_beautycenter 10w 越南诊所：全赞美/质疑，无求诊）；DdHSPpsnGx5（dr.telmanfacelift 11w：全赞美，gelibterman_studio_tlt 俄语问价锚定 Dr. Telman）；DC17-4rIo3s（edgar_kaminskyi 104w 米兰：gulemeket、eli_nasiri568i22 问价、faceliftkorea_us 问诊所位置、celesortizperez 问是否在西班牙工作均锚定 Dr. Kaminskyi）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 仅剩 32，is_open(44)=False。
+- 下轮注意：三话题本轮新出 22 条（较 20:30 轮 15 条更多，话题页有刷新）；Step F 下轮直接用滚动版（首屏 0 链接是常态）；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03 文案未渲染、04、05 鼻子文案 + 06 自评口吻与文案未核实，请发帖轮次核对。
+
 ## 2026-11-27 20:30 本轮（fb-hunt-p44）— 完成：读三话题 15 条新帖，0 新目标，未发评论
 
 - agent 健康（v15），全程 try 1 成功，未见 429/226/344。**Step E 脚本一度生成截断**：codes 多行列表替换时把循环体丢了，首跑 0 字节空跑；已用正则重生成并验语法后重跑，15 条全部读成。**下轮复用 stepE 模板时先验文件含 `for code in codes:` 再跑。**
@@ -1485,3 +1651,55 @@
   - 另按上轮台账嘱托直接读了 DfbY8VfFGnJ（dr.xiuyuye.cases Dr. Ye 术前术后帖）：评论者全为赞美/西语 AI 质疑，无目标。
 - 未起草评论、未过 E07、未发任何评论（无目标可评）。客资：无。agent 本轮全程稳定（此前 11-25 19:00 起失联约 35 小时，11-27 10:26 已恢复、11:23 验证通过；下午 13:27 又断后成安说已连上，本轮复核通畅）。
 - 下轮注意：三话题新帖仍少（19 条新里 0 目标，多为医生锚定帖回流），等更新帖；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；sarah 03、04、06 文案问题仍待发帖轮次核对；新关注 hair.bycmisha、sevha.ki.divnhi 待 dm 轮筛查。
+
+## 2026-11-28 01:30 本轮（fb-hunt-p44）— 完成：读三话题 24 条新帖（23 唯一），0 新目标，未发评论
+
+- agent 健康（v15），Step A/B/B2/D/E/F/G/H 全部 try 1 成功；本轮隧道无明显抖动（Step G 24 条约 7.7 分钟读完，无 curl 18/52），未见 429/226/344。本轮 01:30 开跑、约 02:15 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao，6 条帖子、11 粉丝（与 00:30 轮持平）。opened() 初始为 5、32、35、67、108（其他轮次在跑，未动）；**44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:9779），轮末已 close（closed:true），20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False**（35 在本轮期间由其轮次自行关闭，未动）。
+- 通知：无新增。hair.bycmisha（2d，发型师）待 dm 轮筛查；sevha.ki.divnhi（4d）、moger4123（5d）仍待 dm 轮筛查；ahmed.wakib.79（6d，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 6d 前“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）6d 前回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询（计数 3）；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月面提，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问“Listen first, then plan — I like that approach. How do I book a consultation?”），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- deb_broadway 线：通知页确认 deb 最新回复仍是 6d 前那条（已回过），此后未再回，不重复追。
+- 猎手：三话题页滚动后各取 48 条链接（前 40 条参与去重），对台账全文子串去重后新出 24 条（23 唯一，C1sAZ4bulKK 跨两话题重复），全部读成，0 目标：
+  - #faceliftrecovery（9 条新）：DgIlIj1qg-c（dr.haworth 2d 深平面术后 8 天：missjsmmers 问 DAO release 为验证型、锚定 Dr. Haworth；其余赞美）；DgC5Y98Fmi7（nayakplasticsurgery 5d 术后 1 年 8 个月：pa_nicola 问中央松弛带矫正、christiegreene33 等多人问价均锚定 Dr. Nayak）；DfQ0R_jyHiv（vipps.kr 3w 氧舱科普：angelflood76“Almost my turn!!”已约韩国 VIP，无目标）；DchLH20gf64（ana_primeskinspa 13w 深平面+眼睑：nikkii70、chininorma 西语问价/医生均锚定发帖方）；DW_uFQWiAzj（drdustinportela 32w 术后第 2 天：评论多为围观/验证型）；DfuLufjhot3（drmarclevin 1w 恢复禁忌清单：仅 1 条问宠物问题、锚定 Dr. Levin）；DfkcrOBommi（big_girls_journey_to_lean 2w 伊斯坦布尔术后 16 天日记：评论均围观其本人恢复/妆容，已术后）；ClcB8OppUIi（drsamrizk 208w 男性面提旧帖：全赞美）；DgDeGRPiVno（visagewinnipeg 4d 恢复科普：全赞美）。
+  - #facelift（10 条新）：DeknNYPj4k8（drsarmelasunder 5w Teddi Mellencamp 患者：全赞美/验证型，berger16 已选 Dr. Sunder）；DPJI8V9EpPB（dr.xiao9d 60w 9D 面提：rxmn_kor18“Does it hurts”为验证型、锚定 Dr. Xiao；其余表情/赞美）；Dft3d1em-Zu（dr.alden.facelift8 1w 58 岁英国男士：clinicalimaging_systems 问疤痕为验证型、锚定 Dr. Alden；其余 AI 质疑/赞美）；DUgMCXyEXT_（nayakplasticsurgery 41w Tina 59 岁：十余条“Cost”问价全锚定 Dr. Nayak）；DfSuFrVk78c（thetarnaround 3w 澳洲 50 岁赴曼谷术后自帖：madeleinemuscat 问颈部紧绷/神经损伤、称“想做但怕幽闭感”——未定意向者，但问题是问帖主本人的恢复体验、锚定帖主旅程（患者间对话），按既往口径不碰；watts.rayna 问去哪/主刀医生亦锚定帖主旅程；其余赞美）；De_yGv6G51-（dr.guo99 4w 加拿大 49 岁 ARC 面提：仅表情，mellody1001 投诉米兰诊所为已术后纠纷、不碰）；DRiUImUCf8i（nayakplasticsurgery 52w Bethany 术后 3 个月：schusterbridget 等多人“Cost”全锚定 Dr. Nayak）；C1sAZ4bulKK（drchanceplasticsurgery 151w 双胞胎深平面旧帖：全赞美）；Df_w-jhmxl1（dr_miles77 6d 下颌线：全 AI 质疑/赞美，锚定 Dr. Miles）；DJcPg5VR1cb（aeris.plasticsurgery 81w 术后 2 天：全赞美）。
+  - #deepplanefacelift（5 条新）：C_bcJ8eSBQp（drhedyz 116w 男性深平面旧帖：sound_great5555 自述“潜在患者在找医生、只看到照片不信、想要视频”——未锚定特定医生，但评论已 111w 前、过旧，不追）；C1sAZ4bulKK（同上，跨话题重复）；DfkO8HJFa1k（weilerplasticsurgery 2w Dr. Weiler 深平面：仅 1 条赞美）；DeBuFZbGo4e（dr.xiaohusu 7w 男性深平面：全 fake/AI 质疑）；DSvddx2kdft（facesbydrt 47w Kendall 3.5 个月随访：全赞美）。
+  - **本轮去重调整**：dedupe 脚本原强制重读 DZzGSZyBdEt、Df6RtR_EiPg，但 00:30 轮已读成，本轮改成“仅当台账里完全没有才强制补读”，两条均未再读（下轮可去掉该强制项）。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- profile 44 已关：close 返回 closed:true；20 秒后复核 opened() 为 5、32、67、108，is_open(44)=False。
+- 下轮注意：三话题本轮新出 24 条（较 00:30 轮 27 条略少）；问价仍几乎全锚定发帖医生；最接近目标的两条均不碰（madeleinemuscat 锚定帖主旅程、sound_great5555 评论已 111w 前）；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案仍未渲染出，请发帖轮次核对。
+
+## 2026-11-28 06:25 CST
+- 窗口外跳过（夜里窗口 18:30–次日 06:00，本轮 06:30 触发已出窗口）。未开浏览器、未发评论、未碰账号。
+- 2026-11-28 07:25 CST fb-hunt-p44：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+## 2026-11-28 08:25 CST — 跳过：窗口外（夜里窗口 18:30–06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 09:25 CST fb-hunt-p44：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 10:25 CST fb-hunt-p44：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 11:30 跳过
+- 北京时间 11:30 在夜里窗口（18:30–次日 06:00）之外，本轮直接结束，未开浏览器、未发评论、未碰账号。
+- 2026-11-28 12:30 CST fb-hunt-p44：窗口外（18:30–次日 06:00）跳过本轮，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 13:30 CST fb-hunt-p44（sarahcook6809 / profile 44）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 14:30 CST fb-hunt-p44（sarahcook6809 / profile 44）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 15:30 CST fb-hunt-p44（sarahcook6809 / profile 44）窗口外跳过：当前时间不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 16:25（fb-hunt-p44，sarahcook6809 / p44）：窗口外（夜里窗口 18:30–次日 06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 17:26 CST fb-hunt-p44（sarahcook6809，IG 面提线，p44）：窗口外跳过——当前 17:26 未到 18:30 夜里窗口，本轮未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 19:30 本轮（fb-hunt-p44）— 补记（据其 JSON 文件，台账条目当时缺失）
+
+- Step A/D/E/F/G/H 均跑完（JSON 时间戳 19:26–19:39 CST）；身份核验通过（h2 sarahcook6809）；44 号本轮自开自关（debugging 127.0.0.1:52570，close closed:true，复核 is_open(44)=False）。
+- 通知无新增（与 18:30 轮一致）；本号 6 条 Reel 无新增真人评论；deb_broadway 最新仍是 11 月 20 日那条。
+- 猎手：三话题各取 48 条链接，去重后新出 22 条（7+10+5，DZnwaKUkgUR 跨话题重复），全部读成，0 目标：问价/咨询几乎全锚定发帖医生（Quatela、Dr. Ye、Dr. Levin、Dr. Nayak、Dr. Sunder、Dr. Xiao、Dr. Alden、Dr. Peng、Dr. Fulukasi、Dr. Mirza Firat 等），其余为赞美/AI 质疑/已术后。未发评论。客资：无。
+
+## 2026-11-28 20:30 本轮（fb-hunt-p44）— 完成：读三话题 8 条新帖，0 新目标，未发评论
+
+- agent 健康（v15），Step A/D/E/F/G/H 全部 try 1 成功；本轮隧道稳定，未见 429/226/344。本轮 20:30 开跑、约 20:47 收尾。
+- 身份核验通过：主页 h2 与 og:title 均为 sarahcook6809 / Dr. Qin Hao。opened() 初始为 32、35（其他轮次在跑，未动）；44 号轮开始时已关，本轮自己 open(44)（debugging 127.0.0.1:1885），轮末已 close（closed:true），20 秒后复核 opened() 仅剩 32（Lark，他轮，未动），is_open(44)=False。
+- 通知：无新增。hair.bycmisha（2d，美发业务号）待 dm 轮筛查；sevha.ki.divnhi（5d）、moger4123（6d）仍待 dm 轮筛查；ahmed.wakib.79（Nov 20，dm 轮已筛过，无意向）。deb_broadway 最新回复仍是 11 月 20 日“it's 100% in person.”（已回过），anatomyofthesoul.11（帖主）11 月 20 日回复及点赞亦已回过；其余为自家互刷与 gaga。无可回真人评论。
+- 本号六条 Reel 评论区逐条复核：01（Df43_Q8RAC7）自评 + gaga 互刷问视频咨询；02（Df64sepuB6e）自评 1 条，帖子文案已渲染出面提内容（术后 1 个月，含音乐 credit）；03（Df95QHiNj48）自评 1 条，帖子文案仍未渲染出；04（Df-KjQRSqwD）自评 1 条（鼻子文案）；05（DgAg1u7Be09）自评 1 条，帖子文案已渲染出，确为鼻子内容；06（DgAtFuBMEvR）自评 1 条（顾客口吻提问），帖子文案仍未渲染出。无真人客户评论。03/06 文案问题仍待发帖轮次核对，猎手轮不改文案。
+- 猎手：三话题页滚动后各取 48 条链接，对台账 + 既往各轮 newcodes.json 去重后新出 8 条，全部读成，0 目标：
+  - #faceliftrecovery（3 条新）：DfpFuDNtLt8（warsawaesthetic_face 华沙诊所混合面提：0 评论）；DZ8tNhuMC4v（nursezoe.concierge 多伦多术后护理护士 15w：全赞美/感谢）；DdkfyIMDuxf（elisetabin 肽类与面提恢复 9w：评论者多为医生/同行；butterphly88 因肝脏问题犹豫用肽——术后顾虑非求诊者；charlotte.curran.549 问幽闭恐惧能否做高压氧——锚定帖子主题的恢复提问）。
+  - #facelift（4 条新）：Dfj0UXgG9MC（dr.guo99 42 岁华盛顿男士 2w：ferreirasdom 葡语问如何约咨询、dankaholic 问地点，均锚定 Dr. Guo/Zhu）；DVGeIJZCR-g（drbentalei 39w 旧帖：全赞美，aften_caroline 问做了面提还是眼部为验证型、锚定 Dr. Bentalei）；DfsVUH_IQJN（dryefacial 52 岁 2w：仅 2 条西语 AI 质疑）；DgMCcofASgZ（dryeaesthetics 45 岁 2d：玩笑/赞美/AI 质疑）。
+  - #deepplanefacelift（1 条新）：DDXAuweOqpr（dr.metinkerem 102w 旧帖：0 评论）。
+  - **本轮去重修正**：stepF 存的是裸 code、不是 /p/ 链接，18:30 版去重脚本的正则匹配不到、会误报 0 条新帖；已改写为裸 code 去重，并额外对既往各轮 newcodes.json 去重（19:30 轮的台账条目缺失、其 22 条已读帖只在 JSON 里，只对台账去重会重读）。下轮沿用修正版脚本 hunt_p44_1128_2030_dedupe.py。
+- 未起草评论、未过 E07、未发任何评论。客资：无（deb 未再回、未留 WhatsApp）。
+- 下轮注意：三话题新帖本轮仅 8 条（较 19:30 轮 22 条、01:30 轮 24 条明显减少），问价仍几乎全锚定发帖医生；deb_broadway 线仍是唯一活对话，下轮优先看她是否回；新关注 hair.bycmisha 待 dm 轮筛查；sarah 03、06 文案仍未渲染出，请发帖轮次核对。

@@ -1,0 +1,46 @@
+{
+  "ts": "2026-11-27 14:52:51 UTC",
+  "steps": {
+    "opened_after": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:28842",
+            "pid": 40800,
+            "open_time": "2026-11-27 22:09:07"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 65,
+            "debugging_address": "127.0.0.1:5124",
+            "pid": 34992,
+            "open_time": "2026-11-27 22:16:49"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:45015",
+            "pid": 41224,
+            "open_time": "2026-11-27 22:14:27"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:24922",
+            "pid": 9644,
+            "open_time": "2026-11-27 22:31:08"
+          }
+        ],
+        "total": 5
+      }
+    }
+  },
+  "was_open": true,
+  "close_skipped": "65 was already open at round start (opened 22:16:49 by another round); per runbook do not close another round's window"
+}

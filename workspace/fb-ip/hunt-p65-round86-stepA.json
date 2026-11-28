@@ -1,6 +1,6 @@
 {
   "round": 86,
-  "ts": "2026-11-27 03:52:29 CST",
+  "ts": "2026-11-27 14:44:04 UTC",
   "steps": {
     "curl_health_8765": {
       "ok": false,
@@ -11,12 +11,57 @@
       "err": "<urlopen error [Errno 111] Connection refused>"
     },
     "health": {
-      "ok": false,
-      "err": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
     },
     "opened": {
-      "ok": false,
-      "err": "调用 GET /opened 失败（curl 52）：curl: (52) Empty reply from server\n"
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:28842",
+            "pid": 40800,
+            "open_time": "2026-11-27 22:09:07"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 44,
+            "debugging_address": "127.0.0.1:11589",
+            "pid": 39548,
+            "open_time": "2026-11-27 22:30:28"
+          },
+          {
+            "profile_id": 65,
+            "debugging_address": "127.0.0.1:5124",
+            "pid": 34992,
+            "open_time": "2026-11-27 22:16:49"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:45015",
+            "pid": 41224,
+            "open_time": "2026-11-27 22:14:27"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:24922",
+            "pid": 9644,
+            "open_time": "2026-11-27 22:31:08"
+          }
+        ],
+        "total": 6
+      }
     }
   }
 }

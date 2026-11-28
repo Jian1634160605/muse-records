@@ -1,0 +1,228 @@
+{
+  "round": "2026-11-28 03:12",
+  "steps": {
+    "health": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
+    },
+    "opened": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:28842",
+            "pid": 40800,
+            "open_time": "2026-11-27 22:09:07"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 65,
+            "debugging_address": "127.0.0.1:34289",
+            "pid": 41892,
+            "open_time": "2026-11-28 03:13:35"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:45015",
+            "pid": 41224,
+            "open_time": "2026-11-27 22:14:27"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:24922",
+            "pid": 9644,
+            "open_time": "2026-11-27 22:31:08"
+          }
+        ],
+        "total": 5
+      }
+    },
+    "was_open": true,
+    "p32_info": {
+      "profile_id": 32,
+      "debugging_address": "127.0.0.1:55973",
+      "pid": 12804,
+      "open_time": "2026-11-27 18:43:23"
+    },
+    "goto_profile": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61594843222285",
+        "profile_id": 32
+      }
+    },
+    "identity": {
+      "ok": true,
+      "try": 1,
+      "value": " \nDaisy Chambers \n7 followers • 0 following\nFollow\nSearch\nBeauty, cosmetic & personal care\nMore\nAll\nAbout\nReels\nPhotos\nFriends\nMore\nLinks\nfacebook.com\n \n · jianjianmeili.com\nPhotos\nSee all photos\nPrivacy\n \n · Consumer Health Privacy\n \n · Terms\n \n · Advertising\n \n · Ad Choices \n \n · Cookies\n \n · More\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\nt͏\no͏\no͏\nn͏\np͏\ne͏\ns͏\nS͏\nd͏\nr͏\nf͏\nt͏\n1͏\nf͏\ne͏\n9͏\n1͏\nc͏\n0͏\nm͏\n1͏\nl͏\nc͏\na͏\n2͏\nv͏\n ͏\n1͏\nA͏\n1͏\nr͏\n1͏\nc͏\n9͏\nN͏\n3͏\nc͏\n7͏\n ͏\nh͏\ni͏\no͏\nt͏\ne͏\n7͏\nM͏\nu͏\n7͏\nl͏\n ͏\n7͏\n7͏\n2͏\nl͏\nt͏\nb͏\n6͏\n4͏\n2͏\n ͏\n2͏\n:͏\nt͏\n \n·\nA careful consultation makes all the difference — mapping the face line by hand before planning anything. This is where a good result starts. Which area would you want … See more\n0:00 / 0:15\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook"
+    },
+    "identity_check": {
+      "name_ok": true,
+      "followers_7": true,
+      "banner_verify": false,
+      "composer_as_page": true
+    },
+    "goto_notif": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Notifications | Facebook",
+        "url": "https://www.facebook.com/notifications",
+        "profile_id": 32
+      }
+    },
+    "notifications": {
+      "ok": true,
+      "try": 1,
+      "value": " \nNotifications\nAll\nUnread\nNew\nUnread\nYour reel hit 200 plays! Make another to keep up the momentum.\n1h\nToday\nUnread\nYour reel hit 100 plays! Make another to keep up the momentum.\n6h\nUnread\nYour reel is ready to view. Share with your followers.\n6h\nEarlier\nUnread\nPahhip America published your scheduled posts for Dr.Qinhao22.\n12h\nUnread\nYour reel is ready to view. Share with your followers.\n12h\nSee previous notifications"
+    },
+    "notif_check": {
+      "has_diana": false,
+      "has_real_comment": false
+    },
+    "goto_loreida": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61585274344631",
+        "profile_id": 32
+      }
+    },
+    "loreida_scroll_0": {
+      "ok": true,
+      "try": 1,
+      "value": 2309
+    },
+    "loreida_scroll_1": {
+      "ok": true,
+      "try": 1,
+      "value": 8638
+    },
+    "loreida_scroll_2": {
+      "ok": true,
+      "try": 1,
+      "value": 15664
+    },
+    "loreida_text": {
+      "ok": true,
+      "try": 1,
+      "value": " \nLoreida Martin \n319 friends\nMessage\nMonroe, MI\nLoreida Martin\nPersonal details\nLives in Monroe, Michigan\nFrom Monroe, Michigan\nMarried\nHighlights\nFeatured Section\nCollection\nPhotos\nSee all photos\nPrivacy\n \n · Consumer Health Privacy\n \n · Terms\n \n · Advertising\n \n · Ad Choices \n \n · Cookies\n \n · More\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nFunny\nI can’t dance 😂  #oakridgeboys  #dance\nAngie Collins Wise · Original audio\nAngie Collins Wise · Original audio\nAngie Collins Wise · Original audio\nAngie Collins Wise\n \n· Follow\nNov 19\n \n · \n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\n﻿I Miss You\n \n · Klymaxx\n \n·\n0:04 / 0:15\n17\n4\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nWhen I was in Harlan Kentucky this lady said now Tasha get in here before youre papaw starts trying to fool wit ya, dead ass\nWhat’s the most Kentucky thing you’ve ever heard someone say?\n#momlife #motherhood #fblifestyle #relatable #life #foryoupage #momsoftiktok #lifestylev… See more\nJohnna Sizemore · Original audio\nJohnna Sizemore · Original audio\nJohnna Sizemore · Original audio\nJohnna Sizemore\n \n· Follow\nNov 19\n \n · \n5\n1\nJohnna Sizemore\n \n·\n1w\n \n·\nFollow\nThat’s inaccurate. Don’t be throwing out some dumb shit like that, & we’re not in Harlan Kentucky either..\nReply\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nI know my ass needed to finish up on this yard and house ,but I'm fucking dead today couldn't sleep at all last night fell asleep  out 10 am and  up at 12 to go to Detroit, I'm in my nightgown in my chair to tired to move lips hurt eyes ,burn ,headache that won't quit ,still scared to death to go to sleep this early cuz I know if I do I'll be up by 11 and I'm not trying to do all that now is the perfect time to get my sleep fixed I ne… See more\n1\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nCranny\nQuiet on the creek 😂\nOfficial_majorkeylife · Original audio\nOfficial_majorkeylife · Original audio\nOfficial_majorkeylife · Original audio\nOfficial_majorkeylife\n \n· Follow\nOct 29\n \n · \n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nIf this mug don't remind you of Cranston Campbell I don't know who does ol boy be killing it\nAre you a rat?\nOfficial_majorkeylife · Original audio\nOfficial_majorkeylife · Original audio\nOfficial_majorkeylife · Original audio\nOfficial_majorkeylife\n \n· Follow\nNov 17\n \n · \n1\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nCierra Pfefferle we could actually do this\nGrinch outdoor decor 💚 part 3 \n#grinchmas #christmas2026 #christmasdecor #whoville #christmasdecorating\nRaQuel Serrano · Original audio\nRaQuel Serrano · Original audio\nRaQuel Serrano · Original audio\nRaQuel Serrano\n \n· Follow\nNov 19\n \n · \n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nNovember 19 at 2:17 PM\nLearn More\nNovember 19 at 10:05 AM\nLearn More\nNovember 19 at 9:21 AM\nLearn More\nNovember 19 at 8:31 AM\nNovember 19 at 7:56 AM\nLearn More\nNovember 19 at 7:55 AM\nLearn More\nNovember 19 at 7:50 AM\nLearn More"
+    },
+    "loreida_check": {
+      "post_found": false,
+      "snippet": ""
+    },
+    "goto_traci": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facelift Support Group | Curious, if anyone knows the companies that will finance these procedures | Facebook",
+        "url": "https://www.facebook.com/groups/536390454675733/posts/1459696925678410/",
+        "profile_id": 32
+      }
+    },
+    "traci_text": {
+      "ok": true,
+      "try": 1,
+      "value": "Home\nCreate a post\nWhat's on your mind, Dr.Qinhao22?\nTips for your Page\nRecommended post\nYou could reach up to 6 more Account Center accounts daily when you spend $14 to boost this post.\nStep-by-step facelift guide in Shanghai. Transparent process to ease your worries. #DrQinHao #shanghaifacelift #faceliftprocedure #medicalcosmetic #facialrejuvenation #antiaging #plasticsurgery #naturalantiaging #faceliftcare #youthtransformation\nYesterday at 8:14 PM\n \n · ﻿\nBoost reel\nSee insights\nStories\nPhotos and videos\nReels\nShort videos\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nAngela Duncan\ne͏\nd͏\nS͏\ns͏\nr͏\nn͏\nt͏\no͏\no͏\np͏\n1͏\n7͏\n1͏\na͏\n4͏\n1͏\nh͏\nh͏\ng͏\na͏\n9͏\nu͏\ni͏\nt͏\nh͏\n6͏\n8͏\n9͏\nf͏\nl͏\nt͏\nt͏\n5͏\n5͏\n7͏\n3͏\n9͏\nc͏\nl͏\nf͏\nu͏\n4͏\nt͏\n7͏\nh͏\nl͏\n0͏\nl͏\n1͏\nh͏\nh͏\nl͏\n9͏\n1͏\n2͏\n8͏\ng͏\n0͏\n1͏\n9͏\n \n·\nFacelift: Addresses sagging in the mid and lower face and helps redefine the jawline.\nNeck Lift: Improves loose neck skin and creates a firmer, more defined neck contou… See more\n0:00 / 0:13\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nTraci Ford Howell's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nTraci Ford Howell\n \n·\nS͏\nd͏\ne͏\np͏\nn͏\ns͏\nt͏\no͏\no͏\nr͏\ne͏\n9͏\n0͏\nv͏\n0͏\n5͏\n1͏\n ͏\nm͏\no͏\n4͏\nl͏\ni͏\na͏\nm͏\n9͏\n1͏\n0͏\n ͏\n9͏\n8͏\ng͏\n5͏\nN͏\nP͏\nf͏\nt͏\nb͏\ne͏\n1͏\n6͏\nh͏\n7͏\nr͏\nc͏\ni͏\n3͏\nl͏\n ͏\n ͏\n:͏\nM͏\n2͏\nh͏\ni͏\n1͏\nl͏\ng͏\nt͏\na͏\n1͏\n \n·\nCurious, if anyone knows the companies that will finance these procedures?\n9\n38\nMost relevant﻿\nluna5093\n \n·\n1w\nWhere are you located?\nReply\nShare\nView 3 replies\nBeth Anne Osborn\n \n·\n1w\nCherry Financing.\nReply\nShare\nView 2 replies\nModestAlligator2156\n \n·\n1w\nCare Credit. Cherry. I financed mine through Cherry. Super easy. Soft pull on your credit.\nReply\nShare\nView 5 replies\nAndrea Tuttle-Watkins\n \n·\n1w\nIt depends on which financing partners your surgeon works with. There are PatientFi, CareCredit, Cherry and Alphaeon used most in plastics. I used PatientFi to help with part of mine. Great terms, high approvals, easy payments and good customer service. Depending what your surgeons accept for programs, there are 6-24 month no interest options and longer term with interest.\nI’ll add to that 11 years ago when I was younger I took out a HELOC for my skin removal surgeries after 110 lb weight loss because at that time in life I couldn’t pay it off within a zero percent interest timeframe. The HELOC was under 4% interest at the time and interest was tax deductible so it was the best option for me at the time.\nReply\nShare\nEdited\nView 2 replies\nJesse Kay Rogers\n \n·\n1w\nSome people take a loan from their 401k plan. This is not a withdrawal but a loan if your 401k plan allows for that. Low interest rates plus you are paying yourself back on your loan back into your 401k plan. Better than a loan or card to take out where the money goes back to them and not you.\nReply\nShare\nView 2 replies\nDevereux210\n \n·\n1w\nCare credit, Alphaeon, Cherry, PatientFi, A lot of places in the USA are now accepting Klarna, Afterpay, Affirm and Zip\nReply\nShare\nInspiringPeapod7750\n \n·\n1w\nAsk you surgeon. They may only accept certain payment plans.\nReply\nShare\nWholesomeCaribou8593\n \n·\n3d\nCan take a 401k loan\nReply\nShare\nPurplePomelo8177\n \n·\n1w\nWhat doctors office is it? A lot of them will tell you who they work with. I know mine has 4 different companies. You can always of coarse go through your bank if they do not offer financing.\nReply\nShare\nAnonymous participant 420\n \n·\n1w\nAnyone in Arkansas on here that had surgery in Arkansas\nReply\nShare\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n\n\n\n\nComment as Dr.Qinhao22"
+    },
+    "traci_check": {
+      "post_found": true,
+      "our_comment_found": false,
+      "pending_seen": false,
+      "snippet": "Home\nCreate a post\nWhat's on your mind, Dr.Qinhao22?\nTips for your Page\nRecommended post\nYou could reach up to 6 more Account Center accounts daily when you spend $14 to boost this post.\nStep-by-step facelift guide in Shanghai. Transparent process to ease your worries. #DrQinHao #shanghaifacelift #faceliftprocedure #medicalcosmetic #facialrejuvenation #antiaging #plasticsurgery #naturalantiaging #faceliftcare #youthtransformation\nYesterday at 8:14 PM\n \n · \nBoost reel\nSee insights\nStories\nPhotos and videos\nReels\nShort videos\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nAngela Duncan\ne\nd\nS\ns\nr\nn\nt\no\no\np\n1\n7\n1\na\n4\n1\nh\nh\ng\na\n9\nu\ni\nt\nh\n6\n8\n9\nf\nl\nt\nt\n5\n5\n7\n3\n9\nc\nl\nf\nu\n4\nt\n7\nh\nl\n0\nl\n1\nh\nh\nl\n9\n1\n2\n8\ng\n0\n1\n9\n \n·\nFacelift: Addresses sagging in the mid and lower face and helps redefine the jawline.\nNeck Lift: Improves loose neck skin and creates a firmer, more defined neck contou… See more\n0:00 / 0:13\nFacebook\nFacebook\nFacebook\nFacebo"
+    },
+    "goto_search": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "deep plane facelift - Search Results | Facebook",
+        "url": "https://www.facebook.com/search/top?q=deep%20plane%20facelift",
+        "profile_id": 32
+      }
+    },
+    "search_text": {
+      "ok": true,
+      "try": 1,
+      "value": " \nSearch results for\ndeep plane facelift\nFilters\nAll\nRecent posts\nPosts you've seen\nDate posted\nPeople\nReels\nMarketplace\nPages\nGroups\nEvents\nEvents\nSAT, NOV 28 AT 10 PM +08\nEstate Sale\n4 people going\nInterested\nSUN, MAY 9, 2027 AT 2 AM +08\nFree ai tools\n52 people interested · zakigonj, sylhet, bangladesh\nInterested\nWED, DEC 9 AT 9:30 PM +08\nWorld Ballet Company\n1 person going · Chester Fritz Auditorium\nInterested\nSee all\nPages\nDeep Plane Facelift in Turkey Before After\nPlastic Surgery · Abdi İpekçi Caddesi No:6-8 Ünsal Apt. Daire:10 Nişantaşı, Şişli/İSTANBUL, Istanbul, Istanbul Province, Turkey · Closed now · 481 followers\nFollow\nDr. Yakup Duman - Deep Plane Facelift Surgeon\nPlastic Surgery · 263 followers\nFollow\nMadrid Deep Plane Facelift Masterclass\nEducation · ., Madrid, Spain · 283 followers\nFollow\nSee all\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nSue Sully\n \n·\n \n·\nImaging waking up to your new face and seeing this !!!!!\nHaha it is only temporary and will produce amazing results … See more\n+3\n579\n198\n14\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGroups\nFacelift Support Group\nPublic · 129K members · 90+ posts a day\nJoin\nFacelift &necklift group ✈️🇹🇷\nPublic · 1.4K members\nJoin\nNatural Face Lift\nPublic · 2.5K members\nJoin\nSee all\nNovember 15 at 6:15 PM\nLearn More"
+    },
+    "search_check": {
+      "snippet": " \nSearch results for\ndeep plane facelift\nFilters\nAll\nRecent posts\nPosts you've seen\nDate posted\nPeople\nReels\nMarketplace\nPages\nGroups\nEvents\nEvents\nSAT, NOV 28 AT 10 PM +08\nEstate Sale\n4 people going\nInterested\nSUN, MAY 9, 2027 AT 2 AM +08\nFree ai tools\n52 people interested · zakigonj, sylhet, bangladesh\nInterested\nWED, DEC 9 AT 9:30 PM +08\nWorld Ballet Company\n1 person going · Chester Fritz Auditorium\nInterested\nSee all\nPages\nDeep Plane Facelift in Turkey Before After\nPlastic Surgery · Abdi İpekçi Caddesi No:6-8 Ünsal Apt. Daire:10 Nişantaşı, Şişli/İSTANBUL, Istanbul, Istanbul Province, Turkey · Closed now · 481 followers\nFollow\nDr. Yakup Duman - Deep Plane Facelift Surgeon\nPlastic Surgery · 263 followers\nFollow\nMadrid Deep Plane Facelift Masterclass\nEducation · ., Madrid, Spain · 283 followers\nFollow\nSee all\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nSue Sully\n \n·\n \n·\nImaging waking up to your new face and seeing this !!!!!\nHaha it is only temporary and will produce amazing results … See more\n+3\n579\n198\n14\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGroups\nFacelift Support Group\nPublic · 129K members · 90+ posts a day\nJoin\nFacelift &necklift group ✈️🇹🇷\nPublic · 1.4K members\nJoin\nNatural Face Lift\nPublic · 2.5K members\nJoin\nSee all\nNovember 15 at 6:15 PM\nLearn More"
+    },
+    "goto_selena": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/Dr.Qinhao22/reels",
+        "profile_id": 32
+      }
+    },
+    "selena_text": {
+      "ok": true,
+      "try": 1,
+      "value": " \nThis content isn't available right now\nWhen this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.\nGo to Feed\nGo back\nVisit Help Center"
+    },
+    "selena_check": {
+      "unavailable": true,
+      "snippet": " \nThis content isn't available right now\nWhen this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.\nGo to Feed\nGo back\nVisit Help Center"
+    },
+    "opened_final": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:28842",
+            "pid": 40800,
+            "open_time": "2026-11-27 22:09:07"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:45015",
+            "pid": 41224,
+            "open_time": "2026-11-27 22:14:27"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:24922",
+            "pid": 9644,
+            "open_time": "2026-11-27 22:31:08"
+          }
+        ],
+        "total": 4
+      }
+    },
+    "was_open_final": true
+  }
+}

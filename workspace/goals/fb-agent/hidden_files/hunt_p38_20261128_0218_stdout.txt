@@ -1,0 +1,25 @@
+[ok] health 第1次
+health: {"ok": true, "agent": "ixbrowser-agent", "version": 15}
+[ok] opened 第1次
+opened: {"ok": true, "opened": [{"profile_id": 5, "debugging_address": "127.0.0.1:28842", "pid": 40800, "open_time": "2026-11-27 22:09:07"}, {"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 67, "debugging_address": "127.0.0.1:45015", "pid": 41224, "open_time": "2026-11-27 22:14:27"}, {"profile_id": 108, "debugging_address": "127.0.0.1:24922", "pid": 9644, "open_time": "2026-11-27 22:31:08"}], "total": 4}
+opened 列表含 38: False | 条目: None
+is_open(38): False
+was_open(38) 判定: False
+[ok] open(38) 第1次
+open: {"ok": true, "profile_id": 38, "debugging_address": "127.0.0.1:36918"}
+[ok] check(38) 第1次
+check: {"ok": true, "profile_id": 38, "title": "(1) Facebook", "url": "https://www.facebook.com/", "account_name": "Oe", "name_source": "composer", "page_text_sample": null, "screenshot": "shots/profile_38.png", "debugging_address": "127.0.0.1:36918"}
+[ok] goto notifications 第1次
+[ok] eval notifications 第1次
+NOTIF: {"url":"https://www.facebook.com/notifications","title":"Notifications | Facebook","text":" \nNotifications\nAll\nUnread\nNew\nUnread\nFanny Simon, Makennah Dunn and 15 others posted in Rhinoplasty in Turkey - real experiences, doctor suggestions.\n22m\nUnread\nBol Nqor Bol updated his profile picture.\n52m\nToday\nUnread\nYour reel is ready to view. Share with your friends.\n4h\nUnread\nসা দ বা বূ mentioned you and other followers in a comment.\n2h\nUnread\nAaron Jarsey mentioned you and other followers in a comment.\n7h\nUnread\nBWØII WA ÇITY mentioned you and other followers in a comment.\n8h\nEarlier\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n10h\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n10h\nSee previous notifications"}
+[ok] goto facelift group 第1次
+[ok] eval facelift feed 第1次
+FACELIFT: {"url":"https://www.facebook.com/groups/536390454675733/","count":3,"posts":{"1439064074408362":"Sandra Johnston\n \n·\n3w\nBody dysmorphia. Stay off social media, it's so damaging for people with body dysmorphia!\nReply\nShare\n231","1466580754990027":"ArticulatePineapple6178\n \n·\n13h\nIm going to thailand hatyai on next mon and surgery on tue for deep-plane facelift,neck lift and remove eyebag\nReply\nShare\n2","1466664741648295":"Linda Joseph\n \n·\n10h\nAs a medical consultant, I've noticed that people often post more when they're having problems than when recovery goes smoothl… See more\nReply\nShare\n9"}}
+[ok] goto rhino group 第1次
+[ok] eval rhino feed 第1次
+RHINO: {"url":"https://www.facebook.com/groups/604041441428373/","count":1,"posts":{"1721929456306227":"Anonymous participant 531\n \n·\n9h\nOmg yes! I want to slap everyone that posts “Omg this doesn’t look how I wanted it”.. meanwhile it’s 3 days post op.\nYeah bab… See more\nReply\nShare\n5"}}
+[ok] close(38) 第1次
+close: {"ok": true, "profile_id": 38, "closed": true}
+[ok] opened-after-close 第1次
+opened-after-close: {"ok": true, "opened": [{"profile_id": 5, "debugging_address": "127.0.0.1:28842", "pid": 40800, "open_time": "2026-11-27 22:09:07"}, {"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 67, "debugging_address": "127.0.0.1:45015", "pid": 41224, "open_time": "2026-11-27 22:14:27"}, {"profile_id": 108, "debugging_address": "127.0
+DONE

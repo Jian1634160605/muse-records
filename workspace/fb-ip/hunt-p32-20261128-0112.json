@@ -1,0 +1,184 @@
+{
+  "round": "2026-11-28 01:12",
+  "steps": {
+    "health": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
+    },
+    "opened": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:28842",
+            "pid": 40800,
+            "open_time": "2026-11-27 22:09:07"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:45015",
+            "pid": 41224,
+            "open_time": "2026-11-27 22:14:27"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:24922",
+            "pid": 9644,
+            "open_time": "2026-11-27 22:31:08"
+          }
+        ],
+        "total": 4
+      }
+    },
+    "was_open": true,
+    "was_open_final": true,
+    "goto_profile": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61594843222285",
+        "profile_id": 32
+      }
+    },
+    "identity": {
+      "ok": true,
+      "try": 1,
+      "value": " \nDaisy Chambers \n7 followers • 0 following\nFollow\nSearch\nBeauty, cosmetic & personal care\nMore\nAll\nAbout\nReels\nPhotos\nFriends\nMore\nLinks\nfacebook.com\n \n · jianjianmeili.com\nPhotos\nSee all photos\nPrivacy\n \n · Consumer Health Privacy\n \n · Terms\n \n · Advertising\n \n · Ad Choices \n \n · Cookies\n \n · More\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nDaisy Chambers\no\no\ne\np\nd\ns\nr\nS\nn\nt\nA\nr\n0\n3\nt\no\ng\n1\n2\ne\nb\n2\ni\n \n \nM\nc\n2\n2\nl\n4\n1\nm\na\n \ni\n5\n4\nm\nh\n1\ng\nc\n0\nc\n3\n4\ne\nN\nc\n7\nt\n9\na\n5\n \n:\nl\n2\n8\n9\n0\nv\n \n·\nA careful consultation makes all the difference — mapping the face line by hand before planning anything. This is where a good result starts. Which area would you want … See more\n0:00 / 0:15\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook"
+    },
+    "goto_notif": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Notifications | Facebook",
+        "url": "https://www.facebook.com/notifications",
+        "profile_id": 32
+      }
+    },
+    "notifications": {
+      "ok": true,
+      "try": 1,
+      "value": " \nNotifications\nAll\nUnread\nToday\nUnread\nYour reel hit 100 plays! Make another to keep up the momentum.\n4h\nUnread\nYour reel hit 100 plays! Make another to keep up the momentum.\n8h\nUnread\nYour reel is ready to view. Share with your followers.\n5h\nEarlier\nUnread\nPahhip America published your scheduled posts for Dr.Qinhao22.\n10h\nUnread\nYour reel is ready to view. Share with your followers.\n10h\nSee previous notifications"
+    },
+    "goto_loreida": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61585274344631",
+        "profile_id": 32
+      }
+    },
+    "loreida": {
+      "ok": true,
+      "try": 1,
+      "value": " \nLoreida Martin \n319 friends\nMessage\nMonroe, MI\nMore\nAll\nAbout\nFriends\nPhotos\nReels\nMore\nPersonal details\nLives in Monroe, Michigan\nFrom Monroe, Michigan\nMarried\nHighlights\nFeatured Section\nCollection\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\nt\no\ne\np\nS\nn\ns\nd\no\nr\na\ng\nt\n7\nm\ne\nM\nr\n1\nA\n0\n4\n \nt\na\nm\n4\n2\n3\nm\nc\nm\ne\nv\nN\nm\n \nb\n \na\nl\ni\n6\nh\nh\na\n \n7\n4\nf\n8\n9\ng\nu\nl\n2\nl\no\n:\n7\n2\n \n·\nPineapple balls first time making Pineapple is my favorite ,but my homemade dressing may be the most talked about lol,Stay tuned til tomorrow\n13\n4\nView more comments\nWendie Duvall\n \n·\n1d\nThey look so good\nReply\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook"
+    },
+    "loreida_scroll": {
+      "ok": true,
+      "try": 1,
+      "value": "scrolled"
+    },
+    "loreida2": {
+      "ok": true,
+      "try": 1,
+      "value": " \nLoreida Martin \n319 friends\nMessage\nMonroe, MI\nLoreida Martin\nPersonal details\nLives in Monroe, Michigan\nFrom Monroe, Michigan\nMarried\nHighlights\nFeatured Section\nCollection\nPhotos\nSee all photos\nPrivacy\n \n · Consumer Health Privacy\n \n · Terms\n \n · Advertising\n \n · Ad Choices \n \n · Cookies\n \n · More\nPosts\nFilters\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\nt\no\ne\np\nS\nn\ns\nd\no\nr\na\ng\nt\n7\nm\ne\nM\nr\n1\nA\n0\n4\n \nt\na\nm\n4\n2\n3\nm\nc\nm\ne\nv\nN\nm\n \nb\n \na\nl\ni\n6\nh\nh\na\n \n7\n4\nf\n8\n9\ng\nu\nl\n2\nl\no\n:\n7\n2\n \n·\nPineapple balls first time making Pineapple is my favorite ,but my homemade dressing may be the most talked about lol,Stay tuned til tomorrow\n13\n4\nView more comments\nWendie Duvall\n \n·\n1d\nThey look so good\nReply\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nI'm trying if I didn't wait till f****** 4.\\nOr 5 o'clock to come out here, things would probably be different.But my days and nights had been f***** u* my whole life.I'm gonna try to get up tomorrow and get out here and finish this.\\nS*** , first time we done the outside\n27\n14\nView more comments\nLoreida Martin\n \n·\n5d\n \n·\nAuthor\nThis picture looks like shit first time doing outside it a just doing to much for me these days I'm not as young as I used to … See more\nReply\n\n\n\n\nComment as Dr.Qinhao22\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nLoreida Martin\n \n·\nLast birthday I spent with Marsha she turned 46, me 47 her eyes freak me out like she’s trying to tell me something crazy asf\nLoreida Martin\n \n·\nThe look on Marsha face still haunts me, crazy last picture ever took on our birthday January 17 she died   About 2 months later I miss her\n8\n2\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\n5 days ago\nLearn More\n6 days ago\nLearn More\nApril 25"
+    },
+    "goto_litvinoff": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facelift Support Group | I’m almost 62 years old | Facebook",
+        "url": "https://www.facebook.com/groups/536390454675733/posts/1457961709185265/",
+        "profile_id": 32
+      }
+    },
+    "litvinoff": {
+      "ok": true,
+      "try": 1,
+      "value": "Home\nCreate a post\nWhat's on your mind, Dr.Qinhao22?\nTips for your Page\nRecommended post\nYou could reach up to 6 more Account Center accounts daily when you spend $14 to boost this post.\nFull facelift process in Shanghai revealed. You can trust us with your journey. #DrQinHao #facelift #shanghaiplasticsurgery #medicalaesthetics #facialrejuvenation #antiaging #plasticsurgery #deepplanefacelift #faceliftrecovery #youthfulglow\nYesterday at 2:30 PM\n \n · ﻿\nBoost reel\nSee insights\nStories\nPhotos and videos\nReels\nShort videos\nFeed posts\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nHU ZHI MIE\n \nAccounts with a verified badge have been authenticated and can be Meta Verified subscribers or notable persons or brands.\no\nd\nr\ns\np\no\ne\nS\nt\nn\n6\n7\n0\nl\nf\nm\nu\n2\n5\na\n6\n4\n4\n1\nl\nu\n2\n9\na\n9\ng\n0\nh\ng\nf\n7\nu\ng\n9\n5\n2\nu\nm\ng\n1\n5\n5\nh\n2\na\nl\nf\n7\nm\n0\n4\nm\n7\n3\n6\n \n·\nLOOK AT HER JAWLINE. THIS WAS FILMED IMMEDIATELY AFTER SURGERY. \nBefore surgery, she had pronounced facial fullness, a poorly defined jawline, and deep nasolabial fol… See more\n0:00 / 0:18\n10\n1\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nVictoria Litvinoff's Post\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nVictoria Litvinoff\n \n·\nn\nd\no\no\ns\nt\ne\nS\np\nr\ng\nh\n7\na\nf\n7\nv\n6\n4\n:\ne\nm\ne\nu\n5\n6\n2\n9\n1\n6\no\nb\nl\n9\nt\n7\nN\nM\n \nh\n9\n9\n1\n \nf\nm\n2\n2\n \n0\ng\nr\na\n0\n7\n2\n \nA\nm\n2\n3\n \n·\nI’m almost 62 years old. What do you guys recommend besides a deep plane facelift and neck lift for me? I had an upper and lower blepharoplasty already.\n34\n152\nMost relevant﻿\nBarbara Jaren\n \n·\n1w\nAlways ask this question of a surgeon that you respect. From my perspective, I would add an upper and lower bleph and possibly some fat transfer but again ask your doctor.\nReply\nShare\nView 3 replies\nSkilledAsparagus9724\n \n·\n1w\nI agree with rhinoplasty. Im not an expert but I think it would improve your face. Your skin is great\nReply\nShare\nView 4 replies\nTatyana Lus\n \n·\n1w\nYou look lovely! As a NYS licensed esthetician with over 30 years of experience, I would recommend exploring Sculptural Face Lift Massage and my Face Love classes before considering surgery. These are natural approaches that can help improve facial muscle tone, reduce puffiness, and improve facial contours. Feel free to send me a private message. I would be happy to share more information with you.\nReply\nShare\nAnonymous participant 157\n \n·\n1w\nYour skin looks great. A DPFL, neck lift, a lower bleph and WAY less eye make-up will do you wonders. Seriously, the dark eyeliner and purple eye shadow really age you \n.\nReply\nShare\nView 9 replies\nNan Imt\n \n·\n1w\nWhy not ask yourself and not the opinion of others?\nReply\nShare\nView 1 reply\nSharon Reeve\n \n·\n1w\nFat transfer under eyes, CO2 laser.\nReply\nShare\nGentleSquirrel7309\n \n·\n1w\nYou are very beautiful and look lovely\nYou do have hollowing under your eyes\nwhich a lower bleph\na d fat grafting would do wonders\nAnd you do have some\njowling and heaviness\nand some laxity in you neck\nNothing really helps but a deep plane facelift\nI’m a dentist by trade and have been studying this for a couple of years\nFind 2-3 surgeons\nthat you like and get consults\nIt’s a small investment compared to money spent in treatment.\nYou will. look spectacular when you have the surgery\nReply\nShare\nEdited\nView 9 replies\nTanya Gavrilenko\n \n·\n1w\nyou are smiling and this lifts up everything up making it is hard to tell in my opinion. but your skin is glowing beautifully. I think deep plane will take 20 years off.\nRepl"
+    },
+    "goto_search": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "deep plane facelift - Search Results | Facebook",
+        "url": "https://www.facebook.com/search/top?q=deep%20plane%20facelift",
+        "profile_id": 32
+      }
+    },
+    "search": {
+      "ok": true,
+      "try": 1,
+      "value": " \nSearch results for\ndeep plane facelift\nFilters\nAll\nRecent posts\nPosts you've seen\nDate posted\nPeople\nReels\nMarketplace\nPages\nGroups\nEvents\nEvents\nTUE, DEC 1 AT 3 AM +08\nLittle Hiker’s Club @ Paradise Point State Park\n15 people interested\nInterested\nTHU, DEC 24 AT 7 AM +08\nAnnual Holiday Pot Luck\n62 people interested\nInterested\nFRI, DEC 4 AT 7:30 AM +08\nDecember Elks Trivia Night\n2 people going\nInterested\nSee all\nPages\nDeep Plane Facelift in Turkey Before After\nPlastic Surgery · Abdi İpekçi Caddesi No:6-8 Ünsal Apt. Daire:10 Nişantaşı, Şişli/İSTANBUL, Istanbul, Istanbul Province, Turkey · Closed now · 481 followers\nFollow\nDr. Yakup Duman - Deep Plane Facelift Surgeon\nPlastic Surgery · 263 followers\nFollow\nMadrid Deep Plane Facelift Masterclass\nEducation · ., Madrid, Spain · 283 followers\nFollow\nSee all\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacelift Support Group\nSue Sully\n \n·\n \n·\nImaging waking up to your new face and seeing this !!!!!\nHaha it is only temporary and will produce amazing results … See more\n+3\n579\n198\n14\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nFacebook\nGroups\nFacelift Support Group\nPublic · 129K members · 90+ posts a day\nJoin\nFacelift &necklift group ✈️🇹🇷\nPublic · 1.4K members\nJoin\nNatural Face Lift\nPublic · 2.5K members\nJoin\nSee all\nNovember 15 at 6:15 PM\nLearn More"
+    },
+    "goto_selena": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "title": "Facebook",
+        "url": "https://www.facebook.com/Dr.Qinhao22/reels",
+        "profile_id": 32
+      }
+    },
+    "selena": {
+      "ok": true,
+      "try": 1,
+      "value": " \nThis content isn't available right now\nWhen this happens, it's usually because the owner only shared it with a small group of people, changed who can see it or it's been deleted.\nGo to Feed\nGo back\nVisit Help Center"
+    },
+    "opened_end": {
+      "ok": true,
+      "try": 1,
+      "value": {
+        "ok": true,
+        "opened": [
+          {
+            "profile_id": 5,
+            "debugging_address": "127.0.0.1:28842",
+            "pid": 40800,
+            "open_time": "2026-11-27 22:09:07"
+          },
+          {
+            "profile_id": 32,
+            "debugging_address": "127.0.0.1:55973",
+            "pid": 12804,
+            "open_time": "2026-11-27 18:43:23"
+          },
+          {
+            "profile_id": 67,
+            "debugging_address": "127.0.0.1:45015",
+            "pid": 41224,
+            "open_time": "2026-11-27 22:14:27"
+          },
+          {
+            "profile_id": 108,
+            "debugging_address": "127.0.0.1:24922",
+            "pid": 9644,
+            "open_time": "2026-11-27 22:31:08"
+          }
+        ],
+        "total": 4
+      }
+    }
+  }
+}

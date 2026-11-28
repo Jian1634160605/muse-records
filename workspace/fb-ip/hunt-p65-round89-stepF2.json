@@ -1,0 +1,31 @@
+{
+  "round": 89,
+  "ts": "2026-11-27 16:49:06 UTC",
+  "steps": {
+    "goto_notifications": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "title": "Instagram",
+        "url": "https://www.instagram.com/notifications/",
+        "profile_id": 65
+      }
+    },
+    "notifications_text": {
+      "ok": true,
+      "r": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\nhol_dingsoran\nSuggested for you\nFollow\nvahid_solati\nvahid solatii\nSuggested for you\nFollow\nfarzanehzolfaghari_\nFarzaneh Zolfaghari\nSuggested for you\nFollow\nboshra_mohamadi2\nFollowing milad7r\nFollow\nanitafarahani\nanita farahani\nSuggested for you\nFollow\nparisssun_\nپری سان 🫐\nPopular\nFollow\nranginkam0un\nParisa 🪽\nFollowed by aliasghar_zolfaghari_\nFollow\nmilad.s.r.m.n\nMILAD ♠️\nSuggested for you\nFollow\narchansariii\nSuggested for you\nFollow\nsamiratanide\nsamira tanideh\nSuggested for you\nFollow\nrahimi.karahome\nMohammad Reza Rahimi\nSuggested for you\nFollow\nfaatosh_nail\nFateme_Abbasi\nSuggested for you\nFollow\nrasooldarooo\nrasool\nFollowing milad7r\nFollow\nbarana.aomidi\nبارانا\nFollowing milad7r\nFollow\nsarakazemi117\nFollowing milad7r\nFollow\nfatemehhosna2026\nfatemeh\nFollowing milad7r\nFollow\nnejat3ali\nNejat\nSuggested for you\nFollow\nali_jalabi\nali_jalabi\nSuggested for you\nFollow\nrasoul.s.s\nrasoul\nSuggested for you\nFollow\nhossein_zareh64\nhossein\nSuggested for you\nFollow\namirhosein_bh_1369\nSuggested for you\nFoll"
+    },
+    "reel_Df6VpLAMU0y_retry": {
+      "ok": true,
+      "r": "gaga5456\nAI-generated profile\nOriginal audio\ngaga5456\n \n1w\nPost-op taping, day by day — the small steps after rhinoplasty matter as much as the surgery itself. What would you ask before your nose surgery?\n\nMusic: NO LIMITS PHONK — https://www.youtube.com/@nolimits_phonk\ngaga5456\n \n1w\nUsually the tape stays on for about a week after surgery, then Dr. Qin Hao checks the swelling and decides what comes next — it varies a little from nose to nose. As for cost, there's no one-size price since the bridge, tip, and what you'd like changed all shape the plan. Would you want a subtle refinement, or a more defined change?\nReply\ngaga5456\n \n1w\nCurious about rhinoplasty? Tap the WhatsApp link in my bio — happy to answer your questions.\nReply\nsarahcook6809\n \n1w\nJust had my nose done elsewhere and I'm not happy with it. Can you fix a revision? How much would it cost?\nReply\nView all 1 replies\n5\nNovember 18\n"
+    },
+    "reel_DfLlOOsrk": {
+      "ok": false,
+      "err": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 242 bytes remaining to read\n"
+    },
+    "reel_Df96NLVMX8g": {
+      "ok": true,
+      "r": "gaga5456\nAI-generated profile\nOriginal audio\ngaga5456\n \ngaga5456\n \n1w\nCurious about rhinoplasty? Tap the WhatsApp link in my bio — happy to answer your questions.\nReply\n1\n7 days ago\n"
+    }
+  }
+}

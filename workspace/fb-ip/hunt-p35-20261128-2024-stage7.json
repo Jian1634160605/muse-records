@@ -1,0 +1,52 @@
+{
+  "round": 115,
+  "stage": 7,
+  "opened_before": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55206",
+        "pid": 17956,
+        "open_time": "2026-11-28 19:13:35"
+      },
+      {
+        "profile_id": 35,
+        "debugging_address": "127.0.0.1:3932",
+        "pid": 17596,
+        "open_time": "2026-11-28 20:24:45"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:1885",
+        "pid": 10784,
+        "open_time": "2026-11-28 20:27:28"
+      }
+    ],
+    "total": 3
+  },
+  "close": {
+    "ok": true,
+    "profile_id": 35,
+    "closed": true
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55206",
+        "pid": 17956,
+        "open_time": "2026-11-28 19:13:35"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:1885",
+        "pid": 10784,
+        "open_time": "2026-11-28 20:27:28"
+      }
+    ],
+    "total": 2
+  },
+  "is_open_after": false
+}

@@ -1,0 +1,63 @@
+{
+ "calls_ok": [
+  "health",
+  "is_open",
+  "open",
+  "check",
+  "eval",
+  "goto_notif",
+  "eval",
+  "goto_requests",
+  "eval",
+  "goto_messages",
+  "eval",
+  "goto_msgr",
+  "eval",
+  "close",
+  "opened_after"
+ ],
+ "health": {
+  "ok": true,
+  "agent": "ixbrowser-agent",
+  "version": 15
+ },
+ "was_open": false,
+ "open": {
+  "ok": true,
+  "profile_id": 35,
+  "debugging_address": "127.0.0.1:12116"
+ },
+ "check": {
+  "ok": true,
+  "profile_id": 35,
+  "title": "Facebook",
+  "url": "https://www.facebook.com/",
+  "account_name": null,
+  "name_source": null,
+  "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nKelly Gowland\n6天前\n2026年11月21日周六13:14\n6天\n \n·\n5\n赞助内容\nSaleSmartly全球官方网站：全渠道私域客户沟通工具\napp.salesmartly.com\n【中国区】- 红果\n2027lt.com",
+  "screenshot": "shots/profile_35.png",
+  "debugging_address": "127.0.0.1:12116"
+ },
+ "identity": "{\"title\":\"Facebook\",\"links\":[\"Bertie Harmony\",\"Bertie Harmony的时间线\"],\"hasComposer\":true,\"head\":\" \\n首页\\n创建帖子\\nBertie Harmony，分享你的新鲜事吧！\\n创建快拍\\n分享照片、视频或文字\\n动态帖子\\nKelly Gowland\\n6天前\\n2026年11月21日周六13:14\\n6天\\n \\n·\\n5\\n赞助内容\\nSaleSmartly全球官方网站：全渠道私域客户沟通工具\\napp.salesmartly.com\\n【中国区】- 红果\\n2027lt.com\"}",
+ "notifications": "{\"title\":\"通知 | Facebook\",\"text\":\" \\n通知\\n全部\\n未读\\n新通知\\n未读\\n你有新的推荐好友：Ruth Hernández 。\\n2小时\\n更早的通知\\n我们发现一个来自陌生设备或位置的新登录。请检查登录情况。\\n3天\\n未读\\n有人尝试登录，但我们已阻止。\\n3天\\n未读\\n你的快拍现在将自动保存到私密文件夹中。你可以随时在设置中更改。\\n5天\\nDr. Qin Hao Eye Rejuvenation 回复了你给 TA 的 Reels 留下的评论。\\n5天\\n查看之前的通知\"}",
+ "friend_requests": "{\"title\":\"加好友请求 | Facebook\",\"text\":\" \\n好友\\n加好友请求\\n2个加好友请求\\n查看已发送请求\\nShaun Smith\\n22周\\n你们的共同好友：1 位\\n确认\\n删除\\nIain Andrews\\n22周\\n确认\\n删除\\n选择用户姓名来预览 TA 的个人主页。\"}",
+ "messages": "{\"title\":\"Messenger | Facebook\",\"hasYolande\":true,\"hasPinPrompt\":true,\"text\":\" \\nMessenger\\n跳到主要内容\\n跳到消息\\n跳到撰写区\\n聊天\\n更多\\n全部\\n未读\\n群聊\\n社群\\nYolande Engels de Lange\\n你: Hi Yolande, it's Bertie — I saw your reply in the Blepharoplasty group and wanted to message you here because that fear makes complete sense to me. From what I've read from other people who had theirs done with local and sedation, most said they drifted in and out and didn't really feel anything, more sleepy than properly awake — though I know everyone experiences it differently. Did your surgeon tell you how sleepy their sedation usually makes people?\\n \\n·\\n2周\\n未选择任何聊天\\n输入 PIN 码来还原聊天\\n部分消息丢失了。请输入你的 PIN 码来还原聊天记录。\\n-\\n-\\n-\\n-\\n-\\n-\\n忘记 PIN 码了？\\nMessenger。按下 Shift 和问号键即可查看键盘快捷键。\"}",
+ "messenger": "{\"title\":\"Messenger\",\"text\":\"Features\\n\\nPrivacy and Safety\\nFor Developers\\nHelp Center\\nA place for meaningful conversations\\n\\nMessenger helps you connect with your Facebook friends and family, build your community, and deepen your interests.\\n\\nContinue as Bertie Harmony\\nSwitch account\\n© Meta 2026\\nPrivacy Policy\\nCookie Policy\\nTerms\\nEnglish (US)\"}",
+ "close": {
+  "ok": true,
+  "profile_id": 35,
+  "closed": true
+ },
+ "opened_after": {
+  "ok": true,
+  "opened": [
+   {
+    "profile_id": 32,
+    "debugging_address": "127.0.0.1:55206",
+    "pid": 17956,
+    "open_time": "2026-11-28 19:13:35"
+   }
+  ],
+  "total": 1
+ }
+}

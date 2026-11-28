@@ -1,0 +1,100 @@
+{
+  "round": 107,
+  "stage": 7,
+  "opened_before": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:28842",
+        "pid": 40800,
+        "open_time": "2026-11-27 22:09:07"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55973",
+        "pid": 12804,
+        "open_time": "2026-11-27 18:43:23"
+      },
+      {
+        "profile_id": 35,
+        "debugging_address": "127.0.0.1:3548",
+        "pid": 31052,
+        "open_time": "2026-11-27 23:25:50"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:35543",
+        "pid": 40400,
+        "open_time": "2026-11-27 23:30:52"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:5124",
+        "pid": 34992,
+        "open_time": "2026-11-27 22:16:49"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:45015",
+        "pid": 41224,
+        "open_time": "2026-11-27 22:14:27"
+      },
+      {
+        "profile_id": 108,
+        "debugging_address": "127.0.0.1:24922",
+        "pid": 9644,
+        "open_time": "2026-11-27 22:31:08"
+      }
+    ],
+    "total": 7
+  },
+  "close": {
+    "ok": true,
+    "profile_id": 35,
+    "closed": true
+  },
+  "opened_after": {
+    "ok": true,
+    "opened": [
+      {
+        "profile_id": 5,
+        "debugging_address": "127.0.0.1:28842",
+        "pid": 40800,
+        "open_time": "2026-11-27 22:09:07"
+      },
+      {
+        "profile_id": 32,
+        "debugging_address": "127.0.0.1:55973",
+        "pid": 12804,
+        "open_time": "2026-11-27 18:43:23"
+      },
+      {
+        "profile_id": 44,
+        "debugging_address": "127.0.0.1:35543",
+        "pid": 40400,
+        "open_time": "2026-11-27 23:30:52"
+      },
+      {
+        "profile_id": 65,
+        "debugging_address": "127.0.0.1:5124",
+        "pid": 34992,
+        "open_time": "2026-11-27 22:16:49"
+      },
+      {
+        "profile_id": 67,
+        "debugging_address": "127.0.0.1:45015",
+        "pid": 41224,
+        "open_time": "2026-11-27 22:14:27"
+      },
+      {
+        "profile_id": 108,
+        "debugging_address": "127.0.0.1:24922",
+        "pid": 9644,
+        "open_time": "2026-11-27 22:31:08"
+      }
+    ],
+    "total": 6
+  },
+  "is_open_after": false
+}

@@ -1,0 +1,53 @@
+{
+ "ts": "2026-11-28 11:38:37 UTC",
+ "steps": {
+  "close44": {
+   "ok": true,
+   "r": {
+    "ok": true,
+    "profile_id": 44,
+    "closed": true
+   }
+  },
+  "opened_after": {
+   "ok": true,
+   "r": {
+    "ok": true,
+    "opened": [
+     {
+      "profile_id": 5,
+      "debugging_address": "127.0.0.1:52576",
+      "pid": 39008,
+      "open_time": "2026-11-28 19:36:40"
+     },
+     {
+      "profile_id": 32,
+      "debugging_address": "127.0.0.1:55206",
+      "pid": 17956,
+      "open_time": "2026-11-28 19:13:35"
+     }
+    ],
+    "total": 2
+   }
+  },
+  "opened_after_20s": {
+   "ok": true,
+   "r": {
+    "ok": true,
+    "opened": [
+     {
+      "profile_id": 32,
+      "debugging_address": "127.0.0.1:55206",
+      "pid": 17956,
+      "open_time": "2026-11-28 19:13:35"
+     }
+    ],
+    "total": 1
+   }
+  },
+  "is_open_after": {
+   "ok": true,
+   "r": false
+  }
+ }
+}

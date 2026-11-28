@@ -1,0 +1,37 @@
+{
+  "round": 105,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:53652"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月18日周三00:24\n11月18日00:24\n \n·\n分享对象： 公开\nConfidence in anti-aging comes from stable, natural and subtle changes\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:08 / 0:11\n",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:53652"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=100092618667742&__cft__[0]=AZhnFPMBCWhD6fZHqu5PqGpwamisSXzVp9PSI-Jrv_Bu3YdaMb1FklqNCc9w1QeNGtT1d1cSlZq7LQqEX1rb-S4OZH9zYTjc3MdhTyWlYqwKchzZAYrwWRlLd2EgsZZ6SzCX7RO6dylIt--ebcasmPLvH1wt6jyD2BNoT5M5Xh2jcbEsw-OeTRybfh_ndls&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=100092618667742&__cft__[0]=AZhnFPMBCWhD6fZHqu5PqGpwamisSXzVp9PSI-Jrv_Bu3YdaMb1FklqNCc9w1QeNGtT1d1cSlZq7LQqEX1rb-S4OZH9zYTjc3MdhTyWlYqwKchzZAYrwWRlLd2EgsZZ6SzCX7RO6dylIt--ebcasmPLvH1wt6jyD2BNoT5M5Xh2jcbEsw-OeTRybfh_ndls&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\n在线状态指示标\n在线\nKelly Gowland\n2026年10月25日周日09:35\n10月25日\n \n·\n3\n2\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nHow to Read a Wine Label Without Getting Lost in the Lingo\ntorres.es"
+  }
+}

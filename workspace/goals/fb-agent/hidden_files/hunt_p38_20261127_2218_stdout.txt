@@ -1,0 +1,23 @@
+[ok] health 第1次
+health: {"ok": true, "agent": "ixbrowser-agent", "version": 15}
+[ok] opened 第1次
+opened: {"ok": true, "opened": [{"profile_id": 5, "debugging_address": "127.0.0.1:28842", "pid": 40800, "open_time": "2026-11-27 22:09:07"}, {"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 65, "debugging_address": "127.0.0.1:5124", "pid": 34992, "open_time": "2026-11-27 22:16:49"}, {"profile_id": 67, "debugging_address": "127.0.0.1:45015", "pid": 41224, "open_time": "2026-11-27 22:14:27"}, {"profile_id": 102, "debugging_address": "127.0.0.1:49863", "pid": 5788, "open_time": "2026-11-27 22:17:42"}], "total": 5}
+was_open(38): False
+[ok] open(38) 第1次
+open: {"ok": true, "profile_id": 38, "debugging_address": "127.0.0.1:36884"}
+[ok] check(38) 第1次
+check: {"ok": true, "profile_id": 38, "title": "Facebook", "url": "https://www.facebook.com/", "account_name": "Oe", "name_source": "composer", "page_text_sample": null, "screenshot": "shots/profile_38.png", "debugging_address": "127.0.0.1:36884"}
+[ok] goto notifications 第1次
+[ok] eval notifications 第1次
+NOTIF: {"url":"https://www.facebook.com/notifications","title":"Notifications | Facebook","text":" \nNotifications\nAll\nUnread\nNew\nUnread\nYour reel is ready to view. Share with your friends.\n9m\nUnread\nRhinoplasty in Turkey - real...: \"Dr Sahil Aydin….. has anyone had experience with him and rhinoplasty please ? I am booked to go in…\"\n17m\nToday\nUnread\nAaron Jarsey mentioned you and other followers in a comment.\n3h\nUnread\nBWØII WA ÇITY mentioned you and other followers in a comment.\n4h\nEarlier\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n6h\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n6h\nSee previous notifications"}
+[ok] goto facelift group 第1次
+[ok] eval facelift feed 第1次
+FACELIFT: {"url":"https://www.facebook.com/groups/536390454675733/","count":4,"posts":{"1465994251715344":"Aysh Too\n \n·\n22h\nWho is the doctor?\nReply\nShare\n1","1466906298290806":"Felicia MacGregor\n \n·\n6m\nBeautiful\nReply\nShare","1466899788291457":"Molly Snow\n \n·\n1h\nThis is normal ….the people who look normal a few weeks after surgery didn’t have as much work done. Lots of surgeons say the… See more\nReply\nShare\n1","1460465468934889":"SereneSalamander4090\n \n·\n6d\nHe is awesome surgeon ( Kaderi)\nReply\nShare"}}
+[ok] goto rhino group 第1次
+[ok] eval rhino feed 第1次
+RHINO: {"url":"https://www.facebook.com/groups/604041441428373/","count":2,"posts":{"1721717696327403":"Emma Maria\n \n·\n5h\ni‘m having my revision at him next week. he seems very kind and professional\nReply\nShare\n1","1721611426338030":"Leash Aleash\n \n·\n4h\nI am the same way..ativan does help its not perfect but it helps alot\nReply\nShare"}}
+[ok] close(38) 第1次
+close: {"ok": true, "profile_id": 38, "closed": true}
+[ok] opened-after-close 第1次
+opened-after-close: {"ok": true, "opened": [{"profile_id": 5, "debugging_address": "127.0.0.1:28842", "pid": 40800, "open_time": "2026-11-27 22:09:07"}, {"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 65, "debugging_address": "127.0.0.1:5124", "pid": 34992, "open_time": "2026-11-27 22:16:49"}, {"profile_id": 67, "debugging_address": "127.0.0
+DONE

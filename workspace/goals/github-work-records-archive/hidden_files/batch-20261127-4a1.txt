@@ -1,0 +1,3 @@
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261123-daytime.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261123.json
+workspace/goals/github-work-records-archive/hidden_files/stage-report-20261124.json

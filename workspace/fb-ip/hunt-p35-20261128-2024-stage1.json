@@ -1,0 +1,37 @@
+{
+  "round": 115,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:3932"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nKelly Gowland\n6天前\n2026年11月21日周六13:14\n6天\n \n·\n5\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nHG Sports App",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:3932"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=100092618667742&__cft__[0]=AZjxxvMWSd1AVZ9U_Lmij81rWMwC_JH19YiKlR3Ty1BSRIUWcPb4xUH0JLxpSn6DkkxTtYw0Unib8ww1FrMlbZr2ng_YwhDZ1UFh-rQfpXadwbkPCeSQa9MFv0IIwIn2z411ooVPOS1DqQhMIvn2HrN6aKW_bxksbTxUliAGnwgiuYm8ioqK1J_Y7vqkq1c&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=100092618667742&__cft__[0]=AZjxxvMWSd1AVZ9U_Lmij81rWMwC_JH19YiKlR3Ty1BSRIUWcPb4xUH0JLxpSn6DkkxTtYw0Unib8ww1FrMlbZr2ng_YwhDZ1UFh-rQfpXadwbkPCeSQa9MFv0IIwIn2z411ooVPOS1DqQhMIvn2HrN6aKW_bxksbTxUliAGnwgiuYm8ioqK1J_Y7vqkq1c&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nKelly Gowland\n6天前\n2026年11月21日周六13:14\n6天\n \n·\n5\n赞助内容\nHG Sports App\nTravelpartnerGlobal\ntravelpartnergloballimited.com"
+  }
+}

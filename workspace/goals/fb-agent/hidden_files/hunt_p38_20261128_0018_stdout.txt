@@ -1,0 +1,33 @@
+[ok] health 第1次
+health: {"ok": true, "agent": "ixbrowser-agent", "version": 15}
+[ok] opened 第1次
+opened: {"ok": true, "opened": [{"profile_id": 5, "debugging_address": "127.0.0.1:28842", "pid": 40800, "open_time": "2026-11-27 22:09:07"}, {"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 35, "debugging_address": "127.0.0.1:6593", "pid": 26164, "open_time": "2026-11-27 23:56:00"}, {"profile_id": 38, "debugging_address": "127.0.0.1:38000", "pid": 32844, "open_time": "2026-11-28 00:16:41"}, {"profile_id": 67, "debugging_address": "127.0.0.1:45015", "pid": 41224, "open_time": "2026-11-27 22:14:27"}, {"profile_id": 108, "debuggi
+was_open(38): False
+[fail] open(38) 第1次: 调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server
+
+[fail] open(38) 第2次: 调用 POST /open 失败（curl 52）：curl: (52) Empty reply from server
+
+[ok] open(38) 第3次
+open: {"ok": true, "profile_id": 38, "debugging_address": "127.0.0.1:38000"}
+[ok] check(38) 第1次
+check: {"ok": true, "profile_id": 38, "title": "(1) Facebook", "url": "https://www.facebook.com/", "account_name": "Oe", "name_source": "composer", "page_text_sample": null, "screenshot": null, "debugging_address": "127.0.0.1:38000"}
+[fail] goto notifications 第1次: 调用 POST /goto 失败（curl 18）：curl: (18) transfer closed with 116 bytes remaining to read
+
+[fail] goto notifications 第2次: 调用 POST /goto 失败（curl 18）：curl: (18) transfer closed with 116 bytes remaining to read
+
+[ok] goto notifications 第3次
+[ok] eval notifications 第1次
+NOTIF: {"url":"https://www.facebook.com/notifications","title":"Notifications | Facebook","text":" \nNotifications\nAll\nUnread\nNew\nUnread\nRhinoplasty in Turkey - real...: \"DR. KADRI ILA @ vanity clinic in Istanbul When I was searching for surgeons in Turkey, I was only…\"\n9m\nUnread\nসা দ বা বূ mentioned you and other followers in a comment.\n52m\nToday\nUnread\nYour reel is ready to view. Share with your friends.\n2h\nUnread\nAaron Jarsey mentioned you and other followers in a comment.\n5h\nUnread\nBWØII WA ÇITY mentioned you and other followers in a comment.\n6h\nEarlier\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n8h\nUnread\nÕg Lîkê mentioned you and other followers in a comment.\n8h\nSee previous notifications"}
+[ok] goto facelift group 第1次
+[fail] eval facelift feed 第1次: 调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 940 bytes remaining to read
+
+[ok] eval facelift feed 第2次
+FACELIFT: {"url":"https://www.facebook.com/groups/536390454675733/","count":5,"posts":{"1465994251715344":"Michelle Visconte\n \n·\n16h\nThey almost killed me\nReply\nShare\n3","1463208891993880":"Susan McNair\n \n·\n3d\nJaw line is SNATCHED!!!\nReply\nShare\n35","1466644554983647":"Ovsanna Harutyunyan\n \n·\n1h\nYour surgeon did an awsome job! Great 11 days post op result. You look 20 years younger\nReply\nShare","1465361275111975":"Tiffani Pirok\n \n·\n1d\nI have one on January 25th.\nReply\nShare","1457005495947553":"PassionateStrawberry84\n \n·\n1w\nAnyone guessing over 45, full stop. Get your eyes fixed before even thinking of fixing your face. She didn’t ask how old do yo… See more\nReply\nShare\n22"}}
+[ok] goto rhino group 第1次
+[ok] eval rhino feed 第1次
+RHINO: {"url":"https://www.facebook.com/groups/604041441428373/","count":4,"posts":{"1721929456306227":"Anonymous participant 531\n \n·\n7h\nOmg yes! I want to slap everyone that posts “Omg this doesn’t look how I wanted it”.. meanwhile it’s 3 days post op.\nYeah bab… See more\nReply\nShare\n5","1721933579639148":"Cindy Maria Upton\n \n·\n37m\nMines still swollen after nearly 10 weeks\nReply\nShare","1722014909631015":"MemorableRadish6881\n \n·\n8h\nPut it in ur carry on bag so it stays with you at all times that’s what I did\nReply\nShare\n1","1722057186293454":"ExhilaratingEagle7523\n \n·\n7h\nHonestly you are 12 days post op…..\nReply\nShare\n24"}}
+[ok] close(38) 第1次
+close: {"ok": true, "profile_id": 38, "closed": true}
+[ok] opened-after-close 第1次
+opened-after-close: {"ok": true, "opened": [{"profile_id": 5, "debugging_address": "127.0.0.1:28842", "pid": 40800, "open_time": "2026-11-27 22:09:07"}, {"profile_id": 32, "debugging_address": "127.0.0.1:55973", "pid": 12804, "open_time": "2026-11-27 18:43:23"}, {"profile_id": 35, "debugging_address": "127.0.0.1:6593", "pid": 26164, "open_time": "2026-11-27 23:56:00"}, {"profile_id": 67, "debugging_address": "127.0.0
+DONE

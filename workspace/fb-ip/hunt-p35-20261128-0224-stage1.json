@@ -1,0 +1,37 @@
+{
+  "round": 110,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:20101"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月18日周三00:24\n11月18日00:24\n \n·\n分享对象： 公开\nConfidence in anti-aging comes from stable, natural and subtle changes\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:07 / 0:11\n",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:20101"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZjnVGWizb8mS2jnmLjQrx4cNN4spC7yAf6wkdsmLuKOdjovH7J4t4q5CdshEnBYyS9VoDeXB6lWzdk3JSsfkXcHvM8EtQk1u_wuYuJAlkRJwoBINWhut_q_C5ITzKOVli6n2ptIqtQcy3mHLdGtGbOGsSuq3ZTgSmekyxVG_8-tF7Nj9mRHLSs8R3N1SF8jIOdZs5jsRxbV0Q&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZjnVGWizb8mS2jnmLjQrx4cNN4spC7yAf6wkdsmLuKOdjovH7J4t4q5CdshEnBYyS9VoDeXB6lWzdk3JSsfkXcHvM8EtQk1u_wuYuJAlkRJwoBINWhut_q_C5ITzKOVli6n2ptIqtQcy3mHLdGtGbOGsSuq3ZTgSmekyxVG_8-tF7Nj9mRHLSs8R3N1SF8jIOdZs5jsRxbV0Q&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月16日周一12:00\n11月16日12:00\n \n·\n分享对象： 公开\nNatural facelift: people notice you look younger, without obvious surgical marks\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:03 / 0:11\n查看成效分析\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nSaleSmartly全球官方网站 - 全渠道私域沟通平台\nhttps://www.salesmar"
+  }
+}

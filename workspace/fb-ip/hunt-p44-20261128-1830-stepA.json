@@ -1,0 +1,30 @@
+{
+  "round": "2026-11-28 18:30",
+  "ts": "2026-11-28 10:30:28 UTC",
+  "steps": {
+    "health": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "agent": "ixbrowser-agent",
+        "version": 15
+      }
+    },
+    "opened": {
+      "ok": true,
+      "r": {
+        "ok": true,
+        "opened": [],
+        "total": 0
+      }
+    },
+    "open44_attempts": [
+      {
+        "n": 1,
+        "result": "OK",
+        "r": "{'ok': True, 'profile_id': 44, 'debugging_address': '127.0.0.1:58146'}"
+      }
+    ]
+  },
+  "was_open": false
+}

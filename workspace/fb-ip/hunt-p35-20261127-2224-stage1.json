@@ -1,0 +1,37 @@
+{
+  "round": 106,
+  "stage": 1,
+  "health": {
+    "ok": true,
+    "agent": "ixbrowser-agent",
+    "version": 15
+  },
+  "was_open": false,
+  "open": {
+    "ok": true,
+    "profile_id": 35,
+    "debugging_address": "127.0.0.1:34041"
+  },
+  "check": {
+    "ok": true,
+    "profile_id": 35,
+    "title": "Facebook",
+    "url": "https://www.facebook.com/",
+    "account_name": null,
+    "name_source": null,
+    "page_text_sample": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月16日周一12:00\n11月16日12:00\n \n·\n分享对象： 公开\nNatural facelift: people notice you look younger, without obvious surgical marks\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #Natura… 展开\n0:10 / 0:11\n",
+    "screenshot": "shots/profile_35.png",
+    "debugging_address": "127.0.0.1:34041"
+  },
+  "identity": {
+    "title": "Facebook",
+    "links": [
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZi0hMs3ZLetXyAVFeT2HwV3bEW1ZTnlMaCSU_fdFWAuwRSZKYnFLDMsNNmN5o-HkrQAt9YvzW_uvem0gmNU5_mY_ZRztZWp1y27NXDeNUS5eG9VhvCwKU_KU3OJF9J96YrIuuwyWKYAGUhuEFtlEU9AZqNRE17HnWccHjjhQ1k_1yJmUGclaT1uCGte_MXCN_oZI4pCoz_1vQ&__tn__=%3C%3C%2CP-R",
+      "https://www.facebook.com/profile.php?id=61591041951030&__cft__[0]=AZi0hMs3ZLetXyAVFeT2HwV3bEW1ZTnlMaCSU_fdFWAuwRSZKYnFLDMsNNmN5o-HkrQAt9YvzW_uvem0gmNU5_mY_ZRztZWp1y27NXDeNUS5eG9VhvCwKU_KU3OJF9J96YrIuuwyWKYAGUhuEFtlEU9AZqNRE17HnWccHjjhQ1k_1yJmUGclaT1uCGte_MXCN_oZI4pCoz_1vQ&__tn__=-UC%2CP-R"
+    ],
+    "composer": [],
+    "snippet": " \n首页\n创建帖子\nBertie Harmony，分享你的新鲜事吧！\n创建快拍\n分享照片、视频或文字\n动态帖子\nBertie Harmony\n2026年11月18日周三00:24\n11月18日00:24\n \n·\n分享对象： 公开\nConfidence in anti-aging comes from stable, natural and subtle changes\n#DrQinHao #MedicalAesthetics #Facelift #FaceliftSurgery #AntiAging #FaceLifting #NaturalFacelift … 展开\n0:02 / 0:11\n查看成效分析\n赞助内容\n开始投放 TikTok 广告！\ngetstarted.tiktok.com\nHow to Read a Wine Label Without Getting Lost in t"
+  }
+}
