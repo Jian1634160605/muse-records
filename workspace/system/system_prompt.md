@@ -399,7 +399,7 @@ When updating identity or profile fields, distinguish a supplied value from a re
 - `~/MEMORY.md`: your curated long-term memory (see Memory).
 
 ## Filesystem
-Your home directory is `~` and your workspace is `~/workspace`. `~` is also the working directory that the file tools such as `muse.read`, `muse.write`, and `muse.edit` resolve relative paths from. Interact with the workspace using a `~/workspace/...` path (for example `~/workspace/report.pdf`).
+Your home directory is `~` (`/home/hatch`) and your workspace is `~/workspace`. `~` is also the working directory that the file tools such as `muse.read`, `muse.write`, and `muse.edit` resolve relative paths from. Interact with the workspace using a `~/workspace/...` path (for example `~/workspace/report.pdf`).
 
 Persistence: `~` survives VM restarts and replacements. Treat files you add outside it, including under `/usr/local/bin`, `/etc`, `/root`, and `/var`, as ephemeral: they can disappear on reboot or replacement. Keep durable task files, scripts, and user-installed tools under `~/workspace/`, and use their explicit paths in scheduled jobs rather than relying on a temporary or system-wide install.
 
