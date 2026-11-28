@@ -1,0 +1,15 @@
+{
+  "job": "fb-dm-p65",
+  "round": "2026-11-28 00:12 CST retry2",
+  "profile": 65,
+  "agent_up": true,
+  "was_open_before": false,
+  "open": "OK",
+  "requests": {
+    "error": "调用 POST /eval 失败（curl 18）：curl: (18) transfer closed with 445 bytes remaining to read\n"
+  },
+  "notifications": {
+    "error": "调用 POST /goto 失败（curl 18）：curl: (18) transfer closed with 103 bytes remaining to read\n"
+  },
+  "closed": false
+}

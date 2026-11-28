@@ -1,0 +1,8 @@
+{
+  "job": "fb-dm-p65",
+  "round": "2026-11-28 00:12 CST retry",
+  "profile": 65,
+  "agent_up": true,
+  "was_open_before": false,
+  "open": "FAIL x3"
+}

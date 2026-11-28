@@ -5933,3 +5933,71 @@
 - 好友列表标题 48 位、实际渲染 47 个名字；与 13:11 基线（44 人）比新增 3 人：郭钦宁（61581238527532）、叶翰博（61569895930370）、王依依（61569213500772）。第 48 位未渲染出来，身份不明（与 13:11 轮同现象：标题比渲染多 1）。待处理好友请求：无。
 - 筛查（浏览器逐个看主页，只读）：三人均无所在地/工作/学校信息，公开帖子里均无医美/拉皮/整形/想做手术的信号。郭钦宁：数字内容创作者，125 好友，真人头像，帖子讲运动减肥（含一条减肥产品）；叶翰博：482 好友，头像挡脸的动漫风、看不清真人，帖子是新海诚《言叶之庭》摘抄；王依依：数字内容创作者，72 好友，真人头像，帖子是表情包和手写便签。收集表/台账/客资表里均无三人记录。
 - 基线文件已更新为 47 人。首条私信等用户定夺，未发。
+
+## 首条私信尝试未核验（2026-11-27 22:16-22:19，浏览器 messenger.com，Victoria 会话）
+- 用户 22:14-22:15 定：郭钦宁、王依依、叶翰博三人发首条。9 条消息（每人 3 条短消息）均已打出，内容按筛查定制（郭钦宁健身打卡 / 王依依手写便签 / 叶翰博《言叶之庭》）。
+- 送达未核验：三条线程均为端到端加密，消息一直卡在“正在发送”，复查时每人第 1 条已不在对话记录里，第 2、3 条仍显示“正在发送”。页面提示“聊天记录缺失 — 输入 PIN 码即可查看未加载到这台设备的消息”。未确认对方是否收到，不得按“已发送”汇报。
+- 线程：郭钦宁 e2ee/t/1472602797531097；王依依 e2ee/t/1143815224901799；叶翰博 e2ee/t/1133506856084589。
+- 待办：需 Victoria 的 Messenger PIN 解锁本浏览器加密记录后复核；没发成的重发。PIN 由用户本人在浏览器里输，不经聊天记录。PIN 不可用时改走指纹浏览器 profile 2（Victoria）重发。
+
+## fb-dm-thread-watch 23:43 轮（23:43–00:05，窗口内）⚠️ 双 CLI 仍断 + E2EE 全线程无法解密，Cheung/Anson 首条未发
+- 本轮定时 23:43:54 触发，执行 23:43–00:05 CST，已进夜里窗口（18:30–次日 06:00），本可发送。
+- **好友差分未完成（阻塞，非“无新好友”）**：`fb-friends-diff.py` 单次验证失败：`CLI error rc=3: Error: facebook connector is not connected; reconnect required`，page 1 未取到，差分无结论（11-26 15:14 轮起同故障延续）。基线文件未改写（仍为今日 20:11 浏览器核验版 47 人）。
+- **Messenger 新同步未完成（阻塞，非“无新回复”）**：`hatch_messenger_cli sync both --since-days 1` 与 `threads --unread` 均报 `messenger_companion connector is not connected; reconnect required`。距最后一次成功同步（11-26 15:09:42）已约 32.7 小时，此后的新入站无法排除。`unlock`/重连属凭据操作，需成安处理，本轮不擅自执行。
+- **浏览器核查（browser-task:60266cd6，messenger.com，Victoria 会话，23:52–00:05）**：会话已登录，无登录墙；7 条 E2EE 线程逐条打开、各等 60 秒（郭钦宁线程加刷新再等 60 秒）仍全部显示“正在加载消息”，内容始终无法解密；全程未弹 PIN 对话框（与 22:16 轮曾提示 PIN 不同，本轮连 PIN 入口都没出现）、未遇发送限制、未弹审批卡。
+  - 郭钦宁/王依依/叶翰博：22:16 的 9 条消息状态无法核实（看不到“正在发送”、也看不到已发送/已送达、无法确认是否消失），对方有无回复同样无法确认。按核验规则不得报已发送，不得重发。
+  - Cheung Ma（/e2ee/t/1656674665930826，35 分钟前在线）：内容无法解密，无法确认有无新来信；未读蓝点仍在。
+  - Charlene Nicoll：线程内无法解密；列表预览最新仍为我方 1 周前消息（“May I ask — which area bothers you most right now, the jawline, the neck, or the cheeks? — Victor”），无未读标记 → 列表级无新回复。B-19 窗口已于今晚 18:52 到期，11-24 选项卡仍等成安回复，本轮未发。
+  - Sarah Jane / Anne Riches / Kevin Conzone：均无未读标记，内容无法解密，有无新回复无法确认；Kevin 未发任何消息。
+  - Anson Zhou：聊天列表中无其线程，搜索点开仅为新建消息窗口（内容为空），证实不存在我方已发消息的线程；新建草稿已清除，未发送。
+  - 其他未读：顶部共 6 条未读——王依依、郭钦宁、叶翰博、Cheung Ma、Bablu Anshari、David Lam，内容均未知；Annie Ol 一条为我方消息对方未读，非来信；Patrocle、Lauren Murphy 等有可读预览，无新未读来信迹象。
+- **Cheung Ma、Anson Zhou 首条未发**：按 16:17 用户口径本应在今晚发，但发送前提（22:16 九条消息全部显示已送达）无法证实，按规则 8 立即停下、不反复重试、不盲发。两人首条仍待 E2EE 解密恢复后核验 22:16 状态再定。
+- 文件 mtime 核查：group-prospects.md / leads.md 自 11-25 09:47 后无修改，无新增待私信、无新客资；fb-reply-seen.md 自 11-24 后无修改；dm-threads.md 自 22:21 轮后无他人写入；BravePear 维持暂挂；Chi Wah Fan 等 4 名新好友去留、Sandy Jing 去留、David Lam 去留、Bablu Anshari 去留仍等用户定夺。未打印任何凭据内容。
+- 0 新发、0 已确认新回复、0 客资；账号无受限/checkpoint（本轮未发送）。**本轮结论：监控通道故障持续（双 CLI 断 + E2EE 全线程无法解密）；22:16 九条消息送达状态仍悬而未决，Cheung/Anson 首条顺延。待成安在浏览器里输 Victoria 的 Messenger PIN 解锁加密记录后复核，未发成的再重发；PIN 未解前不补发、不重发。**
+
+## fb-lead-scan 00:38 轮（01:14–01:19 CST，窗口内）⚠️ 双 CLI 仍断 + 无待处理请求、无新好友、0 新客资
+- Messenger：`hatch_messenger_cli threads --unread` 报未连接（messenger_companion 未连接，需重连；用户 11-27 09:51 已断开）。未读私信无法读。
+- Facebook CLI：`timeline fetch` 报 "facebook connector is not connected; reconnect required"（`me` 仅回空 {}，非连通）。最近帖子评论无法查。
+- 浏览器核查（Victoria 会话，01:17–01:18，只读）：好友请求页“没有新请求”；好友列表标题 48 位、实际渲染 47 人，与 11-27 20:11 基线逐名程序化比对完全一致（无新增、无减少），48 与 47 之差为同一未渲染项、身份仍不明。未点通过、未发消息。
+- leads.md / group-prospects.md 自 11-25 09:47 后无修改；无新客资。
+- 0 新发、0 已确认新回复、0 客资。**本轮结论：监控通道故障持续（双 CLI 断，距最后一次成功同步 11-26 15:09:42 已约 34 小时）；本轮可核验范围内无新动态，按规则静默结束。22:16 九条消息送达状态与 Cheung/Anson 首条仍待成安输 Victoria Messenger PIN 解锁后复核。**
+
+## fb-dm-thread-watch 06:12 轮（06:08–06:14，窗口外，只读不发）⚠️ 双 CLI 仍断 + 好友无变化
+- 本轮定时 06:08:54 触发，执行 06:09–06:14 CST，已出夜里窗口（18:30–次日 06:00），只读不发：未发首条、未发跟进、未发激活、未碰浏览器发送通道。
+- **好友差分 CLI 未完成（阻塞，非“无新好友”）**：`fb-friends-diff.py` 单次验证失败：`CLI error rc=3: Error: facebook connector is not connected; reconnect required`，page 1 未取到，差分无结论（11-26 15:14 轮起同故障延续）。按规则 8 只做 1 次验证、未反复重试。基线文件未改写。
+- **Messenger 新同步未完成（阻塞，非“无新回复”）**：`hatch_messenger_cli sync both --since-days 1` 单次验证失败：`messenger_companion connector is not connected; reconnect required`。距最后一次成功同步（11-26 15:09:42）已约 39 小时，此后的新入站无法排除。`unlock`/重连属凭据操作，需成安处理，本轮不擅自执行。
+- **浏览器只读核查（browser-task:9c5df671，friends/list，Victoria 会话，06:13–06:14）**：登录核对为 Victoria Maizie 本人，无登录墙/checkpoint/会话过期；好友列表标题 48 位、实际渲染 47 人，与 11-27 20:11 基线逐名比对完全一致——新增 0、减少 0、改名 0；第 48 位仍未渲染、身份不明（刷新+滚动到底复核仍不可见）；待处理好友请求 0 人。未发消息、未点通过/拒绝、未改设置。
+- 线程内容本轮未核查：E2EE 解密未恢复、CLI 同步断，重点线程（Charlene、Sarah Jane、Anne Riches、Kevin Conzone、Cheung Ma 等）有无新回复无法确认；唯一线程侧证据为文件 mtime——dm-threads.md 自 01:19 轮后无他人写入。
+- 文件 mtime 核查：group-prospects.md / leads.md 自 11-25 09:47 后无修改，无新增待私信、无新客资；fb-reply-seen.md 自 11-24 后无修改；BravePear 维持暂挂；Charlene B-19（窗口已于 11-27 18:52 到期）仍等成安选项卡回复，本轮不发、不弹审批卡；Chi Wah Fan 等 4 名新好友去留、Sandy Jing 去留、David Lam 去留、Bablu Anshari 去留仍等用户定夺。未打印任何凭据内容。
+- 0 新发、0 已确认新回复、0 客资；账号无受限/checkpoint/发送失败（本轮未发送）。**本轮结论：监控通道故障持续（双 CLI 断，E2EE 解密未恢复）；可核验范围内无新动态，按规则 7 安静结束，不另发报告。22:16 九条消息送达状态与 Cheung/Anson 首条仍待成安输 Victoria Messenger PIN 解锁后复核。**
+
+## fb-dm-thread-watch 12:13 轮（12:15–12:20，窗口外，只读不发）⚠️ 双 CLI 仍断 + 好友无变化
+- 本轮定时 12:13:54 触发，执行 12:15–12:20 CST，已出夜里窗口（18:30–次日 06:00），只读不发：未发首条、未发跟进、未发激活、未碰浏览器发送通道。
+- **好友差分 CLI 未完成（阻塞，非“无新好友”）**：`fb-friends-diff.py` 单次验证失败：`CLI error rc=3: Error: facebook connector is not connected; reconnect required`，page 1 未取到，差分无结论（11-26 15:14 轮起同故障延续）。按规则 8 只做 1 次验证、未反复重试。基线文件未改写（仍为 11-27 20:11 浏览器核验版 47 人）。
+- **Messenger 新同步未完成（阻塞，非“无新回复”）**：`hatch_messenger_cli sync both --since-days 1` 单次验证失败：`messenger_companion connector is not connected; reconnect required`。距最后一次成功同步（11-26 15:09:42）已约 45 小时，此后的新入站无法排除。`unlock`/重连属凭据操作，需成安处理，本轮不擅自执行。
+- **浏览器只读核查（browser-task:cee6ed0b，friends/list + friends/requests，Victoria 会话，12:17–12:19）**：登录核对为 Victoria Maizie 本人（61590577106578，52 位粉丝），无登录墙/checkpoint/会话过期；好友列表标题 48 位、实际渲染 47 人，与 11-27 20:11 基线逐名比对完全一致——新增 0、减少 0、改名 0；第 48 位仍未渲染、身份不明（滚动到底复核仍不可见）；待处理好友请求 0 人（页面显示“没有新请求”）。未发消息、未点通过/拒绝、未改设置。
+- 线程内容本轮未核查：E2EE 解密未恢复、CLI 同步断，重点线程（Charlene、Sarah Jane、Anne Riches、Kevin Conzone、Cheung Ma 等）有无新回复无法确认；唯一线程侧证据为文件 mtime——dm-threads.md 自 06:12 轮（06:15 CST 写入）后无他人写入。
+- 文件 mtime 核查：group-prospects.md / leads.md 自 11-25 09:47 后无修改，无新增待私信、无新客资；fb-reply-seen.md 自 11-24 后无修改；BravePear 维持暂挂；Charlene B-19（窗口已于 11-27 18:52 到期）仍等成安选项卡回复，本轮不发、不弹审批卡；Chi Wah Fan 等 4 名新好友去留、Sandy Jing 去留、David Lam 去留、Bablu Anshari 去留仍等用户定夺。未打印任何凭据内容。
+- 0 新发、0 已确认新回复、0 客资；账号无受限/checkpoint/发送失败（本轮未发送）。**本轮结论：监控通道故障持续（双 CLI 断，E2EE 解密未恢复）；可核验范围内无新动态，按规则 7 安静结束，不另发报告。22:16 九条消息送达状态与 Cheung/Anson 首条仍待成安输 Victoria Messenger PIN 解锁后复核。**
+
+## PIN 解锁核验轮（12:09–12:34，browser-task:ffdfe688，messenger.com + facebook.com/messages，Victoria 会话）✅ E2EE 已解锁，9 条确认未发出、已重发核验
+- 成安 12:07–12:08 在主聊直接发来 Victoria 的 Messenger PIN（数值不记录、不复述）。Muse 用该 PIN 一次性解锁：messenger.com 未弹 PIN 框、线程一直“正在加载消息”；PIN 框出现在 facebook.com/messages（“输入 PIN 码来还原聊天”，PIN 创建于 2026-10-18），输入一次即通过（显示“Verifying your PIN”后关闭，刷新后不再出现），未用“Reset PIN”。对照线程 Charlene Nicoll 随后正常加载出 11-20 消息（全部“已发送”），证实解密已恢复。解锁前曾在 Message Storage 设置里打开“Remember this browser”，该操作本身未解锁、未触发 PIN 框。
+- **核验结论：2026-11-27 22:16 的 9 条首条全部确认未发出**——解锁后三个线程均只剩端到端加密提示 + “messages missing”条目，没有任何消息气泡（不是“正在发送”、不是已发送/已送达）；郭钦宁线程反复核查 3 分钟以上、王依依与叶翰博各 40 秒以上、重发前又复核一次，Charlene 对照线程约 20 秒即加载，故缺失不是加载慢。昨晚“正在发送”是本地假象，消息实际未到服务器。
+- **重发：9 条全部按原话重发，浏览器内核验通过**——郭钦宁 12:28、王依依 12:29、叶翰博 12:30–12:31；重发后逐条核验、离开再回来复核仍在；12:34 最终复核：郭钦宁（5 分钟前已发送）、王依依（4 分钟前）、叶翰博（2–3 分钟前），每条均显示“已发送”，均未显示“已送达”/“已读”；三线程的“messages missing”条目已消失。台账状态改为“等回复”。
+- **旧线程只读核查（未发任何消息）**：Cheung Ma（/e2ee/t/1656674665930826，列表显示未读、预览 1 天前）、Bablu Anshari（/e2ee/t/1159740066537561，未读、预览 3 天前）、David Lam（/e2ee/t/2997960790539631，未读、预览 3 天前、当时在线）——逐个打开后均无可读消息内容（只有加密提示 + “messages missing”条目），未读蓝点在打开后清除；三条未读圆点实为加密提示条目、不是可读来信。Anson Zhou：聊天列表与未读筛选里均无其线程（未读筛选只剩 Lauren Murphy、Annie Ol、NteboRose Malehlonolo Ralekuku、Sherine Balbaa），搜索点开为新建消息窗口，空草稿已删除、未发送——证实尚无其线程。
+- 全程无受限/限额/新验证；未通过或拒绝任何好友请求；未改其他页面。
+- **待定：Cheung Ma、Anson Zhou 首条仍未发**（16:17 口径：Victoria 身份、浏览器发）。现为白天、夜里窗口（18:30–次日 06:00）外；等成安定：现在发还是等晚上 18:30 再发。
+
+## Cheung Ma、Anson Zhou 首条发送轮（2026-11-28 17:23–17:50，ixBrowser profile 2，Victoria 身份）⚠️ 一半完成、一半待用户定
+- **Cheung Ma（/e2ee/t/1656674665930826）：3 条正确首条已发并核验**——17:23（profile 时区 UTC-8）按原话发出：招呼 / 香港海港头像 / 问是否在香港；线程内逐条显示「已发送」+「消息由你发送于 01:23」，重进复核仍在。状态：等回复。
+- **同线程另有 3 条发错的消息（01:24）**：Anson Zhou 的 3 条（招呼 + 黑狗头像 + 问是不是自己养的狗）因搜索点错行打进 Cheung 线程，含一句重复招呼；线程现共 6 条。撤回三度失败（fix1/fix2/fix3）：消息悬停操作栏在合成悬停事件下不渲染，找不到消息级「更多」按钮，只摸到对话级菜单（「删除聊天」），不敢碰；三轮均未删掉任何消息、未动正确 3 条。**待成安定：他自己在电脑上长按撤回（30 秒），或由 Muse 发一条简短更正。**
+- **Anson Zhou：0 条发出**。原因：同名多人（搜索见 ECNU / 多伦多 / 哥本哈根 / 西安 / Pepsi 仓库技师等多个 Anson Zhou）；fix3 点开纯名「Anson Zhou」行进入新建对话窗（composer「发消息给Anson Zhou」），但新建页不显示对方 profile 链接，ID 门禁（61596657550940）无法通过，未敢发；fix4/fix5 走好友列表核对身份——fix4 URL 拼错（%2Ffriends），fix5 URL 已正（&sk=friends，页标题 Victoria Maizie）但精确名链接查到 0 条（列表懒加载或选择器未命中），身份仍未核对上。**待成安定：就发给列表第一个纯名 Anson Zhou（好友区条目，最可能是本人），或他指认是哪一个（ECNU/多伦多/哥本哈根/西安/其他）。**
+- PIN 经本次运行 stdin 喂给脚本解锁 E2EE，未写进任何文件、记忆或回复；profile 2 每次用完均已关闭，opened 为空。
+
+## fb-dm-thread-watch 18:18 轮（18:20–18:22，窗口外，只读不发）⚠️ 双 CLI 仍断 + 云浏览器登录待成安设备批准
+- 本轮定时 18:18:54 触发，执行 18:20–18:22 CST，未进夜里窗口（18:30–次日 06:00），只读不发：未发首条、未发跟进、未发激活、未碰浏览器发送通道。
+- **好友差分 CLI 未完成（阻塞，非“无新好友”）**：`fb-friends-diff.py` 单次验证失败：`CLI error rc=3: Error: facebook connector is not connected; reconnect required`，page 1 未取到，差分无结论（11-26 15:14 轮起同故障延续）。按规则 8 只做 1 次验证、未反复重试。基线文件未改写（仍为 11-27 20:11 浏览器核验版 47 人）。
+- **Messenger 新同步未完成（阻塞，非“无新回复”）**：`hatch_messenger_cli sync both --since-days 1` 单次验证失败：`messenger_companion connector is not connected; reconnect required`。距最后一次成功同步（11-26 15:09:42）已约 51 小时，此后的新入站无法排除。`unlock`/重连属凭据操作，需成安处理，本轮不擅自执行。
+- **浏览器只读核查本轮未做**：18:07 fb-lead-scan 轮刚试过——云浏览器 Victoria 会话已掉登录，friends/requests 重定向到登录页、密码提交后卡在两步验证，批准通知已发往成安的 Windows 电脑与 OnePlus 16，等他设备上批准；且 14:48 成安已改定浏览器操作一律走他自己的 Chrome 扩展、不用云浏览器。本轮不重复触发登录尝试、不另起浏览器任务。窗口内轮次走 ixBrowser profile 2 路线。
+- 文件 mtime 核查：group-prospects.md / leads.md 自 11-25 09:47 后无修改，无新增待私信、无新客资；fb-reply-seen.md 自 11-24 后无修改；dm-threads.md 自 17:45 轮（Cheung/Anson 发送轮）后无他人写入；今日日志显示 Cheung 错消息更正与 Anson 发给谁两个选项卡已于 17:52 后发往 FB 运营报告旁聊，截至本轮成安尚未点选/回复，两件事保持待定，本轮未推进。BravePear 维持暂挂；Charlene B-19（窗口已于 11-27 18:52 到期）仍等成安选项卡回复，本轮不发、不弹审批卡；Chi Wah Fan 等 4 名新好友去留、Sandy Jing 去留、David Lam 去留、Bablu Anshari 去留仍等用户定夺。未打印任何凭据内容。
+- 0 新发、0 已确认新回复、0 客资；账号无受限/checkpoint/发送失败（本轮未发送）。**本轮结论：监控通道故障持续（双 CLI 断，距最后一次成功同步约 51 小时）；云浏览器登录态新增待成安设备批准状态；可核验范围内无新动态，按规则 7 安静结束，不另发报告。**

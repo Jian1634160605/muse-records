@@ -1,0 +1,45 @@
+{
+  "job": "fb-dm-p65",
+  "round": "2026-11-28 01:12 CST",
+  "profile": 65,
+  "health_first": [
+    {
+      "i": 0,
+      "ok": true,
+      "r": "{'ok': True, 'agent': 'ixbrowser-agent', 'version': 15}"
+    }
+  ],
+  "agent_up": true,
+  "v15_health": {
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  },
+  "was_open_before": false,
+  "open": "OK",
+  "identity_page": {
+    "url": "https://www.instagram.com/",
+    "title": "Instagram",
+    "len": 1332,
+    "head": "afshin.marivani_official\nmilad7r\nsina.tashrifat\nvilaa.online\ninelyas\nkarlo.furniture\ndor__fa\nmezon_aroos_flavia\n•\n6h\nAI content\nسعادت اباد\n185\n27\n2\n38\nmezon_aroos_flavia\nجهت استعلام قیمت کد«52»کا.منت کن عروس زیبا💍\n... \nmore\nSee translation\nnagham105.3\n•\n1d\n28\n2\n3\nnagham105.3\nببالغ الحزن والأسى، تنعى الشركة المتحدة للخدمات الإعلامية ضحايا الحادث الأليم الذي وقع على الطريق الدائري، من أبناء مصر... \nmore\nSee translation\nvilaa.online\n•\n1d\n89\n3\n6\n11\nvilaa.online\n🌿 باغ ویلای مستقل با فضای سبز دلنشین در کلوده محمودآباد\n... \nmore\nSee translation\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages\nTurn on Notifications\nKnow right away when people follow you or like and comment on your photos.\nTurn On\nNot Now"
+  },
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 280,
+    "head": "gaga5456\nDrop a song…\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message\nTurn on Notifications\nKnow right away when people follow you or like and comment on your photos.\nTurn On\nNot Now"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2488,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\namink.arami19\namin\nFollowing milad7r\nFollow\nhna.sahri\nFollowing milad7r\nFollow\nalirezafatahii_\nSuggested for you\nFollow\na.vahed.ir\nعلیرضاواحد\nSuggested for you\nFollow\niifatemekooch\nSuggested for you\nFollow\ngecko.5829009\nFollowing milad7r\nFollow\nmohsen.hajiabotalebi\nSuggested for you\nFollow\nmanigeh.toe2022\nSuggested for you\nFollow\nmalizadeh01\nمحمد\nSuggested for you\nFollow\nrasooldarooo\nrasool\nFollowing milad7r\nFollow\nvida_arvan\n• Vida\nSuggested for you\nFollow\nshadmehrboom\nshadmehr\nFollowing milad7r\nFollow\nsavin_ebrahimifar\nFollowing milad7r\nFollow\nmojtaban95\nmojtaba-n\nSuggested for you\nFollow\nmohammad_sheikh85\nMohammed Sheikh\nSuggested for you\nFollow\nnejat3ali\nNejat\nSuggested for you\nFollow\nali_jalabi\nali_jalabi\nSuggested for you\nFollow\nmaryam.9.15.18.22\n🌚🌚\nSuggested for you\nFollow\nmama.d.shkri\nmamad\nFollowing milad7r\nFollow\nmehran_sheykhii\nMehran sheykhi\nSuggested for you\nFollow\ner_.md\nErfan Md\nSuggested for you\nFollow\ngholamrezagodarzi64\nGholamrezagodarzi\nSuggested for you\nFollow\neltemas2aa\nآرامش\nSuggested for you\nFollow\nali.aydin743017\nali aydin\nSuggested for you\nFollow\nzoghi.arash\nArash Zoghi\nSuggested for you\nFollow\nafzoon_mr\nFollowing milad7r\nFollow\nbizhanmirzayi7\nbizhanmirzayi\nSuggested for you\nFollow\n_mohammadkhanbaba_\nSuggested for you\nFollow\nbenjekool\nبنجکول | گزارش و اخبار روستا\nSuggested for you\nFollow\nshamsrezai009\nشمس\nSuggested for you\nFollow\nSee All Suggestions\nABOUT\nHELP\nPRESS\nAPI\nJOBS\nPRIVACY\nCONSUMER HEALTH PRIVACY\nTERMS\nLOCATIONS\nLanguage\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\nMETA VERIFIED\n© 2026 INSTAGRAM FROM META\nMessages"
+  },
+  "closed": true,
+  "opened_after": "{'ok': True, 'opened': [{'profile_id': 5, 'debugging_address': '127.0.0.1:28842', 'pid': 40800, 'open_time': '2026-11-27 22:09:07'}, {'profile_id': 32, 'debugging_address': '127.0.0.1:55973', 'pid': 12804, 'open_time': '2026-11-27 18:43:23'}, {'profile_id': 67, 'debugging_address': '127.0.0.1:45015', 'pid': 41224, 'open_time': '2026-11-27 22:14:27'}, {'profile_id': 108, 'debugging_address': '127.0.0.1:24922', 'pid': 9644, 'open_time': '2026-11-27 22:31:08'}], 'total': 4}"
+}

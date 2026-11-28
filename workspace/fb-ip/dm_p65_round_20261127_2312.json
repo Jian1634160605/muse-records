@@ -1,0 +1,42 @@
+{
+  "job": "fb-dm-p65",
+  "round": "2026-11-27 23:12 CST",
+  "profile": 65,
+  "health_first": [
+    {
+      "i": 0,
+      "ok": true,
+      "r": "{'ok': True, 'agent': 'ixbrowser-agent', 'version': 15}"
+    }
+  ],
+  "agent_up": true,
+  "v15_health": {
+    "ok": false,
+    "error": "调用 GET /health 失败（curl 52）：curl: (52) Empty reply from server\n"
+  },
+  "was_open_before": true,
+  "identity_page": {
+    "url": "https://www.instagram.com/",
+    "title": "Instagram",
+    "len": 1276,
+    "head": "sina.tashrifat\nmilad7r\ninelyas\nvilaa.online\nafshin.marivani_official\ndor__fa\nkarlo.furniture\nnagham105.3\nmezon_aroos_flavia\n•\n4h\nAI content\nسعادت اباد\n141\n23\n1\n16\nmezon_aroos_flavia\nجهت استعلام قیمت کد«52»کا.منت کن عروس زیبا💍\n... \nmore\nSee translation\nvilaa.online\n•\n1d\n86\n3\n6\n11\nvilaa.online\n🌿 باغ ویلای مستقل با فضای سبز دلنشین در کلوده محمودآباد\n... \nmore\nSee translation\nnagham105.3\n•\n23h\nOriginal audio\n3\nnagham105.3\n‎جدعنة وشهامة المصريين لإنقاذ حياة الناس... \nmore\nSee translation\nMeta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nConsumer Health Privacy\nTerms\nLocations\nPopular\nInstagram Lite\nMeta AI\nMuse\nThreads\nContact Uploading & Non-Users\nMeta Verified\nEnglish\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2026 Instagram from Meta\nMessages\nTurn on Notifications\nKnow right away when people follow you or like and comment on your photos.\nTurn On\nNot Now"
+  },
+  "inbox": {
+    "url": "https://www.instagram.com/direct/inbox/",
+    "title": "Instagram • Messages",
+    "len": 292,
+    "head": "gaga5456\nFirst note in a while...\nYour note\nMessages\nRequests\nChats will appear here after you send or receive a message\nYour messages\nSend a message to start a chat.\nSend message\nTurn on Notifications\nKnow right away when people follow you or like and comment on your photos.\nTurn On\nNot Now"
+  },
+  "requests": {
+    "url": "https://www.instagram.com/direct/requests/",
+    "title": "Message Requests • Messages",
+    "len": 265,
+    "head": "Message requests\nHidden Requests\nChats will appear here after you send or receive a message\nDelete all 0\nMessage requests\nThese messages are from people you've restricted or don't follow. They won't know you viewed their request until you allow them to message you."
+  },
+  "notifications": {
+    "url": "https://www.instagram.com/notifications/",
+    "title": "Instagram",
+    "len": 2435,
+    "head": "This month\nWe weren't able to confirm your age. If you still want to update your birthday, you can try again in... more Nov 13\nrezazes\n liked your reel. Nov 09\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\nrezazes\n liked your reel. Nov 08\neleanore.meyer.58\n liked your reel. Nov 07\nYou're now using a Meta Account on Instagram. Nov 05\nEarlier\nMeta Accounts are coming to Instagram. You'll be updated to yours soon. Oct 18\nSuggested for you\ngecko.5829009\nFollowing milad7r\nFollow\n20miss.royaa\nRoya____Hj70💜\nSuggested for you\nFollow\nalirezafatahii_\nSuggested for you\nFollow\nmona_iran_mona\nmona_s\nSuggested for you\nFollow\nrahimi.karahome\nMohammad Reza Rahimi\nSuggested for you\nFollow\nha.fez1920\nhafez\nSuggested for you\nFollow\nmanigeh.toe2022\nSuggested for you\nFollow\nsepide1234385\nFollowing milad7r\nFollow\nsh.mobasheri1990\nShaghayegh\nSuggested for you\nFollow\nhol_dingsoran\nSuggested for you\nFollow\nvida_arvan\n• Vida\nSuggested for you\nFollow\niifatemekooch\nSuggested for you\nFollow\nleopard.3533587\nFollowing milad7r\nFollow\nreindeer.62453789\nrrrreeggj\nFollowing milad7r\nFollow\nmohamad_mrg_\nSuggested for you\nFollow\nshole_aminifar\nnoras\nFollowing milad7r\nFollow\nazi_taghipor\nazi\nSuggested for you\nFollow\nshadmehrboom\nshadmehr\nFollowing milad7r\nFollow\nmansour.7501\nMansour\nSuggested for you\nFollow\ncrab.62872450\ncrab\nFollowing milad7r\nFollow\nmr_kazemi46\nkazemi\nSuggested for you\nFollow\nsavin_ebrahimifar\nFollowing milad7r\nFollow\nmojtaban95\nmojtaba-n\nSuggested for you\nFollow\nteme.kh\nSuggested for you\nFollow\norchideh.ab25\norchideh ab\nSuggested for you\nFollow\nnafass.rb\nنفس\nFollowing milad7r\nFollow\nfjkohan17\nFarbod Kohan\nSuggested for you\nFollow\nniosha_qasemzadeh\nFollowing milad7r\nFollow\ner_.md\nErfan Md\nSuggested for you\nFollow\nmelikaa.azadipour\nFollowing milad7r\nFollow\nSee All Suggestions\nABOUT\nHELP\nPRESS\nAPI\nJOBS\nPRIVACY\nCONSUMER HEALTH PRIVACY\nTERMS\nLOCATIONS\nLanguage\nAfrikaans\nالعربية\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nفارسی\nSuomi\nFrançais\nעברית\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nاردو\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\nMETA VERIFIED\n© 2026 INSTAGRAM FROM META\nMessages"
+  }
+}
