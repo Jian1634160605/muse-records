@@ -1,3 +1,50 @@
+## 2026-11-28 04:42–04:54（运行实测约 12 分钟）— 定时夜场（fb-warm-pm）✅ 执行完整
+- 计时说明：运行实测为 04:42–04:54（harness 计约 12 分钟）；回传自述 04:42–04:54（约 12 分钟），一致
+- 登录确认：开始时打开 facebook.com 即已登录，无需点 Continue；结束时回首页再次核对，发帖框显示 "Victoria Maizie，分享你的新鲜事吧！"，左侧导航显示 Victoria Maizie，确认仍为 Victoria Maizie 个人号登录状态；全程未出现一键登录页、两步验证、真人验证、验证码或账号检查点，未出现限制或异常提示 ✅
+- 浏览内容：共约 30 条（首页 13 条＋Reels 6 条＋搜索“facelift before and after”11 条），其中垂类约 20 条（符合 15–25 条目标）；多数垂类视频看完大半再划；广告与非垂类快速划过、未点击
+- 垂类概况：首页有 Face-lift & Neck-lift Support Group 匿名成员咨询拉皮手术该问医生什么问题（high-v 与横向提拉对比）、Blepharoplasty Support Group 的 SilverBlueberry6015 分享在澳大利亚的眼睑手术经历与术前术后眼部对比、Japan Inside 报道名古屋警方逮捕涉嫌非法整容手术的越南籍人员、Claire Crump-Bound 分享全脸填充 6ml（面颊提升、法令纹、下颌）前后对比、CaringRadish3304 咨询 10 年前摔伤后脸颊/下颌下垂的拉皮建议、Facelift Support Group 匿名成员分享深层拉皮+颈部提升+前额提升+鼻下+下眼睑术后 11 天恢复对比、Sassymomma17 咨询芝加哥 Dr. Phelps 的上/下眼睑手术；Reels 有 DrJie Chen 深层拉皮手术画面“55 岁术后像 33 岁”、John John DVR 深层提升 V 脸重塑术前术后对比；搜索视频有 J Park 拉皮术前 vs 术后 3 个月、Destination Beauty Clinic Kerry 在泰国拉皮术后 2 个月、Facelift Dr Moc Huong 面部整形术前术后、Kassir 62 岁患者术后 5 个月、Carl Truesdale 70 岁患者术后焕新
+- 点赞 5 条（符合 3–5 条要求，已达本场上限，间隔拉开，互不相邻，每次点赞前均为未点赞状态，点赞后均确认按钮变为“移除赞”）：
+  1. Face-lift & Neck-lift Support Group 匿名成员，拉皮手术咨询帖（high-v vs 横向提拉）（7→8）
+  2. Claire Crump-Bound，全脸填充 6ml 前后对比帖（16→17）
+  3. Facelift Support Group 匿名成员，深层拉皮等多项手术术后 11 天恢复帖（172→173）
+  4. John John Reels，DVR 深层提升 V 脸重塑视频（698→699）
+  5. Destination Beauty Clinic 搜索视频，Kerry 在泰国拉皮术后 2 个月（823→824）
+  - 备注：搜索结果中 J Park（3,714）、Facelift Dr Moc Huong（1.2 万）、Kassir（3,236）、Carlos Mata（1.6 万）、Tarney Hall（1,611）、Carl Truesdale 61 岁患者视频（3.3 万）打开时即显示“移除赞”，为本场之前已有的点赞，本场未触碰、未计入；未给 Victoria Maizie 本人帖子点赞
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；通知（2 条未读角标）、好友请求、Messenger 角标仅在页面上看到、未点开处理（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-28 01:44–02:00（运行实测约 15 分钟）— 定时夜场（fb-warm-noon）✅ 执行完整
+- 计时说明：运行实测为 01:44–02:00（harness 计约 15 分钟）；回传自述 01:44–01:59（约 15 分钟），1 分钟尾段差异以实测为准
+- 登录确认：开始时打开 facebook.com 即已登录，无需点 Continue；结束时回首页再次核对，发帖框显示 "Victoria Maizie，分享你的新鲜事吧！"，左侧导航显示 Victoria Maizie，确认仍为 Victoria Maizie 个人号登录状态；全程未出现一键登录页、两步验证、真人验证、验证码或账号检查点，未出现限制或异常提示 ✅
+- 浏览内容：共 25 条（首页 10 条＋Reels 8 条＋搜索“facelift before and after”7 条），其中垂类 15 条（符合 15–25 条目标）；多数垂类视频看完大半再划；广告与非垂类快速划过、未点击；结束回首页核对时另看到 1 条小组帖（FeistyOstrich9445，48 岁咨询“what can help”），仅查看未互动、不计入
+- 垂类概况：首页有 Tania Louise 术后 15 天 extended deep plane lower face and neck lift、Tu Lieu-Gross 转发 Schneider Centre CO2 激光视频、Juliana Barbi 术后效果视频、Kassidee Oliverson 上眼睑术后恢复视频、Steven Wade Q-Flow Facelift、Deby Amad 上眼睑皮肤过多直播；Reels 有 Chao Chao 台北医美颞区小切口、Drwang Alden 下颌线 before/after；搜索视频有 Ordinwrst 58 岁拉皮术后第 1 天、Facelift Dr Moc Huong 面部整形后变化、The Story Of Us 双下巴手术、Destination Beauty Clinic 术前术后视频（看到 0:47/0:50）、PrettyAvocado4265 伊斯坦布尔 Dr. Kadir Tasasız 深平面拉皮+颈部提升前后对比、Yang Miles 45 岁前后对比、Myrna Quitayen 术后 77 天
+- 点赞 3 条（已达本场上限 3 个，间隔拉开，互不相邻，每次点赞前均为未点赞状态，点赞后均确认按钮变为“移除赞”）：
+  1. Kassidee Oliverson，上眼睑术后恢复视频（533→534）
+  2. Drwang Alden Reels，下颌线 before/after（52→53）
+  3. The Story Of Us 搜索视频，双下巴手术（186→187）
+  - 备注：搜索结果中 Ordinwrst（128）、Facelift Dr Moc Huong（1.2 万）两帖打开时即显示“移除赞”，为本场之前已有的点赞，本场未触碰、未计入；未给 Victoria Maizie 本人帖子点赞
+- 小瑕疵（非异常、无需报告）：点击 Destination Beauty Clinic 视频播放按钮时被页面遮挡未执行，但该视频本身已在播放并看到 0:47/0:50，不影响浏览
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；通知角标 2 条未读仅在页面上看到、未点开处理（按口径不由本场处理）；搜索结果中的活动“有兴趣”按钮未点击
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
+## 2026-11-27 22:40–22:52（运行实测约 11 分钟）— 定时夜场（fb-warm-am）✅ 执行完整
+- 计时说明：运行实测为 22:40–22:52（harness 计约 11 分钟）；回传自述 22:40–22:52（约 12 分钟），1 分钟差异以实测为准
+- 登录确认：开始时打开 facebook.com 即已登录，无需点 Continue；结束时回首页再次核对，发帖框显示 "Victoria Maizie，分享你的新鲜事吧！"，左侧导航显示 Victoria Maizie，确认仍为 Victoria Maizie 个人号登录状态；全程未出现一键登录页、两步验证、真人验证、验证码或账号检查点，未出现限制或异常提示 ✅
+- 浏览内容：共约 26 条（首页约 14 条＋Reels 5 条＋搜索“facelift before and after”约 7 条），其中垂类约 20 条以上（符合 15–25 条目标）；多数垂类视频看完大半再划；广告与非垂类快速划过、未点击
+- 垂类概况：首页有 Face lift and Neck Lift support group 36 岁用户颈部松弛咨询拉皮/颈部提升（担心疤痕与恢复期）、Blepharoplasty Support Group 术后 3 个月眼睑仍不对称咨询、ChummyBee2649 36 岁咨询优先做额头/提眉还是太阳穴与面颊脂肪填充、Kham Kurfman 眼睑手术前后对比图（可见缝线）、Chen Ye 腹部整形 3 个月前后对比、LADbible Australia 61 岁妈妈花 £34K 做拉皮后“判若两人”；Reels 有高二青（Dr. Gao）深层结构提升科普、Aubrey White 术后第 2/5/26 天恢复时间线；搜索视频有 Carl Truesdale 61 岁患者术后 3 个月、EDEN Plastic Surgery 患者 Lisa 两年后效果、Dr. Jason Diamond 术后 3 个月深层拉皮+颈部提升+提眉+面部脂肪填充、Kassir Plastic Surgery 54 岁 Amy 达拉斯手术记录、王院拉皮前后对比、Facelift Dr Moc Huong 拉皮手术过程
+- 点赞 5 条（符合 3–5 条要求，间隔拉开，互不相邻，每次点赞前均为未点赞状态，点赞后均确认按钮变为“移除赞”）：
+  1. GutsyCaterpillar1876（Blepharoplasty Support Group），术后 3 个月眼睑不对称咨询帖（7→8）
+  2. Chen Ye，腹部整形 3 个月前后对比帖（1→2）
+  3. LADbible Australia，61 岁妈妈 £34K 拉皮前后对比帖（总反应数 599→600，其中“赞”493→494）
+  4. ChummyBee2649（Face lift and Neck Lift support group），36 岁提眉 vs 脂肪填充咨询帖（总反应数 36→37，其中“赞”27→28）
+  5. 高二青（Dr. Gao）Reels，深层结构提升科普视频（1,394→1,395）
+  - 备注：搜索结果中 Carl Truesdale 两条、Dr. Jason Diamond 一条打开时即显示“移除赞”，为本场之前已有的点赞，本场未触碰、未计入；未给 Victoria Maizie 本人帖子点赞（本场未见到其本人帖子）
+- 禁止项：无评论、无回复、无私信、无加好友、无关注、无进群、无发帖、无分享/转发、无点广告、无改账号设置、无进入 Dr.qh88 主页管理后台 ✅；通知与好友请求角标仅在页面上看到、未点开处理（按口径不由本场处理）
+- 账号安全：全程无登录失效、真人验证/验证码、Arkose 挑战、账号检查点、限制提示或警告提示，页面加载与点赞均正常，会话正常，结束时仍为 Victoria Maizie 登录状态 ✅
+- 结论：本场执行完整，账号状态健康，无需向用户报告 ✅
+
 ## 2026-11-27 04:42–04:55（运行实测约 12 分钟）— 定时夜场（fb-warm-pm）✅ 执行完整
 - 计时说明：运行实测为 04:42–04:55（harness 计约 12 分钟）；回传自述 04:42–04:54（约 12 分钟），1 分钟尾段差异以实测为准
 - 登录确认：开始时打开 facebook.com 即已登录，无需点 Continue；结束时回首页再次核对，发帖框显示 "Victoria Maizie，分享你的新鲜事吧！"，左侧导航显示 Victoria Maizie，确认仍为 Victoria Maizie 个人号登录状态；全程未出现一键登录页、两步验证、真人验证、验证码或账号检查点，未出现限制或异常提示 ✅

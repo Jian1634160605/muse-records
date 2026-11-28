@@ -193,3 +193,9 @@
 - 新好友差分：未做——facebook-cli 未连接，`me` 回 `{}`，差分无结论（非“无新好友”）。基线 fb-friends-seen.json 未改写（仍为 15:09 轮 42 人版）。
 - 文件 mtime 核查：leads.md / group-prospects.md 自 11-25 09:47 后无修改，无新增待私信、无新客资；dm-threads.md 自 19:09 轮写入后无他人写入。
 - 结论：本轮 0 新客户（可核验范围），监控通道故障仍在持续（15:14 轮起，19:09 轮已上报过夜里窗口已开但仍无法发送）；与 19:09 轮相比无新动态，按规则 7 安静结束，不另发报告。leads.md 仍为 Peta + Jocelyn Bee + Annie Ol + Lauren Murphy + Vincent Lubis 5 条，无新增、无需去重。
+
+## 2026-11-28 14:38 轮（fb-lead-scan）
+- Messenger：仍未连接（`hatch_messenger_cli threads --unread` 报 Messenger not connected，reconnect required；用户 11-27 09:51 已断开 Companion，今日已报过，不重复）。未读私信本轮无法读取。
+- FB 帖子评论：`facebook-cli timeline fetch` 仍报 not connected，`me` 回 `{}`（13:38 轮已上报过断连，需用户在 Meta Accounts Center 重连，连接链接 https://agent.meta.ai/foa_ac_link/facebook；本轮不重复报）。最近帖子评论本轮无法读取。
+- 待处理好友请求：浏览器核查被阻断（browser-task:2b91e528-2877-5cd8-831c-0d2fce38f3c0，14:40–14:45）：打开 https://www.facebook.com/friends/requests 跳回登录页，点“Continue Victoria Maizie”后密码提交成功，但 Facebook 要求两步验证——先弹 passkey（云浏览器无法使用），改选验证器 App 后停在 https://www.facebook.com/two_step_verification/two_factor/ 要求输入 6 位验证码。Gmail 未连接、登录服务读不到验证码；用户本轮不在场，无法提供验证码或做设备批准；已令浏览器停止、不重试、不点确认。结论：待处理请求数与好友总数本轮无结论（13:38 轮核查时仍正常：0 待处理，表头 48 人/具名 47 个；会话在 13:38–14:40 之间过期）。未通过/拒绝任何人、未发消息。
+- 结论：本轮 0 新客户（可核验范围：无）；leads.md 仍为 Peta + Jocelyn Bee + Annie Ol + Lauren Murphy + Vincent Lubis 5 条，无新增。新增阻断：Victoria 浏览器会话过期 + 两步验证，需成安提供验证器 App 的 6 位码或在他自己设备上批准登录，之后才能恢复好友请求核查；Messenger CLI 与 facebook-cli 断连仍在。
