@@ -1082,3 +1082,142 @@
 - **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与往轮一致，无新回复证据，无须回任何消息。页面仍提示端到端加密需 PIN，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
 - **动作**：无发出私信，无合格客资。
 - **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 32、67，67 于 20:49:22 由其他轮次打开，与本轮无关）。
+
+## 2026-11-27 21:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 32、65），open(38) 一次成功（调试地址 127.0.0.1:32407），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，页面显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"；登录正常，无 429/226/344。agent 全程稳定（health ok v15），无抖动。
+- **通知**：5 条未读，均为群组群发 @ 或群组动态，与私信无关，未处理：土耳其隆鼻群动态 "Glasses"（19m）；Aaron Jarsey mentioned you（2h）；BWØII WA ÇITY mentioned you（4h）；Õg Lîkê mentioned you ×2（6h）。无本号帖子评论、无新关注提醒。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（30 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与往轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），正文显示 "Loading messages"，端到端加密内容暂不可读；列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 32）。
+
+## 2026-11-27 22:48 轮次
+
+- **ixBrowser agent 已恢复（outage 结束）**：health 首探即返回 ok v15（此前为 v10），自 2026-11-25 13:47 断联起持续约 57 小时后恢复；本轮无需重试等待。agent 版本由 v10 变为 v15，疑似断联期间被重启/升级。往轮（11-26 18:48 至 11-27 04:48 共 11 个窗口内轮次）全部因 curl 52 失败。
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 5、32、65、67、108），open(38) 一次成功（调试地址 127.0.0.1:46353），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 链接 2 条，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。
+- **通知**：6 条未读。其中 1 条 "Your reel is ready to view"（39m，与 Oe 近期发布一致）；1 条土耳其隆鼻群新帖（Dr Sahil Aydin 咨询帖，47m，群组活动、归猎手轮次处理，本轮未回）；3 条群组群发 @（Aaron Jarsey 3h、BWØII WA ÇITY 5h、Õg Lîkê ×2 7h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels []）、无新线程**，与往轮一致，无新回复证据，无须回任何消息。页面仍提示需 Create PIN 才能读端到端加密内容，正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 返回 closed: true；opened_after 当时仍列出 38（open_time 22:49:12，疑似列表快照滞后），复核时 38 已不在 opened 列表中（仅剩 5、32、65、67、108），关闭已生效。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261127_2248.py`；运行日志 /tmp/dm-p38-20261127-2248.log。
+
+## 2026-11-27 23:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 5、32、44、65、67、108），open(38) 一次成功（调试地址 127.0.0.1:27645），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 链接 2 条，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。
+- **Agent 抖动（已部分恢复，非平台限流）**：轮次开始 health 首探即撞 curl 52 空回复，等待 120 秒后 health 恢复 ok v15；轮中 eval/goto/close 各撞 1 次 curl 52/18，重试后均成功。不是 429/226/344，不停号、不报致命问题。
+- **通知**：7 条未读。其中 1 条新增群组 @：সা দ বা বূ mentioned you（23m）；1 条 "Your reel is ready to view"（1h，与 Oe 近期发布一致）；1 条土耳其隆鼻群新帖（"Dr Sahil Aydin….. has anyone had experience with him and rhinoplasty please? I am booked to go in…"，1h，群组活动、归猎手轮次处理，本轮未回）；其余为群组群发 @（Aaron Jarsey 4h、BWØII WA ÇITY 6h、Õg Lîkê ×2 8h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（30 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite），两次读到一致：线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels []）、无新线程**，与往轮一致，无新回复证据，无须回任何消息。页面仍提示需 Create PIN 才能读端到端加密内容，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。messenger.com 显示 "Continue as Oe Et" 登录态确认，收件箱列表已由 facebook.com/messages 取得。
+- **动作**：无发出私信，无合格客资。
+- **关 profile 状态未确认（工具侧）**：轮次结束 close(38) 第 1 次撞 curl 18（响应截断）、第 2 次返回 code=1009 "Process not found"（进程已不在，关闭疑似已在第 1 次服务端执行）、第 3 次又撞 curl 18；随后 opened 复核 3 次全撞 curl 52 失败。轮后独立复核（约 00:04）：health 4 次全失败（curl 52）、opened 4 次全失败（curl 52/18），**agent 在轮次结束后再次失联**。38 大概率已关（1009 信号），但无法经 opened 列表确认；下一轮次先复核 opened 再动手。属工具侧故障（非 429/226/344，无封号信号），记日志报总管，本轮不给用户发消息。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261127_2348.py`；运行日志 /tmp/dm-p38-20261127-2348.log。
+
+## 2026-11-28 00:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 5、32、35、44、65、67、108），open(38) 一次成功（调试地址 127.0.0.1:5264），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 链接 2 条，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 健康（health ok v15）；23:48 轮次结束后 00:04 出现的再次失联已恢复（00:18 猎手轮次亦正常）。
+- **Agent 抖动（已恢复，非平台限流）**：轮中 eval/goto 各撞 1 次 curl 18 传输中断，重试后均成功。不是 429/226/344，不停号、不报致命问题。
+- **通知**：7 条未读，两次读到一致。其中 1 条新增：土耳其隆鼻群新帖 "Has anyone had complex revision rhinoplasty with - Nazli Selvi, Dr Havva duri ipek, Dr Engin Erkal…"（9m，群组动态、归猎手轮次处理，本轮未回）；其余为群组群发 @（সা দ বা বূ 1h、Aaron Jarsey 5h、BWØII WA ÇITY 7h、Õg Lîkê ×2 9h）及 "Your reel is ready to view"（2h，与 Oe 近期发布一致）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite），两次读到一致：线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels []）、无新线程**，与往轮一致，无新回复证据，无须回任何消息。messenger.com 显示 "Continue as Oe Et"（已登录态）。页面仍提示端到端加密需 PIN，线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 5、32、35、44、67、108）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261128_0048.py`；运行日志 /tmp/dm-p38-20261128-0048.log。
+
+## 2026-11-28 01:48 轮次
+
+- **ixBrowser agent 已恢复（工具侧故障结束）**：health 首探即通（ok v15），自 2026-11-25 13:47 起的断线约 60 小时后自行恢复。本轮未做任何切换（未走 8766 v15 备用）。轮次开始时 opened 有 5、32、67、108（均为其他轮次占用），38 未开，本轮独占标签页。
+- **身份核验通过**：open(38) 一次成功（调试地址 127.0.0.1:57054），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 链接 2 条，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定，无抖动。
+- **通知**：8 条未读。其中 1 条群组新帖提醒："Rhinoplasty in Turkey - real...: 'Do yall have any recommendations for front profile rhinos in turkey?'"（52m）——群内有人在问土耳其隆鼻推荐，属猎手侧信号，本轮（私信盯守）未处理，留给猎手轮次；1 条 "Your reel is ready to view"（3h）；1 条好友头像更新（Bol Nqor Bol，21m）；5 条群组群发 @（সা দ বা বূ 2h、Aaron Jarsey 6h、BWØII WA ÇITY 8h、Õg Lîkê ×2 10h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels 空）、无新线程**，与此前成功轮次一致，无新回复证据，无须回任何消息。页面仍提示需 Create PIN 才能读端到端加密内容，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 5、32、67、108，均为其他轮次占用，未动）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261128_0148.py`；运行日志 /tmp/dm-p38-20261128-0148.log。
+
+## 2026-11-28 02:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 5、32、67、108，均为其他轮次占用），open(38) 一次成功（调试地址 127.0.0.1:42249），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 链接 2 条，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 健康（health ok v15，首探即通），全程稳定，无抖动。
+- **通知**：9 条未读，两次读到一致。其中 3 条新增：Blaq Nera mentioned you（23m，群组群发 @）；Bol Nqor Bol updated his profile picture（1h，好友头像更新）；Fanny Simon、Makennah Dunn 等 16 人在土耳其隆鼻群发帖（51m，群组动态、归猎手轮次处理，本轮未回）；其余为 "Your reel is ready to view"（4h）及群组群发 @（সা দ বা বূ 3h、Aaron Jarsey 7h、BWØII WA ÇITY 9h、Õg Lîkê ×2 11h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite），两次读到一致：线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels []）、无新线程**，与此前成功轮次一致，无新回复证据，无须回任何消息。页面仍提示端到端加密需 PIN，线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 5、32、67、108，均为其他轮次占用，未动）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261128_0248.py`；运行日志 /tmp/dm-p38-20261128-0248.log。
+
+## 2026-11-28 03:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 5、32、67、108，均为其他轮次占用），open(38) 一次成功（调试地址 127.0.0.1:19423），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 链接 2 条，首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 健康（health ok v15，首探即通），全程稳定，无抖动。
+- **通知**：10 条未读，两次读到一致。其中 2 条新增：Kabineh M Sheriff mentioned you（55m，群组群发 @）；Bol Nqor Bol updated his profile picture（2h，好友头像更新）；Fanny Simon、Makennah Dunn 等 16 人在土耳其隆鼻群发帖（1h，群组动态、归猎手轮次处理，本轮未回）；Blaq Nera mentioned you（1h，群组群发 @）。其余为 "Your reel is ready to view"（5h）及群组群发 @（সা দ বা বূ 4h、Aaron Jarsey 8h、BWØII WA ÇITY 10h、Õg Lîkê ×2 12h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite），两次读到一致：线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unreadLabels []）、无新线程**，与此前成功轮次一致，无新回复证据，无须回任何消息。页面仍提示端到端加密需 PIN，线程正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 5、32、67、108，均为其他轮次占用，未动）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261128_0348.py`；运行日志 /tmp/dm-p38-20261128-0348.log。
+
+## 2026-11-28 04:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 5、32、67、108），open(38) 一次成功（调试地址 127.0.0.1:42286），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792 显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"；登录正常，无 429/226/344。agent 健康（health ok v15）——11-25/26 的 agent 长时间失联故障已恢复。
+- **通知**：12 条未读，全部与私信无关：群组群发 @（Kabineh M Sheriff 1h、Blaq Nera 2h、সা দ বা বূ 5h、Aaron Jarsey 9h、BWØII WA ÇITY 11h、Õg Lîkê ×2 13h）、群组新帖（Rhinoplasty in Turkey - real... 5m、Abdullah Al Montahin 50m）、"Your reel is ready to view"（6h）、Bol Nqor Bol 换头像（3h）。无本号帖子评论、无新关注提醒，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（aria_unread 空）、无新线程**，与此前轮次一致，无新回复证据，无须回任何消息。页面仍提示需 PIN 才能读端到端加密内容，正文暂不可读。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 5、32、67、108，均为其他轮次占用）。
+
+## 2026-11-28 05:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened：5、32、67、108），open(38) 一次成功（调试地址 127.0.0.1:18718），check 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 全程稳定（health ok v15），无抖动。
+- **通知**：未读均为群组群发 @（Kabineh M Sheriff 2h、সা দ বা বূ 6h、Aaron Jarsey 10h、BWØII WA ÇITY 12h、Blaq Nera 3h、Õg Lîkê ×2 14h）+ 1 条土耳其隆鼻群新帖（9 天术后感染求助，50m，属群帖、归猎手轮次处理，本轮未回）+ Abdullah Al Montahin 发帖（1h）+ "Your reel is ready to view"（7h）+ Bol Nqor Bol 换头像（4h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unread: []）、无新线程**，与前轮一致，无新回复证据，无须回任何消息。页面仍提示需 Create PIN 才能读端到端加密内容，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 5、32、67、108，其他轮次占用未动）。
+
+## 2026-11-28 06:48（窗口外跳过）
+- 本轮定时 06:48，超出夜里窗口（18:30–次日 06:00），按规则直接结束：未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 07:48（窗口外跳过）
+- 本轮定时 07:48，超出夜里窗口（18:30–次日 06:00），按规则直接结束：未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 08:48（窗口外跳过）
+- 本轮定时 08:48，超出夜里窗口（18:30–次日 06:00），按规则直接结束：未开浏览器、未发任何内容、未碰账号。
+2026-11-28 09:48 窗口外跳过：北京时间 09:48 不在夜里窗口（18:30–次日 06:00），本轮直接结束，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 10:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过——夜里窗口为 18:30–次日 06:00，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 11:48 CST：fb-dm-p38（Oe，profile 38）窗口外跳过——当前不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 12:48 CST：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 13:48（窗口外跳过）
+- 北京时间 13:48，不在 18:30–次日 06:00 夜里窗口内，本轮跳过；未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 14:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 15:48 CST：fb-dm-p38（Oe，profile 38）窗口外跳过——当前不在 18:30–次日 06:00 夜里窗口内，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 16:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 17:48 CST fb-dm-p38（Oe，profile 38）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 18:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:15986），check 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 健康（health ok v15），全程稳定，无抖动。
+- **通知**：5 条未读，全部与私信无关：群组群发 @（SV SAVVANY 2h、Didi Nyamut 2h、Kabineh M Sheriff 15h）+ 土耳其隆鼻群新帖（13h，9 天术后拆石膏发现感染求助，与 05:48 轮次所见同一帖，属群帖、归猎手轮次处理，本轮未回）+ Abdullah Al Montahin 发帖（14h）。无本号帖子评论、无新关注提醒，未处理。注：首页角标显示未读通知 2 条，与通知列表 5 条未读不一致，以列表为准。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与前轮一致，无新回复证据，无须回任何消息。页面仍提示需 Create PIN 才能读端到端加密内容，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 67，18:48:52 由其他轮次打开，与本轮无关，未动）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261128_1848.py`；结果 JSON 同目录 `dm_p38_20261128_1848.json`。
+
+## 2026-11-28 19:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 为空），open(38) 一次成功（调试地址 127.0.0.1:55641），check 返回 account_name 'Oe'（name_source composer），首页显示 "What's on your mind, Oe?"；登录正常，无 429/226/344。agent 健康（health ok v15），全程稳定，各步均为 try 1 成功，无抖动。
+- **通知**：5 条未读，全部与私信无关：土耳其隆鼻群新帖 "Good evening I'm looking for and I'm still looking for a surgeon who knows how to make fine…"（2m，群内有人在找能做精细鼻子的医生，属猎手侧信号，本轮未回）；群组群发 @（SV SAVVANY 3h、Didi Nyamut 3h、Kabineh M Sheriff 16h）；Abdullah Al Montahin 发帖（15h）。无本号帖子评论、无新关注提醒，未处理。注：首页角标显示未读通知 1 条，与通知列表 5 条未读不一致，以列表为准（与 18:48 轮次同类现象）。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记、无新线程**，与前轮一致，无新回复证据，无须回任何消息。页面仍提示需 Create PIN 才能读端到端加密内容，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核已无 38（仅剩 32、67，均为其他轮次占用，与本轮无关，未动）。
+- **脚本**：`~/workspace/goals/fb-agent/hidden_files/dm_p38_20261128_1948.py`；结果 JSON 同目录 `dm_p38_20261128_1948.json`。
+
+## 2026-11-28 20:48 轮次
+
+- **身份核验通过**：轮次开始时 profile 38 未开（opened 只有 32，Lark）；open(38) 一次成功（调试地址 127.0.0.1:26340），check 返回 account_name 'Oe'（name_source composer），profile.php?id=61588835991792，首页显示 "What's on your mind, Oe?"，个人页显示 "Oe Et (Qin Hao)"、44 位好友、简介 "Dr. Qin: Rhinoplasty & Facelift / You can be more beautiful"；登录正常，无 429/226/344。agent 全程稳定（health ok v15），无抖动。
+- **通知**：7 条未读。其中 1 条新增：**土耳其隆鼻群（Rhinoplasty in Turkey - real...）新帖（1h）"Good evening I'm looking for and I'm still looking for a surgeon who knows how to make fine…"**——有人在找隆鼻医生，属猎手轮次线索，本轮（私信盯守）未处理，留给猎手轮次跟进；其余 6 条均为群组群发 @（DA Will ×2，43m；SV SAVVANY，4h；Didi Nyamut，4h；Kabineh M Sheriff，17h）及群友发帖（Abdullah Al Montahin，16h）。无本号帖子评论、无新关注提醒，与私信无关，未处理。
+- **好友请求**：仍只有 Andrea Nadel（31 周前，id 61563149105060），无新增。身份不确定、无医美意向证据，**未通过、未联系**，继续留待观察。
+- **私信**：facebook.com/messages 可读（个人 Messenger，未跳 Business Suite）。线程列表仅 2 条旧线程 Huda Hammad（8 周前）、Obaydullah（31 周前），摘要均为端到端加密提示，**无未读标记（unread: 0）、无新线程**，与往轮一致，无新回复证据，无须回任何消息。本轮成功打开 Huda 线程（e2ee/t/1638182934314877），显示 "Active 36m ago"、正文 "Loading messages"，端到端加密线程正文暂不可读（本轮页面文本中未出现 "Create a PIN" 提示）。列表无新活动，正文未逐条核实，不谎报"无新消息"，仅记录"列表无未读、无新线程"。
+- **动作**：无发出私信，无合格客资。
+- **已关 profile**：轮次结束执行 close(38) 成功（closed: true），opened 复核仅剩 32（Lark，19:13:35 打开，与本轮无关）。

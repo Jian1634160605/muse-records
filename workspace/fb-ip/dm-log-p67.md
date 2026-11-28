@@ -1257,3 +1257,210 @@
 - **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；上次点开复核时：Muhamad Siddique 卡住连续第 9 轮、Максим Конотоп 卡住连续第 6 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
 - **发出消息：0 条。合格客资：0 条（新增）。**
 - **轮次结束已 close(67)，经 opened() 核验 closed: true**（opened_after 列表为 [32]，无 67；32 号系 18:43 开的其他轮次并行操作）。本轮未遇 429/226/344。脚本产出 /tmp/dm_p67_round_20261127_2018.json。
+
+## 2026-11-27 21:18 轮次（私信盯守第 94 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求
+
+- **身份核验：通过。** 轮首 /opened 为 [32]，无 67；open(67) 成功（debugging 127.0.0.1:5167）；check 返回 account_name "Ejje"；首页发帖框 "What's on your mind, Ejje?"，profile.php?id=61581899105351，登录正常。agent v15，全程稳定，无 curl 52/18 失联。
+- **通知：已读，无新增。** 新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 4d，均为已筛查过的待处理请求，见下）；其余为非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d、singapore friends 2d），不理。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18 轮完全一致，无新请求。** ① Sham Shad（1w，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（4d，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 19:18/20:18 轮一致），两次读数完全一致。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断。**无对方新消息：**
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·3d，Active now）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·4d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif（Active now）与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；上次点开复核时：Muhamad Siddique 卡住连续第 9 轮、Максим Конотоп 卡住连续第 6 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束已 close(67)，经 opened() 核验 closed: true**（opened_after 列表为 [32]，无 67；32 号系 18:43 开的其他轮次并行操作）。本轮未遇 429/226/344。脚本产出 /tmp/dm_p67_round_20261127_2118.json。
+
+## 2026-11-27 22:18 轮次（私信盯守）— 已完成，发 0 条，无客资；5 个新好友请求均已筛查、未通过；Vincent 已是 11-25 落袋客资、无新回
+
+- **身份核验：通过。** agent v15 恢复可用（11-25 起的失联已恢复）；轮首 /opened 为 5、32、65、67、102——**67 已开（22:14:27，pid 41224，系别轮打开），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"，首页发帖框 "What's on your mind, Ejje?"，profile.php?id=61581899105351，登录正常。
+- **通知：已读。新增 2 条好友请求通知（Aftab Khan、Houssenia Sarotra，均为 4d），其余为非医美群帖（Expats in Singapore、The Biggest FaceBook Group、singapore friends）。**
+- **好友请求：5 个待处理，全部新出现（11-20 19:18 轮时为 0 个），均已筛查，未通过、未联系：**
+  1. **Sham Shad**（61552997341143，1w，1 mutual）：1.6K 好友，profile 已锁、无帖子可见，无医美意向信号。
+  2. **Malhar Mallah**（61596352605535，5d，1 mutual）：167 好友，2002-11-18 出生，仅一条换头像动态，无医美意向信号。
+  3. **Houssenia Sarotra**（61575743102760，4d）：350 好友，profile 已锁、无帖子可见，无医美意向信号。
+  4. **Aftab Khan**（61574581744698，4d）：156 好友，profile 已锁、无帖子可见，无医美意向信号。
+  5. **Abolfazl Zohariy**（61596415208833，5d，1 mutual）：292 好友，住柏林，1984-03-30 出生，Ministère de l'Intérieur - Tunisie、King's College London；可见帖子为转发新闻类内容，无医美相关、无意向信号。
+  按"真人个人号 + 有医美意向才联系"口径：5 人均无意向信号，**均不通过、不私信**，仅记台账；如其后补发医美相关消息再评估。
+- **私信：已读，共 17 个线程（上轮 13 个，+3 个 E2EE 占位新线程 +1 个 Vincent 线程位置置顶），无未读标记。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断。
+- **Vincent Lubis（已落袋客资 #4，11-25 已报）：线程已核实，无新回。** 完整历史可见：11-12 他 "hi"；11-13 我方直索 WhatsApp 旧消息；周二 11:28 他回 "Terima kasih sudah bertanya. Aku tertarik untuk mengetahui lebih banyak tentang perawatannya. Bisakah kamu membagikan beberapa detailnya di sini terlebih dahulu?" 并给号 +62 877-9038-4917；周二 13:58–14:01 我方连回 3 条（确认收到号码、咨询团队将通过 WhatsApp 联系、将发案例照片并做一对一专业咨询）；此后他无新回复，最新一条仍为我方消息，无需动作。
+- **Максим Конотоп：线程已核实，"Привіт 👋"（11-20 20:00）仍为最新一条，本轮未回。** 完整历史：11-20 11:28 他连发 3 条（内容为空白/媒体类）、我方 11:29 回 "What？！"、他 11:29–11:34 回 "Sitius, altius, fortius😘" 与 "World waild klinical traels"、20:00 又发 "Привіт 👋"。该问候已 7 天、无提问、无医美意向信号（"clinical trials" 非本业务），按既定做法（与 Lando "Bsr"、Muhamad "Hi" 同类无意向问候一致）不接话。注：本轮该 E2EE 线程已能正常加载（输入框 "Write to Максим Конотоп" 已渲染，"Loading messages" 标志仍显示 true 但历史完整可见），11-20 连续多轮的加载卡住故障已恢复；如下轮他发来实质内容可再评估回复。
+- **其余线程均无变化：** মোঃ জাকিরুল ইসলাম（3d，仍为 "Tumi con rashtagon Dragon number" 旧 snippet，纯闲聊/私人纠缠、无意向，未回）、Mohsen Aziz（4d，新增一次未接视频通话、无文字，未回）、Muhamad Siddique（1w，仍为 "Hi"，无意向，未回）、Nayan Nayan（1w，表情包）、Lando Fer（1w，"Bsr"）、সৌরভ হাসান সালমান（1w，已拉黑）、Simson Joseph（1w，我方 wa 链接）、Sheikh Alomgir（1w，明确拒绝）、Mohammad Ksbeh（2w）、Gihas Uddin / Abdelghani Elbaz（2w，E2EE 占位）、Jay L Jay（2w）。
+- **新增 3 个 E2EE 占位线程（无内容可见，无法判断意向）：** Asif Asif（Active now）、Franco Hernandez（Active now）、Nonso Noni——均只显示 "Messages and calls are secured with end-to-end encryption"，无 snippet、无时间戳；未输 PIN，按手册不谎报内容，下轮继续观察。
+- **发出消息：0 条。合格客资：0（无新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。agent 全程稳定，无 curl 52 失联；未遇 429/226/344。
+
+## 2026-11-27 23:18 轮次（私信盯守第 96 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联；轮首 /opened 为 [5, 32, 38, 65, 67, 108]——**67 已开（22:14:27，pid 41224，系别轮打开，与 22:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页发帖框 "What's on your mind, Ejje?"，profile.php?id=61581899105351，登录正常。
+- **通知：已读，无新增。** 新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 4d，均为已筛查过的待处理请求，见下）；其余为非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d、singapore friends 2d），不理。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（4d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 19:18/20:18/21:18/22:18 轮一致），两次读数完全一致，无未读标记。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断。**无对方新消息：**
+  1. **Vincent Lubis**（置顶，Active now）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·4d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条，Active now）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif（Active now）与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。agent 全程稳定，无 curl 52 失联；未遇 429/226/344。脚本产出 /tmp/dm_p67_round_20261127_2318.json。
+
+## 2026-11-28 00:18 轮次（私信盯守第 97 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求
+
+- **身份核验：通过。** agent v15，全程有瞬时 curl 52/18（health、opened、identity、notif、goto_msgs 各 1–2 次），重试均恢复，未失联。轮首 /opened 为 [5, 32, 35, 38, 67, 108]——**67 已开（2026-11-27 22:14:27，pid 41224，系别轮打开，与 22:18/23:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页发帖框 "What's on your mind, Ejje?"，profile.php?id=61581899105351，登录正常。
+- **通知：已读，无新增。** 新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 4d，均为已筛查过的待处理请求，见下）；其余为非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d、singapore friends 2d），不理。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18/23:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（4d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 23:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶，Active now）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·4d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条，Active now）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。脚本产出 /tmp/dm_p67_round_20261128_0018.json。本轮未遇 429/226/344。
+
+## 2026-11-28 01:18 轮次（私信盯守第 98 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联。轮首 /opened 为 [5, 32, 67, 108]——**67 已开（2026-11-27 22:14:27，pid 41224，系别轮打开，与 22:18/23:18/00:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页发帖框 "What's on your mind, Ejje?"，profile.php?id=61581899105351，登录正常。
+- **通知：已读，无新增。** 新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 4d，均为已筛查过的待处理请求，见下）；其余为非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d、singapore friends 2d），不理。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18/23:18/00:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（4d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 00:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·4d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。脚本产出 /tmp/dm_p67_round_20261128_0118.json。本轮未遇 429/226/344。
+
+## 2026-11-28 02:18 轮次（私信盯守第 99 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联。轮首 /opened 为 [5, 32, 67, 108]——**67 已开（2026-11-27 22:14:27，pid 41224，系别轮打开，与 22:18/23:18/00:18/01:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页发帖框 "What's on your mind, Ejje?"，profile.php?id=61581899105351，登录正常。
+- **通知：已读，无新增。** 新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 5d，均为已筛查过的待处理请求，见下）；其余为非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d、singapore friends 2d），不理。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18/23:18/00:18/01:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（5d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 01:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·5d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。脚本产出 /tmp/dm_p67_round_20261128_0218.json。本轮未遇 429/226/344。
+
+## 2026-11-28 03:18 轮次（私信盯守第 100 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求；新增 1 条点赞通知
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联、无报错。轮首 /opened 为 [5, 32, 67, 108]——**67 已开（2026-11-27 22:14:27，pid 41224，系别轮打开，与 22:18/23:18/00:18/01:18/02:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页 profile.php?id=61581899105351，登录正常。
+- **通知：已读。新增 1 条点赞，无需私信动作：** Максим Конотоп and Valdimiro Zunguze like your reel: "Day 7 — splint off, tape on. Still..."（6m）；其余为已知项：新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 5d，均为已筛查过的待处理请求，见下）、非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d）。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18/23:18/00:18/01:18/02:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（5d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 02:18 轮一致），两次读数内容一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·5d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两次读数差异说明：** messages_same=false 仅因 Mohsen Aziz 的 "Active now" 在线标识在两次读数间闪烁出现/消失，17 条线程的 snippet 内容两次完全一致，无新消息。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。脚本产出 /tmp/dm_p67_round_20261128_0318.json。本轮未遇 429/226/344。
+
+## 2026-11-28 04:18 轮次（私信盯守第 101 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求；新增 1 条好友推荐通知
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联、无报错。轮首 /opened 为 [5, 32, 67, 108]——**67 已开（2026-11-27 22:14:27，pid 41224，系别轮打开，与 22:18/23:18/00:18/01:18/02:18/03:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页 profile.php?id=61581899105351，发帖框 "What's on your mind, Ejje?"，登录正常。
+- **通知：已读。新增 1 条好友推荐，无需私信动作：** "You have a new friend suggestion: Eddie Cecilia."（34m，仅推荐、非请求）；其余为已知项：Максим Конотоп and Valdimiro Zunguze like your reel "Day 7 — splint off, tape on. Still..."（1h，03:18 轮 6m 已见，时间自然推进）、新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 5d，均为已筛查过的待处理请求，见下）、非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d）。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18/23:18/00:18/01:18/02:18/03:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（5d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 03:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；页底仍有 E2EE 提示，部分历史不可见，未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·5d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。脚本产出 /tmp/dm_p67_round_20261128_0418.json。本轮未遇 429/226/344。
+
+## 2026-11-28 05:18 轮次（私信盯守第 102 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联、无报错。轮首 /opened 为 [5, 32, 67, 108]——**67 已开（2026-11-27 22:14:27，pid 41224，系别轮打开，与 22:18/23:18/00:18/01:18/02:18/03:18/04:18 轮同一窗口），本轮未 open、轮末未 close**（按手册 was_open=true 时不关别人窗口）。check 返回 account_name "Ejje"；首页 profile.php?id=61581899105351，发帖框 "What's on your mind, Ejje?"，登录正常。
+- **通知：已读，无新增。** 已知项时间自然推进：Максим Конотоп and Valdimiro Zunguze like your reel "Day 7 — splint off, tape on. Still..."（2h，04:18 轮 1h 已见）、好友推荐 Eddie Cecilia（1h，04:18 轮 34m 已见，仅推荐、非请求）、新好友请求通知 2 条（Aftab Khan 4d、Houssenia Sarotra 5d，均为已筛查过的待处理请求，见下）、非医美群帖（Expats in Singapore 2d、The Biggest FaceBook Group 2d）。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 19:18/20:18/21:18/22:18/23:18/00:18/01:18/02:18/03:18/04:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（5d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（5d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（4d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（5d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 04:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·5d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束未 close(67)**——67 为别轮 22:14 打开，本轮按手册不关别人窗口。脚本产出 /tmp/dm_p67_round_20261128_0518.json。本轮未遇 429/226/344。
+- 2026-11-28 06:18 CST fb-dm-p67 跳过：已过夜里窗口（18:30–次日 06:00），本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 07:18 CST fb-dm-p67 跳过：已过夜里窗口（18:30–次日 06:00），本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 08:18 CST fb-dm-p67 跳过：已过夜里窗口（18:30–次日 06:00），本轮未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 09:18 跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮结束，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 10:18 跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮结束，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 11:18 跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮结束，未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 12:18 CST — 跳过（窗口外）
+- 本轮定时 12:18，夜里窗口为北京时间 18:30–次日 06:00，当前在窗口外，按规则直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 13:18 fb-dm-p67（Ejje，profile 67）私信盯守轮次：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+## 2026-11-28 14:18 跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 15:18 轮次 — 窗口外跳过
+
+- 本轮定时触发于北京时间 15:18，窗口外（夜里窗口 18:30–次日 06:00），按规则直接结束：未开浏览器、未发任何内容、未碰账号。无客资、无致命问题。
+2026-11-28 16:18 CST fb-dm-p67（Ejje，profile 67）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+2026-11-28 17:18 CST fb-dm-p67（Ejje，profile 67）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+2026-11-28 18:18 CST fb-dm-p67（Ejje，profile 67）：窗口外跳过（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 19:18 轮次（私信盯守第 103 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；5 个待处理好友请求均为已筛查过的旧请求；新增 1 条非医美群组邀请通知
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联、无报错。轮首 /opened 仅 [32]——**67 未开，本轮自己 open（debugging_address 127.0.0.1:27731），轮末已 close，复核 /opened 仅剩 [32]**。check 返回 account_name "Ejje"；首页 profile.php?id=61581899105351，发帖框 "What's on your mind, Ejje?"，登录正常。
+- **通知：已读。新增 1 条群组邀请，无需私信动作：** Nayan Nayan 邀请加入公开群组 "প্রেম করবা?"（4h，非医美群，Nayan 本人仅为 1w 前发过表情包的线程，无医美意向信号，不加入、不联系）；其余为已知项时间自然推进：好友推荐 Eddie Cecilia（15h，04:18 轮 34m 已见，仅推荐、非请求）、Максим Конотоп and Valdimiro Zunguze like your reel "Day 7 — splint off, tape on. Still..."（16h，05:18 轮 2h 已见）、新好友请求通知 2 条（Aftab Khan 5d、Houssenia Sarotra 5d，均为已筛查过的待处理请求，见下）。无新评论通知、无新发布通知。
+- **好友请求：5 个待处理，与 03:18/04:18/05:18 轮完全一致，无新请求。** ① Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）；② Malhar Mallah（6d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）；③ Houssenia Sarotra（5d，61575743102760，11-23 02:18 轮已筛查：锁主页）；④ Aftab Khan（5d，61574581744698，11-23 19:18 轮已筛查：锁主页）；⑤ Abolfazl Zohariy（6d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。均无变化，仍不通过、不私信。
+- **私信：已读，共 17 个线程（与 05:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·5d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束已 close(67)**——67 为本轮自己打开，轮末已关闭并复核 /opened 仅剩 [32]。脚本产出 /tmp/dm_p67_round_20261128_1918.json。本轮未遇 429/226/344。
+
+## 2026-11-28 20:18 轮次（私信盯守第 104 轮，按台账计）— 已完成，发 0 条，无新客资；无对方新消息；新好友请求 Manoelle Théodore 已筛查（真人个人号、无医美意向信号，未通过未联系）
+
+- **身份核验：通过。** agent v15，全程稳定，无 curl 52/18 失联、无报错。轮首 /opened 仅 [32]——**67 未开，本轮自己 open（debugging_address 127.0.0.1:41562），轮末已 close，复核 /opened 仅剩 [32]**。check 返回 account_name "Ejje"；首页发帖框 "What's on your mind, Ejje?"，登录正常。注：identity eval 抓到的首个 profile.php?id= 链接为 61596091893359（带 notif_id=japan_ci_friends_suggestion，系好友推荐通知带的他人链接，非本号 id；2026-11-20 09:18 轮同类现象），以发帖框署名 Ejje 与既往核验本号 id 61581899105351 为准，身份通过。
+- **通知：已读。新增 1 条好友请求通知：** Manoelle Théodore sent you a friend request（2m，1 mutual friend，见下筛查）；其余为已知项时间自然推进：Nayan Nayan 邀请加入公开群组 "প্রেম করবা?"（5h，19:18 轮已知，非医美群，不加入、不联系）、Aftab Khan 好友请求（5d）、Houssenia Sarotra 好友请求（5d）、好友推荐 Eddie Cecilia（16h，仅推荐、非请求）、Максим Конотоп and Valdimiro Zunguze like your reel "Day 7 — splint off, tape on. Still..."（17h）。无新评论通知、无新发布通知。
+- **好友请求：6 个待处理，其中 1 个为新请求。** ① **Manoelle Théodore（profile.php?id=61594025081981）：新请求，已筛查，未通过、未联系。** 主页核查：真人个人号，816 好友、1 共同好友；住马达加斯加马哈赞加（Mahajanga），2002-10-16 出生；可见动态为马达加斯加语/法语个人内容（换头像帖及好友评论），无任何医美相关帖子、未与本号内容互动、无手术意向信号。按"真人个人号 + 有医美意向才联系"口径：**无意向信号，不通过、不私信**，仅记台账；如其后补发医美相关消息再评估。②–⑥ 均为已筛查过的旧请求，无变化，仍不通过、不私信：Sham Shad（1w，61552997341143，2026-11-20 21:18 轮已筛查：锁主页）、Malhar Mallah（6d，61596352605535，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）、Houssenia Sarotra（5d，61575743102760，11-23 02:18 轮已筛查：锁主页）、Aftab Khan（5d，61574581744698，11-23 19:18 轮已筛查：锁主页）、Abolfazl Zohariy（6d，61596415208833，11-22 19:18 轮已筛查：真人个人号、无医美意向信号）。
+- **私信：已读，共 17 个线程（与 19:18 轮一致），两次读数完全一致，无对方新消息。** facebook.com/messages/ 正常打开（未跳 Business Suite、未显示未登录态）；未输 PIN，按可见内容判断：
+  1. **Vincent Lubis**（置顶）：仍为我方 11-24 14:01 的最后一条 "Di sana tim kami akan mengirimimu foto-foto kasus dan melakukan konsultasi waiah profesional satu lawan satu"，无他方新回复。合格客资 #4 已于 11-25 09:33–09:46 成安核实落袋（Junx-EP 已有记录，运营侯少婷），本轮不重复报。
+  2. **মোঃ জাকিরুল ইসলাম**（·4d）：snippet 为空、侧栏显示 "Reply?"（侧栏 UI 标识，非消息）；最后一条仍为 11-23 22:28 的 👍，仅为表情、无提问、无手术项目、无医美意向信号，按 11-19 23:18 轮起对他的既定做法本轮未回。
+  3. **Mohsen Aziz**（·5d）：仍为 11-23 02:18 轮已见的未接视频通话（"You missed a video call from Mohsen"），无新文字、无新来电、无提问、无医美意向信号，未回。
+  4. **Максим Конотоп**（·1w）：仍为 11-20 昨晚 8:00 的 "Привіт 👋"，无新增，未回。
+  5. **Muhamad Siddique**（·1w）：仍为 11-20 今晨 6:25 的 "Hi"，无新增，未回。
+  6. **其余线程均无变化：** Nayan 表情包 1w、Lando "Bsr" 1w、সৌরভ 已拉黑 1w、Simson 1w（我方 wa.ginhao.me/nst 链接最后一条）、Sheikh "ok" 1w 明确拒绝、Mohammad Ksbeh 2w、Gihas/Abdelghani 2w（仅 E2EE 提示）、Jay L Jay 2w、Nonso Noni（仅 E2EE 提示，内容仍未加载出，不判定、不联系）。
+  7. **Asif Asif 与 Franco Hernandez：** 列表 snippet 均为 "Messages and calls are secured with end-to-end encryption"，无任何消息预览；按 Nonso Noni 线程先例（11-24 19:18 轮点开仅 "Loading..."、内容无法核实），本轮未逐个点开，如下轮加载出内容再评估。
+- **两未读线程的 E2EE 加载卡住状态本轮未逐个点开复核**（列表 snippet 无变化、无新消息，故无需点开；11-27 22:18 轮核实：Максим 线程已能正常加载，历史完整可见；Muhamad 线程上次点开复核时卡住连续第 9 轮）。两条未读本身均仅为问候、无提问、无医美意向信号，即使不回也不影响客资；下轮如有新消息再点开核实。
+- **发出消息：0 条。合格客资：0 条（新增）。**
+- **轮次结束已 close(67)**——主脚本与筛查脚本各开各关：主脚本 close 返回 closed: true，opened_after 仅剩 [32]；筛查脚本重开后 close 返回 closed: true，opened_after 再次复核仅剩 [32]，**关闭已核验**。脚本产出 /tmp/dm_p67_round_20261128_2018.json 与 /tmp/dm_p67_round_20261128_2018_screen.json。本轮未遇 429/226/344。

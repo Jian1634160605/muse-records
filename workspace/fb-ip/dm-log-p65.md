@@ -1116,3 +1116,152 @@
 - **传输/环境记录**：agent 8765 健康（v15）；8766 v15 探测返回 curl 52 空回复（仅探测、不切换、不执行，轮次未受影响）。open(65) 一次成功，全程未遇 curl 18/52/56（默认环境代理，未覆盖 proxy-acct2.txt）。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
 - **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
 - 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-27 21:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 "You're now using a Meta Account on Instagram"（Nov 05）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。**环境已恢复**：agent 健康返回 ok、ixbrowser-agent v15（此前为 v10；11-25/26 的 31 小时断线已恢复），open(65) 一次成功。轮开始时在开的 profile 32 为其他并行轮次的号。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+
+## 2026-11-27 22:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 19:12、20:12、21:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 "You're now using a Meta Account on Instagram"（Nov 05）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent 8765 健康（v15）；8766 v15 探测仍报 curl 52 空回复（仅探测、不切换、不执行，轮次未受影响）。open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、44、67，为其他并行轮次的号）。
+- 证据：~/workspace/fb-ip/dm_p65_round_20261127_2212.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261127_2212.py。
+
+## 2026-11-27 23:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号；instagram.com 首页正常加载（已登录态，未跳登录页）。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 19:12、20:12、21:12、22:12 轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 "You're now using a Meta Account on Instagram"（Nov 05）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent 8765 健康（v15）；8766 v15 探测仍报 curl 52 空回复（仅探测、不切换、不执行，轮次未受影响）。
+- **轮开始时 65 已开着**（was_open=true，为其他并行轮次的号）：按手册本轮不 open、不 close，用完即走，未碰其窗口。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 证据：~/workspace/fb-ip/dm_p65_round_20261127_2312.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261127_2312.py。
+
+## 2026-11-28 00:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号（instagram.com 首页 goto 因 curl 18 未读到，改以收件箱页眉核验，与既往轮次做法一致）。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。首轮一次读回确认。
+- **Message Requests 未读到**：首轮 goto 报 curl 52、重试轮 open 三次均 curl 52、第二重试轮 eval 报 curl 18（transfer closed，445 bytes remaining），共 3 轮尝试均失败。**不编结果**：无法判断 Requests 是否为空、有无新关注请求。
+- **通知未读到**：首轮 eval 报 curl 52、第二重试轮 goto 报 curl 18（103 bytes remaining），共 2 轮尝试均失败。**不编结果**：无法判断有无新关注/新评论/新私信通知；上一轮成功读到的状态（11-27 23:12）为无新增（年龄确认 Nov 13、rezazes 5 赞、eleanore.meyer.58 1 赞、"You're now using a Meta Account on Instagram" Nov 05）。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：收件箱为空、无新回复可回；Requests/通知未读到，不盲目判断。
+- **传输故障记录**：本轮 agent 间歇性空回复/传输截断——首轮 check、identity goto、requests goto、notifications eval、close 各遇一次 curl 52/18；重试轮 open 三次全 curl 52；第二重试轮 requests/notifications 各一次 curl 18、close 与 opened 各一次 curl 52。health 全程正常（agent v15，8765）；8766 v15 备用仍报 curl 52 空回复（仅探测、不切换、不执行）。属瞬时传输故障，非 226/344、非 429、非登录失效（IG 各页均已登录态加载）。
+- **轮末 profile 已关并经 opened 列表复核确认**：第二重试轮 close 报 curl 52，未生效（65 仍在 opened 列表，pid 38568）；随后单独复核 opened 列表见 65 仍开着，补调 close 返回 closed:true，再查 opened 列表 65 已不在（在开的 2、5、32、35、38、67、108 为其他并行轮次的号，未碰）。
+- **判定**：登录正常、无 226/344、无 429、无致命问题；Requests 与通知本轮未读到，下轮重查。例行轮次，只写日志，不报用户。
+- 证据：~/workspace/fb-ip/dm_p65_round_20261128_0012.json；重试：~/workspace/fb-ip/dm_p65_round_20261128_0012_retry.json、~/workspace/fb-ip/dm_p65_round_20261128_0012_retry2.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261128_0012.py、dm_p65_round_20261128_0012_retry.py。
+
+## 2026-11-28 01:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号；instagram.com 首页正常加载（已登录态，未跳登录页）。注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。**本轮 Requests 与通知均成功读回**（00:12 轮因传输故障未读到的两项已补查）。
+- **通知**：与 11-27 19:12–23:12 轮及 11-28 00:12 轮成功读到的状态完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07），另有 "You're now using a Meta Account on Instagram"（Nov 05）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent 8765 健康（v15）；8766 v15 探测仍报 curl 52 空回复（仅探测、不切换、不执行，轮次未受影响）。open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、67、108，为其他并行轮次的号）。
+- 证据：~/workspace/fb-ip/dm_p65_round_20261128_0112.json；脚本：~/workspace/ixbrowser-driver/flows/dm_p65_round_20261128_0112.py。
+
+## 2026-11-28 02:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v15 健康；open(65) 一次成功（debugging 127.0.0.1:19039）。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、67、108，为其他并行轮次的号）。
+
+## 2026-11-28 03:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「Drop a song… / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v15 健康；open(65) 一次成功。轮开始时在开的 profile 5、32、67、108 为其他并行轮次的号。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、67、108，为其他并行轮次的号）。
+
+## 2026-11-28 04:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。（注：open 后 check() 默认页为 facebook.com 登录页，系该 profile 默认标签页；IG 各页均已登录态正常加载。）
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）；本月只有点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v15 健康；open(65) 一次成功。轮开始时 65 未开（was_open=false），为本轮自己开的，轮末已关。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、67、108，为其他并行轮次的号）。
+
+## 2026-11-28 05:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v15 健康；open(65) 一次成功。轮开始时在开的 profile 5、32、67、108 为其他并行轮次的号，未碰。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 5、32、67、108，为其他并行轮次的号）。
+- 2026-11-28 06:13 跳过：窗口外（北京时间 06:13，已过 18:30–06:00 夜里窗口），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 07:12 跳过：窗口外（北京时间 07:12，已过 18:30–06:00 夜里窗口），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 08:12 跳过：窗口外（北京时间 08:12，已过 18:30–06:00 夜里窗口），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 09:13 fb-dm-p65（gaga5456，IG profile 65）
+- 窗口外跳过：当前北京时间 09:13，不在 18:30–次日 06:00 夜里窗口内；未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 10:12 CST fb-dm-p65 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 11:12 CST fb-dm-p65 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+- 2026-11-28 12:13 CST fb-dm-p65 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+## 2026-11-28 13:12 跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 14:12（fb-dm-p65，gaga5456 / profile 65）
+
+- 窗口外跳过：本轮 scheduled 14:12 CST，不在夜里窗口（18:30–次日 06:00）内，按任务体直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 15:12（fb-dm-p65，gaga5456 / profile 65）
+
+- 窗口外跳过：本轮 scheduled 15:12 CST，不在夜里窗口（18:30–次日 06:00）内，按任务体直接结束，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 16:12 fb-dm-p65（gaga5456，profile 65）：窗口外跳过——当前北京时间 16:12，不在 18:30–次日 06:00 夜里窗口内；未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 17:13 CST：fb-dm-p65 轮次跳过——当前时间在夜里窗口（18:30–次日 06:00）之外，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 18:13 CST — 跳过（窗口外）
+- 本轮定时 18:12，当前 18:13，夜里窗口为 18:30–次日 06:00，窗口外。未开浏览器、未发任何内容、未碰账号（profile 65 未打开）。
+
+## 2026-11-28 19:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号；instagram.com 首页正常加载（未跳登录页）。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输/中断记录**：首轮脚本执行中服务重启被打断（未产出 JSON），但 profile 65 已于 19:13:29 被本轮打开；复核 opened 列表确认 65 在开（另有 profile 32 为其他并行轮次的号），遂以续跑脚本完成只读核验，未重复 open。续跑全程一次通过，未遇 curl 18/52/56（默认环境代理，未覆盖 proxy-acct2.txt）。agent v15 健康。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。
+- 核验证据：`~/workspace/fb-ip/dm_p65_round_20261128_1912.json`。
+
+## 2026-11-28 20:12（本轮，job fb-dm-p65）
+
+- **身份核验通过**：Direct 收件箱页眉显示用户名 `gaga5456`，即本号。
+- **Direct 收件箱为空**：`instagram.com/direct/inbox/` 显示「Chats will appear here after you send or receive a message」，0 个线程（页眉「First note in a while... / Your note」为 Notes 功能提示，非消息线程）。
+- **Message Requests 也为空**（`direct/requests/`，Delete all 0，0 个线程）。
+- **通知**：与 11-19 三轮及 11-20、11-21、11-22、11-24 各轮完全一致，无新关注、无新评论、无新私信通知。本月只有一条年龄确认提示（"We weren't able to confirm your age"，Nov 13）和点赞——rezazes 连赞 5 条 Reel（11-08/09）、eleanore.meyer.58 赞 1 条（11-07）。rezazes/eleanore 均为纯点赞、无文字互动，不构成联系对象。通知页下方的「Suggested for you」仅为 IG 推荐关注列表，非关注请求，不跟随。
+- **本轮未发任何私信、未通过任何好友、未筛查到新线程**：无新回复可回，无新关注可筛。
+- **传输正常**：本轮未遇 curl 18/52/56，全程一次通过（默认环境代理，未覆盖 proxy-acct2.txt）。agent v15 健康；open(65) 一次成功。轮开始时在开的 profile 32 为其他并行轮次的号。
+- **判定**：登录正常、无 226/344、无 429、无致命问题。例行轮次，只写日志，不报用户。
+- 轮次结束已 `close(65)` 关掉 profile，并经 opened 列表复核确认已关（opened-after 只有 profile 32，为其他并行轮次的号）。

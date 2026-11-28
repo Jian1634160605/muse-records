@@ -1258,3 +1258,179 @@
 - Direct General：已核验到，为空（直接 goto /direct/general/ 成功）。
 - 本轮动作：无发信。无合格客资，无致命问题。
 - 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 32（Lark，另一轮次在跑），本号已关）。
+
+## 2026-11-27 21:00 轮次（fb-dm-p44）——agent 恢复后首个完整跑通的轮次
+
+- **agent 已恢复**：本轮 20:58 首探 health 一次 OK（ixbrowser-agent v15；此前为 v10，断线期间疑似重启/升级），opened() 正常。自 2026-11-25 13:47 断线起失联约 55 小时，期间连续 22 个夜里轮次未跑成（11-26 23:00 轮曾一次瞬时闪通）。无 429/226/344，不作封号/登录失效升级。探针脚本 `~/workspace/ixbrowser-driver/flows/dm_p44_probe_20261127_2100.py`，完整轮次脚本 `~/workspace/ixbrowser-driver/flows/dm_p44_20261127_2100.py`，日志 `/tmp/dm_p44_2100_full.log`。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/）：自 11-25 06:00 轮起**新增 1 个关注**：hair.bycmisha（1 天前，仅“started following you”）——名字看是美发/美容业务号，属同行/机构类，无私信、无医美意向信号，不联系、不盲目回关。其余仍是 11-25 已知的 3 个关注（sevha.ki.divnhi 4 天前、moger4123 5 天前、ahmed.wakib.79 6 天前），均无意向信号，不联系。另见 anatomyofthesoul.11 点赞了 sarah 在 deb_broadway 线程下的评论（仅点赞，非回复、无新私信），deb_broadway 本人自 11-21 00:00 轮后无新回复。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。注：通知文本按既往口径截取前 4000 字符，最新条目在顶部均已读到。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。chameleon.951509 那条是 Note（歌曲分享），不是私信。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 32，系另一轮次在跑，本号已关，未碰）。
+
+## 2026-11-27 22:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 19:00 恢复后第三个完整跑通的轮次。轮次脚本 `~/workspace/ixbrowser-driver/flows/dm_p44_20261127_2200.py`（由 21:00 轮脚本复用），日志 `/tmp/dm_p44_2200_full.log`。轮次开始时 opened() 显示 profile 32（Lark）与 67（Ejje，21:55 开）为其他轮次在跑，本号未开，未碰。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，全文截取前 4000 字符，最新条目在顶部均已读到）：自 21:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 21:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（1 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 21:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞了 sarah 在 deb_broadway 线程下的评论（仅点赞，非回复、无新私信）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 32（Lark，另一轮次在跑），本号已关）。
+
+## 2026-11-27 23:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 19:00 恢复后第四个完整跑通的轮次。轮次脚本 `~/workspace/ixbrowser-driver/flows/dm_p44_20261127_2300.py`（由 22:00 轮脚本复用），日志 `/tmp/dm_p44_2300_full.log`。轮次开始时 opened() 显示 profile 5、32、65、67 为其他轮次在跑，本号未开，未碰。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，全文截取前 4000 字符，最新条目在顶部均已读到）：自 22:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 22:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（1 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 22:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞了 sarah 在 deb_broadway 线程下的评论（仅点赞，非回复、无新私信）；deb_broadway 本人自 11-21 00:00 轮后无新回复。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 5、32、65、67，均为其他轮次在跑，本号已关，未碰）。
+
+## 2026-11-28 00:00 轮次（fb-dm-p44）
+
+- agent 传输层瞬时故障后中途恢复（非平台信号）：轮次开始时 health、opened-before 连续 curl 52/18 空回复（各 3 次重试均失败），open(44) 一次成功（debugging 127.0.0.1:35543）；其后 goto-home 3 次 curl 52 失败，但 identity eval 重试后成功，goto-notif/inbox/requests/general 均一次成功。无 429/226/344，不作封号/登录失效升级。轮次脚本 `~/workspace/ixbrowser-driver/flows/dm_p44_20261128_0000.py`（由 23:00 轮脚本复用），日志 `/tmp/dm_p44_0000_full.log`。注：opened-before 开局失败导致脚本按安全口径跳过轮末 close（不确认归属不关）；轮后另跑关窗脚本核实：opened() 列出 profile 44（pid 5316，open_time 2026-11-28 00:04:48，确为本轮所开），close 返回 closed:true，20 秒后复核 opened() 已无 44（仅剩 5、32、35、65、67、108，均为其他轮次在跑，未碰）。
+- 身份核验：通过。默认标签页落在一条 IG 帖子（/p/Df6RtR_EiPg/，angelflood76 的深平面拉皮帖，未做任何互动），页面含本号个人资料链接 `/sarahcook6809/`；Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，全文截取前 4000 字符，最新条目在顶部均已读到）：自 23:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 23:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 23:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞了 sarah 在 deb_broadway 线程下的评论（仅点赞，非回复、无新私信）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（见上，轮后补关并复核 opened() 为空本号）。
+
+## 2026-11-28 01:00 轮次（fb-dm-p44）——本轮未跑成：profile 44 正被另一轮次占用，页面持续漂移，通知/收件箱均未读到
+
+- 轮次在夜里窗口（18:30–次日 06:00）内。agent v15 健康（health 开局 2 次 curl 52 后一次 OK）；无 429/226/344，不作封号/登录失效升级。轮次脚本 `~/workspace/ixbrowser-driver/flows/dm_p44_20261128_0100.py`（由 00:00 轮脚本复用），日志 `/tmp/dm_p44_0100_full.log`。
+- 轮次开始时 opened() 显示 profile 44 已开（open_time 2026-11-28 00:31:22，pid 42596，端口 42208）——00:00 轮已关并复核为空，00:31 又被另一轮次打开。按手册本轮未 open、轮末未 close，未碰他人窗口。
+- 身份核验：通过。默认标签页落在一条 IG 帖子（/p/DfTnFLKCBd2/，to_istanbul_and_back 的拉皮帖，未做任何互动），页面导航栏含本号个人资料链接 `/sarahcook6809/`，登录态正常。
+- 通知 / 收件箱 / Requests / General：**均未读到**。每次 goto 返回 ok（目标 URL 正确），但随后 eval 读到的页面已漂到另一条随机的拉皮主题帖子，6 次读回全是帖子页、没有一次停在目标页：
+  - notif-text → /p/DZxcOCtsmNk/（drasaria 深平面拉皮帖）
+  - inbox-text → /p/Dbsnf-Dti9c/（valentina.klar 拉皮帖）
+  - req-text → /p/C0aiZEwLAig/（facialsurgeons 拉皮病例帖）
+  - gen-text → /p/CMaGUo2D94L/（cosmetic.insider 拉皮恢复时间线帖）；重试 goto-general 后 gen-text-retry → /p/DZzGSZyBdEt/（drparkdongman 拉皮帖），仍漂移
+  - goto-inbox 中途一次 curl 18（115 bytes remaining），重试后 ok，属传输层瞬时故障。
+  - 漂移形态与另一轮次正在同一标签页刷拉皮内容一致（本轮未点任何帖子、未做任何互动）。按手册不硬闯、不盲重试撞他人窗口。
+- **本轮无法确认有无新回复——不是“无新回复”，是“未读到”，不谎报。**00:00 轮的已知状态（4 个旧关注 hair.bycmisha / sevha.ki.divnhi / moger4123 / ahmed.wakib.79 均无意向信号、Primary 空、Requests 0、General 空）不拿来顶替本轮。
+- 动作：无发出消息。无合格客资（未读到）。致命问题：无（登录态已验证正常；未读到属并发占用，非账号问题）。
+- 轮后复核（01:06）：profile 44 仍开着（pid 42596，open_time 2026-11-28 00:31:22，确为另一轮次所开），本轮未关；其余在跑的轮次（5、32、67、108）未碰。下轮（02:00）优先复查通知与三栏收件箱；若 44 仍被占用，沿用本轮口径记未读到、不硬闯。
+
+## 2026-11-28 02:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 11-27 19:00 恢复后第六个完整跑通的轮次。轮次脚本 `~/workspace/fb-ip/dm-p44-round-20261128-0200.py`，日志 `~/workspace/fb-ip/dm-p44-run-20261128-0200.log`。轮次开始时 opened() 显示 profile 5、32、67、108 为其他轮次在跑，本号未开，未碰；01:00 轮占用 44 的另一轮次已不在列表中。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，截取前 3500 字符，最新条目在顶部均已读到）：自 00:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 00:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。更早的 6 个旧关注（shyam_ka_ladla_202 等）在截取范围之下，未逐条复核，顶部无新增即按无新增记。
+  - 评论互动与 00:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞/回复了 sarah 在 deb_broadway 线程下的评论（6 天前）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）；gaga5456 的两条为 11-18/19 矩阵内互刷评论，无需回复。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，页面停留在 General 收件箱）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 5、32、67、108，均为其他轮次在跑，本号已关，未碰）。
+
+## 2026-11-28 03:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 11-27 19:00 恢复后第七个完整跑通的轮次。轮次脚本 `~/workspace/fb-ip/dm-p44-round-20261128-0300.py`，日志 `~/workspace/fb-ip/dm-p44-run-20261128-0300.log`。轮次开始时 opened() 显示 profile 5、32、67、108 为其他轮次在跑，本号未开，未碰；01:00 轮占用 44 的另一轮次已不在列表中。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，全文已读回，最新条目在顶部均已读到）：自 02:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 02:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 02:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞/回复了 sarah 在 deb_broadway 线程下的评论（6 天前）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）；gaga5456 的两条为 11-18/19 矩阵内互刷评论，无需回复。旧 6 个关注（shyam_ka_ladla_202 11-11、ashishbdbshd 11-09、pk_sona_love 11-06、rahul2389977 11-04、chameleon.951509 11-02、bym_esteticaterapiasbcn 10-30 巴塞罗那美容机构号）无变化，无新增意向信号。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，页面停留在 General 收件箱）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 5、32、67、108，均为其他轮次在跑，本号已关，未碰）。
+
+## 2026-11-28 04:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 11-27 19:00 恢复后第八个完整跑通的轮次。轮次脚本 `~/workspace/fb-ip/dm-p44-round-20261128-0400.py`，日志 `~/workspace/fb-ip/dm-p44-run-20261128-0400.log`。轮次开始时 opened() 显示 profile 5、32、67、108 为其他轮次在跑，本号未开，未碰。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，全文已读回，最新条目在顶部均已读到）：自 03:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 03:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 03:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞/回复了 sarah 在 deb_broadway 线程下的评论（6 天前）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）；gaga5456 的两条为 11-18/19 矩阵内互刷评论，无需回复。旧 6 个关注（shyam_ka_ladla_202 11-11、ashishbdbshd 11-09、pk_sona_love 11-06、rahul2389977 11-04、chameleon.951509 11-02、bym_esteticaterapiasbcn 10-30 巴塞罗那美容机构号）无变化，无新增意向信号。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，页面停留在 General 收件箱）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 5、32、67、108，均为其他轮次在跑，本号已关，未碰）。
+
+## 2026-11-28 05:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 11-27 19:00 恢复后第九个完整跑通的轮次。轮次脚本 `~/workspace/fb-ip/dm-p44-round-20261128-0500.py`，日志 `~/workspace/fb-ip/dm-p44-run-20261128-0500.log`。轮次开始时 opened() 显示 profile 5、32、67、108 为其他轮次在跑，本号未开，未碰。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/，全文已读回，最新条目在顶部均已读到）：自 04:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 04:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 04:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞/回复了 sarah 在 deb_broadway 线程下的评论（6 天前）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）；gaga5456 的两条为 11-18/19 矩阵内互刷评论，无需回复。旧 6 个关注（shyam_ka_ladla_202 11-11、ashishbdbshd 11-09、pk_sona_love 11-06、rahul2389977 11-04、chameleon.951509 11-02、bym_esteticaterapiasbcn 10-30 巴塞罗那美容机构号）无变化，无新增意向信号。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，0 条（“Delete all 0”）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，页面停留在 General 收件箱）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 5、32、67、108，均为其他轮次在跑，本号已关，未碰）。
+
+## 2026-11-28 06:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15 健康（health 一次 OK）；本轮为 11-27 19:00 恢复后第十个完整跑通的轮次。轮次脚本 `~/workspace/fb-ip/dm-p44-round-20261128-0600.py`，日志 `~/workspace/fb-ip/dm-p44-run-20261128-0600.log`。轮次 05:57 启动（窗口 18:30–次日 06:00 内），close 与 opened-after 复核落在 06:00 之后，属同一轮次收尾（与 11-21 06:00 轮同口径）。轮次开始时 opened() 为空，本号未开，未碰其他轮次。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，登录态正常（innerText 片段未含用户名系页面加载片段所致，profileLinks 含本号链接为准，与前几轮同一口径）。
+- 通知（instagram.com/notifications/，全文已读回，最新条目在顶部均已读到）：自 05:00 轮起**无新增关注、无新增评论互动**。
+  - 本周 4 个关注与 05:00 轮同一批，均为仅“started following you”，无私信、无医美意向信号，不联系：hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（4 天前）、moger4123（5 天前）、ahmed.wakib.79（6 天前）。
+  - 评论互动与 05:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞/回复了 sarah 在 deb_broadway 线程下的评论（6 天前）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 6 天前旧回复，属猎手评论动作，留待猎手轮次跟进，本轮不私信她）；gaga5456 的两条为 11-18/19 矩阵内互刷评论，无需回复。旧 6 个关注（shyam_ka_ladla_202 11-11、ashishbdbshd 11-09、pk_sona_love 11-06、rahul2389977 11-04、chameleon.951509 11-02、bym_esteticaterapiasbcn 10-30 巴塞罗那美容机构号）无变化，无新增意向信号。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。chameleon.951509 那条是 Note（歌曲分享），不是私信。
+- Direct Requests：**本轮未完全核验到**。点“Requests”文字返回 clicked，但随后读回仍为通用空收件箱文本，未见往轮“Delete all 0”的明确标识，无法确认切到了 Requests 栏还是仍停留在 Primary。Primary 为空、General 为空，Requests 藏对话概率低，但未读回即记为未核验，下轮优先用直接 goto /direct/requests/ 复查（11-21 22:00 轮曾用此法成功核验）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，页面停留在 General 收件箱、显示空态）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 5、32、67、108，均为其他轮次在跑，本号已关，未碰）。
+- 2026-11-28 06:57 CST fb-dm-p44（sarahcook6809 / profile 44）跳过：已过夜里窗口（18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 08:00 CST fb-dm-p44（sarahcook6809 / profile 44）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 09:00 CST fb-dm-p44（sarahcook6809 / profile 44）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 10:00 CST fb-dm-p44（sarahcook6809 / profile 44）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 11:00 CST fb-dm-p44（sarahcook6809 / profile 44）跳过：窗口外（夜里窗口 18:30–次日 06:00），未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 12:00 轮次（fb-dm-p44）跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 12:57 轮次跳过：当前 12:57 不在 18:30–06:00 窗口内，未开浏览器、未发内容。
+- 2026-11-28 13:57 轮次跳过：当前 13:57 不在 18:30–06:00 窗口内，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 14:57 轮次跳过：当前 14:57 不在 18:30–06:00 窗口内，未开浏览器、未发内容、未碰账号。
+
+## 2026-11-28 15:57 fb-dm-p44（sarahcook6809 / IG profile 44）跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 16:57 fb-dm-p44（sarahcook6809 / IG profile 44）跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 17:57 fb-dm-p44（sarahcook6809 / IG profile 44）跳过：当前时间在夜里窗口（18:30–次日 06:00）之外，本轮直接结束，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 19:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15，health 一次 OK；open 一次成功（debugging 127.0.0.1:30056）；轮次开始时 opened() 为空。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`（profileLinks=1），Direct 收件箱顶部显示 sarahcook6809，登录态正常。
+- 通知（instagram.com/notifications/）：自 06:00 轮起**无新增关注、无新增互动**，与 06:00 轮同一批，仅时间推移：新关注 4 个仍为 hair.bycmisha（2 天前，美发/美容店号，同行/机构属性）、sevha.ki.divnhi（5 天前）、moger4123（6 天前）、ahmed.wakib.79（Nov 20），全部仅“started following you”，无评论、无私信、无医美意向信号，不联系、不盲目回关。旧 6 个关注（shyam_ka_ladla_202 11-11、ashishbdbshd 11-09、pk_sona_love 11-06、rahul2389977 11-04、chameleon.951509 11-02、bym_esteticaterapiasbcn 10-30 巴塞罗那美容机构号）无变化。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- 评论互动与 06:00 轮同一批，仅时间推移：anatomyofthesoul.11 点赞/回复了 sarah 在 deb_broadway 线程下的评论（Nov 20）；deb_broadway 本人自 11-21 00:00 轮后无新回复（其“it’s 100% in person.”为 Nov 20 旧回复）；gaga5456 的两条为 11-18/19 矩阵内互刷评论，无需回复。上述均为评论区互动、属猎手动作（须先过 E07），本轮为私信盯守，未发评论、未私信任何人。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。chameleon.951509 那条是 Note（歌曲分享），不是私信。
+- Direct Requests：**本轮已核验，0 条**（直接 goto /direct/requests/ 成功，见“Delete all 0”，补上 06:00 轮未完全核验的缺口）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，两次读回一致）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核为空）。
+
+## 2026-11-28 20:00 轮次（fb-dm-p44）
+
+- 全程一次成功，无 agent 传输层故障、无 429/226/344，不作封号/登录失效升级。agent v15，health 一次 OK；open 一次成功（debugging 127.0.0.1:29927）。
+- 身份核验：通过。IG 首页正常加载，导航栏含本号个人资料链接 `/sarahcook6809/`，Direct 收件箱顶部显示 sarahcook6809，登录态正常（innerText 片段未含用户名系页面加载片段所致，profileLinks 含本号链接为准，与前几轮同一口径）。
+- 通知（instagram.com/notifications/）：自 11-28 06:00 轮起**新增 4 个关注**，全部仅为“started following you”，无评论、无私信、无医美意向信号，不联系：
+  - hair.bycmisha（2 天前，发型/美妆号）
+  - sevha.ki.divnhi（5 天前）
+  - moger4123（6 天前）
+  - ahmed.wakib.79（11 月 20 日）
+  - 旧关注仍在：shyam_ka_ladla_202（11-11）、ashishbdbshd（11-09）、pk_sona_love（11-06）、rahul2389977（11-04）、chameleon.951509（11-02）、bym_esteticaterapiasbcn（10-30 巴塞罗那美容机构号）。旧系统提示（10-19 新 Meta 账号、10-12 未识别设备）为历史通知，登录正常，不作升级。
+- 通知另见猎手线程的评论互动（11 月 20 日，非私信，本轮不动作）：anatomyofthesoul.11 点赞并回复了 sarah 的评论（“a bit of both but we are a hospitality business…”）、deb_broadway 两条回复（“it’s 100% in person.”；“I have three weeks of vacation per year so using two weeks for a lift is a lot.”，与 11-21 00:00 轮同一条）；gaga5456 的互刷评论（11 月 19 日翻修鼻子、11 月 18 日问视频面诊）仍在。均非客户私信，无需私信回复。
+- Direct 收件箱 Primary：为空（“Chats will appear here after you send or receive a message”），无新私信、无待回复。
+- Direct Requests：已核验，为空——点“Requests”成功，收件箱面板无任何请求行（本轮读到的文本未含往轮的 “Delete all 0” 计数串，按面板无请求行记为空）。
+- Direct General：已核验到，为空（直接 goto /direct/general/ 成功，面板同为空）。
+- 本轮动作：无发信。无合格客资，无致命问题。
+- 轮次结束已关 profile 44（close 返回 closed:true；opened() 复核仅剩 profile 32（Lark，另一轮次在跑），本号已关）。

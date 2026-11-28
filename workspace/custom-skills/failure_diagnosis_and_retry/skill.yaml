@@ -1,0 +1,25 @@
+name: failure_diagnosis_and_retry
+title: Diagnose a failure before retrying
+description: Diagnose a failure from its full output, stop blind retries, and keep the queue intact until a read only check proves the result.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - sirun_6bb75dd11bd6454db8901f617d978b14
+  - sirun_b77dda0ca8c945068267d9221b79aea4
+  - assistant-msg-ba765290
+  - assistant-msg-e74b3f4c
+  - msg-8a238bc1
+  - msg-4453ab97
+  - message:916df8b1-f597-4eda-9f09-5309423e79b7
+  measurement:
+    proxy_metric_id: blind_retry_and_misdiagnosis_failures
+    success_criterion: Zero cases of five or more consecutive identical failures with no diagnosis record and zero causes reported from a truncated prefix alone over the window, with every persistent failure either resolving through a diagnosed fix or staying reported as an open block with its queue held.
+    window_days: 14
+  needs_review: false
+  rationale: 'Ten active learned skills trigger consolidation. I read both source skills in full. untruncated_error_diagnosis teaches getting full output, checking helper artifacts, and recomputing platform counted limits, and its own rationale says x_cli_init_failure_triage records exact error text but does not teach how to obtain it when output is truncated. x_cli_init_failure_triage teaches the three failure stop rule, one element diagnosis, and timeline verification for X init failures and platform rejections. They are the same stop and diagnose workflow split across two loads. The 2026-11-27 Antigravity case in the packet reinforces the merge: a VPN cause was named before the exit address and the account bound region were checked separately, and the alignment synthesis records that VPN hypothesis as falsified. The merged skill preserves every rule from both sources and adds that separate cause check. Other overlaps were checked and not merged: blocking_action_escalation and outward_action_verification cover different stages, approval lock plus escalation versus pre-action record checks, and fb_reel_publish_verification is an amendment to social_publishing while video_source_screening is a pre-publish gate, so merging either pair would blur distinct stages.'
+  review_after: 2026-12-12T00:24:52.793968+00:00
+  reviewed_at: 2026-11-28T00:24:52.793968+00:00
+  run_id: sirun_a192f288db7b4db39fdfdbcff65c29a1

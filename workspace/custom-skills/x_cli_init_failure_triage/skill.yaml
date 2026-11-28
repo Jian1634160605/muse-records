@@ -5,23 +5,17 @@ category: Communication
 include_in_prompt: false
 skill_improvement:
   managed: true
-  status: active
+  status: retired
   evidence_handles:
+  - sirun_b77dda0ca8c945068267d9221b79aea4
   - msg-8a238bc1
   - msg-4453ab97
-  - msg-855722e2
-  - msg-022db0fa
-  - msg-911e7275
-  - msg-4a641b02
-  - msg-1714c6c3
-  - msg-f05fc705
-  - msg-e12f30b7
   measurement:
-    proxy_metric_id: x_cli_blind_retry_failures
-    success_criterion: Zero cases of five or more consecutive identical failures with no diagnosis record over the window, whether the failure is a client init failure or a platform rejection, and every persistent failure either resolves through a diagnosed fix or stays reported as an open block with its queue held.
+    proxy_metric_id: blind_retry_and_misdiagnosis_failures
+    success_criterion: The retired skill leaves active discovery and the merged failure_diagnosis_and_retry skill covers its stop rule, one element diagnosis, and timeline verification method with zero cases of five or more consecutive identical failures with no diagnosis record over the window.
     window_days: 14
-  rationale: 'On 2026-11-17 X post p2756 reached a tenth failure at 20:33 because its chuhai.wiki link was judged potentially harmful, after failures at 08:23, 08:33, 11:33, 13:03, 14:33, 16:03, 17:33 and 19:03, while the latest post stayed at p2755 from 08:13 and no decision was recorded. The existing managed skill x_cli_init_failure_triage stops blind retries only for client init failures, so a platform rejection of the post content fell outside its scope and the same unchanged draft kept being probed about every 90 minutes. Widening the stop rule, the diagnosis steps and the description to cover platform rejections puts the p2756 pattern inside the skill a worker loads before retrying. Checked and not proposed: same-author over-frequency comments are already covered by outward_action_verification inside its window to 2026-11-30, and the multi-account browser concurrency fix is still an untested draft plan with resume pending a user discussion, so no skill is proposed for it.'
   needs_review: false
-  review_after: 2026-12-02T00:18:55.950079+00:00
-  reviewed_at: 2026-11-18T00:18:55.950079+00:00
-  run_id: sirun_b77dda0ca8c945068267d9221b79aea4
+  rationale: 'Retirement half of the consolidation: x_cli_init_failure_triage is superseded by the merged failure_diagnosis_and_retry skill, which carries its stop rule, one element diagnosis, and timeline verification method unchanged.'
+  review_after: 2026-12-12T00:24:52.793968+00:00
+  reviewed_at: 2026-11-28T00:24:52.793968+00:00
+  run_id: sirun_a192f288db7b4db39fdfdbcff65c29a1
