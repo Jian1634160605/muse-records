@@ -2314,3 +2314,263 @@
 - 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。唯一插曲：翻译文本导致的目标定位走偏一次（已记方法：找菲律宾语提问者先按中文翻译文本锚定，或先点“查看原文”再定位）。
 - 脚本：~/workspace/fb-ip/hunt-p35-20261127-2024-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（3 组搜索）、stage4.py/4b.py/4c.py/4d.py（Mommy 评论展开找目标）、stage4e.py/4f.py（Cutcat 追问原文核对）、stage5.py（定位走偏空跑已记）、stage5b.py（点回复+输入核对）、stage6.py（提交+读回核验）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261127-2024-stage*.json。
 - 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-27 21:24–21:47 猎手轮（第一百零五轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（21:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:53652）、轮末 close（已核验关闭；收尾 opened() 仅剩 32 号、44 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 20:24 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 4 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after、nose job philippines，共 5 组。筛掉：Isabel Luche / Doctor Edmund Syjueco（医生/术后展示）、Mar Gie（隆鼻日记帖）、Carl Truesdale / Shanghai Du（医生、诊所）、Makeup by Katie（已术后）、Bright Side（明星前后对比媒体号）、Dr.Bu Nose / Dr. Jacob Kevin / Kosmed Aesthetic Clinic（诊所）、Lilibeth Miller / Fin Hogar（已术后）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Facelift Support Group 匿名帖（已锚定 Dr. Ross Clevens / Dr. Edward Gross 两位特定医生、已面诊过，验证型帖不碰）、Chen AnYun（同行）、Chill Lee（6 月“帮朋友问”旧帖）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套回复全展开，93 次展开点击）
+- Nora Malibiran：Bertie 19:24 的回复显示为 1 小时前，Nora 本人未回。
+- Cutcat Leeyahoo：两条线程下 Bertie 的回复都在（2 天前首问回复、53 分钟前“at ilang days po”追问回复），Cutcat 本人未回。
+- Elmalyn / Zhakie / Lesner / Ako：Bertie 2 天前的回复都在，对方均未回。Princess Amore Otuiqram：Bertie 两条回复（1 周、6 天前）都在，Princess 本人未回（“查看3条回复”为容器计数、无新增 Princess 原文，与 104 轮结论一致）。Adelaida Tarnate：Bertie 1 周前回复在，对方未回。
+- Nancy Amor / Daisy Tandang Telebrico / Michelle Ducay Dumagsa / رينا منخفض：楼主已回“120k”，不碰。Loisa Marie（问术后疼不疼）：楼主已回，不碰。Dhel De Guzman（1 天前“更新他们。”）：催更类，不碰。Gazinie Gazzera / AshleyHeart Rojas：锚定诊所倾向，不碰。其余均为朋友祝贺/催更。3 条隐藏评论未读到。
+- 计数变化：104 轮发后为 41/45，本轮复查为 41/44，可见线程集合与 104 轮复查完全一致、无新增提问者，疑似 FB 隐藏/删除了 1 条评论（无法确认是哪条，不猜测）。本轮无新提问者、无热线回话，故未发新评论。
+
+### 复查 Lily Ella Wrench 帖（土耳其隆鼻求推荐+问价）
+- Bertie 第 39 轮顶楼评论仍在（显示 5 天前），Lily 未回 Bertie；另有一条 Bertie 2 天前给 Leanne Watson 的嵌套回复（液态隆鼻怕针话题），Leanne 也未回。Lily 本人只回了 Leanne / Tia / Eleanor（朋友线），未回 Bertie。按既定口径不重复发评，等她回话再跟进。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261127-2124-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（3 组搜索）、stage4.py/4b.py/4c.py/4d.py（Mommy 评论展开复查）、stage4e.py（2 组补充搜索）、stage4f.py（Lily 帖复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261127-2124-stage*.json。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-27 22:24–22:52 猎手轮（第一百零六轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（22:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:34041）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、65、67 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 19:24/20:24/21:24 三轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 4 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche（7 个月术后展示）、Doctor Edmund Syjueco / Carl Truesdale / Shanghai Du（医生/诊所主页）、Mar Gie（隆鼻日记帖）、Makeup by Katie（已术后）、Dr.Bu Nose / Kosmed Aesthetic Clinic / Vibrant Skin & Body Clinic / K Aesthetic（诊所/广告/AI 内容）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Agata Ratajczyk（群 573582492318097 帖，已锚定土耳其两位特定医生、验证型帖，群组通道已知受限，不碰）、Chen AnYun（同行）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套回复展开）
+- 计数：评论按钮显示 86 条（21:24 轮为 84/85 区间波动），可见集合仍为 41/44，与 105 轮完全一致，无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（Bertie 19:24 回复在，嵌套仍“查看1条回复”，Nora 本人未回）；Cutcat Leeyahoo（两条线程下 Bertie 回复都在，嵌套仍各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（Bertie 两条回复在，嵌套“查看2条回复”，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 回复在，对方未回）。
+- 其余：Nancy Amor / Daisy Tandang Telebrico / Loisa Marie / Michelle Ducay Dumagsa / رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（催更）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 附记：stage4b 曾因只点嵌套回复、未点“查看更多评论”而只读到 6/44，stage4c 补 5 轮加载至 41/44 后再展开嵌套复核，方法已记（先加载全部顶楼再展开嵌套）。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第一批后即点不动（load_more 第 2、3 轮 clickedMore 0），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Joyce Ann Acob（祝贺）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成（页面渲染问题，非限流信号），按“最相关”排序与此前全量核查（第 12 轮）结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。唯一插曲：Rus Reel“查看更多评论”第二批起加载失效（属页面渲染问题，非 FB 限流/封号信号）。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261127-2224-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量）、stage4b.py（嵌套展开走偏、仅 6/44，已记）、stage4c.py（加载至 41/44 + 嵌套复核）、stage4d.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261127-2224-stage*.json。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-27 23:24–23:34 猎手轮（第一百零七轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（23:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:3548）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、65、67 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 19:24/20:24/21:24/22:24 四轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 4 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组；补充 considering rhinoplasty、rhinoplasty recovery，共 2 组。筛掉：Isabel Luche（7 个月术后展示）、Doctor Edmund Syjueco / Carl Truesdale / Shanghai Du / Dr. Gil Mamuric / Dr.Bu Nose / Vibrant Skin & Body Clinic / Kosmed Aesthetic Clinic / Guangzhou Cosmetic Clinic（医生/诊所主页/广告）、Mar Gie（隆鼻日记帖）、Makeup by Katie（已术后）、Chen AnYun（同行）、Sol Taucanea Bernal（已术后恢复日记）、Dr Ibrar / Dr. Mehmet Akif Yıldırım（医生）、匿名互动者“术后碰鼻焦虑”帖与 ModestNarwhal1613 术后 6 周担忧帖（均为已术后求助、群组帖）、Agata Ratajczyk（群 573582492318097 帖，已锚定土耳其两位特定医生、验证型帖，群组通道已知受限，不碰）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Lily Ella Wrench（第 39 轮 Bertie 顶楼评论仍在，Lily 未回 Bertie，不重复评）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 计数与可见集合与 106 轮完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Nancy Amor / Daisy Tandang Telebrico / Loisa Marie / Michelle Ducay Dumagsa / رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261127-2324-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4e.py（2 组补充搜索）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261127-2324-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261127-2324-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-28 00:24–00:52 猎手轮（第一百零八轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（00:24）。health OK（agent v15，/health 一次通过）；**开局 profile 35 已在开（was_open=True，debugging 127.0.0.1:6593，open_time 2026-11-27 23:56:00——另一轮次先开，本轮未 open、轮末未 close，用完即走）**。收尾 opened() 核验：35 仍在（同一调试地址），另有 5、32、44、67、108 号其他轮次窗口，均未碰。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 107 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche / Doctor Edmund Syjueco / Angge G.（术后展示）、Carl Truesdale / Shanghai Du（医生/诊所）、Hooked On The Look（术后故事）、Dr.Bu Nose / Vibrant Skin & Body Clinic / Magallona Plastic Surgery Clinic 等诊所主页、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Agata Ratajczyk（群 573582492318097 帖，已锚定土耳其两位特定医生、验证型帖，群组通道已知受限，不碰）、Dr Mehmet Akif Yıldırım / Dr Skander Hendaoui（医生/诊所）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 计数：评论按钮显示 86 条，可见集合仍为 41/44，与 107 轮完全一致，无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Nancy Amor / Daisy Tandang Telebrico / Loisa Marie / Michelle Ducay Dumagsa / رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有回复）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常。**隧道抖动四则**：身份 eval、read_full、Rus 首评、opened() 先后报 curl 18/52，等待 25–30 秒重试后均恢复，属传输层问题，非 FB 限流/封号信号。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-0024-stage1.py（开局+身份，1b.py 为身份重试）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.json（收尾 opened() 核验，仅记录、未关闭）；结果：~/workspace/fb-ip/hunt-p35-20261128-0024-stage*.json。
+- 收尾：**profile 35 未关闭**——开局即为他轮次所开（was_open=True，23:56 开），按手册本轮不关；收尾 opened() 核验 35 仍在（debugging 127.0.0.1:6593），另有 5、32、44、67、108 号其他轮次窗口，未动。
+
+## 2026-11-28 01:24–01:35 猎手轮（第一百零九轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（01:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:54616）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、67、108 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 107/108 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche / Angge G.（术后展示）、Doctor Edmund Syjueco / Carl Truesdale / Shanghai Du / Dr.Bu Nose / Vibrant Skin & Body Clinic / K Aesthetic（医生/诊所主页/广告）、Hooked On The Look（术后故事）、Richard Enrique ENTMD / Dr Mehmet Akif Yıldırım / DrKassir1 / Dr. Anthony Bared（医生）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Lily Ella Wrench（第 39 轮 Bertie 顶楼评论仍在，Lily 未回 Bertie，不重复评）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 计数与可见集合与 107/108 轮完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Nancy Amor / Daisy Tandang Telebrico / Loisa Marie / Michelle Ducay Dumagsa / رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 107/108 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有回复）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-0124-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-0124-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-0124-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-28 02:24–02:52 猎手轮（第一百一十轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（02:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:20101）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、67、108 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 107–109 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche（7 个月术后展示）、Doctor Edmund Syjueco / Carl Truesdale / Shanghai Du / Richard Enrique ENTMD / Dr Mehmet Akif Yıldırım / Dr Eamon Shamil（医生/诊所主页）、Angge G.（6 个月术后展示、锚定 Dr. Elain）、Hooked On The Look（术后故事）、Mayang Sallimoc（术后第 8 天）、Dr.Bu Nose（诊所）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Agata Ratajczyk（群 573582492318097 帖，已锚定土耳其两位特定医生、验证型帖，群组通道已知受限，不碰）、Lily Ella Wrench（第 39 轮 Bertie 顶楼评论仍在，Lily 未回 Bertie，不重复评）、Chen AnYun（同行）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 计数与可见集合与 107–109 轮完全一致（41/44，加载 6→16→26→36→41），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Nancy Amor / Daisy Tandang Telebrico / Loisa Marie / Michelle Ducay Dumagsa / رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106–109 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回，嵌套仍“查看1条回复”）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-0224-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-0224-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-0224-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-28 03:24–03:55 猎手轮（第一百一十一轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（03:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:43775）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、67、108 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 107–110 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche（7 个月术后展示）、Doctor Edmund Syjueco / Mark Fernandez MD / Carl Truesdale / Richard Enrique ENTMD / Dr. Gil Mamuric（医生）、Shanghai Du / Dr.Bu Nose / K Aesthetic（诊所/广告/AI 内容）、Hooked On The Look（术后故事）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Agata Ratajczyk（群 573582492318097 帖，已锚定土耳其两位特定医生、验证型帖，群组通道已知受限，不碰）、Chen AnYun（同行）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 计数与可见集合与 107–110 轮完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Nancy Amor / Daisy Tandang Telebrico / Loisa Marie / Michelle Ducay Dumagsa / رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定特定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106–110 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回，嵌套仍“查看1条回复”）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-0324-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-0324-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-0324-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-28 04:24–04:31 猎手轮（第一百一十二轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（04:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:38160）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、67、108 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 107–111 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche（7 个月术后展示）、Doctor Edmund Syjueco / Mark Fernandez MD / Carl Truesdale / Richard Enrique ENTMD / Dr. Gil Mamuric（医生）、Shanghai Du / Dr.Bu Nose（诊所/广告）、Hooked On The Look（术后故事）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Facelift Support Group 匿名互动者（鼻子多年前骨折未修，在 Dr. Ross Clevens 与 Dr. Edward Gross 之间二选一，已锚定两位特定医生、群组帖，群组通道已知受限，不碰）、Chen AnYun（同行，未在本轮首屏出现，按既往筛掉）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 计数与可见集合与 107–111 轮完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Adelaida Tarnate（Bertie 1 周前回复在列，对方未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）。
+- 其余：Michelle Ducay Dumagsa“您花了多少钱，女士？”（3 周前，嵌套已有 1 条回复，非未回提问者，不碰）；Nancy Amor / Daisy Tandang Telebrico / Loisa Marie（均已有回复）、رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定特定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106–111 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Joyce Ann Acob - Cueto（祝贺）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回，嵌套仍“查看1条回复”）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-0424-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-0424-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-0424-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-28 05:24–05:32 猎手轮（第一百一十三轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（05:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:38105）、轮末 close（已核验关闭；收尾 opened() 仅剩 5、32、44、67、108 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。与 107–112 轮一致：2 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、Chen AnYun 与 Mommy Ansel & Daddy Ambo 热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Isabel Luche（7 个月术后展示）、Mark Fernandez MD / Doctor Edmund Syjueco / Carl Truesdale MD（医生）、Shanghai Du / Dr.Bu Nose / K Aesthetic（诊所/广告/AI 内容）、Hooked On The Look（术后故事）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Rachel Gallaher（通用励志帖，非求助）、Rexel Tubong（分享他人前后对比，非求助者）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开 40 次点击）
+- 与 04:24 轮全文逐行 diff：仅顶部互动计数变化，评论者集合完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Adelaida Tarnate（Bertie 1 周前回复在列，对方未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）。
+- 其余：Michelle Ducay Dumagsa“您花了多少钱，女士？”（3 周前，嵌套已有 1 条回复，非未回提问者，不碰）；Nancy Amor / Daisy Tandang Telebrico / Loisa Marie（均已有回复）、رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定特定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（1 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106–112 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Joyce Ann Acob - Cueto（祝贺）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回，嵌套仍“查看1条回复”）、Joyce（祝贺）。与 04:24 轮可见集合逐名一致，无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-0524-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-0524-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-0524-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+- 2026-11-28 08:24 fb-hunt-p35：窗口外跳过（北京时间 08:24，不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰账号；无客资、无异常。
+- 2026-11-28 10:24 fb-hunt-p35：窗口外跳过（北京时间 10:24，不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰账号；无客资、无异常。
+- 2026-11-28 11:24 fb-hunt-p35：窗口外跳过（北京时间 11:24，不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰账号；无客资、无异常。
+- 2026-11-28 13:24 fb-hunt-p35：窗口外跳过（北京时间 13:24，不在 18:30–次日 06:00 窗口内）。未开浏览器、未发评论、未碰账号；无客资、无异常。
+- 2026-11-28 14:24 CST fb-hunt-p35：窗口外（夜里窗口 18:30–06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 15:24 CST fb-hunt-p35：窗口外（夜里窗口 18:30–06:00），本轮跳过，未开浏览器、未发内容、未碰账号。
+- 2026-11-28 16:24 CST：fb-hunt-p35 跳过——当前在夜里窗口（18:30–次日 06:00）之外，未开浏览器、未发任何内容、未碰账号。
+- 2026-11-28 17:24 CST：fb-hunt-p35 跳过——当前在夜里窗口（18:30–次日 06:00）之外，未开浏览器、未发任何内容、未碰账号。
+
+## 2026-11-28 19:24–19:30 猎手轮（第一百一十四轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（19:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:38757）、轮末 close（已核验关闭；收尾 opened() 仅剩 32、44 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。新增推荐好友 Ruth Hernández（2 小时前，非好友请求，未处理）。其余与 107–113 轮一致：3 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示（5 天前）、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Doctor Edmund Syjueco / Carl Truesdale / Adam Bryce Weinfeld（医生）、Dutch-Pinay / Isabel Luche / Hooked On The Look（术后展示/故事）、Shanghai Du / Doc Pam Tan / Korean Clinic（诊所/广告）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、匿名互动者 8 个月术后失望帖（已术后求助，群 573582492318097 已知受限，不碰）、Chen AnYun（同行，未在本轮首屏出现，按既往筛掉）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开）
+- 计数与可见集合与 107–113 轮完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 19:24 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Michelle Ducay Dumagsa“您花了多少钱，女士？”（3 周前，嵌套已有 1 条回复，非未回提问者，不碰）；Nancy Amor / Daisy Tandang Telebrico / Loisa Marie（均已有回复）、رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定特定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（2 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106–113 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Joyce Ann Acob - Cueto（祝贺）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回，嵌套仍“查看1条回复”）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat（19:24/20:24 已回待复）、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-1924-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-1924-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-1924-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
+
+## 2026-11-28 20:24–20:33 猎手轮（第一百一十五轮）—— 无新目标，0 条发出
+
+- 开局：窗口内（20:24）。health OK（agent v15，/health 一次通过）；开局 profile 35 未开（was_open=False），本轮自行 open（debugging 127.0.0.1:3932）、轮末 close（已核验关闭；收尾 opened() 仅剩 32、44 号其他轮次窗口，未动）。
+- 身份核验：通过。首页发帖框署名 Bertie Harmony，profile.php?id=61591041951030。
+- 通知：无本号帖子下真人评论待回。新增推荐好友 Ruth Hernández（3 小时前，非好友请求，未处理）。其余与 107–114 轮一致：3 天前陌生设备登录提醒与“有人尝试登录、已阻止”各 1 条、快拍自动保存提示（5 天前）、Dr. Qin Hao Eye Rejuvenation 5 天前回复了 Bertie 的评论、热衷粉丝徽章。均无需处理。
+- 搜索：rhinoplasty、nose job、rhinoplasty philippines、rhinoplasty before after，共 4 组。筛掉：Doctor Edmund Syjueco / Carl Truesdale / Richard Enrique ENTMD（医生）、Dutch-Pinay / Isabel Luche（术后展示/故事）、Shanghai Du / Doc Pam Tan / Dr.Bu Nose / Kosmed Aesthetic Clinic（诊所/广告）、Hooked On The Look（术后故事）、Rhinoplasty Doc Ruthlyn Babies 等群组（不加群、不碰）、Lily Ella Wrench（第 39 轮 Bertie 顶楼评论仍在，Lily 未回，不重复评）。搜索未找到新的符合标准公开真人求助帖。
+
+### 复查 Mommy Ansel Reel 评论区（41/44“最相关”全量 + 嵌套展开）
+- 计数与可见集合与 107–114 轮完全一致（41/44），无新增顶楼提问者；3 条隐藏评论未读到内容，不猜测。
+- 热线均无新回话：Nora Malibiran（嵌套仍“查看1条回复”，仅 Bertie 的回复，Nora 本人未回）；Cutcat Leeyahoo（两条线程嵌套各“查看1条回复”，Cutcat 本人未回）；Princess Amore Otuiqram（嵌套“查看2条回复”，Bertie 两条回复都在，Princess 本人未回）；Elmalyn / Zhakie / Lesner / Ako（Bertie 回复都在，对方均未回）；Adelaida（Bertie 1 周前回复在，对方未回）。
+- 其余：Michelle Ducay Dumagsa“您花了多少钱，女士？”（3 周前，嵌套已有 1 条回复，非未回提问者，不碰）；Nancy Amor / Daisy Tandang Telebrico / Loisa Marie（均已有回复）、رينا منخفض（楼主已回“120k”）、Gazinie Gazzera“kosmed?”（锚定特定诊所倾向）、AshleyHeart Rojas 只写“KOSMED”、Dhel De Guzman“更新他们。”（2 天前，催更类）、Erika Orofino“Part 2”（催更）、其余均为朋友祝贺，均不碰。
+- 本轮无新提问者、无热线新回话，故无草稿进入 E07、无评论发出。
+
+### 复查 Rus Recently Reel 评论区（可见 8/25，未全量）
+- 评论按钮显示 47 条；“查看更多评论”第二批起仍加载失效（与 106–114 轮相同，页面渲染问题，非限流信号），仅读到“最相关”前 8 条：Mika Heart（催更）、Hazel S. Magbanua（术后 12 天）、She Lha（问终身，已有 3 条回复）、Joyce Ann Acob - Cueto（祝贺）、Bubbles-Zoe C. Acosta（问麻醉，已有回复）、Chezcka Elize Tolentino（空评论）、Choco Na Gatas“HM”（第 2 轮 Bertie 已回，嵌套仍“查看1条回复”）、Joyce（祝贺）。可见部分无新增未回提问者；剩余 17 条未加载成，按此前全量核查结论为准，本轮未在该 Reel 发评。
+
+### 本轮结果
+- 发出并核验成功：0 条（无新符合标准目标、无热线新回话；不重复评、不连评第二人）。
+- 合格客资：0。热线待回：Nora、Cutcat、Lily、Leanne、Elmalyn / Princess / Adelaida / Zhakie / Lesner / Ako（旧，均待对方回话）。
+- 异常：无 429、无 226/344，登录全程正常，隧道本轮稳定。群组评论通道已知系统性受限，本轮未试群组。
+- 脚本：~/workspace/fb-ip/hunt-p35-20261128-2024-stage1.py（开号+身份）、stage2.py（通知）、stage3.py（4 组搜索）、stage4.py（Mommy 顶楼全量+嵌套复核）、stage4r.py（Rus 复查）、stage7.py（关号核验）；结果：~/workspace/fb-ip/hunt-p35-20261128-2024-stage*.json（注：stage4.py 的 OUT 文件名为 hunt-p35-20261128-2024-stage4c.json）。
+- 收尾：profile 35 已 close（本轮自开自关，收尾 opened() 核验 35 已不在）。
